@@ -1,0 +1,50 @@
+{
+  "id": 1796618737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.335566,
+    "geom:bbox":"138.010253,-19.207428,139.42749,-17.874203",
+    "geom:latitude":-18.494105,
+    "geom:longitude":138.838997,
+    "iso:country":"",
+    "lbl:latitude":-18.462615,
+    "lbl:longitude":138.852494,
+    "mps:latitude":-18.462615,
+    "mps:longitude":138.852494,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#B1A217",
+    "nativeland:description":"https://native-land.ca/maps/territories/nguburinji/",
+    "nativeland:id":36578,
+    "nativeland:name":"Nguburinji",
+    "nativeland:slug":"nguburinji",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36578
+    },
+    "wof:country":"",
+    "wof:geomhash":"9aec0728d325287c235bb7783e4db7f4",
+    "wof:hierarchy":[],
+    "wof:id":1796618737,
+    "wof:lastmodified":1668367740,
+    "wof:name":"Nguburinji",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.010253,
+    -19.207428,
+    139.42749,
+    -17.874203
+],
+  "geometry": {"coordinates":[[[138.361816,-17.94738],[138.41674800000001,-17.884659],[138.79028299999999,-17.957832],[139.33959899999999,-17.874203],[139.41650300000001,-18.062312],[139.42749000000001,-18.354525],[139.42749000000001,-18.760712],[139.383544,-19.051733],[139.13085899999999,-19.207428],[138.90014600000001,-19.082884],[138.60351499999999,-18.927072],[138.28491199999999,-18.875102],[138.01025300000001,-18.719097],[138.10912999999999,-18.521283],[138.26293899999999,-18.31281],[138.361816,-17.94738]]],"type":"Polygon"}
+}

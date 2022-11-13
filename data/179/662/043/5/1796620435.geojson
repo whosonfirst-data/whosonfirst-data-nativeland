@@ -1,0 +1,50 @@
+{
+  "id": 1796620435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":133.030976,
+    "geom:bbox":"-57.916324,59.575567,-41.659379,74.8895",
+    "geom:latitude":66.858511,
+    "geom:longitude":-49.98072,
+    "iso:country":"",
+    "lbl:latitude":66.8699,
+    "lbl:longitude":-50.103878,
+    "mps:latitude":66.8699,
+    "mps:longitude":-50.103878,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#7D245B",
+    "nativeland:description":"https://native-land.ca/maps/territories/kalaalisut/",
+    "nativeland:id":35817,
+    "nativeland:name":"Kalaallit",
+    "nativeland:slug":"kalaalisut",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35817
+    },
+    "wof:country":"",
+    "wof:geomhash":"a2c21d9bd5d49ac9d8b0f03c9a07d6ac",
+    "wof:hierarchy":[],
+    "wof:id":1796620435,
+    "wof:lastmodified":1668367780,
+    "wof:name":"Kalaallit",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.916324,
+    59.575567,
+    -41.659379,
+    74.8895
+],
+  "geometry": {"coordinates":[[[-57.832031,74.08571999999999],[-57.916324,74.626299],[-57.374929,74.874882],[-56.244009,74.8895],[-55.214499,74.65844800000001],[-52.96707,74.041172],[-50.49572,72.92321099999999],[-48.875007,72.131258],[-47.350554,70.865741],[-45.906209,67.954232],[-43.818417,64.918977],[-42.138225,62.863353],[-41.659379,61.467346],[-41.799173,60.885877],[-42.102791,60.292053],[-42.536942,60.000917],[-43.419258,59.694016],[-44.128034,59.575567],[-45.486695,59.589925],[-46.671815,59.779265],[-48.660457,60.157412],[-50.18334,61.054889],[-51.513703,62.242386],[-53.826283,64.346985],[-55.39178,66.33439],[-56.242112,68.138648],[-56.451726,69.922245],[-56.50116,71.47432999999999],[-57.086506,72.731908],[-57.499313,73.557878],[-57.832031,74.08571999999999]]],"type":"Polygon"}
+}

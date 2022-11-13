@@ -1,0 +1,50 @@
+{
+  "id": 1796618437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.012763,
+    "geom:bbox":"143.962185,-9.986385,144.111575,-9.873554",
+    "geom:latitude":-9.928282,
+    "geom:longitude":144.034458,
+    "iso:country":"",
+    "lbl:latitude":-9.928345,
+    "lbl:longitude":144.034458,
+    "mps:latitude":-9.928345,
+    "mps:longitude":144.034458,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/meriam/",
+    "nativeland:id":37775,
+    "nativeland:name":"Meriam",
+    "nativeland:slug":"meriam",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37775
+    },
+    "wof:country":"",
+    "wof:geomhash":"48910bb1aac4809dce56006324d87246",
+    "wof:hierarchy":[],
+    "wof:id":1796618437,
+    "wof:lastmodified":1668367733,
+    "wof:name":"Meriam",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.962185,
+    -9.986385,
+    144.111575,
+    -9.873554
+],
+  "geometry": {"coordinates":[[[144.01331099999999,-9.874557],[144.039278,-9.873554],[144.06103899999999,-9.877071],[144.10074700000001,-9.897132],[144.11157499999999,-9.921866],[144.10137399999999,-9.953379],[144.07211899999999,-9.97365],[144.04029600000001,-9.982089],[144.01115100000001,-9.986385],[143.98912999999999,-9.977621],[143.97246100000001,-9.9553],[143.96218500000001,-9.928933],[143.96567400000001,-9.901812],[143.98586,-9.885548],[144.01331099999999,-9.874557]]],"type":"Polygon"}
+}

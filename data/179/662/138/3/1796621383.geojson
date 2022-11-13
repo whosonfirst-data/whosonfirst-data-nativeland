@@ -1,0 +1,50 @@
+{
+  "id": 1796621383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.179022,
+    "geom:bbox":"-66.175051,5.122817,-64.929625,6.5891",
+    "geom:latitude":5.846664,
+    "geom:longitude":-65.53601,
+    "iso:country":"",
+    "lbl:latitude":5.869354,
+    "lbl:longitude":-65.4856,
+    "mps:latitude":5.869354,
+    "mps:longitude":-65.4856,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0BDAE2",
+    "nativeland:description":"https://native-land.ca/maps/territories/hoti/",
+    "nativeland:id":33697,
+    "nativeland:name":"Hoti",
+    "nativeland:slug":"hoti",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33697
+    },
+    "wof:country":"",
+    "wof:geomhash":"f6214114823a8ec57d59812030718741",
+    "wof:hierarchy":[],
+    "wof:id":1796621383,
+    "wof:lastmodified":1668367806,
+    "wof:name":"Hoti",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.175051,
+    5.122817,
+    -64.929625,
+    6.5891
+],
+  "geometry": {"coordinates":[[[-65.867636,6.064195],[-65.796694,6.307128],[-65.639045,6.542116],[-65.378924,6.5891],[-65.110921,6.534285],[-64.984802,6.330631],[-64.929625,6.072033],[-64.992684,5.891724],[-65.08727399999999,5.687826],[-65.23703999999999,5.507394],[-65.418336,5.279816],[-65.670575,5.130667],[-65.840047,5.126742],[-66.00951999999999,5.122817],[-66.127757,5.209171],[-66.175051,5.366149],[-66.108051,5.589772],[-66.00951999999999,5.7192],[-65.867636,6.064195]]],"type":"Polygon"}
+}

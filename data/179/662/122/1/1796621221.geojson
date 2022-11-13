@@ -1,0 +1,50 @@
+{
+  "id": 1796621221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.68364,
+    "geom:bbox":"-80.286526,32.539042,-78.993212,33.638467",
+    "geom:latitude":33.120083,
+    "geom:longitude":-79.674213,
+    "iso:country":"",
+    "lbl:latitude":33.150403,
+    "lbl:longitude":-79.684011,
+    "mps:latitude":33.150403,
+    "mps:longitude":-79.684011,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#3F75FC",
+    "nativeland:description":"https://native-land.ca/maps/territories/sewee/",
+    "nativeland:id":33775,
+    "nativeland:name":"Sewee",
+    "nativeland:slug":"sewee",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33775
+    },
+    "wof:country":"",
+    "wof:geomhash":"c6e06fbdc1ba72382aff2a320773eb06",
+    "wof:hierarchy":[],
+    "wof:id":1796621221,
+    "wof:lastmodified":1668367801,
+    "wof:name":"Sewee",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.286526,
+    32.539042,
+    -78.993212,
+    33.638467
+],
+  "geometry": {"coordinates":[[[-79.386089,32.969713],[-79.509856,32.943072],[-79.658604,32.819102],[-79.99527500000001,32.585483],[-80.129829,32.539042],[-80.230887,32.606915],[-80.28652599999999,32.794147],[-80.111817,33.131145],[-80.026595,33.255264],[-79.855335,33.355254],[-79.684076,33.440515],[-79.502844,33.532569],[-79.374734,33.581465],[-79.231663,33.635319],[-79.077122,33.638467],[-79.000342,33.600292],[-78.993212,33.531368],[-79.09767600000001,33.402644],[-79.172618,33.17132],[-79.386089,32.969713]]],"type":"Polygon"}
+}

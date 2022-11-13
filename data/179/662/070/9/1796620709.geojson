@@ -1,0 +1,50 @@
+{
+  "id": 1796620709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.133277,
+    "geom:bbox":"175.742356,-37.970585,176.249439,-37.407264",
+    "geom:latitude":-37.721085,
+    "geom:longitude":176.013708,
+    "iso:country":"",
+    "lbl:latitude":-37.760903,
+    "lbl:longitude":176.055964,
+    "mps:latitude":-37.760903,
+    "mps:longitude":176.055964,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#693227",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngati-ranginui/",
+    "nativeland:id":34010,
+    "nativeland:name":"Ng\u0101ti Ranginui",
+    "nativeland:slug":"ngati-ranginui",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34010
+    },
+    "wof:country":"",
+    "wof:geomhash":"14dea5c8ef0948744c9e486942d56ff8",
+    "wof:hierarchy":[],
+    "wof:id":1796620709,
+    "wof:lastmodified":1668367787,
+    "wof:name":"Ng\u0101ti Ranginui",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.742356,
+    -37.970585,
+    176.249439,
+    -37.407264
+],
+  "geometry": {"coordinates":[[[175.964192,-37.434084],[175.966656,-37.469344],[175.985624,-37.559288],[176.00948600000001,-37.603342],[176.08486300000001,-37.63487],[176.17014699999999,-37.659089],[176.20711800000001,-37.712254],[176.21113500000001,-37.760881],[176.221114,-37.783254],[176.22352699999999,-37.831818],[176.249439,-37.883616],[176.24772300000001,-37.896794],[176.217634,-37.9236],[176.21060700000001,-37.959285],[176.16963100000001,-37.95871],[176.116276,-37.970585],[175.97887499999999,-37.912576],[175.88184200000001,-37.866972],[175.90482299999999,-37.828404],[175.92681200000001,-37.775273],[175.889002,-37.700832],[175.879062,-37.699413],[175.742356,-37.533669],[175.865376,-37.464036],[175.93602000000001,-37.407264],[175.964192,-37.434084]]],"type":"Polygon"}
+}

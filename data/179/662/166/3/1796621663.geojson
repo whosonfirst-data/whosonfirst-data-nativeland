@@ -1,0 +1,50 @@
+{
+  "id": 1796621663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.018868,
+    "geom:bbox":"-89.926939,29.461175,-89.72244,29.603767",
+    "geom:latitude":29.530467,
+    "geom:longitude":-89.830914,
+    "iso:country":"",
+    "lbl:latitude":29.530707,
+    "lbl:longitude":-89.830914,
+    "mps:latitude":29.530707,
+    "mps:longitude":-89.830914,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0ACE4D",
+    "nativeland:description":"https://native-land.ca/maps/territories/atakapa-ishak-chawasha/",
+    "nativeland:id":33536,
+    "nativeland:name":"Atakapa Ishak Chawasha",
+    "nativeland:slug":"atakapa-ishak-chawasha",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33536
+    },
+    "wof:country":"",
+    "wof:geomhash":"414cddc2045d1d9c9f3cad9820f88c21",
+    "wof:hierarchy":[],
+    "wof:id":1796621663,
+    "wof:lastmodified":1668367814,
+    "wof:name":"Atakapa Ishak Chawasha",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.926939,
+    29.461175,
+    -89.72244,
+    29.603767
+],
+  "geometry": {"coordinates":[[[-89.77030000000001,29.467656],[-89.78463499999999,29.464415],[-89.798969,29.461175],[-89.815635,29.461578],[-89.83000800000001,29.468505],[-89.85292099999999,29.477822],[-89.871349,29.486135],[-89.878991,29.490776],[-89.88714400000001,29.496939],[-89.906064,29.511619],[-89.921505,29.528081],[-89.926939,29.559954],[-89.915702,29.584227],[-89.894943,29.600774],[-89.881187,29.603266],[-89.86331199999999,29.603767],[-89.836786,29.595243],[-89.81718100000001,29.586218],[-89.784485,29.565305],[-89.768339,29.548752],[-89.750907,29.535998],[-89.730835,29.526576],[-89.72417,29.518349],[-89.72244000000001,29.505803],[-89.729936,29.492253],[-89.744928,29.4787],[-89.77030000000001,29.467656]]],"type":"Polygon"}
+}

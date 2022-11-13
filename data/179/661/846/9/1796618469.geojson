@@ -1,0 +1,50 @@
+{
+  "id": 1796618469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.773807,
+    "geom:bbox":"142.562374,-10.584668,143.595323,-9.553422",
+    "geom:latitude":-10.043064,
+    "geom:longitude":143.091542,
+    "iso:country":"",
+    "lbl:latitude":-10.077319,
+    "lbl:longitude":143.101379,
+    "mps:latitude":-10.077319,
+    "mps:longitude":143.101379,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/kulkalgal/",
+    "nativeland:id":37550,
+    "nativeland:name":"Kulkalgal",
+    "nativeland:slug":"kulkalgal",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37550
+    },
+    "wof:country":"",
+    "wof:geomhash":"de0488d271af631866776ccd90a6b93a",
+    "wof:hierarchy":[],
+    "wof:id":1796618469,
+    "wof:lastmodified":1668367733,
+    "wof:name":"Kulkalgal",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.562374,
+    -10.584668,
+    143.595323,
+    -9.553422
+],
+  "geometry": {"coordinates":[[[142.80375000000001,-10.424569],[142.709992,-10.337756],[142.634443,-10.27028],[142.58631500000001,-10.162327],[142.59829400000001,-10.041557],[142.62597,-9.948976],[142.56237400000001,-9.751734],[142.60577599999999,-9.706822],[142.68681799999999,-9.697064],[142.95710099999999,-9.693045],[143.01796400000001,-9.668236],[143.054655,-9.612299],[143.10569000000001,-9.569578],[143.167239,-9.558547],[143.206805,-9.558062],[143.243954,-9.562736],[143.285618,-9.553422],[143.320716,-9.556526],[143.430454,-9.580705],[143.50280100000001,-9.649127],[143.564019,-9.744435],[143.59532300000001,-9.854484],[143.544073,-10.096597],[143.43608699999999,-10.342011],[143.28073900000001,-10.545737],[143.17201299999999,-10.584668],[143.058301,-10.579491],[142.925478,-10.513839],[142.80375000000001,-10.424569]]],"type":"Polygon"}
+}

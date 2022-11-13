@@ -1,0 +1,50 @@
+{
+  "id": 1796621287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.143068,
+    "geom:bbox":"-123.714901,46.142323,-123.104538,46.470234",
+    "geom:latitude":46.319369,
+    "geom:longitude":-123.392401,
+    "iso:country":"",
+    "lbl:latitude":46.301944,
+    "lbl:longitude":-123.306659,
+    "mps:latitude":46.301944,
+    "mps:longitude":-123.306659,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#312B08",
+    "nativeland:description":"https://native-land.ca/maps/territories/wahkiakum/",
+    "nativeland:id":33745,
+    "nativeland:name":"Wahkiakum",
+    "nativeland:slug":"wahkiakum",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33745
+    },
+    "wof:country":"",
+    "wof:geomhash":"cc57fc47c9436c946e335b576c5cedcf",
+    "wof:hierarchy":[],
+    "wof:id":1796621287,
+    "wof:lastmodified":1668367803,
+    "wof:name":"Wahkiakum",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.714901,
+    46.142323,
+    -123.104538,
+    46.470234
+],
+  "geometry": {"coordinates":[[[-123.11162,46.188106],[-123.119049,46.179221],[-123.13642,46.182428],[-123.187375,46.182428],[-123.21401,46.166389],[-123.246436,46.142323],[-123.292759,46.143928],[-123.33908099999999,46.146335],[-123.379075,46.155793],[-123.418449,46.189474],[-123.436966,46.213206],[-123.477498,46.23644],[-123.51803,46.250856],[-123.58404,46.24445],[-123.668578,46.242848],[-123.70447799999999,46.267671],[-123.714901,46.299684],[-123.701004,46.328479],[-123.698764,46.346652],[-123.690658,46.385809],[-123.672129,46.42813],[-123.637209,46.444628],[-123.60115,46.452507],[-123.541937,46.460942],[-123.484754,46.462881],[-123.429852,46.470234],[-123.35408,46.464708],[-123.28676900000001,46.456943],[-123.21809399999999,46.438633],[-123.182052,46.421989],[-123.15737300000001,46.394388],[-123.135228,46.349668],[-123.123424,46.30076],[-123.10453800000001,46.228949],[-123.11162,46.188106]]],"type":"Polygon"}
+}

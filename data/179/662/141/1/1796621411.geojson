@@ -1,0 +1,50 @@
+{
+  "id": 1796621411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.709807,
+    "geom:bbox":"-72.330648,6.105917,-70.968061,6.754819",
+    "geom:latitude":6.42835,
+    "geom:longitude":-71.666192,
+    "iso:country":"",
+    "lbl:latitude":6.442784,
+    "lbl:longitude":-71.666192,
+    "mps:latitude":6.442784,
+    "mps:longitude":-71.666192,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#A0A28E",
+    "nativeland:description":"https://native-land.ca/maps/territories/betoy/",
+    "nativeland:id":33685,
+    "nativeland:name":"Betoy",
+    "nativeland:slug":"betoy",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33685
+    },
+    "wof:country":"",
+    "wof:geomhash":"bb5757792f51bfeb6c8cf301f41b3e6f",
+    "wof:hierarchy":[],
+    "wof:id":1796621411,
+    "wof:lastmodified":1668367807,
+    "wof:name":"Betoy",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.330648,
+    6.105917,
+    -70.968061,
+    6.754819
+],
+  "geometry": {"coordinates":[[[-72.109549,6.622041],[-72.011854,6.713968],[-71.72905299999999,6.754819],[-71.44110999999999,6.754819],[-71.137742,6.693541],[-70.98862800000001,6.514771],[-70.96806100000001,6.392149],[-71.019479,6.264386],[-71.19430199999999,6.218384],[-71.399975,6.162154],[-71.703344,6.126368],[-72.001571,6.116142],[-72.16610900000001,6.105917],[-72.268946,6.157041],[-72.320365,6.269497],[-72.330648,6.412588],[-72.27923,6.555639],[-72.109549,6.622041]]],"type":"Polygon"}
+}

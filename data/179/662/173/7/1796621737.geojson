@@ -1,0 +1,50 @@
+{
+  "id": 1796621737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.286858,
+    "geom:bbox":"-62.821251,-12.344899,-61.977341,-11.70079",
+    "geom:latitude":-11.996028,
+    "geom:longitude":-62.445684,
+    "iso:country":"",
+    "lbl:latitude":-11.966326,
+    "lbl:longitude":-62.452078,
+    "mps:latitude":-11.966326,
+    "mps:longitude":-62.452078,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#9EE5BC",
+    "nativeland:description":"https://native-land.ca/maps/territories/djeoromitxi/",
+    "nativeland:id":33495,
+    "nativeland:name":"Djeoromitx\u00ed",
+    "nativeland:slug":"djeoromitxi",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33495
+    },
+    "wof:country":"",
+    "wof:geomhash":"ecf59ad7008a97a86800b0580222b232",
+    "wof:hierarchy":[],
+    "wof:id":1796621737,
+    "wof:lastmodified":1668367816,
+    "wof:name":"Djeoromitx\u00ed",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.821251,
+    -12.344899,
+    -61.977341,
+    -11.70079
+],
+  "geometry": {"coordinates":[[[-62.011818,-11.875298],[-62.048984,-11.893168],[-62.087826,-11.903788],[-62.122098,-11.910495],[-62.160368,-11.937321],[-62.243193,-12.012196],[-62.309423,-12.080904],[-62.37968,-12.152947],[-62.443463,-12.232961],[-62.508284,-12.290977],[-62.556947,-12.324837],[-62.608926,-12.337671],[-62.656341,-12.344899],[-62.720322,-12.331038],[-62.765293,-12.306033],[-62.808039,-12.241782],[-62.821251,-12.187016],[-62.815827,-12.115128],[-62.804229,-12.073003],[-62.786781,-12.040132],[-62.729715,-11.968459],[-62.67265,-11.920948],[-62.576098,-11.836128],[-62.476332,-11.776927],[-62.369319,-11.740625],[-62.261209,-11.71583],[-62.196687,-11.703656],[-62.113985,-11.701753],[-62.061524,-11.70079],[-62.032449,-11.703858],[-62.003374,-11.714756],[-61.985502,-11.745732],[-61.977341,-11.78677],[-61.979106,-11.818004],[-61.992866,-11.850353],[-62.011818,-11.875298]]],"type":"Polygon"}
+}

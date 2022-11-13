@@ -1,0 +1,50 @@
+{
+  "id": 1796618717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.218598,
+    "geom:bbox":"-120.72529,34.515011,-120.328646,35.162444",
+    "geom:latitude":34.840392,
+    "geom:longitude":-120.528661,
+    "iso:country":"",
+    "lbl:latitude":34.836964,
+    "lbl:longitude":-120.518084,
+    "mps:latitude":34.836964,
+    "mps:longitude":-120.518084,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#320DB8",
+    "nativeland:description":"https://native-land.ca/maps/territories/purisemeno/",
+    "nativeland:id":36585,
+    "nativeland:name":"&#8216;Amuwu",
+    "nativeland:slug":"purisemeno",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36585
+    },
+    "wof:country":"",
+    "wof:geomhash":"74a49276e17d3098105e4ca1ded5a9c6",
+    "wof:hierarchy":[],
+    "wof:id":1796618717,
+    "wof:lastmodified":1668367739,
+    "wof:name":"&#8216;Amuwu",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.72529,
+    34.515011,
+    -120.328646,
+    35.162444
+],
+  "geometry": {"coordinates":[[[-120.387495,35.162444],[-120.373705,35.091408],[-120.351176,34.90726],[-120.33053,34.773943],[-120.340532,34.745755],[-120.32864600000001,34.581217],[-120.38767,34.57231],[-120.45294800000001,34.545375],[-120.546255,34.524388],[-120.618892,34.515011],[-120.66551200000001,34.517155],[-120.695801,34.533827],[-120.70747299999999,34.567165],[-120.698475,34.609768],[-120.68235799999999,34.662457],[-120.697103,34.714464],[-120.711901,34.750616],[-120.71084399999999,34.780648],[-120.692875,34.81684],[-120.707438,34.861288],[-120.72529,34.899266],[-120.71777299999999,34.948991],[-120.713723,34.999452],[-120.690881,35.079104],[-120.69781399999999,35.139887],[-120.617321,35.154553],[-120.488406,35.16042],[-120.387495,35.162444]]],"type":"Polygon"}
+}

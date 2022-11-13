@@ -1,0 +1,50 @@
+{
+  "id": 1796621253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":3.127707,
+    "geom:bbox":"-99.684666,24.520062,-97.088407,26.153964",
+    "geom:latitude":25.347583,
+    "geom:longitude":-98.365255,
+    "iso:country":"",
+    "lbl:latitude":25.243796,
+    "lbl:longitude":-98.340528,
+    "mps:latitude":25.243796,
+    "mps:longitude":-98.340528,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#4B172C",
+    "nativeland:description":"https://native-land.ca/maps/territories/rayados-borrados/",
+    "nativeland:id":33756,
+    "nativeland:name":"Rayados (Borrados)",
+    "nativeland:slug":"rayados-borrados",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33756
+    },
+    "wof:country":"",
+    "wof:geomhash":"7268363d4ca885826b25481b44988cad",
+    "wof:hierarchy":[],
+    "wof:id":1796621253,
+    "wof:lastmodified":1668367802,
+    "wof:name":"Rayados (Borrados)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.684666,
+    24.520062,
+    -97.088407,
+    26.153964
+],
+  "geometry": {"coordinates":[[[-98.315406,26.127364],[-98.158327,26.153964],[-97.91974399999999,26.135346],[-97.64040900000001,26.078126],[-97.305133,26.006893],[-97.112118,25.882304],[-97.088407,25.738226],[-97.118045,25.572588],[-97.23066799999999,25.379947],[-97.361074,25.186997],[-97.49148,25.025972],[-97.627813,24.665588],[-97.687088,24.563198],[-97.764146,24.530848],[-98.06052200000001,24.520062],[-98.511015,24.530848],[-98.86666700000001,24.568589],[-99.09191300000001,24.649426],[-99.30530400000001,24.773275],[-99.435709,24.988369],[-99.512767,25.203088],[-99.60168,25.460252],[-99.68466600000001,25.647421],[-99.52462199999999,25.855636],[-99.216391,25.946282],[-99.003,25.919628],[-98.75997099999999,25.919628],[-98.528797,25.972929],[-98.315406,26.127364]]],"type":"Polygon"}
+}

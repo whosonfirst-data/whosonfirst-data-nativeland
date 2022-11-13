@@ -1,0 +1,50 @@
+{
+  "id": 1796621217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.019832,
+    "geom:bbox":"-83.052092,34.557012,-82.851146,34.675581",
+    "geom:latitude":34.615319,
+    "geom:longitude":-82.948442,
+    "iso:country":"",
+    "lbl:latitude":34.615943,
+    "lbl:longitude":-82.948443,
+    "mps:latitude":34.615943,
+    "mps:longitude":-82.948443,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#5D0BAB",
+    "nativeland:description":"https://native-land.ca/maps/territories/saluda/",
+    "nativeland:id":33780,
+    "nativeland:name":"Saluda",
+    "nativeland:slug":"saluda",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33780
+    },
+    "wof:country":"",
+    "wof:geomhash":"d5877405161642eafcb19e7c4b5cdbbc",
+    "wof:hierarchy":[],
+    "wof:id":1796621217,
+    "wof:lastmodified":1668367801,
+    "wof:name":"Saluda",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.052092,
+    34.557012,
+    -82.851146,
+    34.675581
+],
+  "geometry": {"coordinates":[[[-82.86645900000001,34.663211],[-82.851146,34.636546],[-82.851938,34.596807],[-82.873311,34.566826],[-82.92951600000001,34.5577],[-82.997075,34.557012],[-83.041405,34.578523],[-83.052092,34.605568],[-83.04378,34.636511],[-83.01924,34.662559],[-82.951953,34.674279],[-82.906831,34.675581],[-82.86645900000001,34.663211]]],"type":"Polygon"}
+}

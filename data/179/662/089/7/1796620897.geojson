@@ -1,0 +1,50 @@
+{
+  "id": 1796620897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":9.313302,
+    "geom:bbox":"-113.047079,31.482022,-109.855346,35.437571",
+    "geom:latitude":33.358125,
+    "geom:longitude":-111.511604,
+    "iso:country":"",
+    "lbl:latitude":33.255727,
+    "lbl:longitude":-111.542001,
+    "mps:latitude":33.255727,
+    "mps:longitude":-111.542001,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#BAAD1A",
+    "nativeland:description":"https://native-land.ca/maps/territories/hohokam/",
+    "nativeland:id":33923,
+    "nativeland:name":"Hohokam",
+    "nativeland:slug":"hohokam",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33923
+    },
+    "wof:country":"",
+    "wof:geomhash":"a06f0dc6e141db97d94992c0fbf811bb",
+    "wof:hierarchy":[],
+    "wof:id":1796620897,
+    "wof:lastmodified":1668367793,
+    "wof:name":"Hohokam",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.047079,
+    31.482022,
+    -109.855346,
+    35.437571
+],
+  "geometry": {"coordinates":[[[-110.616399,31.541197],[-110.868011,31.482022],[-111.189035,31.496819],[-111.588144,31.637276],[-112.082694,31.755391],[-112.421069,31.873355],[-112.627257,32.194557],[-112.73921,32.47833],[-112.921132,32.937556],[-113.047079,33.487829],[-113.00509700000001,34.127352],[-112.87915,34.485697],[-112.557287,35.094797],[-112.30539400000001,35.312055],[-111.82959700000001,35.437571],[-111.353799,35.437571],[-110.9049,35.059547],[-110.653007,34.519396],[-110.359132,33.882829],[-110.03726899999999,33.112637],[-109.855346,32.465603],[-109.855346,32.039552],[-110.10723900000001,31.75441],[-110.33114399999999,31.59959],[-110.616399,31.541197]]],"type":"Polygon"}
+}

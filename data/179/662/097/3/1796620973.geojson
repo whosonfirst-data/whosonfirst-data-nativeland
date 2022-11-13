@@ -1,0 +1,50 @@
+{
+  "id": 1796620973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.076955,
+    "geom:bbox":"-70.419566,43.633968,-69.979985,43.879021",
+    "geom:latitude":43.740883,
+    "geom:longitude":-70.222645,
+    "iso:country":"",
+    "lbl:latitude":43.755583,
+    "lbl:longitude":-70.244624,
+    "mps:latitude":43.755583,
+    "mps:longitude":-70.244624,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#6D524A",
+    "nativeland:description":"https://native-land.ca/maps/territories/aucocisco/",
+    "nativeland:id":33891,
+    "nativeland:name":"Aucocisco",
+    "nativeland:slug":"aucocisco",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33891
+    },
+    "wof:country":"",
+    "wof:geomhash":"419bda99386152c754eca05f66211011",
+    "wof:hierarchy":[],
+    "wof:id":1796620973,
+    "wof:lastmodified":1668367795,
+    "wof:name":"Aucocisco",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.419566,
+    43.633968,
+    -69.979985,
+    43.879021
+],
+  "geometry": {"coordinates":[[[-69.979985,43.724318],[-69.98538600000001,43.705116],[-69.991372,43.695137],[-70.001687,43.689636],[-70.03546,43.673922],[-70.057582,43.654058],[-70.100076,43.638611],[-70.192736,43.635461],[-70.26628700000001,43.633968],[-70.324038,43.6343],[-70.352107,43.643879],[-70.38397999999999,43.656349],[-70.40849,43.66952],[-70.419566,43.688403],[-70.413551,43.761577],[-70.379465,43.810069],[-70.365218,43.849787],[-70.32261,43.871583],[-70.251086,43.879021],[-70.19052600000001,43.857818],[-70.11282799999999,43.803042],[-70.08118899999999,43.78877],[-70.068758,43.776608],[-70.046164,43.765971],[-70.010453,43.765879],[-69.98576,43.754293],[-69.979985,43.724318]]],"type":"Polygon"}
+}

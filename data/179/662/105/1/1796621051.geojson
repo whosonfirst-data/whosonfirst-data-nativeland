@@ -1,0 +1,50 @@
+{
+  "id": 1796621051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":6.003733,
+    "geom:bbox":"-97.918509,47.241446,-93.055821,48.770572",
+    "geom:latitude":47.948379,
+    "geom:longitude":-95.582553,
+    "iso:country":"",
+    "lbl:latitude":47.906525,
+    "lbl:longitude":-95.582553,
+    "mps:latitude":47.906525,
+    "mps:longitude":-95.582553,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#FF304D",
+    "nativeland:description":"https://native-land.ca/maps/territories/sisseton/",
+    "nativeland:id":33853,
+    "nativeland:name":"Sisseton",
+    "nativeland:slug":"sisseton",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33853
+    },
+    "wof:country":"",
+    "wof:geomhash":"facc69e623a6c17bd8bda823b1020971",
+    "wof:hierarchy":[],
+    "wof:id":1796621051,
+    "wof:lastmodified":1668367797,
+    "wof:name":"Sisseton",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.918509,
+    47.241446,
+    -93.055821,
+    48.770572
+],
+  "geometry": {"coordinates":[[[-93.136724,47.432445],[-93.32190799999999,47.270132],[-94.030051,47.297942],[-94.63137399999999,47.291668],[-95.658249,47.241446],[-97.183555,47.318417],[-97.664613,47.524973],[-97.766375,47.730719],[-97.88111000000001,47.968023],[-97.918509,48.289074],[-97.914638,48.621661],[-97.720012,48.770572],[-97.28556399999999,48.765228],[-96.42112400000001,48.627382],[-95.669798,48.566747],[-94.868712,48.577348],[-94.51426499999999,48.536665],[-94.26150699999999,48.456605],[-93.707115,48.426439],[-93.312493,48.371763],[-93.153432,48.126884],[-93.05582099999999,47.86434],[-93.136724,47.432445]]],"type":"Polygon"}
+}

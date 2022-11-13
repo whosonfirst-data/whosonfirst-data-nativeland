@@ -1,0 +1,50 @@
+{
+  "id": 1796621761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":91.904912,
+    "geom:bbox":"9.543606,18.127123,24.661789,27.301178",
+    "geom:latitude":22.406209,
+    "geom:longitude":18.102447,
+    "iso:country":"",
+    "lbl:latitude":22.563549,
+    "lbl:longitude":17.202555,
+    "mps:latitude":22.563549,
+    "mps:longitude":17.202555,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#35AD85",
+    "nativeland:description":"https://native-land.ca/maps/territories/teda/",
+    "nativeland:id":32435,
+    "nativeland:name":"Teda",
+    "nativeland:slug":"teda",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":32435
+    },
+    "wof:country":"",
+    "wof:geomhash":"79427cae9f103a084fdeba8f745fe511",
+    "wof:hierarchy":[],
+    "wof:id":1796621761,
+    "wof:lastmodified":1668367854,
+    "wof:name":"Teda",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.543606,
+    18.127123,
+    24.661789,
+    27.301178
+],
+  "geometry": {"coordinates":[[[9.543606,19.828596],[12.795442,23.434077],[13.13774,25.973383],[15.590879,26.842015],[19.013864,25.767672],[20.411583,24.603043],[20.668306,27.301178],[22.893247,26.411165],[24.661789,24.894777],[24.034241,19.664144],[21.695202,18.127123],[15.562354,19.033271],[12.210682,19.351011],[9.543606,19.828596]]],"type":"Polygon"}
+}

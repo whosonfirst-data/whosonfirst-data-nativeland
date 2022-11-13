@@ -1,0 +1,50 @@
+{
+  "id": 1796621403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.399691,
+    "geom:bbox":"-75.342627,10.358926,-74.668058,11.121584",
+    "geom:latitude":10.724917,
+    "geom:longitude":-74.983538,
+    "iso:country":"",
+    "lbl:latitude":10.72285,
+    "lbl:longitude":-74.983538,
+    "mps:latitude":10.72285,
+    "mps:longitude":-74.983538,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#FBA10F",
+    "nativeland:description":"https://native-land.ca/maps/territories/mokana/",
+    "nativeland:id":33693,
+    "nativeland:name":"Mokan\u00e1",
+    "nativeland:slug":"mokana",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33693
+    },
+    "wof:country":"",
+    "wof:geomhash":"82559af518b4656c324e3f776d961cf1",
+    "wof:hierarchy":[],
+    "wof:id":1796621403,
+    "wof:lastmodified":1668367806,
+    "wof:name":"Mokan\u00e1",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.342627,
+    10.358926,
+    -74.668058,
+    11.121584
+],
+  "geometry": {"coordinates":[[[-75.34262699999999,10.768803],[-75.308729,10.842056],[-75.237543,10.921948],[-75.12907,11.021783],[-75.01042700000001,11.081668],[-74.80025999999999,11.121584],[-74.708735,11.028438],[-74.674837,10.875347],[-74.668058,10.68887],[-74.698566,10.568931],[-74.739243,10.468946],[-74.773141,10.40894],[-74.854496,10.358926],[-74.990088,10.358926],[-75.03754499999999,10.358926],[-75.142629,10.405606],[-75.257882,10.452279],[-75.28839000000001,10.512277],[-75.33245700000001,10.602252],[-75.335847,10.682208],[-75.34262699999999,10.768803]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796621501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.58097,
+    "geom:bbox":"-70.682859,-0.444417,-70.037306,0.738704",
+    "geom:latitude":0.192597,
+    "geom:longitude":-70.319789,
+    "iso:country":"",
+    "lbl:latitude":0.210148,
+    "lbl:longitude":-70.358215,
+    "mps:latitude":0.210148,
+    "mps:longitude":-70.358215,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#B05828",
+    "nativeland:description":"https://native-land.ca/maps/territories/umurecoomaja-tatuyo/",
+    "nativeland:id":33644,
+    "nativeland:name":"Umureco\u00f3maj\u00e1 (Tatuyo)",
+    "nativeland:slug":"umurecoomaja-tatuyo",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33644
+    },
+    "wof:country":"",
+    "wof:geomhash":"1cd636d59987ec242eb19b29782394d8",
+    "wof:hierarchy":[],
+    "wof:id":1796621501,
+    "wof:lastmodified":1668367809,
+    "wof:name":"Umureco\u00f3maj\u00e1 (Tatuyo)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.682859,
+    -0.444417,
+    -70.037306,
+    0.738704
+],
+  "geometry": {"coordinates":[[[-70.66182000000001,0.171029],[-70.67685899999999,0.246275],[-70.68285899999999,0.328278],[-70.660858,0.42028],[-70.59026,0.577089],[-70.53934700000001,0.674866],[-70.505923,0.722589],[-70.454374,0.738704],[-70.356093,0.73335],[-70.20297100000001,0.705333],[-70.099439,0.674682],[-70.05218000000001,0.638096],[-70.038608,0.581783],[-70.039883,0.567246],[-70.047089,0.456556],[-70.040406,0.354427],[-70.05467899999999,0.241256],[-70.06142800000001,0.174145],[-70.054366,0.080511],[-70.05714999999999,-0.02144],[-70.056347,-0.11848],[-70.060754,-0.166655],[-70.037306,-0.261618],[-70.053271,-0.380365],[-70.130717,-0.444417],[-70.24857299999999,-0.439536],[-70.352403,-0.358339],[-70.441355,-0.231601],[-70.544248,-0.049099],[-70.6144,0.02794],[-70.66182000000001,0.171029]]],"type":"Polygon"}
+}

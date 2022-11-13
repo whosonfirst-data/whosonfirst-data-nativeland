@@ -1,0 +1,50 @@
+{
+  "id": 1796619215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.426873,
+    "geom:bbox":"-96.043864,15.818557,-95.09609,16.461835",
+    "geom:latitude":16.165267,
+    "geom:longitude":-95.618755,
+    "iso:country":"",
+    "lbl:latitude":16.177077,
+    "lbl:longitude":-95.627782,
+    "mps:latitude":16.177077,
+    "mps:longitude":-95.627782,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#061E46",
+    "nativeland:description":"https://native-land.ca/maps/territories/chontal/",
+    "nativeland:id":36363,
+    "nativeland:name":"Slijuala Xanuc (Chontal)",
+    "nativeland:slug":"chontal",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36363
+    },
+    "wof:country":"",
+    "wof:geomhash":"e258bdc608cb833da6a56840eef7db62",
+    "wof:hierarchy":[],
+    "wof:id":1796619215,
+    "wof:lastmodified":1668367751,
+    "wof:name":"Slijuala Xanuc (Chontal)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.043864,
+    15.818557,
+    -95.09609,
+    16.461835
+],
+  "geometry": {"coordinates":[[[-95.957825,15.845088],[-95.970266,15.869023],[-95.98308299999999,15.919294],[-95.997421,15.970529],[-96.008,16.010234],[-96.014696,16.057287],[-96.043864,16.168191],[-96.019171,16.279617],[-95.94421199999999,16.348569],[-95.826162,16.441919],[-95.772458,16.449999],[-95.63493800000001,16.458734],[-95.530717,16.461835],[-95.401574,16.454934],[-95.217868,16.33286],[-95.158609,16.263972],[-95.09609,16.148104],[-95.12079799999999,16.113351],[-95.169538,16.075705],[-95.381923,15.970905],[-95.70277400000001,15.872118],[-95.805421,15.836743],[-95.852743,15.81917],[-95.888313,15.818557],[-95.917835,15.821352],[-95.943693,15.827094],[-95.957825,15.845088]]],"type":"Polygon"}
+}

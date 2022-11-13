@@ -1,0 +1,50 @@
+{
+  "id": 1796619639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.391946,
+    "geom:bbox":"-121.637134,45.286062,-120.900539,45.902946",
+    "geom:latitude":45.598448,
+    "geom:longitude":-121.274516,
+    "iso:country":"",
+    "lbl:latitude":45.594673,
+    "lbl:longitude":-121.269606,
+    "mps:latitude":45.594673,
+    "mps:longitude":-121.269606,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#D04D6F",
+    "nativeland:description":"https://native-land.ca/maps/territories/wasco-and-wishram/",
+    "nativeland:id":36175,
+    "nativeland:name":"Wasco and Wishram",
+    "nativeland:slug":"wasco-and-wishram",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36175
+    },
+    "wof:country":"",
+    "wof:geomhash":"e635661c9e70ebbb93426564b50e494e",
+    "wof:hierarchy":[],
+    "wof:id":1796619639,
+    "wof:lastmodified":1668367761,
+    "wof:name":"Wasco and Wishram",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.637134,
+    45.286062,
+    -120.900539,
+    45.902946
+],
+  "geometry": {"coordinates":[[[-121.409434,45.902946],[-121.15704599999999,45.900651],[-121.008054,45.852075],[-120.90053899999999,45.708997],[-120.903548,45.658024],[-120.903548,45.600438],[-120.908626,45.463477],[-120.94511799999999,45.392279],[-121.081918,45.30164],[-121.29123,45.286062],[-121.630466,45.36973],[-121.637134,45.597947],[-121.58933500000001,45.823304],[-121.534674,45.896544],[-121.409434,45.902946]]],"type":"Polygon"}
+}

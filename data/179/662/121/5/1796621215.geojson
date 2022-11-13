@@ -1,0 +1,50 @@
+{
+  "id": 1796621215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.646263,
+    "geom:bbox":"-81.573186,33.393289,-80.469753,34.246627",
+    "geom:latitude":33.797596,
+    "geom:longitude":-80.991459,
+    "iso:country":"",
+    "lbl:latitude":33.800513,
+    "lbl:longitude":-80.98095,
+    "mps:latitude":33.800513,
+    "mps:longitude":-80.98095,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#83645B",
+    "nativeland:description":"https://native-land.ca/maps/territories/congaree/",
+    "nativeland:id":33779,
+    "nativeland:name":"Congaree",
+    "nativeland:slug":"congaree",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33779
+    },
+    "wof:country":"",
+    "wof:geomhash":"0107d7e1aa98d51fa81fe637a9f93978",
+    "wof:hierarchy":[],
+    "wof:id":1796621215,
+    "wof:lastmodified":1668367801,
+    "wof:name":"Congaree",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.573186,
+    33.393289,
+    -80.469753,
+    34.246627
+],
+  "geometry": {"coordinates":[[[-80.603143,33.623853],[-80.759224,33.513121],[-80.99128,33.422747],[-81.298502,33.393289],[-81.449923,33.450396],[-81.57318600000001,33.604487],[-81.568881,33.705002],[-81.48609500000001,33.857545],[-81.39335800000001,33.925036],[-81.257847,33.982628],[-81.179507,34.052827],[-81.1206,34.103183],[-80.93130499999999,34.199523],[-80.71327599999999,34.246627],[-80.57260100000001,34.190516],[-80.469753,34.069453],[-80.472717,33.921998],[-80.48457399999999,33.843251],[-80.517904,33.741971],[-80.561644,33.658402],[-80.603143,33.623853]]],"type":"Polygon"}
+}

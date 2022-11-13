@@ -1,0 +1,50 @@
+{
+  "id": 1796619937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.201504,
+    "geom:bbox":"-122.194966,37.754952,-121.453857,38.16056",
+    "geom:latitude":37.952004,
+    "geom:longitude":-121.850193,
+    "iso:country":"",
+    "lbl:latitude":37.957538,
+    "lbl:longitude":-121.850194,
+    "mps:latitude":37.957538,
+    "mps:longitude":-121.850194,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#220522",
+    "nativeland:description":"https://native-land.ca/maps/territories/bay-miwok/",
+    "nativeland:id":36038,
+    "nativeland:name":"Me-Wuk (Bay Miwok)",
+    "nativeland:slug":"bay-miwok",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36038
+    },
+    "wof:country":"",
+    "wof:geomhash":"a973503aa91f88bc79e2183da070adfb",
+    "wof:hierarchy":[],
+    "wof:id":1796619937,
+    "wof:lastmodified":1668367768,
+    "wof:name":"Me-Wuk (Bay Miwok)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.194966,
+    37.754952,
+    -121.453857,
+    38.16056
+],
+  "geometry": {"coordinates":[[[-122.13450400000001,38.022665],[-122.106955,38.065658],[-122.058105,38.091337],[-121.950737,38.125121],[-121.879537,38.155865],[-121.858389,38.16056],[-121.82493700000001,38.155579],[-121.755679,38.132863],[-121.68456999999999,38.108628],[-121.59712,38.094968],[-121.552734,38.074041],[-121.453857,38.030786],[-121.468424,38.006467],[-121.486816,37.996163],[-121.53836699999999,37.940334],[-121.606651,37.868854],[-121.645314,37.83215],[-121.708316,37.785815],[-121.747614,37.76765],[-121.814694,37.754952],[-121.90022999999999,37.756845],[-121.96668699999999,37.755798],[-122.02157200000001,37.767819],[-122.070373,37.791859],[-122.131467,37.825499],[-122.189768,37.861514],[-122.19496599999999,37.900634],[-122.151488,37.966123],[-122.13450400000001,38.022665]]],"type":"Polygon"}
+}

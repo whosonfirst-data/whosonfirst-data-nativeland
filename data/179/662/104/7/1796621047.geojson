@@ -1,0 +1,50 @@
+{
+  "id": 1796621047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":10.786402,
+    "geom:bbox":"-98.341997,45.247834,-93.123428,47.590606",
+    "geom:latitude":46.450884,
+    "geom:longitude":-95.788874,
+    "iso:country":"",
+    "lbl:latitude":46.448233,
+    "lbl:longitude":-95.788873,
+    "mps:latitude":46.448233,
+    "mps:longitude":-95.788873,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#CA2469",
+    "nativeland:description":"https://native-land.ca/maps/territories/mdewakanton/",
+    "nativeland:id":33852,
+    "nativeland:name":"Bdewakantuwan (Mdewakanton)",
+    "nativeland:slug":"mdewakanton",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33852
+    },
+    "wof:country":"",
+    "wof:geomhash":"04e7b90d06850952a4fb123088458f03",
+    "wof:hierarchy":[],
+    "wof:id":1796621047,
+    "wof:lastmodified":1668367797,
+    "wof:name":"Bdewakantuwan (Mdewakanton)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.341997,
+    45.247834,
+    -93.123428,
+    47.590606
+],
+  "geometry": {"coordinates":[[[-94.04947900000001,47.421337],[-93.7989,47.399218],[-93.308638,47.199731],[-93.232375,46.932577],[-93.123428,46.394249],[-93.199691,45.994554],[-93.28684800000001,45.78222],[-93.319532,45.645291],[-93.45026900000001,45.485117],[-93.962321,45.446913],[-94.790319,45.362773],[-95.640107,45.301501],[-96.424527,45.324486],[-97.034631,45.247834],[-97.67742,45.286173],[-98.015156,45.614817],[-98.189471,46.024821],[-98.34199700000001,46.59675],[-98.32020799999999,47.155298],[-98.243945,47.436078],[-97.82994600000001,47.517078],[-96.489895,47.590606],[-94.76853,47.590606],[-94.04947900000001,47.421337]]],"type":"Polygon"}
+}

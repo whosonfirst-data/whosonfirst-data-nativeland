@@ -1,0 +1,50 @@
+{
+  "id": 1796621155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.46203,
+    "geom:bbox":"-80.855273,33.66651,-79.938645,34.257143",
+    "geom:latitude":33.951491,
+    "geom:longitude":-80.392282,
+    "iso:country":"",
+    "lbl:latitude":33.954465,
+    "lbl:longitude":-80.392282,
+    "mps:latitude":33.954465,
+    "mps:longitude":-80.392282,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#A6E7A2",
+    "nativeland:description":"https://native-land.ca/maps/territories/wateree/",
+    "nativeland:id":33802,
+    "nativeland:name":"Wateree",
+    "nativeland:slug":"wateree",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33802
+    },
+    "wof:country":"",
+    "wof:geomhash":"119b9c7ea283650c162f2256b44d4cad",
+    "wof:hierarchy":[],
+    "wof:id":1796621155,
+    "wof:lastmodified":1668367800,
+    "wof:name":"Wateree",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.855273,
+    33.66651,
+    -79.938645,
+    34.257143
+],
+  "geometry": {"coordinates":[[[-80.625174,34.227662],[-80.51372600000001,34.257143],[-80.241794,34.22029],[-80.071428,34.206665],[-79.94721199999999,34.00806],[-79.93864499999999,33.826781],[-79.955778,33.684333],[-80.35840899999999,33.66651],[-80.636825,33.680769],[-80.77817400000001,33.752026],[-80.855273,34.000958],[-80.82529,34.19958],[-80.625174,34.227662]]],"type":"Polygon"}
+}

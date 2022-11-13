@@ -1,0 +1,50 @@
+{
+  "id": 1796620001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.399618,
+    "geom:bbox":"-124.782337,47.621488,-123.596833,48.158392",
+    "geom:latitude":47.899033,
+    "geom:longitude":-124.245927,
+    "iso:country":"",
+    "lbl:latitude":47.854888,
+    "lbl:longitude":-124.316493,
+    "mps:latitude":47.854888,
+    "mps:longitude":-124.316493,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#8FF7DB",
+    "nativeland:description":"https://native-land.ca/maps/territories/quileute/",
+    "nativeland:id":36013,
+    "nativeland:name":"Quileute",
+    "nativeland:slug":"quileute",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36013
+    },
+    "wof:country":"",
+    "wof:geomhash":"230e53d900c75a50b5395778254f0a91",
+    "wof:hierarchy":[],
+    "wof:id":1796620001,
+    "wof:lastmodified":1668367769,
+    "wof:name":"Quileute",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.782337,
+    47.621488,
+    -123.596833,
+    48.158392
+],
+  "geometry": {"coordinates":[[[-124.74736300000001,48.158392],[-124.664805,48.156432],[-124.508754,48.138779],[-124.42747799999999,48.111745],[-124.309455,48.08175],[-124.246601,48.077357],[-124.159318,48.086944],[-124.01912,48.08082],[-123.90664200000001,48.033712],[-123.805154,47.990545],[-123.684494,47.951386],[-123.63772899999999,47.917875],[-123.596833,47.840922],[-123.60038299999999,47.802392],[-123.659301,47.784627],[-123.69956999999999,47.770837],[-123.877894,47.74432],[-124.04281400000001,47.704476],[-124.20878999999999,47.661625],[-124.306194,47.626954],[-124.38462800000001,47.621488],[-124.46604499999999,47.698469],[-124.54600600000001,47.727229],[-124.628906,47.766843],[-124.7017,47.839348],[-124.73039799999999,47.908797],[-124.758396,48.002197],[-124.779116,48.076646],[-124.782337,48.131134],[-124.74736300000001,48.158392]]],"type":"Polygon"}
+}

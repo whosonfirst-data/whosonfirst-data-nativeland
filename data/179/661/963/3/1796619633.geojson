@@ -1,0 +1,50 @@
+{
+  "id": 1796619633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.787686,
+    "geom:bbox":"127.243652,-15.273587,128.111572,-13.891411",
+    "geom:latitude":-14.604451,
+    "geom:longitude":127.62189,
+    "iso:country":"",
+    "lbl:latitude":-14.592667,
+    "lbl:longitude":127.673552,
+    "mps:latitude":-14.592667,
+    "mps:longitude":127.673552,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#637B29",
+    "nativeland:description":"https://native-land.ca/maps/territories/kwini/",
+    "nativeland:id":36178,
+    "nativeland:name":"Kwini",
+    "nativeland:slug":"kwini",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36178
+    },
+    "wof:country":"",
+    "wof:geomhash":"36ff3e8f863f4f549507bb04b09b23ae",
+    "wof:hierarchy":[],
+    "wof:id":1796619633,
+    "wof:lastmodified":1668367760,
+    "wof:name":"Kwini",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.243652,
+    -15.273587,
+    128.111572,
+    -13.891411
+],
+  "geometry": {"coordinates":[[[127.628173,-13.891411],[127.74902299999999,-14.093957],[128.01269500000001,-14.402759],[128.111572,-14.604847],[128.08959899999999,-14.732386],[127.858886,-15.019074],[127.66113199999999,-15.231189],[127.584228,-15.231189],[127.452392,-15.273587],[127.30956999999999,-15.188783],[127.30956999999999,-14.997851],[127.30956999999999,-14.689881],[127.243652,-14.445319],[127.243652,-14.27503],[127.375488,-14.030014],[127.628173,-13.891411]]],"type":"Polygon"}
+}

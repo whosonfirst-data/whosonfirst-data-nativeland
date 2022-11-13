@@ -1,0 +1,50 @@
+{
+  "id": 1796621239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":10.611629,
+    "geom:bbox":"-86.338085,37.535713,-81.311061,40.628942",
+    "geom:latitude":38.982873,
+    "geom:longitude":-83.708541,
+    "iso:country":"",
+    "lbl:latitude":39.198638,
+    "lbl:longitude":-83.253715,
+    "mps:latitude":39.198638,
+    "mps:longitude":-83.253715,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#8023D9",
+    "nativeland:description":"https://native-land.ca/maps/territories/hopewell/",
+    "nativeland:id":33764,
+    "nativeland:name":"Hopewell Culture",
+    "nativeland:slug":"hopewell",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33764
+    },
+    "wof:country":"",
+    "wof:geomhash":"193d796d16a3f879f3bfa12a6902b036",
+    "wof:hierarchy":[],
+    "wof:id":1796621239,
+    "wof:lastmodified":1668367802,
+    "wof:name":"Hopewell Culture",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.338085,
+    37.535713,
+    -81.311061,
+    40.628942
+],
+  "geometry": {"coordinates":[[[-82.494246,40.558081],[-82.237949,40.45907],[-81.938247,40.326999],[-81.666656,40.153114],[-81.483315,39.786884],[-81.311061,39.298805],[-81.613547,38.617962],[-82.551942,37.920627],[-83.379473,37.744609],[-83.819125,37.670977],[-84.84366799999999,37.551536],[-85.416915,37.535713],[-85.857125,37.607809],[-86.33193799999999,37.860207],[-86.33808500000001,38.14521],[-86.21119400000001,38.481187],[-85.936897,38.869504],[-85.68477300000001,39.049347],[-85.302475,39.450543],[-85.000956,39.615081],[-84.53292999999999,39.94285],[-84.19315,40.289307],[-83.966629,40.477079],[-83.500263,40.623885],[-82.887325,40.628942],[-82.494246,40.558081]]],"type":"Polygon"}
+}

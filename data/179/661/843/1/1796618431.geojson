@@ -1,0 +1,50 @@
+{
+  "id": 1796618431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.179167,
+    "geom:bbox":"122.177584,10.82833,122.509625,11.568629",
+    "geom:latitude":11.211003,
+    "geom:longitude":122.350225,
+    "iso:country":"",
+    "lbl:latitude":11.211498,
+    "lbl:longitude":122.347062,
+    "mps:latitude":11.211498,
+    "mps:longitude":122.347062,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/tumandok/",
+    "nativeland:id":37931,
+    "nativeland:name":"Tumandok",
+    "nativeland:slug":"tumandok",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37931
+    },
+    "wof:country":"",
+    "wof:geomhash":"01205f1e101f01dc4c29d58d9cb13603",
+    "wof:hierarchy":[],
+    "wof:id":1796618431,
+    "wof:lastmodified":1668367733,
+    "wof:name":"Tumandok",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.177584,
+    10.82833,
+    122.509625,
+    11.568629
+],
+  "geometry": {"coordinates":[[[122.292434,11.50337],[122.353803,11.568629],[122.43437900000001,11.531479],[122.467557,11.503615],[122.500443,11.467446],[122.509625,11.424367],[122.50258700000001,11.124437],[122.44821,10.960873],[122.40048299999999,10.875983],[122.32431699999999,10.82833],[122.244812,10.932695],[122.196905,11.071186],[122.177584,11.182437],[122.18038300000001,11.313837],[122.25299800000001,11.443449],[122.292434,11.50337]]],"type":"Polygon"}
+}

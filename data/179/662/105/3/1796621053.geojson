@@ -1,0 +1,50 @@
+{
+  "id": 1796621053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001004,
+    "geom:bbox":"-83.22584,42.075357,-83.181531,42.102123",
+    "geom:latitude":42.08866,
+    "geom:longitude":-83.204035,
+    "iso:country":"",
+    "lbl:latitude":42.088746,
+    "lbl:longitude":-83.204035,
+    "mps:latitude":42.088746,
+    "mps:longitude":-83.204035,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#96F1EC",
+    "nativeland:description":"https://native-land.ca/maps/territories/wyandot-anderdon/",
+    "nativeland:id":33854,
+    "nativeland:name":"Wyandot (Anderdon)",
+    "nativeland:slug":"wyandot-anderdon",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33854
+    },
+    "wof:country":"",
+    "wof:geomhash":"3798964b97f7fd7738c412991db642e1",
+    "wof:hierarchy":[],
+    "wof:id":1796621053,
+    "wof:lastmodified":1668367797,
+    "wof:name":"Wyandot (Anderdon)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.22584,
+    42.075357,
+    -83.181531,
+    42.102123
+],
+  "geometry": {"coordinates":[[[-83.187624,42.099575],[-83.185187,42.096485],[-83.182861,42.090895],[-83.18153100000001,42.083743],[-83.18817799999999,42.076426],[-83.20379699999999,42.075357],[-83.220523,42.076179],[-83.22584000000001,42.08736],[-83.224068,42.094972],[-83.219083,42.102123],[-83.19892299999999,42.102123],[-83.187624,42.099575]]],"type":"Polygon"}
+}

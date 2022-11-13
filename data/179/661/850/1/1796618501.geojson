@@ -1,0 +1,50 @@
+{
+  "id": 1796618501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":56.192396,
+    "geom:bbox":"11.030321,13.596693,24.024544,19.913986",
+    "geom:latitude":16.669433,
+    "geom:longitude":17.441211,
+    "iso:country":"",
+    "lbl:latitude":16.358942,
+    "lbl:longitude":17.441211,
+    "mps:latitude":16.358942,
+    "mps:longitude":17.441211,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/dagara/",
+    "nativeland:id":36851,
+    "nativeland:name":"Dagara",
+    "nativeland:slug":"dagara",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36851
+    },
+    "wof:country":"",
+    "wof:geomhash":"7587b54505b0c01bd7532bddce166303",
+    "wof:hierarchy":[],
+    "wof:id":1796618501,
+    "wof:lastmodified":1668367734,
+    "wof:name":"Dagara",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.030321,
+    13.596693,
+    24.024544,
+    19.913986
+],
+  "geometry": {"coordinates":[[[11.621678,18.833884],[16.159747,18.916125],[20.536079,18.545725],[22.71759,19.913986],[24.024544,19.610546],[24.020222,17.627641],[20.737638,14.01262],[19.595507,13.596693],[13.884849,14.427795],[12.028885,14.220282],[11.030321,16.216042],[11.621678,18.833884]]],"type":"Polygon"}
+}

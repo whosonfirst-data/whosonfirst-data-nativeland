@@ -1,0 +1,50 @@
+{
+  "id": 1796620675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.074788,
+    "geom:bbox":"177.67604,-38.996554,177.992101,-38.590066",
+    "geom:latitude":-38.798623,
+    "geom:longitude":177.821431,
+    "iso:country":"",
+    "lbl:latitude":-38.795265,
+    "lbl:longitude":177.823826,
+    "mps:latitude":-38.795265,
+    "mps:longitude":177.823826,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#79E953",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngai-tamanuhiri/",
+    "nativeland:id":34026,
+    "nativeland:name":"Ng\u0101i T\u0101manuhiri",
+    "nativeland:slug":"ngai-tamanuhiri",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34026
+    },
+    "wof:country":"",
+    "wof:geomhash":"9ae6412dbaecc51e300656fd937d04bc",
+    "wof:hierarchy":[],
+    "wof:id":1796620675,
+    "wof:lastmodified":1668367786,
+    "wof:name":"Ng\u0101i T\u0101manuhiri",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.67604,
+    -38.996554,
+    177.992101,
+    -38.590066
+],
+  "geometry": {"coordinates":[[[177.99210099999999,-38.674303],[177.981392,-38.679437],[177.95653200000001,-38.727761],[177.983464,-38.747186],[177.97816599999999,-38.762197],[177.94461200000001,-38.797075],[177.93578199999999,-38.817384],[177.92783499999999,-38.869921],[177.89838499999999,-38.961635],[177.89812800000001,-38.979969],[177.87491700000001,-38.996554],[177.859815,-38.976852],[177.797867,-38.948382],[177.73663099999999,-38.933735],[177.68119100000001,-38.927749],[177.67604,-38.841396],[177.709058,-38.805072],[177.71887899999999,-38.590066],[177.79664700000001,-38.656472],[177.99210099999999,-38.674303]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796620487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":6.205254,
+    "geom:bbox":"-135.702034,57.981332,-130.864114,59.99458",
+    "geom:latitude":59.18919,
+    "geom:longitude":-132.843629,
+    "iso:country":"",
+    "lbl:latitude":59.112685,
+    "lbl:longitude":-132.843629,
+    "mps:latitude":59.112685,
+    "mps:longitude":-132.843629,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#9CEA7D",
+    "nativeland:description":"https://native-land.ca/maps/territories/taku-river-tlingit/",
+    "nativeland:id":34122,
+    "nativeland:name":"Taku River Tlingit",
+    "nativeland:slug":"taku-river-tlingit",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34122
+    },
+    "wof:country":"",
+    "wof:geomhash":"c1a41d34e99c9ee3cc0167601c2159d1",
+    "wof:hierarchy":[],
+    "wof:id":1796620487,
+    "wof:lastmodified":1668367781,
+    "wof:name":"Taku River Tlingit",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -135.702034,
+    57.981332,
+    -130.864114,
+    59.99458
+],
+  "geometry": {"coordinates":[[[-135.702034,59.986578],[-131.05784,59.99458],[-131.38071600000001,59.637447],[-130.92868999999999,59.495706],[-130.90716499999999,59.364336],[-130.941259,59.046913],[-130.94990000000001,58.815835],[-131.01479,58.744509],[-130.864114,58.509181],[-131.076063,58.470309],[-131.310823,58.538714],[-131.402241,58.38528],[-131.66054199999999,58.362706],[-131.47683900000001,58.111054],[-132.29627099999999,57.981332],[-132.60753099999999,58.025122],[-132.72599500000001,58.238291],[-133.18365900000001,58.221075],[-133.296446,58.272264],[-133.44712200000001,58.452917],[-133.76999799999999,58.710988],[-134.265074,58.84488],[-134.35117399999999,58.978256],[-134.50184999999999,59.133211],[-134.979117,59.305646],[-135.03105300000001,59.567088],[-135.47287600000001,59.790872],[-135.58745500000001,59.759663],[-135.702034,59.986578]]],"type":"Polygon"}
+}

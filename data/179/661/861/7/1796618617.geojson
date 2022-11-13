@@ -1,0 +1,50 @@
+{
+  "id": 1796618617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":3.157026,
+    "geom:bbox":"-97.200725,39.810494,-94.504395,41.24889",
+    "geom:latitude":40.51035,
+    "geom:longitude":-95.951362,
+    "iso:country":"",
+    "lbl:latitude":40.502752,
+    "lbl:longitude":-95.951362,
+    "mps:latitude":40.502752,
+    "mps:longitude":-95.951362,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#BFD4F6",
+    "nativeland:description":"https://native-land.ca/maps/territories/oto/",
+    "nativeland:id":36632,
+    "nativeland:name":"Jiwere",
+    "nativeland:slug":"oto",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36632
+    },
+    "wof:country":"",
+    "wof:geomhash":"2d25acf1563b7f536ad763587038710e",
+    "wof:hierarchy":[],
+    "wof:id":1796618617,
+    "wof:lastmodified":1668367737,
+    "wof:name":"Jiwere",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.200725,
+    39.810494,
+    -94.504395,
+    41.24889
+],
+  "geometry": {"coordinates":[[[-97.077164,40.786412],[-97.10056,41.114382],[-97.003379,41.24889],[-95.75683600000001,41.178654],[-95.361328,41.14557],[-94.943848,40.996484],[-94.70214799999999,40.86368],[-94.504395,40.663973],[-94.63623,40.363288],[-95.05371100000001,39.859155],[-95.648669,39.810494],[-96.067302,39.817957],[-96.629029,39.814758],[-97.009277,39.89288],[-97.11256299999999,40.146144],[-97.20072500000001,40.454082],[-97.077164,40.786412]]],"type":"Polygon"}
+}

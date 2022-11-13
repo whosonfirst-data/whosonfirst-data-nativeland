@@ -1,0 +1,50 @@
+{
+  "id": 1796618725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.467659,
+    "geom:bbox":"150.507202,-24.181836,151.473999,-23.372513",
+    "geom:latitude":-23.757587,
+    "geom:longitude":150.974369,
+    "iso:country":"",
+    "lbl:latitude":-23.760602,
+    "lbl:longitude":150.965161,
+    "mps:latitude":-23.760602,
+    "mps:longitude":150.965161,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#4C8E79",
+    "nativeland:description":"https://native-land.ca/maps/territories/bayali/",
+    "nativeland:id":36583,
+    "nativeland:name":"Bayali",
+    "nativeland:slug":"bayali",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36583
+    },
+    "wof:country":"",
+    "wof:geomhash":"679846cd8600ddaafc53dcb8426f6d62",
+    "wof:hierarchy":[],
+    "wof:id":1796618725,
+    "wof:lastmodified":1668367740,
+    "wof:name":"Bayali",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.507202,
+    -24.181836,
+    151.473999,
+    -23.372513
+],
+  "geometry": {"coordinates":[[[150.50720200000001,-23.684774],[150.69946200000001,-23.604261],[150.92468199999999,-23.372513],[151.11694299999999,-23.372513],[151.28723099999999,-23.478362],[151.43005299999999,-23.735069],[151.47399899999999,-23.845649],[151.364135,-23.870768],[151.24877900000001,-23.926013],[151.133422,-24.006326],[151.001586,-24.081574],[150.69396900000001,-24.181836],[150.655517,-24.056496],[150.60607899999999,-23.941075],[150.55114699999999,-23.780318],[150.50720200000001,-23.684774]]],"type":"Polygon"}
+}

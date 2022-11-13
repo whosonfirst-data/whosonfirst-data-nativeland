@@ -1,0 +1,50 @@
+{
+  "id": 1796619101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":6.882978,
+    "geom:bbox":"125.507812,-26.539394,129.100338,-23.986252",
+    "geom:latitude":-25.141099,
+    "geom:longitude":127.375755,
+    "iso:country":"",
+    "lbl:latitude":-25.15864,
+    "lbl:longitude":127.409969,
+    "mps:latitude":-25.15864,
+    "mps:longitude":127.409969,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#B83DC5",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngatatjara/",
+    "nativeland:id":36415,
+    "nativeland:name":"Ngatatjara",
+    "nativeland:slug":"ngatatjara",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36415
+    },
+    "wof:country":"",
+    "wof:geomhash":"39c38a3709ebcf144ebe343cf8c3f5a8",
+    "wof:hierarchy":[],
+    "wof:id":1796619101,
+    "wof:lastmodified":1668367748,
+    "wof:name":"Ngatatjara",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.507812,
+    -26.539394,
+    129.100338,
+    -23.986252
+],
+  "geometry": {"coordinates":[[[126.408691,-24.196868],[126.496582,-24.146753],[127.441406,-23.986252],[128.122558,-23.986252],[128.671875,-24.106647],[128.88061500000001,-24.417142],[129.034423,-24.796708],[129.08935500000001,-25.165173],[129.10033799999999,-25.572175],[129.06738200000001,-25.849336],[128.92456000000001,-26.007424],[128.57299800000001,-25.997549],[128.21044900000001,-25.997549],[127.93579099999999,-26.204734],[127.82592699999999,-26.382027],[127.683105,-26.480407],[127.364501,-26.539394],[127.04589799999999,-26.421389],[126.68334900000001,-26.244156],[126.309814,-25.997549],[125.837402,-25.681137],[125.661621,-25.373809],[125.518798,-25.045792],[125.507812,-24.617057],[125.683593,-24.45715],[126.002197,-24.226928],[126.408691,-24.196868]]],"type":"Polygon"}
+}

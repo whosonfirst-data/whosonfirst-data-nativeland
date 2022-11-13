@@ -1,0 +1,50 @@
+{
+  "id": 1796621105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.043365,
+    "geom:bbox":"-77.013111,37.230192,-76.746095,37.441802",
+    "geom:latitude":37.328581,
+    "geom:longitude":-76.876207,
+    "iso:country":"",
+    "lbl:latitude":37.335116,
+    "lbl:longitude":-76.887015,
+    "mps:latitude":37.335116,
+    "mps:longitude":-76.887015,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#157F96",
+    "nativeland:description":"https://native-land.ca/maps/territories/paspahegh/",
+    "nativeland:id":33830,
+    "nativeland:name":"Paspahegh",
+    "nativeland:slug":"paspahegh",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33830
+    },
+    "wof:country":"",
+    "wof:geomhash":"f9e65714bc3d03f2c21c295cc231a0d6",
+    "wof:hierarchy":[],
+    "wof:id":1796621105,
+    "wof:lastmodified":1668367798,
+    "wof:name":"Paspahegh",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.013111,
+    37.230192,
+    -76.746095,
+    37.441802
+],
+  "geometry": {"coordinates":[[[-76.795895,37.234069],[-76.819024,37.235038],[-76.857978,37.234069],[-76.893281,37.230192],[-76.924931,37.230192],[-76.96266799999999,37.237946],[-76.982145,37.258295],[-76.98944899999999,37.281545],[-76.991896,37.291798],[-76.999943,37.302855],[-77.00872099999999,37.309838],[-77.01311099999999,37.331945],[-76.990433,37.362768],[-76.98238499999999,37.381953],[-76.95678100000001,37.416242],[-76.93337200000001,37.429604],[-76.90923100000001,37.441802],[-76.856559,37.435994],[-76.815592,37.413336],[-76.768773,37.389509],[-76.746095,37.353464],[-76.752679,37.304601],[-76.751947,37.276083],[-76.76584699999999,37.255706],[-76.795895,37.234069]]],"type":"Polygon"}
+}

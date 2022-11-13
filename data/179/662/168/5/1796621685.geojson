@@ -1,0 +1,50 @@
+{
+  "id": 1796621685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000264,
+    "geom:bbox":"-123.470649,48.579636,-123.441007,48.590606",
+    "geom:latitude":48.584821,
+    "geom:longitude":-123.455962,
+    "iso:country":"",
+    "lbl:latitude":48.58512,
+    "lbl:longitude":-123.455962,
+    "mps:latitude":48.58512,
+    "mps:longitude":-123.455962,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#86AED6",
+    "nativeland:description":"https://native-land.ca/maps/territories/wjo%C6%9Ae%C6%9Ap-tsartlip/",
+    "nativeland:id":33520,
+    "nativeland:name":"W\u0331JO\u023dE\u023dP (Tsartlip)",
+    "nativeland:slug":"w%cc%b1jo%c6%9ae%c6%9ap-tsartlip",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33520
+    },
+    "wof:country":"",
+    "wof:geomhash":"c26289bbe5a183365e53c9074f00aca1",
+    "wof:hierarchy":[],
+    "wof:id":1796621685,
+    "wof:lastmodified":1668367814,
+    "wof:name":"W\u0331JO\u023dE\u023dP (Tsartlip)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.470649,
+    48.579636,
+    -123.441007,
+    48.590606
+],
+  "geometry": {"coordinates":[[[-123.462076,48.590599],[-123.44434200000001,48.590563],[-123.444362,48.581553],[-123.441033,48.581553],[-123.441007,48.579709],[-123.451459,48.579726],[-123.451857,48.579636],[-123.46583,48.579693],[-123.470467,48.579649],[-123.47055,48.580141],[-123.47055,48.581112],[-123.47064899999999,48.581909],[-123.47038499999999,48.58239],[-123.470088,48.58265],[-123.468385,48.583232],[-123.46745199999999,48.583813],[-123.46726,48.584758],[-123.467232,48.585629],[-123.46755400000001,48.586364],[-123.467444,48.587454],[-123.467032,48.588181],[-123.466126,48.588907],[-123.46571400000001,48.589343],[-123.465357,48.589779],[-123.465458,48.590127],[-123.466032,48.590353],[-123.46615300000001,48.590606],[-123.462076,48.590599]]],"type":"Polygon"}
+}

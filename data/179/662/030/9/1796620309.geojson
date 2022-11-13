@@ -1,0 +1,50 @@
+{
+  "id": 1796620309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.496526,
+    "geom:bbox":"144.459228,-36.655199,145.79956,-36.111252",
+    "geom:latitude":-36.383307,
+    "geom:longitude":145.147363,
+    "iso:country":"",
+    "lbl:latitude":-36.3943,
+    "lbl:longitude":145.134598,
+    "mps:latitude":-36.3943,
+    "mps:longitude":145.134598,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#27CC1E",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngurraiillam/",
+    "nativeland:id":35873,
+    "nativeland:name":"Ngurraiillam",
+    "nativeland:slug":"ngurraiillam",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35873
+    },
+    "wof:country":"",
+    "wof:geomhash":"628f3f065a508ce42acf4756433ce194",
+    "wof:hierarchy":[],
+    "wof:id":1796620309,
+    "wof:lastmodified":1668367777,
+    "wof:name":"Ngurraiillam",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.459228,
+    -36.655199,
+    145.79956,
+    -36.111252
+],
+  "geometry": {"coordinates":[[[144.838256,-36.111252],[144.992065,-36.11569],[145.27770899999999,-36.151182],[145.57983300000001,-36.160052],[145.79956000000001,-36.111252],[145.79406700000001,-36.22655],[145.739135,-36.332828],[145.64575099999999,-36.44338],[145.42053200000001,-36.571423],[145.162353,-36.655199],[144.860229,-36.655199],[144.645996,-36.628753],[144.459228,-36.584657],[144.50866600000001,-36.531708],[144.57458399999999,-36.487557],[144.673461,-36.354951],[144.76135199999999,-36.27085],[144.838256,-36.111252]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796619941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.433445,
+    "geom:bbox":"130.962524,-16.230497,132.37976,-14.557",
+    "geom:latitude":-15.224645,
+    "geom:longitude":131.74013,
+    "iso:country":"",
+    "lbl:latitude":-15.154398,
+    "lbl:longitude":131.753628,
+    "mps:latitude":-15.154398,
+    "mps:longitude":131.753628,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#76C4A5",
+    "nativeland:description":"https://native-land.ca/maps/territories/wardaman/",
+    "nativeland:id":36040,
+    "nativeland:name":"Wardaman",
+    "nativeland:slug":"wardaman",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36040
+    },
+    "wof:country":"",
+    "wof:geomhash":"13b3b4fde6481c1af5d06ae7abd43f05",
+    "wof:hierarchy":[],
+    "wof:id":1796619941,
+    "wof:lastmodified":1668367768,
+    "wof:name":"Wardaman",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.962524,
+    -16.230497,
+    132.37976,
+    -14.557
+],
+  "geometry": {"coordinates":[[[131.79199199999999,-14.583583],[131.984252,-14.557],[132.20947200000001,-14.774882],[132.319335,-15.066819],[132.37976,-15.353059],[132.346801,-15.591293],[132.346801,-15.744675],[132.30285499999999,-15.982453],[132.15454099999999,-16.230497],[132.15454099999999,-16.093319],[132.176513,-15.982453],[132.05566400000001,-15.850389],[131.940305,-15.776395],[131.85241600000001,-15.792253],[131.52282700000001,-15.82925],[131.40197499999999,-15.80811],[131.39648099999999,-15.68122],[131.33605900000001,-15.54896],[131.270141,-15.437795],[131.110839,-15.379543],[131.03393500000001,-15.268287],[131.03393500000001,-15.183482],[130.97351,-15.003157],[130.962524,-14.849231],[131.02844200000001,-14.774882],[131.297607,-14.679253],[131.50634700000001,-14.604847],[131.79199199999999,-14.583583]]],"type":"Polygon"}
+}

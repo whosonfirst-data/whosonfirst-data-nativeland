@@ -1,0 +1,50 @@
+{
+  "id": 1796621449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.457173,
+    "geom:bbox":"-77.515427,0.771507,-76.856635,1.674699",
+    "geom:latitude":1.242313,
+    "geom:longitude":-77.176721,
+    "iso:country":"",
+    "lbl:latitude":1.23662,
+    "lbl:longitude":-77.182995,
+    "mps:latitude":1.23662,
+    "mps:longitude":-77.182995,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#69FB8F",
+    "nativeland:description":"https://native-land.ca/maps/territories/quillacinga/",
+    "nativeland:id":33670,
+    "nativeland:name":"Quillacinga",
+    "nativeland:slug":"quillacinga",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33670
+    },
+    "wof:country":"",
+    "wof:geomhash":"d04b0bcd0f21a6a0b6367420553cdfdb",
+    "wof:hierarchy":[],
+    "wof:id":1796621449,
+    "wof:lastmodified":1668367808,
+    "wof:name":"Quillacinga",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.515427,
+    0.771507,
+    -76.856635,
+    1.674699
+],
+  "geometry": {"coordinates":[[[-77.444112,1.584843],[-77.389661,1.620113],[-77.323065,1.657392],[-77.25247400000001,1.666711],[-77.20186099999999,1.666711],[-77.14592,1.674699],[-77.09930300000001,1.66538],[-77.051354,1.672037],[-77.01938800000001,1.662717],[-76.97942999999999,1.582834],[-76.970107,1.516262],[-76.93947199999999,1.481644],[-76.937567,1.451205],[-76.856635,1.299096],[-76.856635,1.163162],[-76.856635,1.046641],[-76.88576999999999,0.939827],[-76.960228,0.845957],[-77.044397,0.787692],[-77.131804,0.771507],[-77.193313,0.810351],[-77.261296,0.881563],[-77.355846,0.963154],[-77.423936,0.967044],[-77.47062699999999,0.996221],[-77.48035400000001,1.042904],[-77.48035400000001,1.085771],[-77.487369,1.157073],[-77.506075,1.217853],[-77.515427,1.284477],[-77.489707,1.344086],[-77.492045,1.408368],[-77.489707,1.477324],[-77.479185,1.518228],[-77.461648,1.549783],[-77.444112,1.584843]]],"type":"Polygon"}
+}

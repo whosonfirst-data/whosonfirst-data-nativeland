@@ -1,0 +1,50 @@
+{
+  "id": 1796621311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.202398,
+    "geom:bbox":"-87.219073,12.093091,-86.636391,12.58622",
+    "geom:latitude":12.345582,
+    "geom:longitude":-86.911967,
+    "iso:country":"",
+    "lbl:latitude":12.351462,
+    "lbl:longitude":-86.906417,
+    "mps:latitude":12.351462,
+    "mps:longitude":-86.906417,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#6A52FB",
+    "nativeland:description":"https://native-land.ca/maps/territories/sutiaba/",
+    "nativeland:id":33733,
+    "nativeland:name":"Subtiaba",
+    "nativeland:slug":"sutiaba",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33733
+    },
+    "wof:country":"",
+    "wof:geomhash":"098866ae53e418a9bc40e715f560c5e6",
+    "wof:hierarchy":[],
+    "wof:id":1796621311,
+    "wof:lastmodified":1668367804,
+    "wof:name":"Subtiaba",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.219073,
+    12.093091,
+    -86.636391,
+    12.58622
+],
+  "geometry": {"coordinates":[[[-87.200908,12.475619],[-87.15105699999999,12.528713],[-87.067215,12.570739],[-86.895,12.58622],[-86.808893,12.537561],[-86.74914800000001,12.504811],[-86.69757300000001,12.426847],[-86.652253,12.34053],[-86.636391,12.209893],[-86.67195,12.144753],[-86.72929600000001,12.103565],[-86.78700000000001,12.093091],[-86.85015,12.101257],[-86.96365900000001,12.134489],[-87.05854100000001,12.200354],[-87.112572,12.263541],[-87.194148,12.352097],[-87.21907299999999,12.425133],[-87.200908,12.475619]]],"type":"Polygon"}
+}

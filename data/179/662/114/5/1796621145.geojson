@@ -1,0 +1,50 @@
+{
+  "id": 1796621145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.130783,
+    "geom:bbox":"-76.323527,36.060981,-75.768987,36.527602",
+    "geom:latitude":36.324186,
+    "geom:longitude":-76.031901,
+    "iso:country":"",
+    "lbl:latitude":36.351896,
+    "lbl:longitude":-76.027699,
+    "mps:latitude":36.351896,
+    "mps:longitude":-76.027699,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#96A2DF",
+    "nativeland:description":"https://native-land.ca/maps/territories/poteskeet/",
+    "nativeland:id":33813,
+    "nativeland:name":"Poteskeet",
+    "nativeland:slug":"poteskeet",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33813
+    },
+    "wof:country":"",
+    "wof:geomhash":"fca09471fbbd80de44e4c003641f20dc",
+    "wof:hierarchy":[],
+    "wof:id":1796621145,
+    "wof:lastmodified":1668367799,
+    "wof:name":"Poteskeet",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.323527,
+    36.060981,
+    -75.768987,
+    36.527602
+],
+  "geometry": {"coordinates":[[[-76.112173,36.251378],[-76.159767,36.274906],[-76.20872,36.31577],[-76.235527,36.354266],[-76.276904,36.380076],[-76.30779200000001,36.402594],[-76.323527,36.438234],[-76.313023,36.487069],[-76.25483699999999,36.520588],[-76.20925800000001,36.527602],[-76.14234500000001,36.522926],[-76.08125,36.513574],[-76.036641,36.503441],[-75.967788,36.473034],[-75.899905,36.416086],[-75.876631,36.370029],[-75.870812,36.316131],[-75.85335600000001,36.275488],[-75.81941500000001,36.232477],[-75.78644300000001,36.169874],[-75.768987,36.098601],[-75.77674500000001,36.0649],[-75.80002,36.060981],[-75.854326,36.074307],[-75.923179,36.099385],[-75.974576,36.139336],[-76.015306,36.169091],[-76.057006,36.202747],[-76.08028,36.229348],[-76.112173,36.251378]]],"type":"Polygon"}
+}

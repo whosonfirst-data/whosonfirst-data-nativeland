@@ -1,0 +1,50 @@
+{
+  "id": 1796619089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.095218,
+    "geom:bbox":"-97.555439,17.590369,-97.057455,17.838746",
+    "geom:latitude":17.712483,
+    "geom:longitude":-97.306234,
+    "iso:country":"",
+    "lbl:latitude":17.709676,
+    "lbl:longitude":-97.306234,
+    "mps:latitude":17.709676,
+    "mps:longitude":-97.306234,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#76DAA2",
+    "nativeland:description":"https://native-land.ca/maps/territories/popoluca-chocho/",
+    "nativeland:id":36420,
+    "nativeland:name":"Runixa Ngiigua (Chocho)",
+    "nativeland:slug":"popoluca-chocho",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36420
+    },
+    "wof:country":"",
+    "wof:geomhash":"f663979d429b37ce1c9c2b35a05b4ae5",
+    "wof:hierarchy":[],
+    "wof:id":1796619089,
+    "wof:lastmodified":1668367748,
+    "wof:name":"Runixa Ngiigua (Chocho)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.555439,
+    17.590369,
+    -97.057455,
+    17.838746
+],
+  "geometry": {"coordinates":[[[-97.398477,17.838746],[-97.24886600000001,17.820826],[-97.182742,17.803413],[-97.134986,17.775066],[-97.102155,17.752182],[-97.076212,17.706329],[-97.057455,17.6634],[-97.068547,17.609518],[-97.102599,17.592284],[-97.15731599999999,17.590369],[-97.340765,17.591952],[-97.39943700000001,17.613662],[-97.478773,17.666],[-97.53662300000001,17.687785],[-97.55543900000001,17.735813],[-97.55164499999999,17.804757],[-97.489161,17.832501],[-97.398477,17.838746]]],"type":"Polygon"}
+}

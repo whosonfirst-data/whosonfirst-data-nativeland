@@ -1,0 +1,50 @@
+{
+  "id": 1796621717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.036635,
+    "geom:bbox":"-38.959214,-8.38006,-38.709738,-8.197524",
+    "geom:latitude":-8.284778,
+    "geom:longitude":-38.838083,
+    "iso:country":"",
+    "lbl:latitude":-8.287537,
+    "lbl:longitude":-38.838083,
+    "mps:latitude":-8.287537,
+    "mps:longitude":-38.838083,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#524249",
+    "nativeland:description":"https://native-land.ca/maps/territories/atikum-uma/",
+    "nativeland:id":33502,
+    "nativeland:name":"Atikum-Um\u00e3",
+    "nativeland:slug":"atikum-uma",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33502
+    },
+    "wof:country":"",
+    "wof:geomhash":"a20ba01d531fb9ccb2255abc8570ca81",
+    "wof:hierarchy":[],
+    "wof:id":1796621717,
+    "wof:lastmodified":1668367815,
+    "wof:name":"Atikum-Um\u00e3",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -38.959214,
+    -8.38006,
+    -38.709738,
+    -8.197524
+],
+  "geometry": {"coordinates":[[[-38.888102,-8.378874],[-38.918155,-8.38006],[-38.934701,-8.358233],[-38.93225,-8.329128],[-38.935314,-8.293351],[-38.946345,-8.2697],[-38.959214,-8.239982],[-38.956763,-8.210262],[-38.945732,-8.198737],[-38.91509,-8.197524],[-38.868515,-8.197524],[-38.826843,-8.19995],[-38.803342,-8.206354],[-38.768723,-8.214009],[-38.737051,-8.222028],[-38.721952,-8.236243],[-38.717164,-8.247542],[-38.713113,-8.263943],[-38.709738,-8.276878],[-38.711947,-8.300202],[-38.722259,-8.315143],[-38.730474,-8.340721],[-38.75131,-8.356486],[-38.791757,-8.366187],[-38.823624,-8.374069],[-38.864684,-8.37892],[-38.888102,-8.378874]]],"type":"Polygon"}
+}

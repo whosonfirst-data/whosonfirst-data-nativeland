@@ -1,0 +1,50 @@
+{
+  "id": 1796620517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.529717,
+    "geom:bbox":"176.2424,-38.775049,177.379424,-38.025273",
+    "geom:latitude":-38.438342,
+    "geom:longitude":176.78359,
+    "iso:country":"",
+    "lbl:latitude":-38.394037,
+    "lbl:longitude":176.772761,
+    "mps:latitude":-38.394037,
+    "mps:longitude":176.772761,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#07B23E",
+    "nativeland:description":"https://native-land.ca/maps/territories/tuhoe/",
+    "nativeland:id":34107,
+    "nativeland:name":"T\u016bhoe",
+    "nativeland:slug":"tuhoe",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34107
+    },
+    "wof:country":"",
+    "wof:geomhash":"3053cccbe2086aeccb90b96221b80766",
+    "wof:hierarchy":[],
+    "wof:id":1796620517,
+    "wof:lastmodified":1668367782,
+    "wof:name":"T\u016bhoe",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.2424,
+    -38.775049,
+    177.379424,
+    -38.025273
+],
+  "geometry": {"coordinates":[[[176.26193699999999,-38.662943],[176.2424,-38.495987],[176.34271200000001,-38.321935],[176.447801,-38.215989],[176.52542399999999,-38.069473],[176.68902800000001,-38.097672],[176.94339099999999,-38.025273],[176.97802200000001,-38.045966],[177.06281000000001,-38.281637],[177.23477299999999,-38.495052],[177.379424,-38.588755],[177.37473299999999,-38.622351],[177.23716200000001,-38.747039],[177.07360499999999,-38.775049],[176.548543,-38.668911],[176.351358,-38.643247],[176.26193699999999,-38.662943]]],"type":"Polygon"}
+}

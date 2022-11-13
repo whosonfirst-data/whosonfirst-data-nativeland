@@ -1,0 +1,50 @@
+{
+  "id": 1796621389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":4.148533,
+    "geom:bbox":"-76.705658,7.64028,-74.060076,10.034225",
+    "geom:latitude":8.674023,
+    "geom:longitude":-75.416638,
+    "iso:country":"",
+    "lbl:latitude":8.593008,
+    "lbl:longitude":-75.523721,
+    "mps:latitude":8.593008,
+    "mps:longitude":-75.523721,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#AC76F0",
+    "nativeland:description":"https://native-land.ca/maps/territories/zenu/",
+    "nativeland:id":33694,
+    "nativeland:name":"Zen\u00fa",
+    "nativeland:slug":"zenu",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33694
+    },
+    "wof:country":"",
+    "wof:geomhash":"b2fc619be5b24d1edd62b3505100078e",
+    "wof:hierarchy":[],
+    "wof:id":1796621389,
+    "wof:lastmodified":1668367806,
+    "wof:name":"Zen\u00fa",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.705658,
+    7.64028,
+    -74.060076,
+    10.034225
+],
+  "geometry": {"coordinates":[[[-76.678935,8.671923],[-76.705658,8.803987],[-76.598766,8.927205],[-76.367166,9.138338],[-76.242459,9.366924],[-76.082121,9.639273],[-75.948505,9.823642],[-75.73472099999999,10.034225],[-75.556567,10.025453],[-75.39622900000001,9.867525],[-75.27152100000001,9.683179],[-75.00429099999999,9.489947],[-74.906306,9.349346],[-74.66579900000001,9.25265],[-74.407476,9.138338],[-74.104615,8.900805],[-74.060076,8.69834],[-74.068984,8.301898],[-74.443107,8.002097],[-74.674707,7.79034],[-75.02210599999999,7.702076],[-75.39622900000001,7.64028],[-75.761444,7.657937],[-76.15338199999999,7.755036],[-76.456243,7.984455],[-76.500782,8.231377],[-76.678935,8.671923]]],"type":"Polygon"}
+}

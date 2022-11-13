@@ -1,0 +1,50 @@
+{
+  "id": 1796620639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.713887,
+    "geom:bbox":"-80.880138,25.115962,-79.997761,26.756402",
+    "geom:latitude":25.890711,
+    "geom:longitude":-80.37102,
+    "iso:country":"",
+    "lbl:latitude":25.761292,
+    "lbl:longitude":-80.327569,
+    "mps:latitude":25.761292,
+    "mps:longitude":-80.327569,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#1A8AD1",
+    "nativeland:description":"https://native-land.ca/maps/territories/tequesta/",
+    "nativeland:id":34042,
+    "nativeland:name":"Tequesta",
+    "nativeland:slug":"tequesta",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34042
+    },
+    "wof:country":"",
+    "wof:geomhash":"b66c1b897547e9f0e4d2814248b5acd9",
+    "wof:hierarchy":[],
+    "wof:id":1796620639,
+    "wof:lastmodified":1668367785,
+    "wof:name":"Tequesta",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.880138,
+    25.115962,
+    -79.997761,
+    26.756402
+],
+  "geometry": {"coordinates":[[[-80.21147999999999,25.535672],[-80.26382,25.404912],[-80.412114,25.20394],[-80.598913,25.135616],[-80.729007,25.121459],[-80.828529,25.115962],[-80.87402299999999,25.199969],[-80.880138,25.326636],[-80.463472,25.95263],[-80.42519900000001,26.162887],[-80.438284,26.28027],[-80.455731,26.413161],[-80.451369,26.502971],[-80.416476,26.573208],[-80.394668,26.635605],[-80.377222,26.705761],[-80.29871199999999,26.736927],[-80.15914100000001,26.744718],[-80.041377,26.756402],[-79.997761,26.717449],[-80.002123,26.61611],[-80.023931,26.428785],[-80.0501,26.233331],[-80.089355,26.068896],[-80.084993,25.931689],[-80.089355,25.845363],[-80.10244,25.790396],[-80.106801,25.758974],[-80.132971,25.648943],[-80.21147999999999,25.535672]]],"type":"Polygon"}
+}

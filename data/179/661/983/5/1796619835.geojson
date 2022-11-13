@@ -1,0 +1,50 @@
+{
+  "id": 1796619835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.256017,
+    "geom:bbox":"117.427368,-23.548881,119.668579,-22.039822",
+    "geom:latitude":-22.850021,
+    "geom:longitude":118.567433,
+    "iso:country":"",
+    "lbl:latitude":-22.878776,
+    "lbl:longitude":118.588778,
+    "mps:latitude":-22.878776,
+    "mps:longitude":118.588778,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#3F4FF6",
+    "nativeland:description":"https://native-land.ca/maps/territories/banjima/",
+    "nativeland:id":36083,
+    "nativeland:name":"Banjima",
+    "nativeland:slug":"banjima",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36083
+    },
+    "wof:country":"",
+    "wof:geomhash":"19f96ae9a0f62b4aca61e10679b2c55a",
+    "wof:hierarchy":[],
+    "wof:id":1796619835,
+    "wof:lastmodified":1668367765,
+    "wof:name":"Banjima",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.427368,
+    -23.548881,
+    119.668579,
+    -22.039822
+],
+  "geometry": {"coordinates":[[[117.767944,-22.121266],[117.89428700000001,-22.039822],[118.015137,-22.039822],[118.201904,-22.08055],[118.586426,-22.223005],[118.910522,-22.329752],[119.163208,-22.446572],[119.32250999999999,-22.573438],[119.360962,-22.629223],[119.53125,-22.897683],[119.613647,-23.104997],[119.66857899999999,-23.347299],[119.65759300000001,-23.528737],[119.619141,-23.528737],[119.470825,-23.538809],[119.14123499999999,-23.548881],[118.79516599999999,-23.538809],[118.652344,-23.533773],[118.575439,-23.533773],[118.416138,-23.458207],[118.201904,-23.342256],[117.91625999999999,-23.160563],[117.63061500000001,-22.993795],[117.493286,-22.912863],[117.427368,-22.816694],[117.487793,-22.684984],[117.542725,-22.60894],[117.597656,-22.446572],[117.70752,-22.273847],[117.767944,-22.121266]]],"type":"Polygon"}
+}

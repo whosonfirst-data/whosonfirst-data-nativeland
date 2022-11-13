@@ -1,0 +1,50 @@
+{
+  "id": 1796621693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":7.343264,
+    "geom:bbox":"-58.740886,-8.262245,-54.694656,-2.782135",
+    "geom:latitude":-5.823385,
+    "geom:longitude":-56.960189,
+    "iso:country":"",
+    "lbl:latitude":-6.773813,
+    "lbl:longitude":-57.803154,
+    "mps:latitude":-6.773813,
+    "mps:longitude":-57.803154,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#2A5727",
+    "nativeland:description":"https://native-land.ca/maps/territories/mundurukania-wuy-jugu/",
+    "nativeland:id":33514,
+    "nativeland:name":"Munduruk\u00e2nia (Wuy jugu)",
+    "nativeland:slug":"mundurukania-wuy-jugu",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33514
+    },
+    "wof:country":"",
+    "wof:geomhash":"813ccedb8d9561bbc530048981680697",
+    "wof:hierarchy":[],
+    "wof:id":1796621693,
+    "wof:lastmodified":1668367815,
+    "wof:name":"Munduruk\u00e2nia (Wuy jugu)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.740886,
+    -8.262245,
+    -54.694656,
+    -2.782135
+],
+  "geometry": {"coordinates":[[[-56.831195,-7.951955],[-57.086306,-8.168462],[-57.479907,-8.262245],[-57.771463,-8.262245],[-58.084885,-8.255032],[-58.31813,-8.060223],[-58.471197,-7.865321],[-58.740886,-7.222227],[-58.660708,-6.650621],[-58.501469,-6.270411],[-57.915969,-5.795279],[-57.493213,-5.265668],[-57.012146,-4.735606],[-56.392969,-4.157178],[-55.707812,-3.58267],[-55.503723,-3.131535],[-55.299634,-2.898614],[-55.015367,-2.782135],[-54.869589,-2.847656],[-54.738389,-3.080588],[-54.694656,-3.320746],[-54.716522,-3.662688],[-55.05041,-4.174339],[-55.334677,-4.334253],[-55.633911,-4.561273],[-56.063956,-5.178589],[-56.464845,-5.701024],[-56.843868,-6.346151],[-56.924046,-6.773379],[-57.047957,-7.120677],[-57.047957,-7.525525],[-56.887601,-7.691694],[-56.822001,-7.850576],[-56.831195,-7.951955]]],"type":"Polygon"}
+}

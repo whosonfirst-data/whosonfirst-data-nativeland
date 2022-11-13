@@ -1,0 +1,50 @@
+{
+  "id": 1796618965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":9.921648,
+    "geom:bbox":"-116.479867,30.699714,-112.52269,34.484046",
+    "geom:latitude":32.788993,
+    "geom:longitude":-114.466158,
+    "iso:country":"",
+    "lbl:latitude":32.890124,
+    "lbl:longitude":-114.503845,
+    "mps:latitude":32.890124,
+    "mps:longitude":-114.503845,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#8FB4A1",
+    "nativeland:description":"https://native-land.ca/maps/territories/cocopah/",
+    "nativeland:id":36474,
+    "nativeland:name":"Xawi\u019a\u019a kw\u00f1chawaay (Cocopah)",
+    "nativeland:slug":"cocopah",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36474
+    },
+    "wof:country":"",
+    "wof:geomhash":"124839b89255a686506ccbff760d3a20",
+    "wof:hierarchy":[],
+    "wof:id":1796618965,
+    "wof:lastmodified":1668367745,
+    "wof:name":"Xawi\u019a\u019a kw\u00f1chawaay (Cocopah)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.479867,
+    30.699714,
+    -112.52269,
+    34.484046
+],
+  "geometry": {"coordinates":[[[-114.119697,34.408126],[-113.02547800000001,34.484046],[-112.8856,34.100369],[-112.72436500000001,33.702931],[-112.52269,33.209812],[-112.53282,32.779858],[-112.822951,31.881636],[-113.353019,31.800718],[-113.747848,31.74295],[-114.033012,31.683208],[-114.033551,31.478299],[-114.75978000000001,30.789625],[-114.90395700000001,30.708505],[-115.00846199999999,30.699714],[-115.06381399999999,30.779227],[-115.110894,30.979316],[-115.19090199999999,31.077968],[-115.32467699999999,31.296228],[-115.71086699999999,31.407608],[-116.43247599999999,31.980524],[-116.28103900000001,32.601037],[-116.298495,32.72783],[-116.479867,33.371656],[-115.217834,34.0704],[-114.723473,34.124536],[-114.404714,34.37292],[-114.119697,34.408126]]],"type":"Polygon"}
+}

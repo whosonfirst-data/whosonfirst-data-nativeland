@@ -1,0 +1,50 @@
+{
+  "id": 1796621467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":4.386487,
+    "geom:bbox":"-72.716025,-4.014347,-70.03511,-1.612541",
+    "geom:latitude":-2.819882,
+    "geom:longitude":-71.435092,
+    "iso:country":"",
+    "lbl:latitude":-2.614822,
+    "lbl:longitude":-71.409559,
+    "mps:latitude":-2.614822,
+    "mps:longitude":-71.409559,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#D192BF",
+    "nativeland:description":"https://native-land.ca/maps/territories/dyoxaiya-o-ivotsa-okaina/",
+    "nativeland:id":33665,
+    "nativeland:name":"Dyo&#8217;xaiya-o-Ivo&#8217;tsa (Okaina)",
+    "nativeland:slug":"dyoxaiya-o-ivotsa-okaina",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33665
+    },
+    "wof:country":"",
+    "wof:geomhash":"450d279f7ebbd1cca6603440c36fe460",
+    "wof:hierarchy":[],
+    "wof:id":1796621467,
+    "wof:lastmodified":1668367808,
+    "wof:name":"Dyo&#8217;xaiya-o-Ivo&#8217;tsa (Okaina)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.716025,
+    -4.014347,
+    -70.03511,
+    -1.612541
+],
+  "geometry": {"coordinates":[[[-72.51267199999999,-3.467346],[-72.627611,-3.343784],[-72.716025,-2.964177],[-72.662977,-2.637434],[-72.574562,-2.248763],[-72.539196,-2.116237],[-72.291635,-1.753944],[-72.017549,-1.630217],[-71.593158,-1.612541],[-71.149136,-1.780456],[-70.786635,-1.974864],[-70.51254900000001,-2.337107],[-70.33571999999999,-2.752246],[-70.32687799999999,-3.308478],[-70.23846399999999,-3.458521],[-70.09699999999999,-3.599716],[-70.03511,-3.767357],[-70.05279299999999,-3.952607],[-70.114683,-4.014347],[-70.247305,-3.890861],[-70.45950000000001,-3.864398],[-70.671696,-3.917324],[-71.03419599999999,-3.987888],[-71.202184,-3.996708],[-71.21986699999999,-3.864398],[-71.343648,-3.846755],[-71.50279500000001,-3.864398],[-71.59120900000001,-3.758535],[-71.679624,-3.696775],[-71.750356,-3.599716],[-71.750356,-3.458521],[-71.856454,-3.35261],[-71.962551,-3.379089],[-72.042125,-3.449695],[-72.21011300000001,-3.529121],[-72.413467,-3.529121],[-72.51267199999999,-3.467346]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796618839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.816222,
+    "geom:bbox":"-112.384662,23.578749,-110.09995,25.727828",
+    "geom:latitude":24.690299,
+    "geom:longitude":-111.230464,
+    "iso:country":"",
+    "lbl:latitude":24.783528,
+    "lbl:longitude":-111.213155,
+    "mps:latitude":24.783528,
+    "mps:longitude":-111.213155,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#D2E015",
+    "nativeland:description":"https://native-land.ca/maps/territories/guaycura/",
+    "nativeland:id":36531,
+    "nativeland:name":"Guaycura",
+    "nativeland:slug":"guaycura",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36531
+    },
+    "wof:country":"",
+    "wof:geomhash":"23484a442e38b33945b2528a52ce100f",
+    "wof:hierarchy":[],
+    "wof:id":1796618839,
+    "wof:lastmodified":1668367742,
+    "wof:name":"Guaycura",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.384662,
+    23.578749,
+    -110.09995,
+    25.727828
+],
+  "geometry": {"coordinates":[[[-112.153802,25.699035],[-111.996944,25.727828],[-111.955262,25.628666],[-111.91358099999999,25.529422],[-111.84518799999999,25.474946],[-111.691586,25.48529],[-111.166207,25.585685],[-110.990694,25.601595],[-110.802531,25.395852],[-110.588542,25.172959],[-110.475528,25.018297],[-110.40025300000001,24.342538],[-110.302284,24.20254],[-110.157813,24.083606],[-110.09995000000001,23.994361],[-110.107654,23.877805],[-110.129023,23.753539],[-110.183683,23.65762],[-110.281082,23.591296],[-110.38050800000001,23.578749],[-110.51131599999999,23.594697],[-111.32869700000001,24.055476],[-111.65512200000001,24.181994],[-111.91772400000001,24.29704],[-112.31836800000001,24.709058],[-112.38466200000001,24.884543],[-112.223072,25.247344],[-112.153802,25.699035]]],"type":"Polygon"}
+}

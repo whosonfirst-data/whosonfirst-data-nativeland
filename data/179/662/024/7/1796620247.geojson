@@ -1,0 +1,50 @@
+{
+  "id": 1796620247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.995593,
+    "geom:bbox":"-115.158682,34.709579,-114.066536,35.906282",
+    "geom:latitude":35.295609,
+    "geom:longitude":-114.634819,
+    "iso:country":"",
+    "lbl:latitude":35.278343,
+    "lbl:longitude":-114.645221,
+    "mps:latitude":35.278343,
+    "mps:longitude":-114.645221,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#70CFB3",
+    "nativeland:description":"https://native-land.ca/maps/territories/mojave/",
+    "nativeland:id":35899,
+    "nativeland:name":"Pipa Aha Macav (Mojave)",
+    "nativeland:slug":"mojave",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35899
+    },
+    "wof:country":"",
+    "wof:geomhash":"6698d28ae3b8db200cfad0d40ce231f5",
+    "wof:hierarchy":[],
+    "wof:id":1796620247,
+    "wof:lastmodified":1668367775,
+    "wof:name":"Pipa Aha Macav (Mojave)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -115.158682,
+    34.709579,
+    -114.066536,
+    35.906282
+],
+  "geometry": {"coordinates":[[[-114.108924,35.257126],[-114.066536,35.143852],[-114.068944,35.02775],[-114.077022,34.895437],[-114.11118500000001,34.802975],[-114.18227400000001,34.730894],[-114.309366,34.720236],[-114.393967,34.709579],[-114.51049500000001,34.730046],[-114.560715,34.759387],[-114.60661399999999,34.809614],[-114.69209600000001,34.824243],[-114.787462,34.836708],[-114.933193,34.863638],[-115.01950600000001,34.909707],[-115.078176,35.037751],[-115.10903500000001,35.140886],[-115.15465,35.312641],[-115.158682,35.560726],[-115.153892,35.751464],[-115.133394,35.800491],[-115.058817,35.877659],[-114.948291,35.891104],[-114.800403,35.906282],[-114.743866,35.898417],[-114.691192,35.887428],[-114.593571,35.840399],[-114.35535299999999,35.655549],[-114.215874,35.521273],[-114.118103,35.359437],[-114.108924,35.257126]]],"type":"Polygon"}
+}

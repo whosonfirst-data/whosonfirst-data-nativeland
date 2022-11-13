@@ -1,0 +1,50 @@
+{
+  "id": 1796618589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.651897,
+    "geom:bbox":"139.899902,-20.220965,141.185302,-18.072756",
+    "geom:latitude":-19.100521,
+    "geom:longitude":140.516875,
+    "iso:country":"",
+    "lbl:latitude":-19.079489,
+    "lbl:longitude":140.529117,
+    "mps:latitude":-19.079489,
+    "mps:longitude":140.529117,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#50EAEA",
+    "nativeland:description":"https://native-land.ca/maps/territories/mayi-yapi/",
+    "nativeland:id":36646,
+    "nativeland:name":"Mayi-Yapi",
+    "nativeland:slug":"mayi-yapi",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36646
+    },
+    "wof:country":"",
+    "wof:geomhash":"1ebb95f42d96817fb5d1cdc9082ce2ca",
+    "wof:hierarchy":[],
+    "wof:id":1796618589,
+    "wof:lastmodified":1668367736,
+    "wof:name":"Mayi-Yapi",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.899902,
+    -20.220965,
+    141.185302,
+    -18.072756
+],
+  "geometry": {"coordinates":[[[139.899902,-18.448346],[140.086669,-18.39623],[140.38329999999999,-18.458768],[140.625,-18.500447],[140.789794,-18.271086],[140.86669900000001,-18.072756],[140.998535,-18.281518],[141.16333,-18.667063],[141.18530200000001,-19.103648],[141.18530200000001,-19.37334],[140.89965799999999,-19.456233],[140.65795800000001,-19.715],[140.471191,-19.870059],[140.20751899999999,-20.148784],[139.97680600000001,-20.220965],[140.00976499999999,-19.849393],[140.02075099999999,-19.47695],[140.02075099999999,-19.030963],[139.932861,-18.791917],[139.899902,-18.448346]]],"type":"Polygon"}
+}

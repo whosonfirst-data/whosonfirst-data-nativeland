@@ -1,0 +1,50 @@
+{
+  "id": 1796620285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.279994,
+    "geom:bbox":"142.146606,-12.621577,142.943115,-11.982905",
+    "geom:latitude":-12.24737,
+    "geom:longitude":142.575404,
+    "iso:country":"",
+    "lbl:latitude":-12.207007,
+    "lbl:longitude":142.56937,
+    "mps:latitude":-12.207007,
+    "mps:longitude":142.56937,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#295190",
+    "nativeland:description":"https://native-land.ca/maps/territories/mpalitjanh/",
+    "nativeland:id":35883,
+    "nativeland:name":"Mpalitjanh",
+    "nativeland:slug":"mpalitjanh",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35883
+    },
+    "wof:country":"",
+    "wof:geomhash":"bd36b1dabdb94a3f1c5442212460d135",
+    "wof:hierarchy":[],
+    "wof:id":1796620285,
+    "wof:lastmodified":1668367776,
+    "wof:name":"Mpalitjanh",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.146606,
+    -12.621577,
+    142.943115,
+    -11.982905
+],
+  "geometry": {"coordinates":[[[142.14660599999999,-12.025889],[142.15209899999999,-11.982905],[142.27294900000001,-11.982905],[142.48718199999999,-11.990965],[142.706909,-11.996338],[142.739868,-12.06618],[142.81127900000001,-12.213864],[142.879943,-12.342684],[142.926635,-12.498258],[142.94311500000001,-12.621577],[142.85797099999999,-12.621577],[142.59979200000001,-12.474123],[142.47894199999999,-12.407071],[142.380065,-12.323902],[142.26470900000001,-12.219233],[142.204284,-12.157485],[142.14660599999999,-12.060809],[142.14660599999999,-12.025889]]],"type":"Polygon"}
+}

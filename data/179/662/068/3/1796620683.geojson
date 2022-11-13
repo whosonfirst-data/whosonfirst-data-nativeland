@@ -1,0 +1,50 @@
+{
+  "id": 1796620683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.017031,
+    "geom:bbox":"175.500535,-38.62922,175.64386,-38.446563",
+    "geom:latitude":-38.540233,
+    "geom:longitude":175.572912,
+    "iso:country":"",
+    "lbl:latitude":-38.542595,
+    "lbl:longitude":175.56711,
+    "mps:latitude":-38.542595,
+    "mps:longitude":175.56711,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#EAAA6E",
+    "nativeland:description":"https://native-land.ca/maps/territories/rereahu/",
+    "nativeland:id":34022,
+    "nativeland:name":"Rereahu",
+    "nativeland:slug":"rereahu",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34022
+    },
+    "wof:country":"",
+    "wof:geomhash":"159e802bd30dfbce98174acff471d0a7",
+    "wof:hierarchy":[],
+    "wof:id":1796620683,
+    "wof:lastmodified":1668367787,
+    "wof:name":"Rereahu",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.500535,
+    -38.62922,
+    175.64386,
+    -38.446563
+],
+  "geometry": {"coordinates":[[[175.604456,-38.62922],[175.51241099999999,-38.579586],[175.50053500000001,-38.559092],[175.51722899999999,-38.483366],[175.57490899999999,-38.446563],[175.603746,-38.451961],[175.64385999999999,-38.616508],[175.604456,-38.62922]]],"type":"Polygon"}
+}

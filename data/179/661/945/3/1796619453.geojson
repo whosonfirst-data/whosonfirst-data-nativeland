@@ -1,0 +1,50 @@
+{
+  "id": 1796619453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.865397,
+    "geom:bbox":"-107.402376,28.642596,-105.825733,29.87878",
+    "geom:latitude":29.243723,
+    "geom:longitude":-106.597987,
+    "iso:country":"",
+    "lbl:latitude":29.19488,
+    "lbl:longitude":-106.783123,
+    "mps:latitude":29.19488,
+    "mps:longitude":-106.783123,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#131D0C",
+    "nativeland:description":"https://native-land.ca/maps/territories/jococobas/",
+    "nativeland:id":36256,
+    "nativeland:name":"Jococobas",
+    "nativeland:slug":"jococobas",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36256
+    },
+    "wof:country":"",
+    "wof:geomhash":"1f992365d37e0048edfa9fcfc7ef6649",
+    "wof:hierarchy":[],
+    "wof:id":1796619453,
+    "wof:lastmodified":1668367756,
+    "wof:name":"Jococobas",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.402376,
+    28.642596,
+    -105.825733,
+    29.87878
+],
+  "geometry": {"coordinates":[[[-105.825733,28.830242],[-106.12509900000001,28.642596],[-106.29269499999999,28.859115],[-106.91896699999999,28.926434],[-107.402376,29.697625],[-106.801134,29.87878],[-106.594848,29.391747],[-106.528925,29.291217],[-106.37791199999999,29.262548],[-106.215783,29.339139],[-105.897149,29.319981],[-105.825733,28.830242]]],"type":"Polygon"}
+}

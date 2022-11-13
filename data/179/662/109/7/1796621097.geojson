@@ -1,0 +1,50 @@
+{
+  "id": 1796621097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.146563,
+    "geom:bbox":"-77.106091,36.815515,-76.477056,37.200864",
+    "geom:latitude":36.991518,
+    "geom:longitude":-76.804595,
+    "iso:country":"",
+    "lbl:latitude":36.993177,
+    "lbl:longitude":-76.804595,
+    "mps:latitude":36.993177,
+    "mps:longitude":-76.804595,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0F898F",
+    "nativeland:description":"https://native-land.ca/maps/territories/warraskoyack/",
+    "nativeland:id":33831,
+    "nativeland:name":"Warraskoyack",
+    "nativeland:slug":"warraskoyack",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33831
+    },
+    "wof:country":"",
+    "wof:geomhash":"9e472f8cf028513265087c25dccc2fb6",
+    "wof:hierarchy":[],
+    "wof:id":1796621097,
+    "wof:lastmodified":1668367798,
+    "wof:name":"Warraskoyack",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.106091,
+    36.815515,
+    -76.477056,
+    37.200864
+],
+  "geometry": {"coordinates":[[[-76.694254,37.191643],[-76.69136,37.200864],[-76.665314,37.194525],[-76.653015,37.167433],[-76.642079,37.113663],[-76.62471499999999,37.066917],[-76.574071,37.040357],[-76.529939,37.018987],[-76.50534,37.002233],[-76.482844,36.967176],[-76.477056,36.935376],[-76.507442,36.912241],[-76.531317,36.893728],[-76.57328,36.887363],[-76.61567599999999,36.884863],[-76.689114,36.866565],[-76.80976699999999,36.837966],[-76.875877,36.826741],[-76.941987,36.815515],[-76.98497399999999,36.842504],[-77.023954,36.896723],[-77.068028,36.949575],[-77.10609100000001,37.005589],[-77.102084,37.050371],[-77.05600800000001,37.086337],[-76.88973,37.131869],[-76.74749300000001,37.157419],[-76.694254,37.191643]]],"type":"Polygon"}
+}

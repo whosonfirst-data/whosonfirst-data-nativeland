@@ -1,0 +1,50 @@
+{
+  "id": 1796621205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.08173,
+    "geom:bbox":"-122.972289,44.054688,-122.572691,44.361511",
+    "geom:latitude":44.195955,
+    "geom:longitude":-122.786771,
+    "iso:country":"",
+    "lbl:latitude":44.203686,
+    "lbl:longitude":-122.786771,
+    "mps:latitude":44.203686,
+    "mps:longitude":-122.786771,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#593E9F",
+    "nativeland:description":"https://native-land.ca/maps/territories/mohawk-4/",
+    "nativeland:id":33784,
+    "nativeland:name":"Kalapuya (Mohawk)",
+    "nativeland:slug":"mohawk-4",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33784
+    },
+    "wof:country":"",
+    "wof:geomhash":"cdedea7bebcfd8eed964e8416f0b2494",
+    "wof:hierarchy":[],
+    "wof:id":1796621205,
+    "wof:lastmodified":1668367801,
+    "wof:name":"Kalapuya (Mohawk)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.972289,
+    44.054688,
+    -122.572691,
+    44.361511
+],
+  "geometry": {"coordinates":[[[-122.972289,44.089924],[-122.94075599999999,44.113625],[-122.9359,44.147608],[-122.96017999999999,44.187665],[-122.969892,44.224215],[-122.921331,44.278999],[-122.853347,44.323309],[-122.78657699999999,44.342413],[-122.73194599999999,44.355435],[-122.699168,44.361511],[-122.69067,44.34415],[-122.665176,44.289428],[-122.653036,44.250309],[-122.619043,44.226825],[-122.583837,44.186794],[-122.57269100000001,44.148644],[-122.625637,44.121939],[-122.689171,44.096328],[-122.754935,44.073109],[-122.827386,44.054688],[-122.870857,44.060295],[-122.912098,44.067503],[-122.945538,44.061897],[-122.96560100000001,44.060295],[-122.96448599999999,44.073109],[-122.972289,44.089924]]],"type":"Polygon"}
+}

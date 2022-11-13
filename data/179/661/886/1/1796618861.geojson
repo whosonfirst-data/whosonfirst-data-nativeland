@@ -1,0 +1,50 @@
+{
+  "id": 1796618861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.357899,
+    "geom:bbox":"-95.145281,15.964037,-93.961681,16.515099",
+    "geom:latitude":16.271239,
+    "geom:longitude":-94.566187,
+    "iso:country":"",
+    "lbl:latitude":16.325375,
+    "lbl:longitude":-94.55722,
+    "mps:latitude":16.325375,
+    "mps:longitude":-94.55722,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#B8D81F",
+    "nativeland:description":"https://native-land.ca/maps/territories/huave/",
+    "nativeland:id":36520,
+    "nativeland:name":"Ikoots/Kunajts/Ikoojts (Huave)",
+    "nativeland:slug":"huave",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36520
+    },
+    "wof:country":"",
+    "wof:geomhash":"5503c6a8333c7556bc926768d9db0b33",
+    "wof:hierarchy":[],
+    "wof:id":1796618861,
+    "wof:lastmodified":1668367743,
+    "wof:name":"Ikoots/Kunajts/Ikoojts (Huave)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.145281,
+    15.964037,
+    -93.961681,
+    16.515099
+],
+  "geometry": {"coordinates":[[[-95.124904,16.154231],[-95.145281,16.252799],[-95.11796200000001,16.345595],[-95.097606,16.390974],[-95.049238,16.407457],[-94.982299,16.441353],[-94.884242,16.47823],[-94.52087400000001,16.515099],[-94.408834,16.470882],[-94.276798,16.397299],[-94.169791,16.332608],[-94.113462,16.270756],[-94.01074199999999,16.131069],[-93.961681,15.982685],[-93.976439,15.964037],[-94.01064700000001,15.964742],[-94.366805,16.105836],[-94.578163,16.143024],[-94.920391,16.151531],[-95.124904,16.154231]]],"type":"Polygon"}
+}

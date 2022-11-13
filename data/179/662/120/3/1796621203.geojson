@@ -1,0 +1,50 @@
+{
+  "id": 1796621203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.287938,
+    "geom:bbox":"-123.156135,43.61964,-122.368913,44.14972",
+    "geom:latitude":43.893144,
+    "geom:longitude":-122.712146,
+    "iso:country":"",
+    "lbl:latitude":43.87777,
+    "lbl:longitude":-122.704648,
+    "mps:latitude":43.87777,
+    "mps:longitude":-122.704648,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#771CF6",
+    "nativeland:description":"https://native-land.ca/maps/territories/winefelly/",
+    "nativeland:id":33783,
+    "nativeland:name":"Winefelly",
+    "nativeland:slug":"winefelly",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33783
+    },
+    "wof:country":"",
+    "wof:geomhash":"444b4b1ed85bae8dc1417731e20c92fa",
+    "wof:hierarchy":[],
+    "wof:id":1796621203,
+    "wof:lastmodified":1668367801,
+    "wof:name":"Winefelly",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.156135,
+    43.61964,
+    -122.368913,
+    44.14972
+],
+  "geometry": {"coordinates":[[[-123.111841,44.12346],[-123.07599999999999,44.115189],[-123.03375800000001,44.106918],[-123.019677,44.082556],[-122.991516,44.077958],[-122.965915,44.07382],[-122.91727299999999,44.068302],[-122.85326999999999,44.056804],[-122.733493,44.080733],[-122.656204,44.109237],[-122.602937,44.136229],[-122.565337,44.14972],[-122.531915,44.132481],[-122.49327,44.125733],[-122.435306,44.10917],[-122.404062,43.994085],[-122.36891300000001,43.82104],[-122.375235,43.7671],[-122.380602,43.65848],[-122.493307,43.61964],[-122.742138,43.672068],[-122.92145600000001,43.738735],[-123.00791599999999,43.78631],[-123.08614300000001,43.905084],[-123.143783,43.994009],[-123.15613500000001,44.053218],[-123.111841,44.12346]]],"type":"Polygon"}
+}

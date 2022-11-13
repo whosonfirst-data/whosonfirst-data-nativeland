@@ -1,0 +1,50 @@
+{
+  "id": 1796618729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":6.463869,
+    "geom:bbox":"122.233887,-33.513919,125.288086,-30.855079",
+    "geom:latitude":-32.066883,
+    "geom:longitude":123.772128,
+    "iso:country":"",
+    "lbl:latitude":-32.111693,
+    "lbl:longitude":123.772128,
+    "mps:latitude":-32.111693,
+    "mps:longitude":123.772128,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#4B396D",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngatjumay/",
+    "nativeland:id":36581,
+    "nativeland:name":"Ngatjumay",
+    "nativeland:slug":"ngatjumay",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36581
+    },
+    "wof:country":"",
+    "wof:geomhash":"e192e6f59a6ce3b84d6bfd05c13b8109",
+    "wof:hierarchy":[],
+    "wof:id":1796618729,
+    "wof:lastmodified":1668367740,
+    "wof:name":"Ngatjumay",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.233887,
+    -33.513919,
+    125.288086,
+    -30.855079
+],
+  "geometry": {"coordinates":[[[122.233887,-33.054716],[122.332764,-32.528289],[122.365723,-31.94284],[122.519531,-31.015279],[122.772217,-30.911651],[123.00293000000001,-30.930501],[123.376465,-30.883369],[124.013672,-30.86451],[124.299316,-30.911651],[124.705811,-30.892797],[125.145264,-30.855079],[125.28808600000001,-30.911651],[125.28808600000001,-30.996446],[125.233154,-31.212801],[125.167236,-31.559815],[125.15625,-31.924193],[125.15625,-32.138409],[125.15625,-32.352123],[125.18920900000001,-32.481963],[125.12329099999999,-32.805745],[124.82666,-32.98102],[124.639893,-33.109948],[124.40918000000001,-33.220308],[124.354248,-33.358061],[124.13452100000001,-33.513919],[123.991699,-33.431441],[123.739014,-33.339706],[123.310547,-33.26625],[122.980957,-33.183537],[122.640381,-33.128351],[122.442627,-33.100745],[122.365723,-33.100745],[122.233887,-33.054716]]],"type":"Polygon"}
+}

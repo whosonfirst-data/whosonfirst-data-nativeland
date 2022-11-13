@@ -1,0 +1,50 @@
+{
+  "id": 1796621309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.479332,
+    "geom:bbox":"-87.496181,10.23472,-84.637579,13.243314",
+    "geom:latitude":11.542599,
+    "geom:longitude":-85.919454,
+    "iso:country":"",
+    "lbl:latitude":10.970548,
+    "lbl:longitude":-85.302255,
+    "mps:latitude":10.970548,
+    "mps:longitude":-85.302255,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#5EDFB7",
+    "nativeland:description":"https://native-land.ca/maps/territories/nicarao-nahoa/",
+    "nativeland:id":33732,
+    "nativeland:name":"Nicarao/Nahoa",
+    "nativeland:slug":"nicarao-nahoa",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33732
+    },
+    "wof:country":"",
+    "wof:geomhash":"44b052b08a5f0c504c4f7a0811be3f74",
+    "wof:hierarchy":[],
+    "wof:id":1796621309,
+    "wof:lastmodified":1668367804,
+    "wof:name":"Nicarao/Nahoa",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.496181,
+    10.23472,
+    -84.637579,
+    13.243314
+],
+  "geometry": {"coordinates":[[[-87.46614599999999,12.732469],[-87.48755300000001,12.855915],[-87.49618100000001,13.066446],[-87.423991,13.194728],[-87.24232600000001,13.243314],[-87.115449,13.168368],[-87.00135,13.043608],[-86.797803,12.744357],[-86.613423,12.426023],[-86.335876,12.177857],[-86.08388600000001,12.019134],[-85.931708,11.871164],[-85.71617999999999,11.704742],[-85.462086,11.570111],[-85.290199,11.522928],[-85.09236799999999,11.450386],[-84.86430900000001,11.372627],[-84.746814,11.26673],[-84.652694,11.102076],[-84.637579,10.913088],[-84.64918900000001,10.724398],[-84.718886,10.498103],[-84.814139,10.359648],[-85.03075,10.23472],[-85.21113,10.250455],[-85.483216,10.353366],[-85.646378,10.562707],[-85.909353,10.922198],[-85.963745,10.999143],[-86.079615,11.181965],[-86.133852,11.312424],[-86.17592999999999,11.432055],[-86.284313,11.554834],[-86.832142,12.038828],[-87.252188,12.453318],[-87.46614599999999,12.732469]]],"type":"Polygon"}
+}

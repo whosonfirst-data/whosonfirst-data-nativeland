@@ -1,0 +1,50 @@
+{
+  "id": 1796619899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.204948,
+    "geom:bbox":"-120.333065,34.50667,-119.402809,34.900331",
+    "geom:latitude":34.69035,
+    "geom:longitude":-119.927112,
+    "iso:country":"",
+    "lbl:latitude":34.705138,
+    "lbl:longitude":-119.958825,
+    "mps:latitude":34.705138,
+    "mps:longitude":-119.958825,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#E6AB42",
+    "nativeland:description":"https://native-land.ca/maps/territories/ineseno/",
+    "nativeland:id":36057,
+    "nativeland:name":"Inese\u00f1o",
+    "nativeland:slug":"ineseno",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36057
+    },
+    "wof:country":"",
+    "wof:geomhash":"b8f49cc06b1be036a7a4972045d5de10",
+    "wof:hierarchy":[],
+    "wof:id":1796619899,
+    "wof:lastmodified":1668367767,
+    "wof:name":"Inese\u00f1o",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.333065,
+    34.50667,
+    -119.402809,
+    34.900331
+],
+  "geometry": {"coordinates":[[[-119.428043,34.670035],[-119.423126,34.601029],[-119.40752500000001,34.546818],[-119.402809,34.50667],[-119.55298000000001,34.529305],[-119.606014,34.521925],[-119.67304300000001,34.529919],[-119.73556600000001,34.556151],[-119.888604,34.577866],[-120.053184,34.590372],[-120.27247,34.597968],[-120.303343,34.601897],[-120.315459,34.663704],[-120.32742500000001,34.798489],[-120.333065,34.900331],[-120.28442,34.893742],[-120.250998,34.891442],[-120.20189499999999,34.898192],[-120.14576099999999,34.885771],[-120.076638,34.874971],[-120.018051,34.847798],[-119.9743,34.83076],[-119.916132,34.816906],[-119.80017100000001,34.756187],[-119.62264399999999,34.700244],[-119.493651,34.689756],[-119.428043,34.670035]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796620289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":3.868517,
+    "geom:bbox":"127.716064,-21.268899,130.572509,-19.238549",
+    "geom:latitude":-20.278985,
+    "geom:longitude":128.988987,
+    "iso:country":"",
+    "lbl:latitude":-20.273921,
+    "lbl:longitude":128.988987,
+    "mps:latitude":-20.273921,
+    "mps:longitude":128.988987,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#79A560",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngarti/",
+    "nativeland:id":35885,
+    "nativeland:name":"Ngarti",
+    "nativeland:slug":"ngarti",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35885
+    },
+    "wof:country":"",
+    "wof:geomhash":"a067c57192e5f0656543d91878debbe7",
+    "wof:hierarchy":[],
+    "wof:id":1796620289,
+    "wof:lastmodified":1668367777,
+    "wof:name":"Ngarti",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.716064,
+    -21.268899,
+    130.572509,
+    -19.238549
+],
+  "geometry": {"coordinates":[[[127.73803700000001,-19.456233],[127.957763,-19.311143],[128.40819999999999,-19.238549],[128.73779200000001,-19.238549],[128.88061500000001,-19.394067],[129.10033799999999,-19.549437],[129.39697200000001,-19.704657],[129.75952100000001,-19.828725],[130.067138,-20.04561],[130.28686500000001,-20.220965],[130.572509,-20.519644],[130.54504299999999,-20.78693],[130.49011200000001,-20.915265],[130.38024799999999,-21.079374],[130.11108300000001,-21.268899],[129.99023099999999,-21.145992],[129.62768500000001,-20.930658],[129.375,-21.043491],[129.188232,-21.145992],[128.89160100000001,-21.043491],[128.43017399999999,-20.992214],[128.133544,-20.910134],[127.880859,-20.735565],[127.73803700000001,-20.601936],[127.760009,-20.488773],[127.716064,-20.40642],[127.716064,-20.117839],[127.716064,-19.808054],[127.73803700000001,-19.456233]]],"type":"Polygon"}
+}

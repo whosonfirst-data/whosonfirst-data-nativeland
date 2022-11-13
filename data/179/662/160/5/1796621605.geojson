@@ -1,0 +1,50 @@
+{
+  "id": 1796621605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.126124,
+    "geom:bbox":"-119.724108,33.048229,-119.262062,33.411372",
+    "geom:latitude":33.226738,
+    "geom:longitude":-119.493106,
+    "iso:country":"",
+    "lbl:latitude":33.228827,
+    "lbl:longitude":-119.493106,
+    "mps:latitude":33.228827,
+    "mps:longitude":-119.493106,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#294EA7",
+    "nativeland:description":"https://native-land.ca/maps/territories/nicoleno/",
+    "nativeland:id":33591,
+    "nativeland:name":"Nicole\u00f1o",
+    "nativeland:slug":"nicoleno",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33591
+    },
+    "wof:country":"",
+    "wof:geomhash":"f255dfe2a18e8fa92bc9450a86058c09",
+    "wof:hierarchy":[],
+    "wof:id":1796621605,
+    "wof:lastmodified":1668367812,
+    "wof:name":"Nicole\u00f1o",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.724108,
+    33.048229,
+    -119.262062,
+    33.411372
+],
+  "geometry": {"coordinates":[[[-119.692223,33.341445],[-119.640973,33.382329],[-119.547499,33.411372],[-119.44493,33.396143],[-119.37745,33.361213],[-119.315106,33.306243],[-119.282157,33.270987],[-119.262905,33.232853],[-119.262062,33.179463],[-119.27773000000001,33.141306],[-119.293398,33.103133],[-119.356071,33.064943],[-119.458626,33.048229],[-119.552635,33.064943],[-119.62670199999999,33.095973],[-119.689375,33.158002],[-119.716685,33.209984],[-119.724108,33.267626],[-119.692223,33.341445]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796618465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.064121,
+    "geom:bbox":"142.013107,-10.421754,142.21534,-9.995304",
+    "geom:latitude":-10.204964,
+    "geom:longitude":142.107013,
+    "iso:country":"",
+    "lbl:latitude":-10.212978,
+    "lbl:longitude":142.105086,
+    "mps:latitude":-10.212978,
+    "mps:longitude":142.105086,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/badulgal/",
+    "nativeland:id":37627,
+    "nativeland:name":"Mura Badulgal",
+    "nativeland:slug":"badulgal",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37627
+    },
+    "wof:country":"",
+    "wof:geomhash":"5720668317b256d4bd8c842e4696780e",
+    "wof:hierarchy":[],
+    "wof:id":1796618465,
+    "wof:lastmodified":1668367733,
+    "wof:name":"Mura Badulgal",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.013107,
+    -10.421754,
+    142.21534,
+    -9.995304
+],
+  "geometry": {"coordinates":[[[142.103846,-9.995304],[142.156362,-10.002449],[142.19546099999999,-10.031119],[142.21534,-10.082805],[142.207199,-10.124187],[142.18490700000001,-10.168229],[142.178065,-10.187996],[142.184686,-10.206893],[142.16812999999999,-10.367681],[142.14870199999999,-10.406985],[142.09475900000001,-10.421754],[142.04750100000001,-10.413041],[142.022186,-10.393922],[142.01310699999999,-10.356954],[142.027218,-10.19803],[142.04370900000001,-10.030963],[142.06362100000001,-10.004224],[142.103846,-9.995304]]],"type":"Polygon"}
+}

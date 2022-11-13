@@ -1,0 +1,50 @@
+{
+  "id": 1796621087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.041515,
+    "geom:bbox":"-77.175414,37.946918,-76.84327,38.150333",
+    "geom:latitude":38.044133,
+    "geom:longitude":-77.012098,
+    "iso:country":"",
+    "lbl:latitude":38.04609,
+    "lbl:longitude":-77.012098,
+    "mps:latitude":38.04609,
+    "mps:longitude":-77.012098,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#39A611",
+    "nativeland:description":"https://native-land.ca/maps/territories/pissaseck/",
+    "nativeland:id":33839,
+    "nativeland:name":"Pissaseck",
+    "nativeland:slug":"pissaseck",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33839
+    },
+    "wof:country":"",
+    "wof:geomhash":"4c9ad277fac64b0a229ccef5cf728987",
+    "wof:hierarchy":[],
+    "wof:id":1796621087,
+    "wof:lastmodified":1668367798,
+    "wof:name":"Pissaseck",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.175414,
+    37.946918,
+    -76.84327,
+    38.150333
+],
+  "geometry": {"coordinates":[[[-77.15752999999999,38.050778],[-77.10400799999999,38.082381],[-77.05792,38.104612],[-77.018615,38.118649],[-76.976753,38.142258],[-76.93489099999999,38.150333],[-76.91277599999999,38.139773],[-76.875653,38.10622],[-76.84563900000001,38.073273],[-76.84327,38.040933],[-76.888291,38.018536],[-76.94358,37.994887],[-77.06833899999999,37.949309],[-77.129453,37.946918],[-77.167378,37.975753],[-77.175414,38.021585],[-77.15752999999999,38.050778]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796618957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.851849,
+    "geom:bbox":"-103.922068,25.197005,-101.318145,27.068421",
+    "geom:latitude":26.049637,
+    "geom:longitude":-102.635996,
+    "iso:country":"",
+    "lbl:latitude":26.047438,
+    "lbl:longitude":-102.527499,
+    "mps:latitude":26.047438,
+    "mps:longitude":-102.527499,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#4FFE2C",
+    "nativeland:description":"https://native-land.ca/maps/territories/irritilas-lagunero/",
+    "nativeland:id":36476,
+    "nativeland:name":"Irritilas/Lagunero",
+    "nativeland:slug":"irritilas-lagunero",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36476
+    },
+    "wof:country":"",
+    "wof:geomhash":"0fec17c7ddfff746c01b53a4e5f1a664",
+    "wof:hierarchy":[],
+    "wof:id":1796618957,
+    "wof:lastmodified":1668367745,
+    "wof:name":"Irritilas/Lagunero",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.922068,
+    25.197005,
+    -101.318145,
+    27.068421
+],
+  "geometry": {"coordinates":[[[-103.562005,25.197005],[-103.81366800000001,25.471793],[-103.922068,25.664288],[-103.78739899999999,25.760517],[-103.784297,25.985526],[-103.562298,26.254245],[-103.313158,26.39946],[-102.97317099999999,26.564511],[-102.740903,26.755556],[-102.704487,27.068421],[-102.490427,27.054601],[-102.309952,27.047693],[-102.08051500000001,27.005889],[-101.93498700000001,26.685624],[-101.70554199999999,26.485721],[-101.48589,26.329358],[-101.33836599999999,26.204286],[-101.318145,26.04389],[-102.471419,25.27055],[-102.851079,25.297981],[-103.31562599999999,25.302857],[-103.562005,25.197005]]],"type":"Polygon"}
+}

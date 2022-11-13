@@ -1,0 +1,50 @@
+{
+  "id": 1796618441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.046983,
+    "geom:bbox":"143.235981,-9.600514,143.604302,-9.43881",
+    "geom:latitude":-9.516143,
+    "geom:longitude":143.426365,
+    "iso:country":"",
+    "lbl:latitude":-9.518937,
+    "lbl:longitude":143.426364,
+    "mps:latitude":-9.518937,
+    "mps:longitude":143.426364,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/ugarem-le/",
+    "nativeland:id":37759,
+    "nativeland:name":"Ugarem Le",
+    "nativeland:slug":"ugarem-le",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37759
+    },
+    "wof:country":"",
+    "wof:geomhash":"a9188f616fa264f12252f2ba9ec6475b",
+    "wof:hierarchy":[],
+    "wof:id":1796618441,
+    "wof:lastmodified":1668367733,
+    "wof:name":"Ugarem Le",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.235981,
+    -9.600514,
+    143.604302,
+    -9.43881
+],
+  "geometry": {"coordinates":[[[143.54093499999999,-9.445842],[143.60430199999999,-9.491938],[143.59796499999999,-9.548962],[143.56469799999999,-9.576302],[143.50251900000001,-9.599342],[143.441924,-9.600514],[143.35835900000001,-9.591141],[143.271625,-9.550526],[143.23598100000001,-9.502094],[143.23756499999999,-9.478265],[143.26132799999999,-9.457561],[143.32311100000001,-9.447405],[143.43004300000001,-9.43881],[143.54093499999999,-9.445842]]],"type":"Polygon"}
+}

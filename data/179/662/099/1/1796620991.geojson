@@ -1,0 +1,50 @@
+{
+  "id": 1796620991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.280464,
+    "geom:bbox":"145.694257,-41.473143,146.656091,-41.042206",
+    "geom:latitude":-41.240699,
+    "geom:longitude":146.23232,
+    "iso:country":"",
+    "lbl:latitude":-41.240899,
+    "lbl:longitude":146.23232,
+    "mps:latitude":-41.240899,
+    "mps:longitude":146.23232,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#EFDA9C",
+    "nativeland:description":"https://native-land.ca/maps/territories/tommeginne/",
+    "nativeland:id":33881,
+    "nativeland:name":"Tommeginne",
+    "nativeland:slug":"tommeginne",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33881
+    },
+    "wof:country":"",
+    "wof:geomhash":"a9848c82ee888c288c6af55f93430edd",
+    "wof:hierarchy":[],
+    "wof:id":1796620991,
+    "wof:lastmodified":1668367795,
+    "wof:name":"Tommeginne",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.694257,
+    -41.473143,
+    146.656091,
+    -41.042206
+],
+  "geometry": {"coordinates":[[[145.949409,-41.042206],[145.98056500000001,-41.063873],[146.11566999999999,-41.091649],[146.36541,-41.091649],[146.53326799999999,-41.09782],[146.639714,-41.07622],[146.65199699999999,-41.144083],[146.65199699999999,-41.273445],[146.656091,-41.396409],[146.63152600000001,-41.460872],[146.52917400000001,-41.473143],[146.36541,-41.424044],[146.21110300000001,-41.384745],[146.134389,-41.371954],[146.017897,-41.367689],[145.89004,-41.327162],[145.810485,-41.301554],[145.716724,-41.24817],[145.69425699999999,-41.183788],[145.77325099999999,-41.106463],[145.864172,-41.055062],[145.949409,-41.042206]]],"type":"Polygon"}
+}

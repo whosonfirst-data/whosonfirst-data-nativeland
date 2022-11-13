@@ -1,0 +1,50 @@
+{
+  "id": 1796621109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.036995,
+    "geom:bbox":"-76.659027,37.846574,-76.400709,38.05952",
+    "geom:latitude":37.95355,
+    "geom:longitude":-76.52279,
+    "iso:country":"",
+    "lbl:latitude":37.953455,
+    "lbl:longitude":-76.52033,
+    "mps:latitude":37.953455,
+    "mps:longitude":-76.52033,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#B5A8A0",
+    "nativeland:description":"https://native-land.ca/maps/territories/sekakawon/",
+    "nativeland:id":33825,
+    "nativeland:name":"Sekakawon",
+    "nativeland:slug":"sekakawon",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33825
+    },
+    "wof:country":"",
+    "wof:geomhash":"4f3dc53cfcdf54a9eca30219fca66fec",
+    "wof:hierarchy":[],
+    "wof:id":1796621109,
+    "wof:lastmodified":1668367798,
+    "wof:name":"Sekakawon",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.659027,
+    37.846574,
+    -76.400709,
+    38.05952
+],
+  "geometry": {"coordinates":[[[-76.516659,38.05952],[-76.484369,38.045651],[-76.430063,38.016749],[-76.40070900000001,37.982051],[-76.40804799999999,37.956596],[-76.41978899999999,37.911449],[-76.43886999999999,37.876702],[-76.460885,37.858163],[-76.50491700000001,37.846574],[-76.540142,37.85121],[-76.55922200000001,37.860481],[-76.59738299999999,37.895236],[-76.650221,37.942708],[-76.65902699999999,37.968168],[-76.63407599999999,38.001715],[-76.604721,38.02253],[-76.562158,38.044495],[-76.516659,38.05952]]],"type":"Polygon"}
+}

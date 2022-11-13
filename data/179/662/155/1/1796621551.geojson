@@ -1,0 +1,50 @@
+{
+  "id": 1796621551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003737,
+    "geom:bbox":"-118.089789,34.010349,-118.003011,34.069846",
+    "geom:latitude":34.042984,
+    "geom:longitude":-118.051092,
+    "iso:country":"",
+    "lbl:latitude":34.040566,
+    "lbl:longitude":-118.056257,
+    "mps:latitude":34.040566,
+    "mps:longitude":-118.056257,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#F39EE0",
+    "nativeland:description":"https://native-land.ca/maps/territories/kizh-gabrieleno/",
+    "nativeland:id":33622,
+    "nativeland:name":"Kizh (Gabrieleno)",
+    "nativeland:slug":"kizh-gabrieleno",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33622
+    },
+    "wof:country":"",
+    "wof:geomhash":"59f1a64a5b435f3dc1f531cd0da2a16c",
+    "wof:hierarchy":[],
+    "wof:id":1796621551,
+    "wof:lastmodified":1668367811,
+    "wof:name":"Kizh (Gabrieleno)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.089789,
+    34.010349,
+    -118.003011,
+    34.069846
+],
+  "geometry": {"coordinates":[[[-118.073588,34.012128],[-118.083579,34.021112],[-118.085635,34.033431],[-118.089789,34.042214],[-118.089201,34.05568],[-118.08474699999999,34.061861],[-118.073544,34.06925],[-118.048327,34.069846],[-118.01485,34.063686],[-118.003011,34.052137],[-118.00667300000001,34.041418],[-118.030907,34.024622],[-118.048019,34.012761],[-118.06344,34.010349],[-118.073588,34.012128]]],"type":"Polygon"}
+}

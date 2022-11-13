@@ -1,0 +1,50 @@
+{
+  "id": 1796621729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.161675,
+    "geom:bbox":"-62.996489,-12.47449,-62.556511,-11.992986",
+    "geom:latitude":-12.243006,
+    "geom:longitude":-62.768913,
+    "iso:country":"",
+    "lbl:latitude":-12.25369,
+    "lbl:longitude":-62.773103,
+    "mps:latitude":-12.25369,
+    "mps:longitude":-62.773103,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#5C42FD",
+    "nativeland:description":"https://native-land.ca/maps/territories/tupari/",
+    "nativeland:id":33500,
+    "nativeland:name":"Tupari",
+    "nativeland:slug":"tupari",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33500
+    },
+    "wof:country":"",
+    "wof:geomhash":"11526dabd29fadeff7c4bbb0c2f24d86",
+    "wof:hierarchy":[],
+    "wof:id":1796621729,
+    "wof:lastmodified":1668367816,
+    "wof:name":"Tupari",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.996489,
+    -12.47449,
+    -62.556511,
+    -11.992986
+],
+  "geometry": {"coordinates":[[[-62.984092,-12.375794],[-62.989847,-12.35256],[-62.996489,-12.312185],[-62.992799,-12.259545],[-62.983943,-12.233676],[-62.961065,-12.159378],[-62.921213,-12.103099],[-62.855531,-12.059078],[-62.821575,-12.036462],[-62.781723,-12.01553],[-62.733753,-11.99604],[-62.710481,-11.992986],[-62.663987,-12.001648],[-62.616755,-12.035574],[-62.58908,-12.06697],[-62.574689,-12.096918],[-62.560667,-12.170513],[-62.556511,-12.218749],[-62.567116,-12.282841],[-62.586304,-12.34629],[-62.609941,-12.385502],[-62.637895,-12.422071],[-62.693155,-12.465841],[-62.730483,-12.47449],[-62.815362,-12.465968],[-62.862833,-12.456776],[-62.89879,-12.448125],[-62.936857,-12.425267],[-62.960227,-12.407835],[-62.984092,-12.375794]]],"type":"Polygon"}
+}

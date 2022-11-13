@@ -1,0 +1,50 @@
+{
+  "id": 1796618921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008717,
+    "geom:bbox":"-94.825877,36.768535,-94.618361,36.820249",
+    "geom:latitude":36.796179,
+    "geom:longitude":-94.705782,
+    "iso:country":"",
+    "lbl:latitude":36.794647,
+    "lbl:longitude":-94.705782,
+    "mps:latitude":36.794647,
+    "mps:longitude":-94.705782,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#A093A1",
+    "nativeland:description":"https://native-land.ca/maps/territories/wyandotte-oklahoma/",
+    "nativeland:id":36494,
+    "nativeland:name":"Wyandotte (Oklahoma)",
+    "nativeland:slug":"wyandotte-oklahoma",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36494
+    },
+    "wof:country":"",
+    "wof:geomhash":"b4e6fb568209feb6ba4dd836773202dd",
+    "wof:hierarchy":[],
+    "wof:id":1796618921,
+    "wof:lastmodified":1668367744,
+    "wof:name":"Wyandotte (Oklahoma)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.825877,
+    36.768535,
+    -94.618361,
+    36.820249
+],
+  "geometry": {"coordinates":[[[-94.618489,36.769711],[-94.782151,36.768535],[-94.75264799999999,36.792203],[-94.82587700000001,36.799846],[-94.801984,36.820249],[-94.74117,36.82023],[-94.61836099999999,36.820159],[-94.618489,36.769711]]],"type":"Polygon"}
+}

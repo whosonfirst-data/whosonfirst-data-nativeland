@@ -1,0 +1,50 @@
+{
+  "id": 1796620451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.449122,
+    "geom:bbox":"-101.531597,16.966682,-100.169857,18.437626",
+    "geom:latitude":17.749659,
+    "geom:longitude":-100.790264,
+    "iso:country":"",
+    "lbl:latitude":17.733207,
+    "lbl:longitude":-100.777295,
+    "mps:latitude":17.733207,
+    "mps:longitude":-100.777295,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#F508A1",
+    "nativeland:description":"https://native-land.ca/maps/territories/cuitlatec/",
+    "nativeland:id":35810,
+    "nativeland:name":"Cuitlatec",
+    "nativeland:slug":"cuitlatec",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35810
+    },
+    "wof:country":"",
+    "wof:geomhash":"7ca005491f98df692cfd6c766658abeb",
+    "wof:hierarchy":[],
+    "wof:id":1796620451,
+    "wof:lastmodified":1668367780,
+    "wof:name":"Cuitlatec",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.531597,
+    16.966682,
+    -100.169857,
+    18.437626
+],
+  "geometry": {"coordinates":[[[-100.923305,17.182253],[-101.087628,17.265947],[-101.264087,17.407514],[-101.40260600000001,17.478224],[-101.465245,17.507716],[-101.523752,17.68533],[-101.531597,18.002009],[-101.468459,18.208584],[-101.278561,18.277523],[-100.973316,18.321167],[-100.70407,18.326039],[-100.592612,18.341238],[-100.48115300000001,18.389476],[-100.313942,18.386828],[-100.272037,18.417612],[-100.242898,18.437626],[-100.220602,18.419179],[-100.224071,18.356719],[-100.234461,18.205761],[-100.26960699999999,18.082913],[-100.196101,17.865237],[-100.179681,17.5836],[-100.16985699999999,17.444304],[-100.231577,17.251162],[-100.23294199999999,17.081859],[-100.24579900000001,16.966682],[-100.477934,17.043269],[-100.702004,17.12079],[-100.923305,17.182253]]],"type":"Polygon"}
+}

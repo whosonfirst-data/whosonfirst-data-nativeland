@@ -1,0 +1,50 @@
+{
+  "id": 1796620287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.151294,
+    "geom:bbox":"-124.525251,47.646475,-123.555802,47.926862",
+    "geom:latitude":47.813253,
+    "geom:longitude":-124.062628,
+    "iso:country":"",
+    "lbl:latitude":47.828655,
+    "lbl:longitude":-124.069973,
+    "mps:latitude":47.828655,
+    "mps:longitude":-124.069973,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#B8293D",
+    "nativeland:description":"https://native-land.ca/maps/territories/hoh/",
+    "nativeland:id":35884,
+    "nativeland:name":"ChalAt\u2019i\u2019lo t\u2019sikAti (Chalat\u2019)",
+    "nativeland:slug":"hoh",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35884
+    },
+    "wof:country":"",
+    "wof:geomhash":"2e1e556791f539910cf26ad8751462c1",
+    "wof:hierarchy":[],
+    "wof:id":1796620287,
+    "wof:lastmodified":1668367776,
+    "wof:name":"ChalAt\u2019i\u2019lo t\u2019sikAti (Chalat\u2019)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.525251,
+    47.646475,
+    -123.555802,
+    47.926862
+],
+  "geometry": {"coordinates":[[[-124.522884,47.789489],[-124.525251,47.813495],[-124.489242,47.830795],[-124.45323399999999,47.840538],[-124.335936,47.866727],[-124.236239,47.887554],[-124.099468,47.912716],[-123.97548999999999,47.916355],[-123.893226,47.914924],[-123.790041,47.921868],[-123.740543,47.926862],[-123.68875199999999,47.924293],[-123.620344,47.90625],[-123.59784000000001,47.881534],[-123.574502,47.85477],[-123.555802,47.830999],[-123.55678899999999,47.805328],[-123.572869,47.79295],[-123.68778500000001,47.774474],[-123.89832699999999,47.759774],[-124.05376800000001,47.746183],[-124.15209900000001,47.731287],[-124.26897,47.697837],[-124.402108,47.646475],[-124.43265700000001,47.657885],[-124.451972,47.679926],[-124.47196099999999,47.720827],[-124.504504,47.760497],[-124.522884,47.789489]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796621197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.158554,
+    "geom:bbox":"-123.259439,44.150555,-122.703725,44.648692",
+    "geom:latitude":44.398648,
+    "geom:longitude":-123.019858,
+    "iso:country":"",
+    "lbl:latitude":44.387722,
+    "lbl:longitude":-123.024068,
+    "mps:latitude":44.387722,
+    "mps:longitude":-123.024068,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#DBB5E2",
+    "nativeland:description":"https://native-land.ca/maps/territories/tsankupi/",
+    "nativeland:id":33786,
+    "nativeland:name":"Tsankupi",
+    "nativeland:slug":"tsankupi",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33786
+    },
+    "wof:country":"",
+    "wof:geomhash":"8c24cea91c3dc6da18724bca446b6753",
+    "wof:hierarchy":[],
+    "wof:id":1796621197,
+    "wof:lastmodified":1668367801,
+    "wof:name":"Tsankupi",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.259439,
+    44.150555,
+    -122.703725,
+    44.648692
+],
+  "geometry": {"coordinates":[[[-123.077253,44.648692],[-123.05255200000001,44.646369],[-123.02738100000001,44.611316],[-122.950693,44.535061],[-122.881332,44.497909],[-122.827327,44.461601],[-122.75270500000001,44.400271],[-122.719058,44.407536],[-122.70372500000001,44.341497],[-122.81183,44.27915],[-122.872317,44.219362],[-122.947408,44.203609],[-123.031656,44.219362],[-123.104916,44.174717],[-123.12630299999999,44.150555],[-123.160748,44.19881],[-123.150256,44.227429],[-123.180069,44.248248],[-123.213151,44.309824],[-123.244378,44.332166],[-123.232623,44.353102],[-123.238418,44.372612],[-123.242189,44.384411],[-123.206886,44.410166],[-123.206886,44.481451],[-123.248929,44.531424],[-123.259439,44.56638],[-123.196375,44.595078],[-123.182361,44.636228],[-123.129807,44.636228],[-123.077253,44.648692]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796621719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.494562,
+    "geom:bbox":"-63.918881,-12.399092,-62.847506,-11.719745",
+    "geom:latitude":-12.065904,
+    "geom:longitude":-63.355642,
+    "iso:country":"",
+    "lbl:latitude":-12.103801,
+    "lbl:longitude":-63.345439,
+    "mps:latitude":-12.103801,
+    "mps:longitude":-63.345439,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#B39AF4",
+    "nativeland:description":"https://native-land.ca/maps/territories/purubora/",
+    "nativeland:id":33503,
+    "nativeland:name":"Purubor\u00e1",
+    "nativeland:slug":"purubora",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33503
+    },
+    "wof:country":"",
+    "wof:geomhash":"85ce559ce3cd2892cb838b06fffff408",
+    "wof:hierarchy":[],
+    "wof:id":1796621719,
+    "wof:lastmodified":1668367816,
+    "wof:name":"Purubor\u00e1",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.918881,
+    -12.399092,
+    -62.847506,
+    -11.719745
+],
+  "geometry": {"coordinates":[[[-63.918881,-12.131387],[-63.909097,-12.070398],[-63.874852,-11.999825],[-63.725642,-11.911284],[-63.588663,-11.8682],[-63.439453,-11.832291],[-63.29269,-11.796377],[-63.204631,-11.758064],[-63.128803,-11.7413],[-63.0065,-11.719745],[-62.92578,-11.731721],[-62.881751,-11.764051],[-62.852399,-11.815532],[-62.847506,-11.913678],[-62.874413,-11.985469],[-62.90132,-12.057242],[-62.99427,-12.193557],[-63.035853,-12.236589],[-63.111681,-12.327412],[-63.241322,-12.375201],[-63.336719,-12.399092],[-63.417439,-12.391925],[-63.605785,-12.344139],[-63.754995,-12.296344],[-63.828377,-12.273639],[-63.887083,-12.222246],[-63.918881,-12.131387]]],"type":"Polygon"}
+}

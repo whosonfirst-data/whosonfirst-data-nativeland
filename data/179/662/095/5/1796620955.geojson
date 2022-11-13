@@ -1,0 +1,50 @@
+{
+  "id": 1796620955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000184,
+    "geom:bbox":"-80.221085,26.031863,-80.204226,26.054128",
+    "geom:latitude":26.041957,
+    "geom:longitude":-80.212417,
+    "iso:country":"",
+    "lbl:latitude":26.039529,
+    "lbl:longitude":-80.21031,
+    "mps:latitude":26.039529,
+    "mps:longitude":-80.21031,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#B7FE4F",
+    "nativeland:description":"https://native-land.ca/maps/territories/seminole-tribe-of-florida-hollywood-reservation/",
+    "nativeland:id":33898,
+    "nativeland:name":"Seminole Tribe of Florida (Hollywood Reservation)",
+    "nativeland:slug":"seminole-tribe-of-florida-hollywood-reservation",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33898
+    },
+    "wof:country":"",
+    "wof:geomhash":"9249b2638f38912cf50faaa784ba9852",
+    "wof:hierarchy":[],
+    "wof:id":1796620955,
+    "wof:lastmodified":1668367795,
+    "wof:name":"Seminole Tribe of Florida (Hollywood Reservation)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.221085,
+    26.031863,
+    -80.204226,
+    26.054128
+],
+  "geometry": {"coordinates":[[[-80.215261,26.05395],[-80.207683,26.054128],[-80.207657,26.049569],[-80.20842,26.049478],[-80.20828,26.0467],[-80.20894699999999,26.04679],[-80.208885,26.043155],[-80.20483900000001,26.043155],[-80.20422600000001,26.035829],[-80.216487,26.035609],[-80.216426,26.032028],[-80.220901,26.031863],[-80.221085,26.039134],[-80.216916,26.039244],[-80.216793,26.046019],[-80.21495400000001,26.046019],[-80.214832,26.042659],[-80.21268600000001,26.042549],[-80.212931,26.046349],[-80.21047900000001,26.04657],[-80.21047900000001,26.05026],[-80.21329900000001,26.050205],[-80.213177,26.04657],[-80.214893,26.046459],[-80.215261,26.05395]]],"type":"Polygon"}
+}

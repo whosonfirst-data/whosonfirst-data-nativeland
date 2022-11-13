@@ -1,0 +1,50 @@
+{
+  "id": 1796621081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.086562,
+    "geom:bbox":"-77.551343,37.542278,-77.101835,37.810199",
+    "geom:latitude":37.672461,
+    "geom:longitude":-77.335895,
+    "iso:country":"",
+    "lbl:latitude":37.682758,
+    "lbl:longitude":-77.385127,
+    "mps:latitude":37.682758,
+    "mps:longitude":-77.385127,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#5AEEBD",
+    "nativeland:description":"https://native-land.ca/maps/territories/youghtanund/",
+    "nativeland:id":33837,
+    "nativeland:name":"Youghtanund",
+    "nativeland:slug":"youghtanund",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33837
+    },
+    "wof:country":"",
+    "wof:geomhash":"80ca6c63ff33100a64996a5011941929",
+    "wof:hierarchy":[],
+    "wof:id":1796621081,
+    "wof:lastmodified":1668367798,
+    "wof:name":"Youghtanund",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.551343,
+    37.542278,
+    -77.101835,
+    37.810199
+],
+  "geometry": {"coordinates":[[[-77.14,37.602115],[-77.167484,37.574144],[-77.222492,37.542278],[-77.318755,37.548988],[-77.41396,37.55989],[-77.481662,37.595102],[-77.532438,37.642024],[-77.55019900000001,37.659378],[-77.551343,37.72168],[-77.518792,37.771403],[-77.49034399999999,37.792646],[-77.42052700000001,37.810199],[-77.373982,37.808527],[-77.33378399999999,37.794318],[-77.286182,37.762546],[-77.234393,37.750674],[-77.16370499999999,37.739119],[-77.12927500000001,37.722465],[-77.114749,37.700916],[-77.10183499999999,37.679264],[-77.10463,37.660453],[-77.10608000000001,37.647102],[-77.121094,37.632176],[-77.129058,37.620291],[-77.14,37.602115]]],"type":"Polygon"}
+}

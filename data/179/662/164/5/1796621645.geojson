@@ -1,0 +1,50 @@
+{
+  "id": 1796621645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.019828,
+    "geom:bbox":"-72.765473,41.75215,-72.619369,41.924334",
+    "geom:latitude":41.841471,
+    "geom:longitude":-72.69495,
+    "iso:country":"",
+    "lbl:latitude":41.843501,
+    "lbl:longitude":-72.700864,
+    "mps:latitude":41.843501,
+    "mps:longitude":-72.700864,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#F9FF74",
+    "nativeland:description":"https://native-land.ca/maps/territories/poquonook/",
+    "nativeland:id":33549,
+    "nativeland:name":"Poquonook",
+    "nativeland:slug":"poquonook",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33549
+    },
+    "wof:country":"",
+    "wof:geomhash":"2db2da09c9c383584e1b509558c91d38",
+    "wof:hierarchy":[],
+    "wof:id":1796621645,
+    "wof:lastmodified":1668367813,
+    "wof:name":"Poquonook",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.765473,
+    41.75215,
+    -72.619369,
+    41.924334
+],
+  "geometry": {"coordinates":[[[-72.62617,41.923737],[-72.623563,41.919778],[-72.62176599999999,41.907295],[-72.620268,41.888324],[-72.61936900000001,41.868028],[-72.624162,41.848618],[-72.633448,41.835229],[-72.643034,41.821836],[-72.64632899999999,41.803752],[-72.646928,41.789906],[-72.650522,41.781866],[-72.66430200000001,41.77293],[-72.672389,41.75796],[-72.683173,41.75215],[-72.708635,41.75215],[-72.737134,41.756258],[-72.75121300000001,41.768547],[-72.76199699999999,41.780164],[-72.764481,41.797853],[-72.765473,41.82258],[-72.762019,41.858603],[-72.755112,41.886036],[-72.73957,41.903604],[-72.71942300000001,41.915171],[-72.68809299999999,41.920208],[-72.63961500000001,41.924334],[-72.62617,41.923737]]],"type":"Polygon"}
+}

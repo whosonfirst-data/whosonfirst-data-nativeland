@@ -1,0 +1,50 @@
+{
+  "id": 1796621659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.291203,
+    "geom:bbox":"-101.35595,21.47739,-100.435037,21.974334",
+    "geom:latitude":21.754282,
+    "geom:longitude":-100.831664,
+    "iso:country":"",
+    "lbl:latitude":21.781518,
+    "lbl:longitude":-100.822894,
+    "mps:latitude":21.781518,
+    "mps:longitude":-100.822894,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#343A93",
+    "nativeland:description":"https://native-land.ca/maps/territories/copuces/",
+    "nativeland:id":33535,
+    "nativeland:name":"Copuces",
+    "nativeland:slug":"copuces",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33535
+    },
+    "wof:country":"",
+    "wof:geomhash":"df890fff1380954fbe7ac156dccde3b8",
+    "wof:hierarchy":[],
+    "wof:id":1796621659,
+    "wof:lastmodified":1668367814,
+    "wof:name":"Copuces",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.35595,
+    21.47739,
+    -100.435037,
+    21.974334
+],
+  "geometry": {"coordinates":[[[-101.35595000000001,21.836349],[-101.33239,21.872543],[-101.25733700000001,21.90973],[-101.114864,21.957108],[-100.999702,21.967444],[-100.843676,21.974334],[-100.71365400000001,21.960554],[-100.52047899999999,21.867499],[-100.446181,21.729528],[-100.43503699999999,21.629416],[-100.49075999999999,21.532691],[-100.57991800000001,21.480847],[-100.68765,21.47739],[-100.787952,21.515412],[-100.888255,21.581061],[-101.044281,21.663945],[-101.159442,21.712272],[-101.27088999999999,21.767483],[-101.343543,21.811242],[-101.35595000000001,21.836349]]],"type":"Polygon"}
+}

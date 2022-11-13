@@ -1,0 +1,50 @@
+{
+  "id": 1796620723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.401817,
+    "geom:bbox":"174.650382,-39.471014,175.558498,-38.776699",
+    "geom:latitude":-39.126045,
+    "geom:longitude":175.057546,
+    "iso:country":"",
+    "lbl:latitude":-39.100038,
+    "lbl:longitude":175.048897,
+    "mps:latitude":-39.100038,
+    "mps:longitude":175.048897,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#50E849",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngati-haua-upper-whanganui/",
+    "nativeland:id":34000,
+    "nativeland:name":"Ng\u0101ti H\u0101ua (Upper Whanganui)",
+    "nativeland:slug":"ngati-haua-upper-whanganui",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34000
+    },
+    "wof:country":"",
+    "wof:geomhash":"5159f53ac3459756b8fe8bcc46e79008",
+    "wof:hierarchy":[],
+    "wof:id":1796620723,
+    "wof:lastmodified":1668367788,
+    "wof:name":"Ng\u0101ti H\u0101ua (Upper Whanganui)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.650382,
+    -39.471014,
+    175.558498,
+    -38.776699
+],
+  "geometry": {"coordinates":[[[174.74029300000001,-39.141951],[174.75834900000001,-38.959758],[174.854795,-38.776699],[175.22940800000001,-38.839786],[175.44983199999999,-38.896569],[175.40368699999999,-38.930307],[175.40222499999999,-39.081451],[175.55849799999999,-39.275633],[174.79454999999999,-39.448115],[174.677875,-39.471014],[174.65038200000001,-39.292989],[174.74029300000001,-39.141951]]],"type":"Polygon"}
+}

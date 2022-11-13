@@ -1,0 +1,50 @@
+{
+  "id": 1796620223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.215057,
+    "geom:bbox":"142.577819,-13.11693,142.984313,-12.444622",
+    "geom:latitude":-12.81599,
+    "geom:longitude":142.765643,
+    "iso:country":"",
+    "lbl:latitude":-12.811703,
+    "lbl:longitude":142.769514,
+    "mps:latitude":-12.811703,
+    "mps:longitude":142.769514,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#BB84F4",
+    "nativeland:description":"https://native-land.ca/maps/territories/yinwum/",
+    "nativeland:id":35911,
+    "nativeland:name":"Yinwum",
+    "nativeland:slug":"yinwum",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35911
+    },
+    "wof:country":"",
+    "wof:geomhash":"17f7ccdeab31313418780a7680d36c2b",
+    "wof:hierarchy":[],
+    "wof:id":1796620223,
+    "wof:lastmodified":1668367775,
+    "wof:name":"Yinwum",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.577819,
+    -13.11693,
+    142.984313,
+    -12.444622
+],
+  "geometry": {"coordinates":[[[142.60253900000001,-12.444622],[142.64648399999999,-12.463396],[142.75634700000001,-12.549201],[142.926635,-12.597454],[142.96783400000001,-12.677855],[142.97882000000001,-12.825191],[142.98431299999999,-12.977794],[142.96508700000001,-13.028641],[142.885437,-13.087504],[142.81402499999999,-13.11693],[142.709655,-13.11693],[142.61901800000001,-13.079478],[142.58605900000001,-13.031317],[142.57781900000001,-12.892134],[142.57781900000001,-12.77966],[142.58331200000001,-12.651058],[142.58331200000001,-12.535796],[142.60253900000001,-12.444622]]],"type":"Polygon"}
+}

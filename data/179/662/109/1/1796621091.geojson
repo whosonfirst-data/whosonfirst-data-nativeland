@@ -1,0 +1,50 @@
+{
+  "id": 1796621091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.065742,
+    "geom:bbox":"-77.362503,37.162612,-76.97612,37.414198",
+    "geom:latitude":37.287777,
+    "geom:longitude":-77.162877,
+    "iso:country":"",
+    "lbl:latitude":37.288769,
+    "lbl:longitude":-77.159197,
+    "mps:latitude":37.288769,
+    "mps:longitude":-77.159197,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#4BB969",
+    "nativeland:description":"https://native-land.ca/maps/territories/weyanock/",
+    "nativeland:id":33833,
+    "nativeland:name":"Weyanock",
+    "nativeland:slug":"weyanock",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33833
+    },
+    "wof:country":"",
+    "wof:geomhash":"09f41f478266be3512056089157834ce",
+    "wof:hierarchy":[],
+    "wof:id":1796621091,
+    "wof:lastmodified":1668367798,
+    "wof:name":"Weyanock",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.362503,
+    37.162612,
+    -76.97612,
+    37.414198
+],
+  "geometry": {"coordinates":[[[-77.294875,37.331641],[-77.27470099999999,37.334798],[-77.256981,37.350343],[-77.24292699999999,37.367342],[-77.232353,37.381079],[-77.202866,37.398852],[-77.176429,37.414198],[-77.143891,37.414198],[-77.093052,37.404506],[-77.048312,37.392389],[-77.003573,37.376231],[-76.982221,37.361685],[-76.97611999999999,37.334202],[-76.994422,37.29943],[-77.011708,37.271115],[-77.040178,37.222551],[-77.08288400000001,37.185297],[-77.119488,37.169094],[-77.164227,37.162612],[-77.21913499999999,37.171524],[-77.280142,37.195017],[-77.31979800000001,37.213644],[-77.35131800000001,37.233076],[-77.362503,37.270306],[-77.344201,37.308327],[-77.294875,37.331641]]],"type":"Polygon"}
+}

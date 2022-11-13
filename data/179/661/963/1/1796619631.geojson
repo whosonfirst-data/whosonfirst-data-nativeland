@@ -1,0 +1,50 @@
+{
+  "id": 1796619631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.960876,
+    "geom:bbox":"143.569335,-28.839861,144.926147,-27.950738",
+    "geom:latitude":-28.40758,
+    "geom:longitude":144.278299,
+    "iso:country":"",
+    "lbl:latitude":-28.384434,
+    "lbl:longitude":144.291221,
+    "mps:latitude":-28.384434,
+    "mps:longitude":144.291221,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#ADD771",
+    "nativeland:description":"https://native-land.ca/maps/territories/budjari/",
+    "nativeland:id":36177,
+    "nativeland:name":"Budjari",
+    "nativeland:slug":"budjari",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36177
+    },
+    "wof:country":"",
+    "wof:geomhash":"004185832d078d3d218132a4e345ef3d",
+    "wof:hierarchy":[],
+    "wof:id":1796619631,
+    "wof:lastmodified":1668367760,
+    "wof:name":"Budjari",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.569335,
+    -28.839861,
+    144.926147,
+    -27.950738
+],
+  "geometry": {"coordinates":[[[144.113159,-27.999251],[144.21203600000001,-27.950738],[144.470214,-27.960443],[144.92614699999999,-27.970146],[144.87121500000001,-28.207608],[144.82727,-28.782103],[144.57458399999999,-28.791732],[143.99230900000001,-28.839861],[143.65173300000001,-28.767659],[143.607788,-28.570049],[143.569335,-28.372068],[143.73962399999999,-28.217289],[144.113159,-27.999251]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796620549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.104818,
+    "geom:bbox":"-136.422261,59.303523,-133.175357,60.001001",
+    "geom:latitude":59.744666,
+    "geom:longitude":-134.922601,
+    "iso:country":"",
+    "lbl:latitude":59.664543,
+    "lbl:longitude":-134.676623,
+    "mps:latitude":59.664543,
+    "mps:longitude":-134.676623,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#63DF9E",
+    "nativeland:description":"https://native-land.ca/maps/territories/carcross-tagish-first-nation-bc/",
+    "nativeland:id":34092,
+    "nativeland:name":"Carcross/Tagish First Nation (BC)",
+    "nativeland:slug":"carcross-tagish-first-nation-bc",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34092
+    },
+    "wof:country":"",
+    "wof:geomhash":"94a0519e04ac13cb1418d1ce9c5a6137",
+    "wof:hierarchy":[],
+    "wof:id":1796620549,
+    "wof:lastmodified":1668367783,
+    "wof:name":"Carcross/Tagish First Nation (BC)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -136.422261,
+    59.303523,
+    -133.175357,
+    60.001001
+],
+  "geometry": {"coordinates":[[[-136.42226099999999,60.001001],[-133.17535699999999,60.000904],[-133.89480699999999,59.942765],[-134.17381900000001,59.303523],[-135.02719300000001,59.3453],[-134.99017900000001,59.386165],[-135.097375,59.426983],[-135.02417199999999,59.475817],[-135.02417199999999,59.570113],[-135.15127100000001,59.620896],[-135.22485499999999,59.654708],[-135.22485499999999,59.691863],[-135.48574199999999,59.79635],[-135.960691,59.658088],[-136.20151100000001,59.634425],[-136.42226099999999,60.001001]]],"type":"Polygon"}
+}

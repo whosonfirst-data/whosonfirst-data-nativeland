@@ -1,0 +1,50 @@
+{
+  "id": 1796618945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.104011,
+    "geom:bbox":"-117.869568,54.977614,-117.119751,55.160043",
+    "geom:latitude":55.069666,
+    "geom:longitude":-117.463757,
+    "iso:country":"",
+    "lbl:latitude":55.069104,
+    "lbl:longitude":-117.463757,
+    "mps:latitude":55.069104,
+    "mps:longitude":-117.463757,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#B28ED2",
+    "nativeland:description":"https://native-land.ca/maps/territories/sturgeon-lake-cree/",
+    "nativeland:id":36486,
+    "nativeland:name":"Sturgeon Lake Cree",
+    "nativeland:slug":"sturgeon-lake-cree",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36486
+    },
+    "wof:country":"",
+    "wof:geomhash":"ee7bc5ec98e32620ab1807707ed79f89",
+    "wof:hierarchy":[],
+    "wof:id":1796618945,
+    "wof:lastmodified":1668367745,
+    "wof:name":"Sturgeon Lake Cree",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.869568,
+    54.977614,
+    -117.119751,
+    55.160043
+],
+  "geometry": {"coordinates":[[[-117.29003899999999,55.160043],[-117.26532,55.153766],[-117.237854,55.145919],[-117.11975099999999,55.092515],[-117.12249799999999,55.012276],[-117.312012,54.977614],[-117.54821800000001,54.985494],[-117.784424,55.024873],[-117.869568,55.084656],[-117.792664,55.122367],[-117.592163,55.152197],[-117.29003899999999,55.160043]]],"type":"Polygon"}
+}

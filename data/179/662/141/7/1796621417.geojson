@@ -1,0 +1,50 @@
+{
+  "id": 1796621417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":3.64936,
+    "geom:bbox":"-76.95592,0.972973,-74.9845,3.827005",
+    "geom:latitude":2.49073,
+    "geom:longitude":-76.16107,
+    "iso:country":"",
+    "lbl:latitude":2.566465,
+    "lbl:longitude":-76.179846,
+    "mps:latitude":2.566465,
+    "mps:longitude":-76.179846,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#45B7A4",
+    "nativeland:description":"https://native-land.ca/maps/territories/nasa/",
+    "nativeland:id":33681,
+    "nativeland:name":"Nasa",
+    "nativeland:slug":"nasa",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33681
+    },
+    "wof:country":"",
+    "wof:geomhash":"0b8a98d6dd49c9686ff2cd34d2439b75",
+    "wof:hierarchy":[],
+    "wof:id":1796621417,
+    "wof:lastmodified":1668367807,
+    "wof:name":"Nasa",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95592,
+    0.972973,
+    -74.9845,
+    3.827005
+],
+  "geometry": {"coordinates":[[[-75.864632,3.458172],[-75.649281,3.49244],[-75.43150799999999,3.51532],[-75.110579,3.38947],[-74.9845,3.16061],[-75.122041,2.840121],[-75.351276,2.485191],[-75.580511,2.08435],[-75.786822,1.763602],[-75.855593,1.568835],[-75.93582499999999,1.202167],[-76.130675,0.972973],[-76.589144,0.984433],[-76.841303,1.328215],[-76.932997,1.683406],[-76.95592000000001,2.279058],[-76.910073,2.817226],[-76.772532,3.275046],[-76.81837899999999,3.57315],[-76.748017,3.755848],[-76.623845,3.827005],[-76.302601,3.779037],[-76.084828,3.653223],[-75.947287,3.538831],[-75.864632,3.458172]]],"type":"Polygon"}
+}

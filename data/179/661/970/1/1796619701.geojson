@@ -1,0 +1,50 @@
+{
+  "id": 1796619701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.969236,
+    "geom:bbox":"-111.855405,30.821872,-110.140551,33.101042",
+    "geom:latitude":32.094701,
+    "geom:longitude":-110.746541,
+    "iso:country":"",
+    "lbl:latitude":32.23987,
+    "lbl:longitude":-110.590645,
+    "mps:latitude":32.23987,
+    "mps:longitude":-110.590645,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#C11A17",
+    "nativeland:description":"https://native-land.ca/maps/territories/sobaipuri/",
+    "nativeland:id":36144,
+    "nativeland:name":"Sobaipuri",
+    "nativeland:slug":"sobaipuri",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36144
+    },
+    "wof:country":"",
+    "wof:geomhash":"c32ffd44f20edd2a8924b66f2949b933",
+    "wof:hierarchy":[],
+    "wof:id":1796619701,
+    "wof:lastmodified":1668367762,
+    "wof:name":"Sobaipuri",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.855405,
+    30.821872,
+    -110.140551,
+    33.101042
+],
+  "geometry": {"coordinates":[[[-111.786383,33.098632],[-111.569784,33.04637],[-111.425431,33.037022],[-111.341167,33.098173],[-111.061317,33.101042],[-110.715608,33.029076],[-110.500252,32.873413],[-110.32591600000001,32.682792],[-110.182345,32.335184],[-110.17209,31.916315],[-110.182345,31.539479],[-110.140551,31.071342],[-110.360553,30.919279],[-110.559286,30.840048],[-110.722071,30.836987],[-110.83172399999999,30.821872],[-110.852745,30.924857],[-110.86819300000001,31.026995],[-110.897113,31.142934],[-110.906763,31.223218],[-110.898634,31.36196],[-111.04049999999999,31.611102],[-111.031114,31.759014],[-110.94244999999999,32.037757],[-111.028778,32.309603],[-111.36068,32.562868],[-111.46429000000001,32.669636],[-111.623254,32.786143],[-111.824279,32.850347],[-111.84384799999999,32.899871],[-111.855405,32.989698],[-111.83291199999999,33.076078],[-111.786383,33.098632]]],"type":"Polygon"}
+}

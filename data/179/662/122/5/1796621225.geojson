@@ -1,0 +1,50 @@
+{
+  "id": 1796621225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.223898,
+    "geom:bbox":"-122.436762,47.079495,-121.560607,47.638808",
+    "geom:latitude":47.312538,
+    "geom:longitude":-122.031675,
+    "iso:country":"",
+    "lbl:latitude":47.262846,
+    "lbl:longitude":-122.031675,
+    "mps:latitude":47.262846,
+    "mps:longitude":-122.031675,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#67CFED",
+    "nativeland:description":"https://native-land.ca/maps/territories/muckleshoot/",
+    "nativeland:id":33771,
+    "nativeland:name":"Muckleshoot",
+    "nativeland:slug":"muckleshoot",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33771
+    },
+    "wof:country":"",
+    "wof:geomhash":"4ed3806a655f835e3c8ab474cc85894b",
+    "wof:hierarchy":[],
+    "wof:id":1796621225,
+    "wof:lastmodified":1668367801,
+    "wof:name":"Muckleshoot",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.436762,
+    47.079495,
+    -121.560607,
+    47.638808
+],
+  "geometry": {"coordinates":[[[-121.971062,47.083316],[-122.042046,47.113402],[-122.143107,47.163066],[-122.20295400000001,47.217718],[-122.231943,47.257083],[-122.272707,47.32402],[-122.340356,47.387169],[-122.382723,47.446235],[-122.41290499999999,47.501576],[-122.436762,47.536373],[-122.431932,47.572529],[-122.422721,47.597466],[-122.40306099999999,47.622147],[-122.384737,47.635732],[-122.348624,47.638808],[-122.311899,47.636519],[-122.25647499999999,47.628663],[-122.203501,47.598507],[-122.147104,47.545316],[-122.098904,47.492071],[-122.031565,47.416562],[-121.972278,47.369093],[-121.89386,47.335375],[-121.78034599999999,47.308889],[-121.733603,47.30128],[-121.645702,47.246714],[-121.602687,47.216869],[-121.567153,47.187008],[-121.560607,47.141866],[-121.56989799999999,47.107507],[-121.595146,47.083952],[-121.716711,47.080769],[-121.864459,47.079495],[-121.971062,47.083316]]],"type":"Polygon"}
+}

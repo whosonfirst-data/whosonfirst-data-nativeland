@@ -1,0 +1,50 @@
+{
+  "id": 1796618449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.023812,
+    "geom:bbox":"142.567909,-9.45417,142.830103,-9.337254",
+    "geom:latitude":-9.39585,
+    "geom:longitude":142.697501,
+    "iso:country":"",
+    "lbl:latitude":-9.39878,
+    "lbl:longitude":142.697501,
+    "mps:latitude":-9.39878,
+    "mps:longitude":142.697501,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/koeybuway/",
+    "nativeland:id":37725,
+    "nativeland:name":"Koeybuway",
+    "nativeland:slug":"koeybuway",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37725
+    },
+    "wof:country":"",
+    "wof:geomhash":"f8c7c062b76ef0641a9aab2824bf5d6e",
+    "wof:hierarchy":[],
+    "wof:id":1796618449,
+    "wof:lastmodified":1668367733,
+    "wof:name":"Koeybuway",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.567909,
+    -9.45417,
+    142.830103,
+    -9.337254
+],
+  "geometry": {"coordinates":[[[142.61160799999999,-9.449786],[142.57531599999999,-9.425675],[142.56790899999999,-9.390966],[142.584204,-9.359179],[142.65530699999999,-9.348217],[142.775294,-9.337254],[142.80566099999999,-9.350409],[142.83010300000001,-9.372333],[142.821585,-9.40558],[142.796773,-9.428598],[142.72196600000001,-9.45417],[142.61160799999999,-9.449786]]],"type":"Polygon"}
+}

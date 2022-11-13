@@ -1,0 +1,50 @@
+{
+  "id": 1796618713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.026399,
+    "geom:bbox":"130.175626,-13.636644,130.352781,-13.425687",
+    "geom:latitude":-13.524017,
+    "geom:longitude":130.258067,
+    "iso:country":"",
+    "lbl:latitude":-13.517846,
+    "lbl:longitude":130.250897,
+    "mps:latitude":-13.517846,
+    "mps:longitude":130.250897,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#42A73F",
+    "nativeland:description":"https://native-land.ca/maps/territories/kuwema/",
+    "nativeland:id":36589,
+    "nativeland:name":"Kuwema",
+    "nativeland:slug":"kuwema",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36589
+    },
+    "wof:country":"",
+    "wof:geomhash":"e2899e11f8e9ac36bd44c60536af6d71",
+    "wof:hierarchy":[],
+    "wof:id":1796618713,
+    "wof:lastmodified":1668367739,
+    "wof:name":"Kuwema",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.175626,
+    -13.636644,
+    130.352781,
+    -13.425687
+],
+  "geometry": {"coordinates":[[[130.29098500000001,-13.425687],[130.31982400000001,-13.435038],[130.35278099999999,-13.467092],[130.34728699999999,-13.489795],[130.31570400000001,-13.552551],[130.28823800000001,-13.632641],[130.247039,-13.636644],[130.229187,-13.63531],[130.20034699999999,-13.601943],[130.176999,-13.547211],[130.17562599999999,-13.493802],[130.19897399999999,-13.457743],[130.2388,-13.43103],[130.29098500000001,-13.425687]]],"type":"Polygon"}
+}

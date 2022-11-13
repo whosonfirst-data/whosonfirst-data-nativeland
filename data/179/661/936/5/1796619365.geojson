@@ -1,0 +1,50 @@
+{
+  "id": 1796619365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.91959,
+    "geom:bbox":"-114.008633,32.522731,-112.182705,33.468099",
+    "geom:latitude":32.979697,
+    "geom:longitude":-113.051168,
+    "iso:country":"",
+    "lbl:latitude":32.981375,
+    "lbl:longitude":-113.051168,
+    "mps:latitude":32.981375,
+    "mps:longitude":-113.051168,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0DD14D",
+    "nativeland:description":"https://native-land.ca/maps/territories/maricopa-pima/",
+    "nativeland:id":36297,
+    "nativeland:name":"Piipaash (Maricopa)",
+    "nativeland:slug":"maricopa-pima",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36297
+    },
+    "wof:country":"",
+    "wof:geomhash":"378b3f12eb55bffacd0ada1386cfaec4",
+    "wof:hierarchy":[],
+    "wof:id":1796619365,
+    "wof:lastmodified":1668367754,
+    "wof:name":"Piipaash (Maricopa)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.008633,
+    32.522731,
+    -112.182705,
+    33.468099
+],
+  "geometry": {"coordinates":[[[-112.31537,33.386712],[-112.249177,33.294548],[-112.199628,33.165324],[-112.182705,33.047],[-112.21421100000001,32.920523],[-112.326733,32.837364],[-112.472587,32.812131],[-112.720134,32.808348],[-112.830376,32.793434],[-113.134185,32.723411],[-113.35022600000001,32.660911],[-113.503085,32.598482],[-113.69407,32.538517],[-113.825138,32.522731],[-113.929993,32.582706],[-114.00488900000001,32.705683],[-114.008633,32.815903],[-113.963696,32.913412],[-113.798924,33.035933],[-113.379507,33.117519],[-113.03873,33.224094],[-112.85897900000001,33.339925],[-112.664249,33.424354],[-112.49198800000001,33.468099],[-112.38338899999999,33.449354],[-112.31537,33.386712]]],"type":"Polygon"}
+}

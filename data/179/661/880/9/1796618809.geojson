@@ -1,0 +1,50 @@
+{
+  "id": 1796618809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.012742,
+    "geom:bbox":"-91.175729,15.206269,-91.014177,15.300152",
+    "geom:latitude":15.251147,
+    "geom:longitude":-91.094155,
+    "iso:country":"",
+    "lbl:latitude":15.250366,
+    "lbl:longitude":-91.094155,
+    "mps:latitude":15.250366,
+    "mps:longitude":-91.094155,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#B26C53",
+    "nativeland:description":"https://native-land.ca/maps/territories/sacapultec/",
+    "nativeland:id":36544,
+    "nativeland:name":"Sakapulteko",
+    "nativeland:slug":"sacapultec",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36544
+    },
+    "wof:country":"",
+    "wof:geomhash":"d504fbfa9d2dfe513a5e731bb2327437",
+    "wof:hierarchy":[],
+    "wof:id":1796618809,
+    "wof:lastmodified":1668367741,
+    "wof:name":"Sakapulteko",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.175729,
+    15.206269,
+    -91.014177,
+    15.300152
+],
+  "geometry": {"coordinates":[[[-91.15020199999999,15.209223],[-91.159801,15.211367],[-91.168802,15.218523],[-91.17304,15.229947],[-91.174335,15.24067],[-91.175729,15.251721],[-91.17432700000001,15.265163],[-91.172122,15.274727],[-91.162926,15.284618],[-91.15291000000001,15.288234],[-91.13646900000001,15.29085],[-91.08340099999999,15.293973],[-91.042506,15.300152],[-91.022656,15.286502],[-91.014177,15.257264],[-91.017143,15.235038],[-91.028075,15.216653],[-91.042969,15.208708],[-91.065786,15.206269],[-91.084649,15.206888],[-91.123428,15.208947],[-91.15020199999999,15.209223]]],"type":"Polygon"}
+}

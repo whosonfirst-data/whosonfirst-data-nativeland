@@ -1,0 +1,50 @@
+{
+  "id": 1796620693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.040457,
+    "geom:bbox":"175.424572,-38.118628,175.685469,-37.850117",
+    "geom:latitude":-37.99643,
+    "geom:longitude":175.574908,
+    "iso:country":"",
+    "lbl:latitude":-38.001083,
+    "lbl:longitude":175.583803,
+    "mps:latitude":-38.001083,
+    "mps:longitude":175.583803,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#4A4C22",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngati-koroki-kahukura/",
+    "nativeland:id":34018,
+    "nativeland:name":"Ng\u0101ti Korok\u012b Kahukura",
+    "nativeland:slug":"ngati-koroki-kahukura",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34018
+    },
+    "wof:country":"",
+    "wof:geomhash":"5838ca86351d9688d71da31fc79a9246",
+    "wof:hierarchy":[],
+    "wof:id":1796620693,
+    "wof:lastmodified":1668367787,
+    "wof:name":"Ng\u0101ti Korok\u012b Kahukura",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.424572,
+    -38.118628,
+    175.685469,
+    -37.850117
+],
+  "geometry": {"coordinates":[[[175.55221599999999,-37.850117],[175.68546900000001,-37.924624],[175.664503,-38.057006],[175.63309799999999,-38.111974],[175.612696,-38.118628],[175.50784200000001,-38.089749],[175.42457200000001,-38.021721],[175.514701,-37.949523],[175.54687699999999,-37.907899],[175.52087,-37.876648],[175.55221599999999,-37.850117]]],"type":"Polygon"}
+}

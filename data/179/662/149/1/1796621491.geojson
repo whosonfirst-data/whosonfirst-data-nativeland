@@ -1,0 +1,50 @@
+{
+  "id": 1796621491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.321254,
+    "geom:bbox":"-74.491262,0.932479,-73.65824,2.915264",
+    "geom:latitude":1.89576,
+    "geom:longitude":-74.087067,
+    "iso:country":"",
+    "lbl:latitude":1.873711,
+    "lbl:longitude":-74.095,
+    "mps:latitude":1.873711,
+    "mps:longitude":-74.095,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#06EFCB",
+    "nativeland:description":"https://native-land.ca/maps/territories/tanigua/",
+    "nativeland:id":33650,
+    "nativeland:name":"Tinigua",
+    "nativeland:slug":"tanigua",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33650
+    },
+    "wof:country":"",
+    "wof:geomhash":"8ff1d9f19efeba3bad244fab11a6f447",
+    "wof:hierarchy":[],
+    "wof:id":1796621491,
+    "wof:lastmodified":1668367809,
+    "wof:name":"Tinigua",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.491262,
+    0.932479,
+    -73.65824,
+    2.915264
+],
+  "geometry": {"coordinates":[[[-74.284373,2.893346],[-74.19293,2.915264],[-74.10880299999999,2.911611],[-74.021018,2.871427],[-73.94420599999999,2.820283],[-73.878367,2.761829],[-73.834475,2.674142],[-73.808871,2.630297],[-73.764978,2.436628],[-73.76381600000001,2.261649],[-73.747758,2.134302],[-73.76640500000001,2.004273],[-73.737143,1.814178],[-73.704224,1.664281],[-73.675183,1.469725],[-73.65824000000001,1.276135],[-73.66065999999999,1.123673],[-73.70423,1.048649],[-73.78653,0.968783],[-73.900296,0.94216],[-73.989857,0.932479],[-74.147194,0.93974],[-74.294848,0.968783],[-74.350824,1.063057],[-74.375067,1.242085],[-74.398651,1.450943],[-74.410676,1.616265],[-74.46236500000001,1.845964],[-74.480873,2.112292],[-74.49126200000001,2.337235],[-74.481504,2.478661],[-74.48962299999999,2.554332],[-74.466049,2.66798],[-74.415217,2.759859],[-74.349861,2.834807],[-74.284373,2.893346]]],"type":"Polygon"}
+}

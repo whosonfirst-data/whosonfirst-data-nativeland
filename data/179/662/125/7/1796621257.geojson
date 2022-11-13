@@ -1,0 +1,50 @@
+{
+  "id": 1796621257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":3.022052,
+    "geom:bbox":"-100.985903,25.763183,-98.204825,27.916498",
+    "geom:latitude":26.763688,
+    "geom:longitude":-99.802875,
+    "iso:country":"",
+    "lbl:latitude":26.714741,
+    "lbl:longitude":-99.823944,
+    "mps:latitude":26.714741,
+    "mps:longitude":-99.823944,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#C1EE91",
+    "nativeland:description":"https://native-land.ca/maps/territories/alazapas/",
+    "nativeland:id":33755,
+    "nativeland:name":"Alazapas",
+    "nativeland:slug":"alazapas",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33755
+    },
+    "wof:country":"",
+    "wof:geomhash":"e2875103130d40d98db9861f097e9484",
+    "wof:hierarchy":[],
+    "wof:id":1796621257,
+    "wof:lastmodified":1668367802,
+    "wof:name":"Alazapas",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.985903,
+    25.763183,
+    -98.204825,
+    27.916498
+],
+  "geometry": {"coordinates":[[[-99.712355,27.909712],[-99.564806,27.755056],[-99.45728699999999,27.537355],[-99.388167,27.230483],[-99.241623,26.823512],[-99.057303,26.549036],[-98.71938400000001,26.404672],[-98.32770499999999,26.225686],[-98.204825,26.087816],[-98.258585,25.970499],[-98.458264,25.929065],[-98.75010399999999,25.901434],[-98.981427,25.956689],[-99.142707,26.032623],[-99.334706,25.949784],[-99.495986,25.859976],[-99.74174499999999,25.763183],[-100.056625,25.790847],[-100.164145,25.866887],[-100.26398399999999,26.129194],[-100.356144,26.452814],[-100.494384,26.59025],[-100.68638300000001,26.638313],[-100.832303,26.70008],[-100.98590299999999,26.974191],[-100.97054300000001,27.193001],[-100.756832,27.447236],[-100.626273,27.542611],[-100.288353,27.767097],[-100.057954,27.916498],[-99.712355,27.909712]]],"type":"Polygon"}
+}

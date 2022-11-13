@@ -1,0 +1,50 @@
+{
+  "id": 1796621117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":4.547382,
+    "geom:bbox":"-80.617373,35.670887,-77.888077,37.901716",
+    "geom:latitude":36.706652,
+    "geom:longitude":-79.148098,
+    "iso:country":"",
+    "lbl:latitude":36.670643,
+    "lbl:longitude":-79.122105,
+    "mps:latitude":36.670643,
+    "mps:longitude":-79.122105,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#29B01A",
+    "nativeland:description":"https://native-land.ca/maps/territories/occaneechi/",
+    "nativeland:id":33821,
+    "nativeland:name":"Occaneechi",
+    "nativeland:slug":"occaneechi",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33821
+    },
+    "wof:country":"",
+    "wof:geomhash":"f514cb1c69780a5b8d703f21ba184ca4",
+    "wof:hierarchy":[],
+    "wof:id":1796621117,
+    "wof:lastmodified":1668367799,
+    "wof:name":"Occaneechi",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.617373,
+    35.670887,
+    -77.888077,
+    37.901716
+],
+  "geometry": {"coordinates":[[[-77.966775,36.526959],[-77.94243299999999,36.41557],[-77.991654,36.301609],[-78.021536,36.119092],[-78.088218,35.962637],[-78.39572,35.909244],[-78.82273000000001,35.840286],[-79.053664,35.789145],[-79.225782,35.743977],[-79.40150199999999,35.730801],[-79.574984,35.682386],[-79.662549,35.670887],[-80.019789,35.676826],[-80.449,35.73769],[-80.538675,36.016366],[-80.617373,36.562393],[-80.461831,36.76874],[-80.337029,36.86142],[-80.004954,37.167755],[-79.90710799999999,37.227954],[-79.693969,37.398793],[-79.588683,37.485669],[-79.489239,37.578464],[-79.40627499999999,37.639673],[-79.313379,37.709615],[-79.21426200000001,37.792936],[-79.126829,37.881698],[-78.83387500000001,37.901716],[-78.419066,37.848672],[-77.97845,37.750462],[-77.914259,36.99978],[-77.888077,36.826763],[-77.966775,36.526959]]],"type":"Polygon"}
+}

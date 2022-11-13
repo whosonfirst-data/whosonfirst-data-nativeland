@@ -1,0 +1,50 @@
+{
+  "id": 1796620033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.165909,
+    "geom:bbox":"-123.15245,48.460161,-122.480108,48.93141",
+    "geom:latitude":48.702719,
+    "geom:longitude":-122.831024,
+    "iso:country":"",
+    "lbl:latitude":48.757897,
+    "lbl:longitude":-122.797917,
+    "mps:latitude":48.757897,
+    "mps:longitude":-122.797917,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#81ACD7",
+    "nativeland:description":"https://native-land.ca/maps/territories/lummi/",
+    "nativeland:id":35997,
+    "nativeland:name":"Lhaq\u2019temish (Lummi)",
+    "nativeland:slug":"lummi",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35997
+    },
+    "wof:country":"",
+    "wof:geomhash":"64cb9e36ba89dd15bbde4e664f920b71",
+    "wof:hierarchy":[],
+    "wof:id":1796620033,
+    "wof:lastmodified":1668367770,
+    "wof:name":"Lhaq\u2019temish (Lummi)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.15245,
+    48.460161,
+    -122.480108,
+    48.93141
+],
+  "geometry": {"coordinates":[[[-122.985597,48.756013],[-122.93749,48.822652],[-122.921385,48.880891],[-122.9092,48.93141],[-122.843552,48.930769],[-122.789637,48.922922],[-122.73576,48.900816],[-122.69938999999999,48.878396],[-122.592139,48.834913],[-122.54017399999999,48.812103],[-122.50335699999999,48.801313],[-122.480108,48.805415],[-122.481656,48.767181],[-122.493757,48.757747],[-122.50417299999999,48.720983],[-122.541546,48.663225],[-122.61238,48.636733],[-122.66481899999999,48.635333],[-122.870079,48.567992],[-122.87070799999999,48.547616],[-122.899805,48.47064],[-122.917749,48.460161],[-122.953245,48.466536],[-122.99153,48.463666],[-123.00954400000001,48.474565],[-123.082391,48.507088],[-123.146873,48.558047],[-123.15245,48.620649],[-123.116201,48.65463],[-123.03416900000001,48.700287],[-122.985597,48.756013]]],"type":"Polygon"}
+}

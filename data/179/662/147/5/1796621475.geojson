@@ -1,0 +1,50 @@
+{
+  "id": 1796621475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.263196,
+    "geom:bbox":"-70.420741,-1.275874,-69.653314,-0.668843",
+    "geom:latitude":-0.974603,
+    "geom:longitude":-70.039554,
+    "iso:country":"",
+    "lbl:latitude":-0.975736,
+    "lbl:longitude":-70.039554,
+    "mps:latitude":-0.975736,
+    "mps:longitude":-70.039554,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#360CA0",
+    "nativeland:description":"https://native-land.ca/maps/territories/kamejeya-yukuna/",
+    "nativeland:id":33657,
+    "nativeland:name":"Kamejeya (Yukuna)",
+    "nativeland:slug":"kamejeya-yukuna",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33657
+    },
+    "wof:country":"",
+    "wof:geomhash":"0605f43394e26590a6926bd38b82852f",
+    "wof:hierarchy":[],
+    "wof:id":1796621475,
+    "wof:lastmodified":1668367808,
+    "wof:name":"Kamejeya (Yukuna)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.420741,
+    -1.275874,
+    -69.653314,
+    -0.668843
+],
+  "geometry": {"coordinates":[[[-70.413488,-1.056935],[-70.365915,-0.995923],[-70.23416400000001,-0.926707],[-70.157495,-0.85419],[-70.080826,-0.775457],[-69.99256,-0.71725],[-69.916476,-0.683403],[-69.863398,-0.672133],[-69.82737400000001,-0.673043],[-69.788731,-0.668843],[-69.74034399999999,-0.679259],[-69.676107,-0.714483],[-69.657239,-0.747625],[-69.65331399999999,-0.793218],[-69.666145,-0.840882],[-69.70388199999999,-0.898507],[-69.790941,-0.995963],[-69.85889400000001,-1.052879],[-69.920621,-1.112284],[-70.03876200000001,-1.202662],[-70.12795300000001,-1.266961],[-70.228825,-1.275874],[-70.325006,-1.26755],[-70.368093,-1.248828],[-70.39773,-1.193125],[-70.42074100000001,-1.138479],[-70.413488,-1.056935]]],"type":"Polygon"}
+}

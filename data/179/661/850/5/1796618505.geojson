@@ -1,0 +1,50 @@
+{
+  "id": 1796618505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":6.04124,
+    "geom:bbox":"-75.743366,42.304938,-73.121145,45.841583",
+    "geom:latitude":44.391361,
+    "geom:longitude":-74.364885,
+    "iso:country":"",
+    "lbl:latitude":44.450961,
+    "lbl:longitude":-74.339911,
+    "mps:latitude":44.450961,
+    "mps:longitude":-74.339911,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#796569",
+    "nativeland:description":"https://native-land.ca/maps/territories/mohawk/",
+    "nativeland:id":36681,
+    "nativeland:name":"Kanien\u02bckeh\u00e1\ua789ka (Mohawk)",
+    "nativeland:slug":"mohawk",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36681
+    },
+    "wof:country":"",
+    "wof:geomhash":"7c8c52b49452018f574ace5c69b1fc8e",
+    "wof:hierarchy":[],
+    "wof:id":1796618505,
+    "wof:lastmodified":1668367734,
+    "wof:name":"Kanien\u02bckeh\u00e1\ua789ka (Mohawk)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.743366,
+    42.304938,
+    -73.121145,
+    45.841583
+],
+  "geometry": {"coordinates":[[[-73.340092,44.701835],[-73.328898,44.01356],[-73.52360400000001,43.331944],[-73.607417,43.176901],[-73.96895499999999,42.833352],[-74.86075,42.350178],[-75.044082,42.304938],[-74.894829,42.827647],[-75.07000600000001,43.071893],[-75.13670999999999,43.323118],[-75.104513,43.36515],[-75.02887200000001,43.379093],[-75.16721200000001,43.753161],[-75.335117,44.372502],[-75.46046800000001,44.71891],[-75.64666,45.159354],[-75.74336599999999,45.418732],[-75.740049,45.461447],[-75.67637499999999,45.522764],[-75.544382,45.597289],[-75.010283,45.760621],[-74.210763,45.831474],[-73.76548,45.841583],[-73.399451,45.788352],[-73.25693699999999,45.535563],[-73.121145,45.234406],[-73.152355,44.985363],[-73.340092,44.701835]]],"type":"Polygon"}
+}

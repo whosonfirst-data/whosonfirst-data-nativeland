@@ -1,0 +1,50 @@
+{
+  "id": 1796620699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.063538,
+    "geom:bbox":"175.04092,-36.352135,175.570296,-36.02315",
+    "geom:latitude":-36.185745,
+    "geom:longitude":175.389884,
+    "iso:country":"",
+    "lbl:latitude":-36.164979,
+    "lbl:longitude":175.409855,
+    "mps:latitude":-36.164979,
+    "mps:longitude":175.409855,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#E460F3",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngati-rehua/",
+    "nativeland:id":34013,
+    "nativeland:name":"Ng\u0101ti Rehua",
+    "nativeland:slug":"ngati-rehua",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34013
+    },
+    "wof:country":"",
+    "wof:geomhash":"4b564ceb0bb7fa74673e3b6ac05443a7",
+    "wof:hierarchy":[],
+    "wof:id":1796620699,
+    "wof:lastmodified":1668367787,
+    "wof:name":"Ng\u0101ti Rehua",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.04092,
+    -36.352135,
+    175.570296,
+    -36.02315
+],
+  "geometry": {"coordinates":[[[[175.04092,-36.210538],[175.054757,-36.17483],[175.086893,-36.161217],[175.118807,-36.175277],[175.119699,-36.203843],[175.11010300000001,-36.229061],[175.08756299999999,-36.235979],[175.05832699999999,-36.228168],[175.04092,-36.210538]]],[[[175.527198,-36.157713],[175.50181799999999,-36.208473],[175.50564900000001,-36.244868],[175.556061,-36.278095],[175.57029600000001,-36.301375],[175.556409,-36.334417],[175.51809900000001,-36.352135],[175.47356400000001,-36.342079],[175.44339500000001,-36.32436],[175.40125399999999,-36.281741],[175.331131,-36.242693],[175.28871899999999,-36.245825],[175.25663499999999,-36.22284],[175.25663499999999,-36.185009],[175.287283,-36.100248],[175.34379000000001,-36.04853],[175.40173300000001,-36.02315],[175.42567700000001,-36.029375],[175.45680400000001,-36.067685],[175.512832,-36.107431],[175.529113,-36.131375],[175.527198,-36.157713]]]],"type":"MultiPolygon"}
+}

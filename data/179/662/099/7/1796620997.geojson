@@ -1,0 +1,50 @@
+{
+  "id": 1796620997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.107297,
+    "geom:bbox":"-77.448162,37.742996,-76.998626,38.114106",
+    "geom:latitude":37.916101,
+    "geom:longitude":-77.237302,
+    "iso:country":"",
+    "lbl:latitude":37.908832,
+    "lbl:longitude":-77.241583,
+    "mps:latitude":37.908832,
+    "mps:longitude":-77.241583,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#71A538",
+    "nativeland:description":"https://native-land.ca/maps/territories/mattaponi/",
+    "nativeland:id":33879,
+    "nativeland:name":"Mattaponi",
+    "nativeland:slug":"mattaponi",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33879
+    },
+    "wof:country":"",
+    "wof:geomhash":"7e245915a581e8dfa3adc19cb9d4104c",
+    "wof:hierarchy":[],
+    "wof:id":1796620997,
+    "wof:lastmodified":1668367796,
+    "wof:name":"Mattaponi",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.448162,
+    37.742996,
+    -76.998626,
+    38.114106
+],
+  "geometry": {"coordinates":[[[-77.086247,37.746008],[-77.13386800000001,37.742996],[-77.28434799999999,37.771609],[-77.333873,37.807737],[-77.41197,37.884449],[-77.448162,37.974596],[-77.438638,38.091622],[-77.331968,38.114106],[-77.24815700000001,38.057134],[-77.12434399999999,38.001619],[-76.998626,37.879938],[-77.01196,37.854375],[-77.025293,37.771609],[-77.086247,37.746008]]],"type":"Polygon"}
+}

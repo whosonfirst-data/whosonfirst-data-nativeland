@@ -1,0 +1,50 @@
+{
+  "id": 1796620295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.044882,
+    "geom:bbox":"-74.056091,40.540939,-73.789673,40.785741",
+    "geom:latitude":40.652378,
+    "geom:longitude":-73.91026,
+    "iso:country":"",
+    "lbl:latitude":40.647057,
+    "lbl:longitude":-73.907723,
+    "mps:latitude":40.647057,
+    "mps:longitude":-73.907723,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#BE4998",
+    "nativeland:description":"https://native-land.ca/maps/territories/canarsie/",
+    "nativeland:id":35882,
+    "nativeland:name":"Canarsie",
+    "nativeland:slug":"canarsie",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35882
+    },
+    "wof:country":"",
+    "wof:geomhash":"ee4f67f08168299812c7eb6d748cafc5",
+    "wof:hierarchy":[],
+    "wof:id":1796620295,
+    "wof:lastmodified":1668367777,
+    "wof:name":"Canarsie",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.056091,
+    40.540939,
+    -73.789673,
+    40.785741
+],
+  "geometry": {"coordinates":[[[-73.88030999999999,40.779502],[-73.86794999999999,40.767022],[-73.825378,40.735812],[-73.792419,40.695217],[-73.78967299999999,40.662931],[-73.792419,40.60874],[-73.837738,40.556591],[-73.881683,40.540939],[-73.96957399999999,40.54407],[-74.003906,40.567024],[-74.056091,40.640009],[-74.019012,40.675431],[-73.999786,40.704587],[-73.97369399999999,40.727486],[-73.95584100000001,40.754539],[-73.933868,40.785741],[-73.88030999999999,40.779502]]],"type":"Polygon"}
+}

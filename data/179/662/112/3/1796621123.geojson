@@ -1,0 +1,50 @@
+{
+  "id": 1796621123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.135049,
+    "geom:bbox":"-75.966418,37.446542,-75.453821,37.91004",
+    "geom:latitude":37.677698,
+    "geom:longitude":-75.717782,
+    "iso:country":"",
+    "lbl:latitude":37.677983,
+    "lbl:longitude":-75.721665,
+    "mps:latitude":37.677983,
+    "mps:longitude":-75.721665,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#490DAE",
+    "nativeland:description":"https://native-land.ca/maps/territories/occohannock/",
+    "nativeland:id":33823,
+    "nativeland:name":"Occohannock",
+    "nativeland:slug":"occohannock",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33823
+    },
+    "wof:country":"",
+    "wof:geomhash":"62443e01e489eefda97cfec46dc34aae",
+    "wof:hierarchy":[],
+    "wof:id":1796621123,
+    "wof:lastmodified":1668367799,
+    "wof:name":"Occohannock",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.966418,
+    37.446542,
+    -75.453821,
+    37.91004
+],
+  "geometry": {"coordinates":[[[-75.68144100000001,37.447574],[-75.721739,37.446542],[-75.76463800000001,37.469232],[-75.807536,37.477481],[-75.859534,37.497069],[-75.94793,37.522834],[-75.966418,37.535871],[-75.952975,37.553741],[-75.961673,37.582426],[-75.938953,37.624587],[-75.894249,37.690372],[-75.856888,37.747831],[-75.81359,37.810564],[-75.734584,37.861098],[-75.738693,37.91004],[-75.660597,37.907202],[-75.567418,37.870368],[-75.53910500000001,37.865897],[-75.506367,37.858127],[-75.475222,37.844787],[-75.453821,37.838685],[-75.520929,37.746055],[-75.53529899999999,37.712033],[-75.571697,37.642108],[-75.611996,37.559759],[-75.647094,37.471132],[-75.68144100000001,37.447574]]],"type":"Polygon"}
+}

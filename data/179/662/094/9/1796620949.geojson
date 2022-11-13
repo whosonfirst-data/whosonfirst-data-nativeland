@@ -1,0 +1,50 @@
+{
+  "id": 1796620949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.027651,
+    "geom:bbox":"-92.16065,30.406492,-91.990128,30.614372",
+    "geom:latitude":30.516093,
+    "geom:longitude":-92.073324,
+    "iso:country":"",
+    "lbl:latitude":30.519122,
+    "lbl:longitude":-92.074948,
+    "mps:latitude":30.519122,
+    "mps:longitude":-92.074948,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#F865E7",
+    "nativeland:description":"https://native-land.ca/maps/territories/opelousas/",
+    "nativeland:id":33901,
+    "nativeland:name":"Opelousas",
+    "nativeland:slug":"opelousas",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33901
+    },
+    "wof:country":"",
+    "wof:geomhash":"67354f335c6398b84664c6922573cfb4",
+    "wof:hierarchy":[],
+    "wof:id":1796620949,
+    "wof:lastmodified":1668367794,
+    "wof:name":"Opelousas",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.16065,
+    30.406492,
+    -91.990128,
+    30.614372
+],
+  "geometry": {"coordinates":[[[-92.047507,30.614372],[-92.027085,30.613347],[-92.00963299999999,30.606279],[-92.00449999999999,30.567394],[-91.998341,30.536453],[-91.990128,30.480733],[-92.008607,30.442683],[-92.024575,30.421992],[-92.076887,30.406492],[-92.11376799999999,30.419969],[-92.12752,30.448535],[-92.144398,30.472243],[-92.16065,30.534181],[-92.151274,30.577783],[-92.133771,30.603074],[-92.10189099999999,30.60953],[-92.075011,30.611682],[-92.047507,30.614372]]],"type":"Polygon"}
+}

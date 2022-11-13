@@ -1,0 +1,50 @@
+{
+  "id": 1796619669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.052982,
+    "geom:bbox":"-97.246819,36.333037,-96.924747,36.507052",
+    "geom:latitude":36.416371,
+    "geom:longitude":-97.092938,
+    "iso:country":"",
+    "lbl:latitude":36.420105,
+    "lbl:longitude":-97.092938,
+    "mps:latitude":36.420105,
+    "mps:longitude":-97.092938,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#46FD99",
+    "nativeland:description":"https://native-land.ca/maps/territories/otoe-missouri-oklahoma/",
+    "nativeland:id":36160,
+    "nativeland:name":"J\u00edwere\u2013\u00d1\u00fat\u2019achi M\u00e1ya\u207f (Otoe-Missouria [Oklahoma])",
+    "nativeland:slug":"otoe-missouri-oklahoma",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36160
+    },
+    "wof:country":"",
+    "wof:geomhash":"dcd6dfcd600c102fb51697699795d119",
+    "wof:hierarchy":[],
+    "wof:id":1796619669,
+    "wof:lastmodified":1668367761,
+    "wof:name":"J\u00edwere\u2013\u00d1\u00fat\u2019achi M\u00e1ya\u207f (Otoe-Missouria [Oklahoma])",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.246819,
+    36.333037,
+    -96.924747,
+    36.507052
+],
+  "geometry": {"coordinates":[[[-96.924747,36.462737],[-96.924925,36.333374],[-97.24672700000001,36.333037],[-97.246819,36.506937],[-97.009522,36.507052],[-96.974991,36.463116],[-96.924747,36.462737]]],"type":"Polygon"}
+}

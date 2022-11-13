@@ -1,0 +1,50 @@
+{
+  "id": 1796619061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.44069,
+    "geom:bbox":"134.785766,-14.466596,135.593261,-13.629971",
+    "geom:latitude":-14.087654,
+    "geom:longitude":135.212667,
+    "iso:country":"",
+    "lbl:latitude":-14.089806,
+    "lbl:longitude":135.212667,
+    "mps:latitude":-14.089806,
+    "mps:longitude":135.212667,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#4A382F",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngandi/",
+    "nativeland:id":36431,
+    "nativeland:name":"Ngandi",
+    "nativeland:slug":"ngandi",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36431
+    },
+    "wof:country":"",
+    "wof:geomhash":"a8c9678e3ff1c3c728d5dd34db018665",
+    "wof:hierarchy":[],
+    "wof:id":1796619061,
+    "wof:lastmodified":1668367747,
+    "wof:name":"Ngandi",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.785766,
+    -14.466596,
+    135.593261,
+    -13.629971
+],
+  "geometry": {"coordinates":[[[135.505371,-14.466596],[135.40649400000001,-14.42936],[135.21423300000001,-14.439999],[135.04943800000001,-14.461277],[134.94506799999999,-14.317614],[134.92858799999999,-14.17386],[134.85168400000001,-14.003366],[134.785766,-13.91274],[134.87365700000001,-13.811409],[135.03845200000001,-13.768731],[135.148315,-13.694024],[135.23620600000001,-13.629971],[135.324096,-13.694024],[135.42846599999999,-13.838079],[135.494384,-14.024685],[135.59326100000001,-14.179186],[135.58776800000001,-14.354869],[135.505371,-14.466596]]],"type":"Polygon"}
+}

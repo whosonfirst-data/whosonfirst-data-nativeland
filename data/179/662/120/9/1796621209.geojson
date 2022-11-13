@@ -1,0 +1,50 @@
+{
+  "id": 1796621209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.439716,
+    "geom:bbox":"-80.224462,33.105426,-79.087535,33.853695",
+    "geom:latitude":33.478076,
+    "geom:longitude":-79.643026,
+    "iso:country":"",
+    "lbl:latitude":33.473169,
+    "lbl:longitude":-79.651639,
+    "mps:latitude":33.473169,
+    "mps:longitude":-79.651639,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#FD1287",
+    "nativeland:description":"https://native-land.ca/maps/territories/winyah/",
+    "nativeland:id":33777,
+    "nativeland:name":"Winyah",
+    "nativeland:slug":"winyah",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33777
+    },
+    "wof:country":"",
+    "wof:geomhash":"c06c769341265ec4097ad42ecd2c19fe",
+    "wof:hierarchy":[],
+    "wof:id":1796621209,
+    "wof:lastmodified":1668367801,
+    "wof:name":"Winyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.224462,
+    33.105426,
+    -79.087535,
+    33.853695
+],
+  "geometry": {"coordinates":[[[-79.124495,33.414572],[-79.087535,33.358962],[-79.106041,33.244738],[-79.143823,33.172546],[-79.184969,33.136932],[-79.23030199999999,33.109203],[-79.27395199999999,33.105426],[-79.389886,33.153267],[-79.51367999999999,33.207638],[-79.65190800000001,33.227194],[-79.81521100000001,33.257608],[-79.901567,33.348037],[-80.072836,33.564953],[-80.18262199999999,33.644318],[-80.224462,33.704362],[-80.18128400000001,33.810686],[-80.111761,33.83767],[-80.007058,33.853695],[-79.68792000000001,33.738959],[-79.355745,33.55789],[-79.27175699999999,33.513552],[-79.15697299999999,33.436489],[-79.124495,33.414572]]],"type":"Polygon"}
+}

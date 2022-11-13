@@ -1,0 +1,50 @@
+{
+  "id": 1796619111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.237607,
+    "geom:bbox":"-105.436225,22.36505,-104.461087,22.765574",
+    "geom:latitude":22.566132,
+    "geom:longitude":-104.961023,
+    "iso:country":"",
+    "lbl:latitude":22.558533,
+    "lbl:longitude":-104.97031,
+    "mps:latitude":22.558533,
+    "mps:longitude":-104.97031,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#ECD581",
+    "nativeland:description":"https://native-land.ca/maps/territories/mexicanero-nahuatl/",
+    "nativeland:id":36407,
+    "nativeland:name":"Mexicanero (Nahuas)",
+    "nativeland:slug":"mexicanero-nahuatl",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36407
+    },
+    "wof:country":"",
+    "wof:geomhash":"231286e7f46ce945cf98e67e298cba0a",
+    "wof:hierarchy":[],
+    "wof:id":1796619111,
+    "wof:lastmodified":1668367748,
+    "wof:name":"Mexicanero (Nahuas)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.436225,
+    22.36505,
+    -104.461087,
+    22.765574
+],
+  "geometry": {"coordinates":[[[-104.909988,22.748551],[-104.803157,22.756524],[-104.60299999999999,22.765574],[-104.51829600000001,22.695921],[-104.471495,22.636708],[-104.46108700000001,22.587893],[-104.477435,22.54897],[-104.61159499999999,22.535657],[-104.766631,22.516556],[-104.85745199999999,22.465434],[-104.92636400000001,22.405599],[-105.070452,22.372775],[-105.2396,22.36505],[-105.35896,22.391813],[-105.43622499999999,22.451655],[-105.42787199999999,22.528831],[-105.40281299999999,22.586686],[-105.283783,22.617531],[-105.16684100000001,22.629096],[-105.06451800000001,22.679199],[-104.909988,22.748551]]],"type":"Polygon"}
+}

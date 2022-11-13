@@ -1,0 +1,50 @@
+{
+  "id": 1796620233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.819952,
+    "geom:bbox":"121.541748,-19.059521,122.926025,-18.187606",
+    "geom:latitude":-18.622625,
+    "geom:longitude":122.285126,
+    "iso:country":"",
+    "lbl:latitude":-18.578016,
+    "lbl:longitude":122.285126,
+    "mps:latitude":-18.578016,
+    "mps:longitude":122.285126,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#69BFD3",
+    "nativeland:description":"https://native-land.ca/maps/territories/karajarri/",
+    "nativeland:id":35910,
+    "nativeland:name":"Karajarri",
+    "nativeland:slug":"karajarri",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35910
+    },
+    "wof:country":"",
+    "wof:geomhash":"4ca03dc911b782142f3845d2202378f7",
+    "wof:hierarchy":[],
+    "wof:id":1796620233,
+    "wof:lastmodified":1668367775,
+    "wof:name":"Karajarri",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.541748,
+    -19.059521,
+    122.926025,
+    -18.187606
+],
+  "geometry": {"coordinates":[[[121.961975,-18.306292],[122.058105,-18.229351],[122.233886,-18.187606],[122.508544,-18.260653],[122.750244,-18.364952],[122.88208,-18.448346],[122.926025,-18.562947],[122.893066,-18.719097],[122.849121,-18.947855],[122.685699,-19.059521],[122.346496,-18.967337],[121.882324,-18.872503],[121.541748,-18.814017],[121.552734,-18.699586],[121.620025,-18.557739],[121.67907700000001,-18.432713],[121.961975,-18.306292]]],"type":"Polygon"}
+}

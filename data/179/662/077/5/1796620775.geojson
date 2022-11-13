@@ -1,0 +1,50 @@
+{
+  "id": 1796620775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.085667,
+    "geom:bbox":"174.015598,-39.302592,174.418891,-38.982817",
+    "geom:latitude":-39.137879,
+    "geom:longitude":174.203802,
+    "iso:country":"",
+    "lbl:latitude":-39.144529,
+    "lbl:longitude":174.187478,
+    "mps:latitude":-39.144529,
+    "mps:longitude":174.187478,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#A7C4D3",
+    "nativeland:description":"https://native-land.ca/maps/territories/te-atiawa-taranaki/",
+    "nativeland:id":33979,
+    "nativeland:name":"Te Atiawa (Taranaki)",
+    "nativeland:slug":"te-atiawa-taranaki",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33979
+    },
+    "wof:country":"",
+    "wof:geomhash":"429b5a81b6ba28b071b74954c6de289a",
+    "wof:hierarchy":[],
+    "wof:id":1796620775,
+    "wof:lastmodified":1668367789,
+    "wof:name":"Te Atiawa (Taranaki)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.015598,
+    -39.302592,
+    174.418891,
+    -38.982817
+],
+  "geometry": {"coordinates":[[[174.13700299999999,-39.018777],[174.15537499999999,-39.016508],[174.19982300000001,-38.988262],[174.242389,-38.983126],[174.31172599999999,-38.982817],[174.338076,-38.993245],[174.34656699999999,-39.05068],[174.368405,-39.06762],[174.357046,-39.094758],[174.36889600000001,-39.106746],[174.40423000000001,-39.102331],[174.418891,-39.153742],[174.33655999999999,-39.17761],[174.300298,-39.211466],[174.30322000000001,-39.25175],[174.28384,-39.28971],[174.26289399999999,-39.28093],[174.165663,-39.296429],[174.083743,-39.302592],[174.01832999999999,-39.068593],[174.01559800000001,-39.053305],[174.10733500000001,-39.034849],[174.13700299999999,-39.018777]]],"type":"Polygon"}
+}

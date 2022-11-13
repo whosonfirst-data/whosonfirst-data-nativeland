@@ -1,0 +1,50 @@
+{
+  "id": 1796620055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.763936,
+    "geom:bbox":"-100.294224,17.121613,-98.406533,18.757934",
+    "geom:latitude":17.911451,
+    "geom:longitude":-99.307044,
+    "iso:country":"",
+    "lbl:latitude":17.883323,
+    "lbl:longitude":-99.292744,
+    "mps:latitude":17.883323,
+    "mps:longitude":-99.292744,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#4E62BC",
+    "nativeland:description":"https://native-land.ca/maps/territories/nahuatl-6/",
+    "nativeland:id":35989,
+    "nativeland:name":"Nahua (Guerrero)",
+    "nativeland:slug":"nahuatl-6",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35989
+    },
+    "wof:country":"",
+    "wof:geomhash":"fb6da99870df3b8c3a59dd95dd9c4b42",
+    "wof:hierarchy":[],
+    "wof:id":1796620055,
+    "wof:lastmodified":1668367771,
+    "wof:name":"Nahua (Guerrero)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.294224,
+    17.121613,
+    -98.406533,
+    18.757934
+],
+  "geometry": {"coordinates":[[[-100.294224,18.265119],[-100.21883699999999,18.424672],[-100.044375,18.566984],[-99.754349,18.682802],[-99.689511,18.740658],[-99.59179899999999,18.757934],[-99.484655,18.685881],[-99.072288,18.389609],[-98.93611300000001,18.22609],[-98.735685,18.080089],[-98.667309,17.996765],[-98.51169299999999,17.883867],[-98.473964,17.73817],[-98.420063,17.583608],[-98.406533,17.337151],[-98.543921,17.243553],[-98.762102,17.146368],[-99.085115,17.121613],[-99.43702,17.286074],[-99.542511,17.451557],[-99.90195199999999,17.836811],[-100.161756,18.064548],[-100.294224,18.265119]]],"type":"Polygon"}
+}

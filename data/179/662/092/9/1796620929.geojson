@@ -1,0 +1,50 @@
+{
+  "id": 1796620929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.229145,
+    "geom:bbox":"-123.997889,45.303202,-123.25938,45.691262",
+    "geom:latitude":45.510738,
+    "geom:longitude":-123.632165,
+    "iso:country":"",
+    "lbl:latitude":45.50975,
+    "lbl:longitude":-123.632164,
+    "mps:latitude":45.50975,
+    "mps:longitude":-123.632164,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#D18F6C",
+    "nativeland:description":"https://native-land.ca/maps/territories/tillamook-2/",
+    "nativeland:id":33908,
+    "nativeland:name":"Tillamook",
+    "nativeland:slug":"tillamook-2",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33908
+    },
+    "wof:country":"",
+    "wof:geomhash":"a4bc2b9dad5f91d53fec91d45e3038ef",
+    "wof:hierarchy":[],
+    "wof:id":1796620929,
+    "wof:lastmodified":1668367794,
+    "wof:name":"Tillamook",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.997889,
+    45.303202,
+    -123.25938,
+    45.691262
+],
+  "geometry": {"coordinates":[[[-123.980656,45.361791],[-123.986693,45.401128],[-123.99117099999999,45.448279],[-123.997889,45.49225],[-123.986693,45.561279],[-123.99117099999999,45.614562],[-123.973257,45.670924],[-123.95981999999999,45.691262],[-123.910555,45.685005],[-123.850092,45.686569],[-123.802425,45.684375],[-123.70285199999999,45.672418],[-123.64217499999999,45.674592],[-123.508268,45.652718],[-123.462885,45.679971],[-123.40735100000001,45.675807],[-123.334121,45.649583],[-123.287447,45.644145],[-123.268777,45.607151],[-123.25937999999999,45.557961],[-123.274018,45.524128],[-123.285729,45.469747],[-123.276946,45.406066],[-123.357455,45.362885],[-123.345744,45.319673],[-123.354527,45.303202],[-123.524328,45.330993],[-123.63850499999999,45.347456],[-123.770247,45.366999],[-123.881496,45.370084],[-123.980656,45.361791]]],"type":"Polygon"}
+}

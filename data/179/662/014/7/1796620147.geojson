@@ -1,0 +1,50 @@
+{
+  "id": 1796620147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.168362,
+    "geom:bbox":"-109.304905,27.317416,-108.05133,28.527013",
+    "geom:latitude":27.911702,
+    "geom:longitude":-108.678607,
+    "iso:country":"",
+    "lbl:latitude":27.894856,
+    "lbl:longitude":-108.690546,
+    "mps:latitude":27.894856,
+    "mps:longitude":-108.690546,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#BB601F",
+    "nativeland:description":"https://native-land.ca/maps/territories/guarijio/",
+    "nativeland:id":35946,
+    "nativeland:name":"Guarij\u00edo/Guarij\u00f3",
+    "nativeland:slug":"guarijio",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35946
+    },
+    "wof:country":"",
+    "wof:geomhash":"602382841d5d628e476da07e6e2bfab4",
+    "wof:hierarchy":[],
+    "wof:id":1796620147,
+    "wof:lastmodified":1668367773,
+    "wof:name":"Guarij\u00edo/Guarij\u00f3",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.304905,
+    27.317416,
+    -108.05133,
+    28.527013
+],
+  "geometry": {"coordinates":[[[-109.252171,28.135933],[-109.147925,28.239448],[-109.076848,28.33392],[-108.91541700000001,28.397186],[-108.637799,28.473249],[-108.468469,28.527013],[-108.343479,28.50037],[-108.268384,28.472274],[-108.162036,28.371982],[-108.107117,28.257796],[-108.09766999999999,28.16156],[-108.064815,28.067885],[-108.05132999999999,27.887561],[-108.061988,27.77362],[-108.226949,27.597032],[-108.38088999999999,27.449201],[-108.50307100000001,27.354887],[-108.65964700000001,27.333162],[-108.74112700000001,27.327239],[-108.94994800000001,27.317416],[-109.127826,27.392433],[-109.260733,27.586363],[-109.30490500000001,27.810567],[-109.289928,27.980168],[-109.252171,28.135933]]],"type":"Polygon"}
+}

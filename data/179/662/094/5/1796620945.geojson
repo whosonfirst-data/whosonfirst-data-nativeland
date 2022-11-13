@@ -1,0 +1,50 @@
+{
+  "id": 1796620945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.085151,
+    "geom:bbox":"-124.093371,44.699239,-123.692366,44.981699",
+    "geom:latitude":44.846844,
+    "geom:longitude":-123.881032,
+    "iso:country":"",
+    "lbl:latitude":44.839147,
+    "lbl:longitude":-123.860982,
+    "mps:latitude":44.839147,
+    "mps:longitude":-123.860982,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#DC4B45",
+    "nativeland:description":"https://native-land.ca/maps/territories/siletz-2/",
+    "nativeland:id":33905,
+    "nativeland:name":"Siletz",
+    "nativeland:slug":"siletz-2",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33905
+    },
+    "wof:country":"",
+    "wof:geomhash":"b2fc5f55fb81e57e27f341cfaadb1fea",
+    "wof:hierarchy":[],
+    "wof:id":1796620945,
+    "wof:lastmodified":1668367794,
+    "wof:name":"Siletz",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.093371,
+    44.699239,
+    -123.692366,
+    44.981699
+],
+  "geometry": {"coordinates":[[[-124.07438399999999,44.775942],[-124.083005,44.772961],[-124.093371,44.790742],[-124.079549,44.836703],[-124.05277,44.875894],[-124.033766,44.924234],[-124.034629,44.962143],[-124.0234,44.981699],[-124.001864,44.981245],[-123.936212,44.980023],[-123.871424,44.975745],[-123.808363,44.976356],[-123.78072,44.976356],[-123.74184700000001,44.974523],[-123.72457,44.970245],[-123.72457,44.960466],[-123.73549,44.948283],[-123.751302,44.91979],[-123.73405200000001,44.899429],[-123.70674,44.879061],[-123.69236600000001,44.817914],[-123.69955299999999,44.773031],[-123.717578,44.7465],[-123.758179,44.724409],[-123.80309800000001,44.711518],[-123.881449,44.699239],[-123.924075,44.703537],[-123.942216,44.717657],[-123.94912600000001,44.737296],[-123.96726700000001,44.756929],[-124.004412,44.768583],[-124.046741,44.774102],[-124.07438399999999,44.775942]]],"type":"Polygon"}
+}

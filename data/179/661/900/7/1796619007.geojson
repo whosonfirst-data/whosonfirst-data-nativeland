@@ -1,0 +1,50 @@
+{
+  "id": 1796619007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.266024,
+    "geom:bbox":"-71.853333,41.286062,-71.28479,41.977869",
+    "geom:latitude":41.621296,
+    "geom:longitude":-71.571983,
+    "iso:country":"",
+    "lbl:latitude":41.61496,
+    "lbl:longitude":-71.566568,
+    "mps:latitude":41.61496,
+    "mps:longitude":-71.566568,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#2F9F92",
+    "nativeland:description":"https://native-land.ca/maps/territories/nahaganset/",
+    "nativeland:id":36456,
+    "nativeland:name":"Nahaganset",
+    "nativeland:slug":"nahaganset",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36456
+    },
+    "wof:country":"",
+    "wof:geomhash":"f5ddf2e45c17ea53d42fb96264f59953",
+    "wof:hierarchy":[],
+    "wof:id":1796619007,
+    "wof:lastmodified":1668367746,
+    "wof:name":"Nahaganset",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.853333,
+    41.286062,
+    -71.28479,
+    41.977869
+],
+  "geometry": {"coordinates":[[[-71.369934,41.967659],[-71.367188,41.93702],[-71.367188,41.89001],[-71.369934,41.871606],[-71.369934,41.845013],[-71.361694,41.818408],[-71.345215,41.789745],[-71.312256,41.763117],[-71.28479,41.73238],[-71.28479,41.693424],[-71.29303,41.679066],[-71.347961,41.662653],[-71.35451999999999,41.555783],[-71.33602500000001,41.530801],[-71.349085,41.477487],[-71.430359,41.405656],[-71.490784,41.304634],[-71.71051,41.306698],[-71.798401,41.286062],[-71.85333300000001,41.296381],[-71.812134,41.395355],[-71.790161,41.477718],[-71.776428,41.631867],[-71.790161,41.722131],[-71.798401,41.81022],[-71.776428,41.863425],[-71.383667,41.977869],[-71.369934,41.967659]]],"type":"Polygon"}
+}

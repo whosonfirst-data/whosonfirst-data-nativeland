@@ -1,0 +1,50 @@
+{
+  "id": 1796619313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.243061,
+    "geom:bbox":"-79.654476,37.121811,-77.480241,38.363357",
+    "geom:latitude":37.748962,
+    "geom:longitude":-78.547029,
+    "iso:country":"",
+    "lbl:latitude":37.71579,
+    "lbl:longitude":-78.526322,
+    "mps:latitude":37.71579,
+    "mps:longitude":-78.526322,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#022158",
+    "nativeland:description":"https://native-land.ca/maps/territories/monacan/",
+    "nativeland:id":36319,
+    "nativeland:name":"Monacan",
+    "nativeland:slug":"monacan",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36319
+    },
+    "wof:country":"",
+    "wof:geomhash":"f99a4c0b61e8990ab034a0570d0cbb7e",
+    "wof:hierarchy":[],
+    "wof:id":1796619313,
+    "wof:lastmodified":1668367753,
+    "wof:name":"Monacan",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.654476,
+    37.121811,
+    -77.480241,
+    38.363357
+],
+  "geometry": {"coordinates":[[[-78.44703800000001,38.303215],[-78.392106,38.337588],[-78.117448,38.363357],[-77.93068,38.328996],[-77.590104,38.17417],[-77.48024100000001,37.958582],[-77.599664,37.555402],[-77.638829,37.418746],[-77.593411,37.284785],[-77.596238,37.225107],[-77.63156600000001,37.202372],[-77.65434999999999,37.15816],[-77.78391999999999,37.143541],[-78.084489,37.133524],[-78.331755,37.121811],[-78.586209,37.130382],[-78.913343,37.21481],[-79.17567699999999,37.254458],[-79.433132,37.363963],[-79.613409,37.422939],[-79.654476,37.516128],[-79.64201,37.598597],[-79.632092,37.834421],[-79.59545300000001,37.994554],[-79.44486999999999,38.159198],[-79.417323,38.299334],[-79.14773099999999,38.359187],[-78.853532,38.303215],[-78.44703800000001,38.303215]]],"type":"Polygon"}
+}

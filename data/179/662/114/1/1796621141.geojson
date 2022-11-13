@@ -1,0 +1,50 @@
+{
+  "id": 1796621141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.259565,
+    "geom:bbox":"-76.167999,35.184311,-75.388924,35.7799",
+    "geom:latitude":35.406615,
+    "geom:longitude":-75.733308,
+    "iso:country":"",
+    "lbl:latitude":35.356926,
+    "lbl:longitude":-75.727406,
+    "mps:latitude":35.356926,
+    "mps:longitude":-75.727406,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#D84B04",
+    "nativeland:description":"https://native-land.ca/maps/territories/hatteras/",
+    "nativeland:id":33811,
+    "nativeland:name":"Hatteras",
+    "nativeland:slug":"hatteras",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33811
+    },
+    "wof:country":"",
+    "wof:geomhash":"c8f658b7732739fa32775b36719e9a08",
+    "wof:hierarchy":[],
+    "wof:id":1796621141,
+    "wof:lastmodified":1668367799,
+    "wof:name":"Hatteras",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.167999,
+    35.184311,
+    -75.388924,
+    35.7799
+],
+  "geometry": {"coordinates":[[[-75.54579200000001,35.769553],[-75.50243,35.7799],[-75.470553,35.764326],[-75.44248899999999,35.71469],[-75.388924,35.557138],[-75.44476299999999,35.344358],[-75.49095199999999,35.217144],[-75.539416,35.189007],[-75.659865,35.189021],[-75.741632,35.184311],[-75.766688,35.19937],[-75.836096,35.219094],[-75.987341,35.207075],[-76.08911000000001,35.238778],[-76.16799899999999,35.286813],[-76.162853,35.393818],[-76.111467,35.469153],[-75.94839899999999,35.517384],[-75.744416,35.517271],[-75.60349100000001,35.61214],[-75.55142499999999,35.691435],[-75.548609,35.7336],[-75.54579200000001,35.769553]]],"type":"Polygon"}
+}

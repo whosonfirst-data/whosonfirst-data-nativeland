@@ -1,0 +1,50 @@
+{
+  "id": 1796619165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.424354,
+    "geom:bbox":"145.541381,-30.202113,146.936645,-29.606894",
+    "geom:latitude":-29.85345,
+    "geom:longitude":146.208068,
+    "iso:country":"",
+    "lbl:latitude":-29.81619,
+    "lbl:longitude":146.160502,
+    "mps:latitude":-29.81619,
+    "mps:longitude":146.160502,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#3FEA67",
+    "nativeland:description":"https://native-land.ca/maps/territories/barranbinya/",
+    "nativeland:id":36383,
+    "nativeland:name":"Barranbinya",
+    "nativeland:slug":"barranbinya",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36383
+    },
+    "wof:country":"",
+    "wof:geomhash":"e393693f01500bddda70b01604974868",
+    "wof:hierarchy":[],
+    "wof:id":1796619165,
+    "wof:lastmodified":1668367750,
+    "wof:name":"Barranbinya",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.541381,
+    -30.202113,
+    146.936645,
+    -29.606894
+],
+  "geometry": {"coordinates":[[[146.87621999999999,-29.91209],[146.936645,-29.997759],[146.777343,-30.007273],[146.49719200000001,-29.997759],[146.27197200000001,-29.997759],[145.97534099999999,-30.021543],[145.728149,-30.083354],[145.541381,-30.202113],[145.59082000000001,-30.035811],[145.689697,-29.88828],[145.82702599999999,-29.606894],[146.11267000000001,-29.616445],[146.409301,-29.673735],[146.70043899999999,-29.697596],[146.81579500000001,-29.792984],[146.87621999999999,-29.91209]]],"type":"Polygon"}
+}

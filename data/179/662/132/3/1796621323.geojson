@@ -1,0 +1,50 @@
+{
+  "id": 1796621323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.487066,
+    "geom:bbox":"-84.17505,8.940864,-82.927959,9.500791",
+    "geom:latitude":9.223766,
+    "geom:longitude":-83.527442,
+    "iso:country":"",
+    "lbl:latitude":9.213035,
+    "lbl:longitude":-83.539319,
+    "mps:latitude":9.213035,
+    "mps:longitude":-83.539319,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#76B636",
+    "nativeland:description":"https://native-land.ca/maps/territories/brunka/",
+    "nativeland:id":33723,
+    "nativeland:name":"Brunka",
+    "nativeland:slug":"brunka",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33723
+    },
+    "wof:country":"",
+    "wof:geomhash":"0d18a7af3579b38108ba6383c44b4084",
+    "wof:hierarchy":[],
+    "wof:id":1796621323,
+    "wof:lastmodified":1668367804,
+    "wof:name":"Brunka",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.17505,
+    8.940864,
+    -82.927959,
+    9.500791
+],
+  "geometry": {"coordinates":[[[-83.607049,8.961522],[-83.645312,8.962668],[-83.72698,8.993191],[-83.83954900000001,9.076025],[-83.996263,9.184989],[-84.126491,9.326592],[-84.17505,9.40717],[-84.113247,9.455071],[-84.033787,9.487729],[-83.94329,9.496437],[-83.786576,9.500791],[-83.63869099999999,9.489908],[-83.499634,9.463782],[-83.398101,9.439832],[-83.273048,9.414383],[-83.146838,9.353051],[-82.998591,9.269957],[-82.954446,9.208956],[-82.927959,9.071666],[-82.956653,9.021531],[-83.05597899999999,8.962668],[-83.106746,8.971389],[-83.241387,8.949586],[-83.31201900000001,8.940864],[-83.389822,8.952039],[-83.455895,8.946591],[-83.607049,8.961522]]],"type":"Polygon"}
+}

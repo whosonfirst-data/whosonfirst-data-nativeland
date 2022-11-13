@@ -1,0 +1,50 @@
+{
+  "id": 1796621011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.185778,
+    "geom:bbox":"-81.170453,24.650278,-80.217401,25.360563",
+    "geom:latitude":24.953081,
+    "geom:longitude":-80.638606,
+    "iso:country":"",
+    "lbl:latitude":24.944736,
+    "lbl:longitude":-80.606115,
+    "mps:latitude":24.944736,
+    "mps:longitude":-80.606115,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#3ECF84",
+    "nativeland:description":"https://native-land.ca/maps/territories/matecumbe/",
+    "nativeland:id":33875,
+    "nativeland:name":"Matecumbe",
+    "nativeland:slug":"matecumbe",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33875
+    },
+    "wof:country":"",
+    "wof:geomhash":"35480d6b9cc7047c380ed0f743961979",
+    "wof:hierarchy":[],
+    "wof:id":1796621011,
+    "wof:lastmodified":1668367796,
+    "wof:name":"Matecumbe",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.170453,
+    24.650278,
+    -80.217401,
+    25.360563
+],
+  "geometry": {"coordinates":[[[-81.161902,24.669379],[-81.17045299999999,24.693084],[-81.16171,24.724856],[-81.11362,24.76853],[-80.903773,24.855831],[-80.731087,24.962889],[-80.65458099999999,25.026287],[-80.503754,25.135175],[-80.36604199999999,25.283504],[-80.31139400000001,25.342784],[-80.24363200000001,25.360563],[-80.217401,25.297338],[-80.27423400000001,25.143091],[-80.35247,25.014852],[-80.46675399999999,24.920775],[-80.577344,24.8495],[-80.677179,24.775575],[-80.84138,24.713539],[-80.938588,24.684896],[-81.038422,24.659829],[-81.11855300000001,24.650278],[-81.161902,24.669379]]],"type":"Polygon"}
+}

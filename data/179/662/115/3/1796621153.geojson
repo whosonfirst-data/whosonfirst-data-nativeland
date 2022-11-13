@@ -1,0 +1,50 @@
+{
+  "id": 1796621153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.297169,
+    "geom:bbox":"-77.076108,35.364214,-76.353546,35.99632",
+    "geom:latitude":35.689215,
+    "geom:longitude":-76.699269,
+    "iso:country":"",
+    "lbl:latitude":35.688943,
+    "lbl:longitude":-76.706151,
+    "mps:latitude":35.688943,
+    "mps:longitude":-76.706151,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#9C4A46",
+    "nativeland:description":"https://native-land.ca/maps/territories/secotan/",
+    "nativeland:id":33809,
+    "nativeland:name":"Secotan",
+    "nativeland:slug":"secotan",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33809
+    },
+    "wof:country":"",
+    "wof:geomhash":"26cf128d3f253f2124b7186b705bb62e",
+    "wof:hierarchy":[],
+    "wof:id":1796621153,
+    "wof:lastmodified":1668367800,
+    "wof:name":"Secotan",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.076108,
+    35.364214,
+    -76.353546,
+    35.99632
+],
+  "geometry": {"coordinates":[[[-76.987779,35.4759],[-77.021503,35.516715],[-77.076108,35.555091],[-77.071144,35.619683],[-77.056252,35.70035],[-76.99171699999999,35.79503],[-76.902362,35.83126],[-76.8279,35.869485],[-76.731098,35.935833],[-76.67898599999999,35.955549],[-76.55191000000001,35.972837],[-76.44565799999999,35.990076],[-76.40594400000001,35.99632],[-76.366231,35.976013],[-76.35354599999999,35.931046],[-76.373677,35.835285],[-76.391052,35.742668],[-76.40842600000001,35.64188],[-76.450622,35.599505],[-76.487853,35.534895],[-76.530824,35.522668],[-76.58274400000001,35.525009],[-76.594106,35.507836],[-76.569762,35.447996],[-76.55735199999999,35.377194],[-76.58886699999999,35.364214],[-76.644248,35.370695],[-76.76088300000001,35.409568],[-76.86761300000001,35.441929],[-76.987779,35.4759]]],"type":"Polygon"}
+}

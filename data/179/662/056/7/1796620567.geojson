@@ -1,0 +1,50 @@
+{
+  "id": 1796620567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.035095,
+    "geom:bbox":"-96.00823,30.31124,-94.541812,31.306054",
+    "geom:latitude":30.822389,
+    "geom:longitude":-95.259448,
+    "iso:country":"",
+    "lbl:latitude":30.817687,
+    "lbl:longitude":-95.259448,
+    "mps:latitude":30.817687,
+    "mps:longitude":-95.259448,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#8236D8",
+    "nativeland:description":"https://native-land.ca/maps/territories/bidai/",
+    "nativeland:id":34086,
+    "nativeland:name":"Bidai",
+    "nativeland:slug":"bidai",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34086
+    },
+    "wof:country":"",
+    "wof:geomhash":"e83c36731f6913dbb5d0be63ca6cfa9a",
+    "wof:hierarchy":[],
+    "wof:id":1796620567,
+    "wof:lastmodified":1668367783,
+    "wof:name":"Bidai",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.00823,
+    30.31124,
+    -94.541812,
+    31.306054
+],
+  "geometry": {"coordinates":[[[-95.69197699999999,31.282016],[-95.514343,31.306054],[-95.352384,31.286039],[-95.153755,31.18651],[-94.850809,31.092263],[-94.701883,31.036728],[-94.59580699999999,30.975088],[-94.54258299999999,30.90217],[-94.54181199999999,30.799927],[-94.547436,30.644998],[-94.60898400000001,30.480557],[-94.7824,30.31124],[-95.307485,30.404428],[-95.519486,30.455574],[-95.648968,30.527554],[-95.801102,30.632887],[-95.96266799999999,30.859629],[-96.00019,30.995272],[-96.00823,31.149075],[-95.96266799999999,31.176595],[-95.882265,31.24307],[-95.799181,31.265981],[-95.69197699999999,31.282016]]],"type":"Polygon"}
+}

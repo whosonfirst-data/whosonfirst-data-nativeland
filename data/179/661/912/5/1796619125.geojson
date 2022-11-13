@@ -1,0 +1,50 @@
+{
+  "id": 1796619125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.663136,
+    "geom:bbox":"-115.3125,44.182204,-113.291016,45.614037",
+    "geom:latitude":44.822582,
+    "geom:longitude":-114.35072,
+    "iso:country":"",
+    "lbl:latitude":44.835143,
+    "lbl:longitude":-114.35072,
+    "mps:latitude":44.835143,
+    "mps:longitude":-114.35072,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#EE884E",
+    "nativeland:description":"https://native-land.ca/maps/territories/lemhi-shoshone/",
+    "nativeland:id":36401,
+    "nativeland:name":"Lemhi-Shoshone",
+    "nativeland:slug":"lemhi-shoshone",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36401
+    },
+    "wof:country":"",
+    "wof:geomhash":"ada967305c503215b7238c4f05d62b52",
+    "wof:hierarchy":[],
+    "wof:id":1796619125,
+    "wof:lastmodified":1668367749,
+    "wof:name":"Lemhi-Shoshone",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -115.3125,
+    44.182204,
+    -113.291016,
+    45.614037
+],
+  "geometry": {"coordinates":[[[-113.291016,44.777936],[-114.345703,44.245199],[-114.82910200000001,44.182204],[-115.18066399999999,44.308127],[-115.3125,44.496505],[-115.26855500000001,44.777936],[-114.873047,45.089036],[-114.521484,45.305803],[-114.30175800000001,45.460131],[-114.12597700000001,45.614037],[-113.90625,45.58329],[-113.77441399999999,45.39845],[-113.68652299999999,45.182037],[-113.42285200000001,44.933696],[-113.291016,44.777936]]],"type":"Polygon"}
+}

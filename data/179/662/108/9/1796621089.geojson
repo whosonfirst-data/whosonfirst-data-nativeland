@@ -1,0 +1,50 @@
+{
+  "id": 1796621089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.109713,
+    "geom:bbox":"-77.233882,36.998162,-76.705423,37.303962",
+    "geom:latitude":37.127302,
+    "geom:longitude":-76.980071,
+    "iso:country":"",
+    "lbl:latitude":37.136087,
+    "lbl:longitude":-77.011527,
+    "mps:latitude":37.136087,
+    "mps:longitude":-77.011527,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#8DE14B",
+    "nativeland:description":"https://native-land.ca/maps/territories/quiyoughcohannock/",
+    "nativeland:id":33832,
+    "nativeland:name":"Quiyoughcohannock",
+    "nativeland:slug":"quiyoughcohannock",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33832
+    },
+    "wof:country":"",
+    "wof:geomhash":"b8f1c3675c67fd723d3b9b60a5ae73e2",
+    "wof:hierarchy":[],
+    "wof:id":1796621089,
+    "wof:lastmodified":1668367798,
+    "wof:name":"Quiyoughcohannock",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.233882,
+    36.998162,
+    -76.705423,
+    37.303962
+],
+  "geometry": {"coordinates":[[[-77.039405,37.287743],[-77.011774,37.303962],[-76.996273,37.302089],[-76.984949,37.293774],[-76.966658,37.253573],[-76.933559,37.239706],[-76.87171600000001,37.226529],[-76.803776,37.214044],[-76.75761199999999,37.189068],[-76.705423,37.164523],[-76.70890799999999,37.129115],[-76.729812,37.079098],[-76.76331999999999,37.042363],[-76.80556799999999,37.023756],[-76.88278099999999,37.001653],[-77.022639,36.998162],[-77.120248,37.008633],[-77.20765900000001,37.044689],[-77.23388199999999,37.064454],[-77.22368400000001,37.141141],[-77.18872,37.200345],[-77.104223,37.252546],[-77.047406,37.280372],[-77.039405,37.287743]]],"type":"Polygon"}
+}

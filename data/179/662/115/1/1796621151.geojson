@@ -1,0 +1,50 @@
+{
+  "id": 1796621151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.344381,
+    "geom:bbox":"-77.53396,35.603768,-76.666834,36.296931",
+    "geom:latitude":35.919778,
+    "geom:longitude":-77.203464,
+    "iso:country":"",
+    "lbl:latitude":35.880118,
+    "lbl:longitude":-77.246163,
+    "mps:latitude":35.880118,
+    "mps:longitude":-77.246163,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#D701A1",
+    "nativeland:description":"https://native-land.ca/maps/territories/moratok/",
+    "nativeland:id":33808,
+    "nativeland:name":"Moratok",
+    "nativeland:slug":"moratok",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33808
+    },
+    "wof:country":"",
+    "wof:geomhash":"5cd17a6c8c47bc3ca0d417fe3017adb8",
+    "wof:hierarchy":[],
+    "wof:id":1796621151,
+    "wof:lastmodified":1668367800,
+    "wof:name":"Moratok",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.53396,
+    35.603768,
+    -76.666834,
+    36.296931
+],
+  "geometry": {"coordinates":[[[-76.68606699999999,35.964074],[-76.66683399999999,35.932654],[-76.71611799999999,35.863777],[-76.824502,35.796231],[-76.917164,35.762655],[-77.052334,35.688319],[-77.165702,35.619231],[-77.26508,35.603768],[-77.371724,35.623136],[-77.478369,35.695957],[-77.53395999999999,35.792642],[-77.509001,35.91647],[-77.515541,36.045258],[-77.528622,36.098123],[-77.519901,36.165035],[-77.45231699999999,36.251232],[-77.36511,36.296931],[-77.312786,36.28463],[-77.153634,36.159755],[-77.081689,36.066408],[-76.977041,36.00294],[-76.74594399999999,35.987065],[-76.69838,35.981781],[-76.68606699999999,35.964074]]],"type":"Polygon"}
+}

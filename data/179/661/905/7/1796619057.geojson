@@ -1,0 +1,50 @@
+{
+  "id": 1796619057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.148167,
+    "geom:bbox":"-106.82227,21.426391,-104.60603,24.032236",
+    "geom:latitude":22.581351,
+    "geom:longitude":-105.641286,
+    "iso:country":"",
+    "lbl:latitude":22.139932,
+    "lbl:longitude":-105.255123,
+    "mps:latitude":22.139932,
+    "mps:longitude":-105.255123,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#099951",
+    "nativeland:description":"https://native-land.ca/maps/territories/totorames/",
+    "nativeland:id":36434,
+    "nativeland:name":"Totorames",
+    "nativeland:slug":"totorames",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36434
+    },
+    "wof:country":"",
+    "wof:geomhash":"7da1388862049d1ef8293d0daed22189",
+    "wof:hierarchy":[],
+    "wof:id":1796619057,
+    "wof:lastmodified":1668367747,
+    "wof:name":"Totorames",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.82227,
+    21.426391,
+    -104.60603,
+    24.032236
+],
+  "geometry": {"coordinates":[[[-106.82227,23.737708],[-106.791179,23.783238],[-106.718632,23.866668],[-106.66681199999999,23.932994],[-106.60255600000001,24.022008],[-106.550825,24.032236],[-106.45407,24.018966],[-106.380594,24.010298],[-106.34345999999999,23.998971],[-106.32411999999999,23.944315],[-106.239756,23.785097],[-106.191294,23.645415],[-106.142833,23.502292],[-106.007195,23.250503],[-105.851024,23.099487],[-105.623221,22.98958],[-105.444395,22.9247],[-105.110522,22.759731],[-104.779707,22.523108],[-104.60603,22.010317],[-104.738355,21.710967],[-105.135333,21.472577],[-105.36690299999999,21.426391],[-105.648095,21.580285],[-105.846583,22.06398],[-105.830043,22.339638],[-106.243561,22.881698],[-106.508212,23.14812],[-106.764593,23.4823],[-106.81668999999999,23.600389],[-106.82227,23.737708]]],"type":"Polygon"}
+}

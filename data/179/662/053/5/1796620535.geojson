@@ -1,0 +1,50 @@
+{
+  "id": 1796620535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000348,
+    "geom:bbox":"-88.319126,43.958292,-88.297491,43.978624",
+    "geom:latitude":43.969216,
+    "geom:longitude":-88.30826,
+    "iso:country":"",
+    "lbl:latitude":43.968674,
+    "lbl:longitude":-88.308054,
+    "mps:latitude":43.968674,
+    "mps:longitude":-88.308054,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#D81E96",
+    "nativeland:description":"https://native-land.ca/maps/territories/brothertown/",
+    "nativeland:id":34104,
+    "nativeland:name":"Brothertown",
+    "nativeland:slug":"brothertown",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34104
+    },
+    "wof:country":"",
+    "wof:geomhash":"bde61a0cac3afb648feb0031a6099230",
+    "wof:hierarchy":[],
+    "wof:id":1796620535,
+    "wof:lastmodified":1668367783,
+    "wof:name":"Brothertown",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.319126,
+    43.958292,
+    -88.297491,
+    43.978624
+],
+  "geometry": {"coordinates":[[[-88.31621199999999,43.97822],[-88.31027,43.978624],[-88.304441,43.978543],[-88.298163,43.975236],[-88.29749099999999,43.966684],[-88.302087,43.960067],[-88.310158,43.958292],[-88.31587500000001,43.9616],[-88.317669,43.966522],[-88.319126,43.974106],[-88.317781,43.976204],[-88.31621199999999,43.97822]]],"type":"Polygon"}
+}

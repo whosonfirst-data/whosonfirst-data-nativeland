@@ -1,0 +1,50 @@
+{
+  "id": 1796621249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.013458,
+    "geom:bbox":"-122.887695,39.036419,-122.72155,39.154344",
+    "geom:latitude":39.093424,
+    "geom:longitude":-122.804302,
+    "iso:country":"",
+    "lbl:latitude":39.094794,
+    "lbl:longitude":-122.804302,
+    "mps:latitude":39.094794,
+    "mps:longitude":-122.804302,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#9C362A",
+    "nativeland:description":"https://native-land.ca/maps/territories/shigom/",
+    "nativeland:id":33758,
+    "nativeland:name":"Shigom",
+    "nativeland:slug":"shigom",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33758
+    },
+    "wof:country":"",
+    "wof:geomhash":"1b93731ab29737ebbd1c15d98f00b78a",
+    "wof:hierarchy":[],
+    "wof:id":1796621249,
+    "wof:lastmodified":1668367802,
+    "wof:name":"Shigom",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.887695,
+    39.036419,
+    -122.72155,
+    39.154344
+],
+  "geometry": {"coordinates":[[[-122.772588,39.036419],[-122.811283,39.037369],[-122.852644,39.056425],[-122.880685,39.083094],[-122.88769499999999,39.108121],[-122.87718,39.121719],[-122.848437,39.138033],[-122.8232,39.154344],[-122.80216900000001,39.152169],[-122.779736,39.145102],[-122.751694,39.124982],[-122.732766,39.107033],[-122.725756,39.087991],[-122.72154999999999,39.073842],[-122.737674,39.061324],[-122.758157,39.043695],[-122.772588,39.036419]]],"type":"Polygon"}
+}

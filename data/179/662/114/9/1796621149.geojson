@@ -1,0 +1,50 @@
+{
+  "id": 1796621149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.392903,
+    "geom:bbox":"-77.514287,34.94813,-76.392056,35.610093",
+    "geom:latitude":35.290899,
+    "geom:longitude":-76.9606,
+    "iso:country":"",
+    "lbl:latitude":35.193616,
+    "lbl:longitude":-76.811819,
+    "mps:latitude":35.193616,
+    "mps:longitude":-76.811819,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#BC73C5",
+    "nativeland:description":"https://native-land.ca/maps/territories/pamlico-pomouik/",
+    "nativeland:id":33807,
+    "nativeland:name":"Pamlico (Pomouik)",
+    "nativeland:slug":"pamlico-pomouik",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33807
+    },
+    "wof:country":"",
+    "wof:geomhash":"2e3ba4a1f9bdbe3c0d405a2ca7aa9bcd",
+    "wof:hierarchy":[],
+    "wof:id":1796621149,
+    "wof:lastmodified":1668367799,
+    "wof:name":"Pamlico (Pomouik)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.514287,
+    34.94813,
+    -76.392056,
+    35.610093
+],
+  "geometry": {"coordinates":[[[-76.411294,35.289493],[-76.392056,35.234899],[-76.44651500000001,35.162425],[-76.533649,35.065692],[-76.632678,35.001679],[-76.76804799999999,34.94813],[-76.89563699999999,34.982558],[-76.99521900000001,35.062834],[-77.063727,35.137979],[-77.121298,35.176142],[-77.237995,35.21683],[-77.402928,35.301955],[-77.49098499999999,35.369763],[-77.514287,35.447844],[-77.496163,35.53217],[-77.439201,35.586935],[-77.408131,35.603778],[-77.307152,35.610093],[-77.193228,35.603778],[-77.08189299999999,35.527956],[-77.00680699999999,35.490018],[-76.942077,35.466825],[-76.810028,35.426748],[-76.65726600000001,35.378208],[-76.532985,35.354983],[-76.411294,35.289493]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796621017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.297801,
+    "geom:bbox":"-92.06495,15.697017,-91.420083,16.312456",
+    "geom:latitude":16.0254,
+    "geom:longitude":-91.733526,
+    "iso:country":"",
+    "lbl:latitude":16.025379,
+    "lbl:longitude":-91.727385,
+    "mps:latitude":16.025379,
+    "mps:longitude":-91.727385,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#087759",
+    "nativeland:description":"https://native-land.ca/maps/territories/chuj/",
+    "nativeland:id":33871,
+    "nativeland:name":"Ket Chonhab\u2019 Kob\u2019a (Chuj)",
+    "nativeland:slug":"chuj",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33871
+    },
+    "wof:country":"",
+    "wof:geomhash":"d8b71f62274152fc7236f6bdce5eb1f6",
+    "wof:hierarchy":[],
+    "wof:id":1796621017,
+    "wof:lastmodified":1668367796,
+    "wof:name":"Ket Chonhab\u2019 Kob\u2019a (Chuj)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.06495,
+    15.697017,
+    -91.420083,
+    16.312456
+],
+  "geometry": {"coordinates":[[[-91.867267,15.811749],[-91.911181,15.843435],[-91.98437,15.927908],[-92.05143099999999,16.052502],[-92.06495,16.108444],[-92.06491800000001,16.25522],[-92.040583,16.28492],[-91.96465600000001,16.302775],[-91.867619,16.312456],[-91.778319,16.309909],[-91.709883,16.307674],[-91.641446,16.275296],[-91.57937699999999,16.24226],[-91.495741,16.169087],[-91.460207,16.124222],[-91.43680500000001,16.072872],[-91.422848,16.004685],[-91.42008300000001,15.931975],[-91.436671,15.830914],[-91.46626999999999,15.76612],[-91.507234,15.727298],[-91.554697,15.698014],[-91.590244,15.697017],[-91.642748,15.704591],[-91.69658,15.72749],[-91.75382500000001,15.755405],[-91.819833,15.781026],[-91.867267,15.811749]]],"type":"Polygon"}
+}

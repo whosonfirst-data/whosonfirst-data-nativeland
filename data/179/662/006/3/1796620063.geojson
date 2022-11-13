@@ -1,0 +1,50 @@
+{
+  "id": 1796620063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.776427,
+    "geom:bbox":"-98.907346,16.16206,-97.824084,17.318704",
+    "geom:latitude":16.712663,
+    "geom:longitude":-98.285103,
+    "iso:country":"",
+    "lbl:latitude":16.62934,
+    "lbl:longitude":-98.274786,
+    "mps:latitude":16.62934,
+    "mps:longitude":-98.274786,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#468366",
+    "nativeland:description":"https://native-land.ca/maps/territories/amuzgo-2/",
+    "nativeland:id":35982,
+    "nativeland:name":"Tzjon Non/ Tzo&#8217;tyio (Amuzgo)",
+    "nativeland:slug":"amuzgo-2",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35982
+    },
+    "wof:country":"",
+    "wof:geomhash":"1d47d5d93b503376538d307c1636ade2",
+    "wof:hierarchy":[],
+    "wof:id":1796620063,
+    "wof:lastmodified":1668367771,
+    "wof:name":"Tzjon Non/ Tzo&#8217;tyio (Amuzgo)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.907346,
+    16.16206,
+    -97.824084,
+    17.318704
+],
+  "geometry": {"coordinates":[[[-98.811487,16.688759],[-98.54222300000001,16.896386],[-98.383442,17.210048],[-98.349844,17.285227],[-98.215138,17.318704],[-98.07675,17.29243],[-97.93383,17.169795],[-97.824084,17.014684],[-97.834019,16.846158],[-97.866045,16.684534],[-97.90697299999999,16.488671],[-98.022578,16.299708],[-98.137047,16.181682],[-98.179298,16.16206],[-98.293007,16.2101],[-98.457852,16.233581],[-98.585286,16.277569],[-98.779607,16.429787],[-98.85372,16.446916],[-98.907346,16.473866],[-98.902809,16.536965],[-98.85361399999999,16.576613],[-98.811487,16.688759]]],"type":"Polygon"}
+}

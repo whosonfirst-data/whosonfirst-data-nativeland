@@ -1,0 +1,50 @@
+{
+  "id": 1796618675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.159223,
+    "geom:bbox":"-122.398682,40.971604,-121.915283,41.393294",
+    "geom:latitude":41.17084,
+    "geom:longitude":-122.168568,
+    "iso:country":"",
+    "lbl:latitude":41.176967,
+    "lbl:longitude":-122.168568,
+    "mps:latitude":41.176967,
+    "mps:longitude":-122.168568,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#33227A",
+    "nativeland:description":"https://native-land.ca/maps/territories/okwanuchu/",
+    "nativeland:id":36607,
+    "nativeland:name":"Okwanuchu",
+    "nativeland:slug":"okwanuchu",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36607
+    },
+    "wof:country":"",
+    "wof:geomhash":"1d64baf5f38539ace5ee82895993ca32",
+    "wof:hierarchy":[],
+    "wof:id":1796618675,
+    "wof:lastmodified":1668367738,
+    "wof:name":"Okwanuchu",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.398682,
+    40.971604,
+    -121.915283,
+    41.393294
+],
+  "geometry": {"coordinates":[[[-122.365723,41.319076],[-122.156982,41.368564],[-122.02514600000001,41.393294],[-121.981201,41.327326],[-121.937256,41.178654],[-121.915283,41.062786],[-122.02514600000001,41.013066],[-122.167969,40.988192],[-122.29980500000001,40.971604],[-122.39868199999999,40.988192],[-122.39868199999999,41.120746],[-122.365723,41.228249],[-122.39868199999999,41.294317],[-122.365723,41.319076]]],"type":"Polygon"}
+}

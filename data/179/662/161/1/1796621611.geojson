@@ -1,0 +1,50 @@
+{
+  "id": 1796621611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.031287,
+    "geom:bbox":"-109.471457,-27.215256,-109.206406,-27.033244",
+    "geom:latitude":-27.11906,
+    "geom:longitude":-109.351135,
+    "iso:country":"",
+    "lbl:latitude":-27.112035,
+    "lbl:longitude":-109.361864,
+    "mps:latitude":-27.112035,
+    "mps:longitude":-109.361864,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#52AC3E",
+    "nativeland:description":"https://native-land.ca/maps/territories/rapa-nui/",
+    "nativeland:id":33575,
+    "nativeland:name":"Rapa Nui",
+    "nativeland:slug":"rapa-nui",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33575
+    },
+    "wof:country":"",
+    "wof:geomhash":"7a115807564c9ba07d4f207dabe44a08",
+    "wof:hierarchy":[],
+    "wof:id":1796621611,
+    "wof:lastmodified":1668367812,
+    "wof:name":"Rapa Nui",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.471457,
+    -27.215256,
+    -109.206406,
+    -27.033244
+],
+  "geometry": {"coordinates":[[[-109.471457,-27.187753],[-109.46866,-27.175854],[-109.463801,-27.162885],[-109.45099,-27.115711],[-109.44347999999999,-27.085824],[-109.429344,-27.061043],[-109.41520800000001,-27.046094],[-109.396213,-27.033896],[-109.368273,-27.033244],[-109.335426,-27.039821],[-109.298761,-27.048476],[-109.249726,-27.062639],[-109.22761,-27.078068],[-109.211707,-27.089081],[-109.206406,-27.102452],[-109.20684799999999,-27.123292],[-109.20949899999999,-27.135872],[-109.22319299999999,-27.141376],[-109.262067,-27.151596],[-109.30315,-27.166139],[-109.35306799999999,-27.185788],[-109.37515500000001,-27.195219],[-109.40254400000001,-27.20622],[-109.417564,-27.213684],[-109.438326,-27.215256],[-109.45953,-27.213292],[-109.46748100000001,-27.203863],[-109.471457,-27.187753]]],"type":"Polygon"}
+}

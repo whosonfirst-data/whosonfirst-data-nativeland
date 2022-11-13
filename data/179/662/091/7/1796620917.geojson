@@ -1,0 +1,50 @@
+{
+  "id": 1796620917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.040699,
+    "geom:bbox":"-124.357663,41.986578,-124.032362,42.195263",
+    "geom:latitude":42.100302,
+    "geom:longitude":-124.190993,
+    "iso:country":"",
+    "lbl:latitude":42.10047,
+    "lbl:longitude":-124.194092,
+    "mps:latitude":42.10047,
+    "mps:longitude":-124.194092,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#84A718",
+    "nativeland:description":"https://native-land.ca/maps/territories/chit-dee-ni-chetco/",
+    "nativeland:id":33915,
+    "nativeland:name":"Chit-dee-ni (Chetco)",
+    "nativeland:slug":"chit-dee-ni-chetco",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33915
+    },
+    "wof:country":"",
+    "wof:geomhash":"a643a9832e8637ef72e3daf79381d8c8",
+    "wof:hierarchy":[],
+    "wof:id":1796620917,
+    "wof:lastmodified":1668367793,
+    "wof:name":"Chit-dee-ni (Chetco)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.357663,
+    41.986578,
+    -124.032362,
+    42.195263
+],
+  "geometry": {"coordinates":[[[-124.158298,41.999878],[-124.186491,41.987862],[-124.210668,41.986578],[-124.218439,41.991712],[-124.244343,42.012566],[-124.269384,42.025717],[-124.29722099999999,42.036208],[-124.32010200000001,42.059291],[-124.33909800000001,42.081084],[-124.357663,42.099346],[-124.35423,42.110018],[-124.329804,42.120676],[-124.284544,42.146782],[-124.249342,42.173941],[-124.22913699999999,42.188901],[-124.191928,42.195263],[-124.15686700000001,42.189431],[-124.10606300000001,42.177236],[-124.06313,42.166099],[-124.033793,42.141167],[-124.03236200000001,42.102955],[-124.061699,42.077998],[-124.113934,42.067375],[-124.143987,42.031775],[-124.158298,41.999878]]],"type":"Polygon"}
+}

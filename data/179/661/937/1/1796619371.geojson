@@ -1,0 +1,50 @@
+{
+  "id": 1796619371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":38.414654,
+    "geom:bbox":"-65.478516,9.709057,-58.447266,19.020577",
+    "geom:latitude":14.863383,
+    "geom:longitude":-61.521157,
+    "iso:country":"",
+    "lbl:latitude":14.812261,
+    "lbl:longitude":-60.988487,
+    "mps:latitude":14.812261,
+    "mps:longitude":-60.988487,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#B5C5E6",
+    "nativeland:description":"https://native-land.ca/maps/territories/kalinago-island-carib/",
+    "nativeland:id":36294,
+    "nativeland:name":"Kalinago (Island Carib)",
+    "nativeland:slug":"kalinago-island-carib",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36294
+    },
+    "wof:country":"",
+    "wof:geomhash":"7f500b940db5fcd1145f0219776de663",
+    "wof:hierarchy":[],
+    "wof:id":1796619371,
+    "wof:lastmodified":1668367754,
+    "wof:name":"Kalinago (Island Carib)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.478516,
+    9.709057,
+    -58.447266,
+    19.020577
+],
+  "geometry": {"coordinates":[[[-64.467772,19.020577],[-64.29199,18.85431],[-63.149414,18.979026],[-61.655273,18.771115],[-59.633789,17.266728],[-58.447266,15.496032],[-58.754883,12.382928],[-59.941406,10.574222],[-60.556641,9.709057],[-61.435547,9.795678],[-62.006836,10.141932],[-62.182617,11.22151],[-62.753906,11.953349],[-63.457031,14.647368],[-63.720703,15.326572],[-64.335938,16.172473],[-65.170897,16.88866],[-65.478516,17.350638],[-64.467772,19.020577]]],"type":"Polygon"}
+}

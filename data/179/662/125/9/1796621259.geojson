@@ -1,0 +1,50 @@
+{
+  "id": 1796621259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.012839,
+    "geom:bbox":"-120.465874,33.99248,-120.287366,34.088447",
+    "geom:latitude":34.037356,
+    "geom:longitude":-120.368102,
+    "iso:country":"",
+    "lbl:latitude":34.041036,
+    "lbl:longitude":-120.366402,
+    "mps:latitude":34.041036,
+    "mps:longitude":-120.366402,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#79DAD4",
+    "nativeland:description":"https://native-land.ca/maps/territories/tuqan/",
+    "nativeland:id":33752,
+    "nativeland:name":"Tuqan",
+    "nativeland:slug":"tuqan",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33752
+    },
+    "wof:country":"",
+    "wof:geomhash":"07c9b234e02aae081e1aaeb944f66265",
+    "wof:hierarchy":[],
+    "wof:id":1796621259,
+    "wof:lastmodified":1668367802,
+    "wof:name":"Tuqan",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.465874,
+    33.99248,
+    -120.287366,
+    34.088447
+],
+  "geometry": {"coordinates":[[[-120.46151999999999,34.045167],[-120.444812,34.053682],[-120.41835399999999,34.06811],[-120.392566,34.079508],[-120.360511,34.088447],[-120.32655099999999,34.086283],[-120.311572,34.078932],[-120.298686,34.064645],[-120.28736600000001,34.0329],[-120.289108,34.00403],[-120.305133,33.99652],[-120.31697200000001,33.99248],[-120.34265600000001,33.992549],[-120.373572,33.99609],[-120.403358,34.00056],[-120.43539699999999,34.00764],[-120.448458,34.00764],[-120.460649,34.014858],[-120.465874,34.02857],[-120.46151999999999,34.045167]]],"type":"Polygon"}
+}

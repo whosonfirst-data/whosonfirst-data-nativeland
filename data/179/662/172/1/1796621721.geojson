@@ -1,0 +1,50 @@
+{
+  "id": 1796621721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.115201,
+    "geom:bbox":"-63.11785,-11.41921,-62.661685,-11.036826",
+    "geom:latitude":-11.243657,
+    "geom:longitude":-62.9065,
+    "iso:country":"",
+    "lbl:latitude":-11.267734,
+    "lbl:longitude":-62.952117,
+    "mps:latitude":-11.267734,
+    "mps:longitude":-62.952117,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#5A71DD",
+    "nativeland:description":"https://native-land.ca/maps/territories/envuga-kawahib/",
+    "nativeland:id":33504,
+    "nativeland:name":"Envuga (Kawahib)",
+    "nativeland:slug":"envuga-kawahib",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33504
+    },
+    "wof:country":"",
+    "wof:geomhash":"cf8db9c8178cf6fb438bd2682265bc72",
+    "wof:hierarchy":[],
+    "wof:id":1796621721,
+    "wof:lastmodified":1668367816,
+    "wof:name":"Envuga (Kawahib)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.11785,
+    -11.41921,
+    -62.661685,
+    -11.036826
+],
+  "geometry": {"coordinates":[[[-62.668207,-11.173392],[-62.663676,-11.193127],[-62.661685,-11.22307],[-62.665003,-11.26147],[-62.676636,-11.292938],[-62.694488,-11.32795],[-62.728918,-11.369208],[-62.767174,-11.401711],[-62.841135,-11.41921],[-62.954626,-11.39296],[-63.029862,-11.370458],[-63.079594,-11.331701],[-63.112749,-11.276681],[-63.11785,-11.186626],[-63.116575,-11.135332],[-63.075093,-11.089619],[-63.03811,-11.054425],[-62.998886,-11.036826],[-62.937248,-11.037926],[-62.926041,-11.054425],[-62.90923,-11.094018],[-62.901386,-11.128109],[-62.900265,-11.157797],[-62.865523,-11.184184],[-62.835265,-11.19078],[-62.802764,-11.188582],[-62.768023,-11.186383],[-62.742247,-11.168792],[-62.728799,-11.146802],[-62.71535,-11.129208],[-62.699661,-11.127009],[-62.688085,-11.129744],[-62.680469,-11.144733],[-62.668207,-11.173392]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796620305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.163773,
+    "geom:bbox":"-124.911801,48.07234,-124.320893,48.487486",
+    "geom:latitude":48.283973,
+    "geom:longitude":-124.638798,
+    "iso:country":"",
+    "lbl:latitude":48.299297,
+    "lbl:longitude":-124.662716,
+    "mps:latitude":48.299297,
+    "mps:longitude":-124.662716,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#E537EA",
+    "nativeland:description":"https://native-land.ca/maps/territories/makah/",
+    "nativeland:id":35879,
+    "nativeland:name":"Q\u02b7idi\u010d\u010da\u0294a\u2022tx\u030c (Makah)",
+    "nativeland:slug":"makah",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35879
+    },
+    "wof:country":"",
+    "wof:geomhash":"668ad0c6c2d1163bd4b40b167b468c3c",
+    "wof:hierarchy":[],
+    "wof:id":1796620305,
+    "wof:lastmodified":1668367777,
+    "wof:name":"Q\u02b7idi\u010d\u010da\u0294a\u2022tx\u030c (Makah)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.911801,
+    48.07234,
+    -124.320893,
+    48.487486
+],
+  "geometry": {"coordinates":[[[-124.804688,48.487486],[-124.637213,48.454821],[-124.546629,48.416855],[-124.419814,48.378719],[-124.355969,48.350684],[-124.347803,48.303236],[-124.345197,48.261518],[-124.366454,48.240076],[-124.377438,48.191158],[-124.369575,48.163228],[-124.359323,48.135814],[-124.33624500000001,48.112145],[-124.32229700000001,48.083199],[-124.320893,48.07745],[-124.329063,48.07234],[-124.356146,48.084791],[-124.380042,48.103623],[-124.410886,48.1176],[-124.71349600000001,48.143073],[-124.81762000000001,48.143957],[-124.889927,48.156339],[-124.911801,48.190888],[-124.909812,48.243073],[-124.908486,48.304093],[-124.892578,48.385442],[-124.8832,48.421091],[-124.855261,48.454957],[-124.804688,48.487486]]],"type":"Polygon"}
+}

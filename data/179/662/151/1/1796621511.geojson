@@ -1,0 +1,50 @@
+{
+  "id": 1796621511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.204309,
+    "geom:bbox":"-70.726968,0.641401,-70.157277,1.12149",
+    "geom:latitude":0.866499,
+    "geom:longitude":-70.437428,
+    "iso:country":"",
+    "lbl:latitude":0.863305,
+    "lbl:longitude":-70.437428,
+    "mps:latitude":0.863305,
+    "mps:longitude":-70.437428,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#969F87",
+    "nativeland:description":"https://native-land.ca/maps/territories/yuruti/",
+    "nativeland:id":33641,
+    "nativeland:name":"Yurut\u00ed",
+    "nativeland:slug":"yuruti",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33641
+    },
+    "wof:country":"",
+    "wof:geomhash":"386c2ec7f1aba5dadfe995b3405641a3",
+    "wof:hierarchy":[],
+    "wof:id":1796621511,
+    "wof:lastmodified":1668367809,
+    "wof:name":"Yurut\u00ed",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.726968,
+    0.641401,
+    -70.157277,
+    1.12149
+],
+  "geometry": {"coordinates":[[[-70.270205,0.68274],[-70.286168,0.673139],[-70.314171,0.663484],[-70.381764,0.660587],[-70.457081,0.650932],[-70.530467,0.642242],[-70.60244899999999,0.641401],[-70.669833,0.645263],[-70.71731200000001,0.660712],[-70.726968,0.696437],[-70.71538,0.753403],[-70.70862099999999,0.807472],[-70.68930899999999,0.841265],[-70.672894,0.883747],[-70.67206299999999,0.939084],[-70.662407,0.986392],[-70.651785,1.01439],[-70.601574,1.022114],[-70.552328,1.045285],[-70.479928,1.056972],[-70.412171,1.082779],[-70.36377299999999,1.098909],[-70.286337,1.12149],[-70.205674,1.095683],[-70.16857,1.055359],[-70.15727699999999,0.987613],[-70.171796,0.918253],[-70.189542,0.887605],[-70.210514,0.837599],[-70.22342,0.777915],[-70.247619,0.711777],[-70.270205,0.68274]]],"type":"Polygon"}
+}

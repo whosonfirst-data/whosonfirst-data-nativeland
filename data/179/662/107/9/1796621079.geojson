@@ -1,0 +1,50 @@
+{
+  "id": 1796621079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.073242,
+    "geom:bbox":"-77.649454,37.416113,-77.213031,37.635148",
+    "geom:latitude":37.521539,
+    "geom:longitude":-77.432601,
+    "iso:country":"",
+    "lbl:latitude":37.521675,
+    "lbl:longitude":-77.432601,
+    "mps:latitude":37.521675,
+    "mps:longitude":-77.432601,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#47D905",
+    "nativeland:description":"https://native-land.ca/maps/territories/powhatan-2/",
+    "nativeland:id":33836,
+    "nativeland:name":"Powhatan",
+    "nativeland:slug":"powhatan-2",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33836
+    },
+    "wof:country":"",
+    "wof:geomhash":"f7a5b51e04a15a4a748540ac259c0a58",
+    "wof:hierarchy":[],
+    "wof:id":1796621079,
+    "wof:lastmodified":1668367798,
+    "wof:name":"Powhatan",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.649454,
+    37.416113,
+    -77.213031,
+    37.635148
+],
+  "geometry": {"coordinates":[[[-77.569328,37.416113],[-77.59065200000001,37.420196],[-77.610865,37.436248],[-77.63291599999999,37.463236],[-77.64945400000001,37.521556],[-77.619134,37.565994],[-77.558494,37.598759],[-77.50153,37.6155],[-77.376575,37.635148],[-77.33614799999999,37.623505],[-77.257133,37.608222],[-77.22681300000001,37.585655],[-77.213031,37.520827],[-77.229569,37.504793],[-77.23875700000001,37.493859],[-77.260808,37.463965],[-77.330636,37.437707],[-77.394001,37.42161],[-77.44014,37.416113],[-77.505887,37.417029],[-77.569328,37.416113]]],"type":"Polygon"}
+}

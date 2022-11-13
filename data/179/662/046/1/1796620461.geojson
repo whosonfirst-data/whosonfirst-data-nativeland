@@ -1,0 +1,50 @@
+{
+  "id": 1796620461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.733561,
+    "geom:bbox":"-107.849477,31.550467,-106.032645,33.306751",
+    "geom:latitude":32.398867,
+    "geom:longitude":-106.956256,
+    "iso:country":"",
+    "lbl:latitude":32.348753,
+    "lbl:longitude":-107.016817,
+    "mps:latitude":32.348753,
+    "mps:longitude":-107.016817,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#3160AC",
+    "nativeland:description":"https://native-land.ca/maps/territories/mansos/",
+    "nativeland:id":35808,
+    "nativeland:name":"Tampachoa (Mansos)",
+    "nativeland:slug":"mansos",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35808
+    },
+    "wof:country":"",
+    "wof:geomhash":"129b471a13cbd3b1329b3559b712710c",
+    "wof:hierarchy":[],
+    "wof:id":1796620461,
+    "wof:lastmodified":1668367781,
+    "wof:name":"Tampachoa (Mansos)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.849477,
+    31.550467,
+    -106.032645,
+    33.306751
+],
+  "geometry": {"coordinates":[[[-107.147273,31.584005],[-107.396199,31.637326],[-107.634863,31.721664],[-107.75796200000001,31.831492],[-107.810053,31.931145],[-107.847517,32.125483],[-107.84947699999999,32.379397],[-107.84747900000001,32.676158],[-107.83756700000001,32.820321],[-107.80273200000001,33.084488],[-107.759593,33.160594],[-107.660121,33.232569],[-107.472672,33.273535],[-107.307098,33.289],[-107.158449,33.306751],[-107.01227400000001,33.265568],[-106.90925,33.159802],[-106.77391299999999,33.086805],[-106.506851,33.073979],[-106.242043,33.097697],[-106.148455,33.09435],[-106.083652,33.05482],[-106.063332,32.974139],[-106.07835900000001,32.716066],[-106.078616,32.431348],[-106.06308199999999,32.144497],[-106.032645,31.959999],[-106.04794699999999,31.811824],[-106.113164,31.716586],[-106.207308,31.635527],[-106.34674,31.566619],[-106.60038400000001,31.550467],[-107.147273,31.584005]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796620543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.400697,
+    "geom:bbox":"-76.730829,35.984979,-75.775613,36.565444",
+    "geom:latitude":36.27722,
+    "geom:longitude":-76.304948,
+    "iso:country":"",
+    "lbl:latitude":36.297419,
+    "lbl:longitude":-76.314045,
+    "mps:latitude":36.297419,
+    "mps:longitude":-76.314045,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#732445",
+    "nativeland:description":"https://native-land.ca/maps/territories/wiyapemiak-weapemeoc-yeopim/",
+    "nativeland:id":34096,
+    "nativeland:name":"WiYaPeMiAk (Weapemeoc-Yeopim)",
+    "nativeland:slug":"wiyapemiak-weapemeoc-yeopim",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34096
+    },
+    "wof:country":"",
+    "wof:geomhash":"802d7971db0886831351141ada76486b",
+    "wof:hierarchy":[],
+    "wof:id":1796620543,
+    "wof:lastmodified":1668367783,
+    "wof:name":"WiYaPeMiAk (Weapemeoc-Yeopim)",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.730829,
+    35.984979,
+    -75.775613,
+    36.565444
+],
+  "geometry": {"coordinates":[[[-76.704909,36.069431],[-76.730079,36.176831],[-76.730829,36.209807],[-76.702213,36.263068],[-76.71307899999999,36.368449],[-76.66229,36.475508],[-76.549029,36.532235],[-76.401684,36.546917],[-76.28475,36.560745],[-76.18842100000001,36.565444],[-76.15726600000001,36.556769],[-76.122518,36.545948],[-76.028955,36.503221],[-76.00565,36.454832],[-75.983817,36.441591],[-75.925752,36.438381],[-75.898535,36.405789],[-75.869845,36.285226],[-75.839358,36.224883],[-75.800557,36.155542],[-75.77561300000001,36.088379],[-75.77561300000001,36.052536],[-75.829009,36.050585],[-75.936092,36.11714],[-76.04445200000001,36.115251],[-76.152542,36.08614],[-76.402744,36.010875],[-76.51398399999999,35.984979],[-76.599192,35.990651],[-76.65951200000001,36.01607],[-76.704909,36.069431]]],"type":"Polygon"}
+}

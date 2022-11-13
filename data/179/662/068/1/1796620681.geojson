@@ -1,0 +1,50 @@
+{
+  "id": 1796620681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.073481,
+    "geom:bbox":"174.475123,-38.936525,174.979994,-38.682861",
+    "geom:latitude":-38.820755,
+    "geom:longitude":174.732034,
+    "iso:country":"",
+    "lbl:latitude":-38.809027,
+    "lbl:longitude":174.735858,
+    "mps:latitude":-38.809027,
+    "mps:longitude":174.735858,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#2696F5",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngati-tama/",
+    "nativeland:id":34021,
+    "nativeland:name":"Ng\u0101ti Tama",
+    "nativeland:slug":"ngati-tama",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34021
+    },
+    "wof:country":"",
+    "wof:geomhash":"3a37c3bb0dea45c2004616e107c26edc",
+    "wof:hierarchy":[],
+    "wof:id":1796620681,
+    "wof:lastmodified":1668367787,
+    "wof:name":"Ng\u0101ti Tama",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.475123,
+    -38.936525,
+    174.979994,
+    -38.682861
+],
+  "geometry": {"coordinates":[[[174.475123,-38.921888],[174.507811,-38.890164],[174.527221,-38.885407],[174.55976899999999,-38.855638],[174.59056000000001,-38.799725],[174.60626300000001,-38.746658],[174.60936699999999,-38.712771],[174.62937500000001,-38.700365],[174.656655,-38.71564],[174.68221299999999,-38.716607],[174.695784,-38.693422],[174.72037900000001,-38.683852],[174.73701,-38.700354],[174.800028,-38.682861],[174.829633,-38.719416],[174.84587500000001,-38.72023],[174.979994,-38.838358],[174.825795,-38.907627],[174.74193700000001,-38.917551],[174.65257299999999,-38.936525],[174.475123,-38.921888]]],"type":"Polygon"}
+}

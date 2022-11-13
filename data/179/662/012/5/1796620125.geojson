@@ -1,0 +1,50 @@
+{
+  "id": 1796620125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.055708,
+    "geom:bbox":"138.87268,-17.067287,139.207763,-16.820316",
+    "geom:latitude":-16.947618,
+    "geom:longitude":139.038375,
+    "iso:country":"",
+    "lbl:latitude":-16.950674,
+    "lbl:longitude":139.035184,
+    "mps:latitude":-16.950674,
+    "mps:longitude":139.035184,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#49DD42",
+    "nativeland:description":"https://native-land.ca/maps/territories/gananggalinda/",
+    "nativeland:id":35956,
+    "nativeland:name":"Gananggalinda",
+    "nativeland:slug":"gananggalinda",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35956
+    },
+    "wof:country":"",
+    "wof:geomhash":"c074631bd51e9047b9f62ff859a5629e",
+    "wof:hierarchy":[],
+    "wof:id":1796620125,
+    "wof:lastmodified":1668367772,
+    "wof:name":"Gananggalinda",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.87268,
+    -17.067287,
+    139.207763,
+    -16.820316
+],
+  "geometry": {"coordinates":[[[138.87268,-16.857119],[138.89465300000001,-16.825574],[138.96057099999999,-16.820316],[139.09240700000001,-16.867633],[139.207763,-16.951724],[139.196777,-17.046281],[139.09790000000001,-17.067287],[138.97155699999999,-17.041029],[138.90014600000001,-16.951724],[138.87268,-16.857119]]],"type":"Polygon"}
+}

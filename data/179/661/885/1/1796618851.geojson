@@ -1,0 +1,50 @@
+{
+  "id": 1796618851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.84344,
+    "geom:bbox":"-136.310593,60.236006,-133.814398,61.823749",
+    "geom:latitude":60.981281,
+    "geom:longitude":-135.095885,
+    "iso:country":"",
+    "lbl:latitude":61.000546,
+    "lbl:longitude":-135.119658,
+    "mps:latitude":61.000546,
+    "mps:longitude":-135.119658,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#08C8D5",
+    "nativeland:description":"https://native-land.ca/maps/territories/kwanlin-dun/",
+    "nativeland:id":36522,
+    "nativeland:name":"Kwanlin D\u00fcn",
+    "nativeland:slug":"kwanlin-dun",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36522
+    },
+    "wof:country":"",
+    "wof:geomhash":"616ac328f7968860428541518a6aa00c",
+    "wof:hierarchy":[],
+    "wof:id":1796618851,
+    "wof:lastmodified":1668367742,
+    "wof:name":"Kwanlin D\u00fcn",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -136.310593,
+    60.236006,
+    -133.814398,
+    61.823749
+],
+  "geometry": {"coordinates":[[[-136.27974699999999,61.64415],[-135.52449200000001,61.823749],[-135.16843299999999,61.734277],[-134.613315,61.598009],[-134.05517399999999,61.227957],[-134.043306,61.207341],[-134.02563799999999,61.176872],[-133.81439800000001,60.669869],[-133.882972,60.378511],[-134.64434800000001,60.354758],[-135.38733300000001,60.236006],[-135.6694,60.250452],[-135.93000599999999,60.300359],[-136.18652299999999,60.78857],[-135.91889399999999,61.018845],[-136.25455500000001,61.555816],[-136.31059300000001,61.635407],[-136.27974699999999,61.64415]]],"type":"Polygon"}
+}

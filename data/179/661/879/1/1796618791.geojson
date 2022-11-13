@@ -1,0 +1,50 @@
+{
+  "id": 1796618791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.029363,
+    "geom:bbox":"-91.02556,15.285092,-90.790311,15.44344",
+    "geom:latitude":15.367029,
+    "geom:longitude":-90.90175,
+    "iso:country":"",
+    "lbl:latitude":15.36548,
+    "lbl:longitude":-90.90175,
+    "mps:latitude":15.36548,
+    "mps:longitude":-90.90175,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#F18006",
+    "nativeland:description":"https://native-land.ca/maps/territories/uspantec/",
+    "nativeland:id":36552,
+    "nativeland:name":"Uspanteko",
+    "nativeland:slug":"uspantec",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36552
+    },
+    "wof:country":"",
+    "wof:geomhash":"056278aba552043a5628a28671bbe957",
+    "wof:hierarchy":[],
+    "wof:id":1796618791,
+    "wof:lastmodified":1668367741,
+    "wof:name":"Uspanteko",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.02556,
+    15.285092,
+    -90.790311,
+    15.44344
+],
+  "geometry": {"coordinates":[[[-90.962395,15.307542],[-90.9812,15.324591],[-90.99954200000001,15.340681],[-91.01799,15.366965],[-91.02556,15.397452],[-91.01485700000001,15.419016],[-90.999782,15.42934],[-90.96488600000001,15.442009],[-90.912502,15.44344],[-90.885319,15.440656],[-90.83596799999999,15.431025],[-90.808868,15.412643],[-90.80081199999999,15.395141],[-90.790311,15.364991],[-90.791071,15.331187],[-90.792838,15.314284],[-90.802002,15.30273],[-90.825367,15.291999],[-90.877684,15.285092],[-90.932483,15.293127],[-90.962395,15.307542]]],"type":"Polygon"}
+}

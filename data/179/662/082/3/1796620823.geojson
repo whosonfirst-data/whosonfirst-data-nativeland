@@ -1,0 +1,50 @@
+{
+  "id": 1796620823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.103352,
+    "geom:bbox":"176.28718,-38.140549,176.705141,-37.738372",
+    "geom:latitude":-37.937866,
+    "geom:longitude":176.497403,
+    "iso:country":"",
+    "lbl:latitude":-37.934264,
+    "lbl:longitude":176.51432,
+    "mps:latitude":-37.934264,
+    "mps:longitude":176.51432,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#5E5B94",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngati-pikiao/",
+    "nativeland:id":33959,
+    "nativeland:name":"Ng\u0101ti Pikiao",
+    "nativeland:slug":"ngati-pikiao",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33959
+    },
+    "wof:country":"",
+    "wof:geomhash":"ea4b223bde9ab040550af2f8205c1e4c",
+    "wof:hierarchy":[],
+    "wof:id":1796620823,
+    "wof:lastmodified":1668367791,
+    "wof:name":"Ng\u0101ti Pikiao",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.28718,
+    -38.140549,
+    176.705141,
+    -37.738372
+],
+  "geometry": {"coordinates":[[[176.565856,-37.810046],[176.62113199999999,-37.837628],[176.69933900000001,-37.86721],[176.705141,-37.921592],[176.62652600000001,-38.066099],[176.57408799999999,-38.139831],[176.51937699999999,-38.140549],[176.46982600000001,-38.104704],[176.44142099999999,-38.04776],[176.405666,-38.027329],[176.358013,-38.06532],[176.33177699999999,-38.055903],[176.300286,-38.016806],[176.28718000000001,-37.975213],[176.32053400000001,-37.942571],[176.335025,-37.904769],[176.381756,-37.831903],[176.346979,-37.77683],[176.35323099999999,-37.748119],[176.40118200000001,-37.738372],[176.44628399999999,-37.747503],[176.46592999999999,-37.740862],[176.51998800000001,-37.783916],[176.565856,-37.810046]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796620511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.776028,
+    "geom:bbox":"-74.017986,2.870149,-71.766434,4.575833",
+    "geom:latitude":3.656422,
+    "geom:longitude":-72.903826,
+    "iso:country":"",
+    "lbl:latitude":3.650665,
+    "lbl:longitude":-72.925269,
+    "mps:latitude":3.650665,
+    "mps:longitude":-72.925269,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#67D563",
+    "nativeland:description":"https://native-land.ca/maps/territories/achagua/",
+    "nativeland:id":34111,
+    "nativeland:name":"Achagua",
+    "nativeland:slug":"achagua",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34111
+    },
+    "wof:country":"",
+    "wof:geomhash":"264e4fa910d27ffdfeabe1ac526b43ea",
+    "wof:hierarchy":[],
+    "wof:id":1796620511,
+    "wof:lastmodified":1668367782,
+    "wof:name":"Achagua",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.017986,
+    2.870149,
+    -71.766434,
+    4.575833
+],
+  "geometry": {"coordinates":[[[-72.974675,4.575833],[-72.580315,4.307055],[-72.084293,4.295539],[-71.884293,4.254773],[-71.804159,4.110974],[-71.766434,3.8288],[-71.897398,3.36691],[-72.111464,3.217269],[-72.52915,2.870149],[-73.539469,2.915249],[-73.833414,3.107716],[-74.01798599999999,3.467348],[-74.013048,3.778006],[-73.888668,4.02115],[-73.64462399999999,4.198146],[-73.451466,4.273616],[-73.20580099999999,4.341385],[-72.974675,4.575833]]],"type":"Polygon"}
+}

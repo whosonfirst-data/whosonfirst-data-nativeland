@@ -1,0 +1,50 @@
+{
+  "id": 1796618435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.36944,
+    "geom:bbox":"143.234856,-10.056722,144.133066,-9.062378",
+    "geom:latitude":-9.557726,
+    "geom:longitude":143.753568,
+    "iso:country":"",
+    "lbl:latitude":-9.504449,
+    "lbl:longitude":143.716142,
+    "mps:latitude":-9.504449,
+    "mps:longitude":143.716142,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/kemer-kemer-meriam/",
+    "nativeland:id":37776,
+    "nativeland:name":"Kemer Kemer Meriam",
+    "nativeland:slug":"kemer-kemer-meriam",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37776
+    },
+    "wof:country":"",
+    "wof:geomhash":"a065405dc0117bcb9f2aed7496a119ee",
+    "wof:hierarchy":[],
+    "wof:id":1796618435,
+    "wof:lastmodified":1668367733,
+    "wof:name":"Kemer Kemer Meriam",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.234856,
+    -10.056722,
+    144.133066,
+    -9.062378
+],
+  "geometry": {"coordinates":[[[143.24992599999999,-9.464231],[143.529943,-9.373604],[143.81062299999999,-9.0825],[143.886529,-9.062378],[143.95998800000001,-9.093029],[143.939052,-9.515523],[143.90464900000001,-9.675999],[144.13306600000001,-9.893129],[144.13048900000001,-9.985619],[144.07990699999999,-10.036842],[144.029324,-10.056722],[143.958764,-10.04344],[143.781701,-9.902046],[143.611751,-9.711153],[143.47178099999999,-9.618648],[143.365737,-9.590018],[143.25570300000001,-9.562174],[143.23485600000001,-9.507299],[143.24992599999999,-9.464231]]],"type":"Polygon"}
+}

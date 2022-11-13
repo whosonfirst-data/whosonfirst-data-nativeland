@@ -1,0 +1,50 @@
+{
+  "id": 1796621555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":20.254267,
+    "geom:bbox":"-132.817373,65.703976,-120.57743,68.433261",
+    "geom:latitude":67.30615,
+    "geom:longitude":-127.72214,
+    "iso:country":"",
+    "lbl:latitude":67.201238,
+    "lbl:longitude":-128.450708,
+    "mps:latitude":67.201238,
+    "mps:longitude":-128.450708,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#C38DA4",
+    "nativeland:description":"https://native-land.ca/maps/territories/kasho-gotine/",
+    "nativeland:id":33623,
+    "nativeland:name":"K\u2019asho Got\u2019ine",
+    "nativeland:slug":"kasho-gotine",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33623
+    },
+    "wof:country":"",
+    "wof:geomhash":"f41ea6b27f5cc11c4d0ce9013640c650",
+    "wof:hierarchy":[],
+    "wof:id":1796621555,
+    "wof:lastmodified":1668367811,
+    "wof:name":"K\u2019asho Got\u2019ine",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -132.817373,
+    65.703976,
+    -120.57743,
+    68.433261
+],
+  "geometry": {"coordinates":[[[-132.730256,66.16577599999999],[-132.817373,66.705579],[-132.51246399999999,67.368718],[-131.946203,67.833009],[-130.50877199999999,68.143387],[-129.463368,68.27258],[-127.32899999999999,68.433261],[-125.499543,68.417244],[-123.147383,68.417244],[-121.57927599999999,68.385176],[-121.056574,68.191812],[-120.708106,67.980479],[-120.57743000000001,67.800139],[-121.013015,67.56858699999999],[-121.927744,67.401793],[-122.886031,67.301153],[-124.454138,67.16630499999999],[-125.58665999999999,66.99668],[-126.109362,66.74000599999999],[-126.980532,66.498006],[-128.11305400000001,66.130548],[-129.20201700000001,65.882578],[-130.68300600000001,65.775566],[-131.98976200000001,65.703976],[-132.64313899999999,65.882578],[-132.730256,66.16577599999999]]],"type":"Polygon"}
+}

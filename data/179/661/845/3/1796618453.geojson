@@ -1,0 +1,50 @@
+{
+  "id": 1796618453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.023691,
+    "geom:bbox":"142.105306,-9.333211,142.326448,-9.188898",
+    "geom:latitude":-9.261762,
+    "geom:longitude":142.208811,
+    "iso:country":"",
+    "lbl:latitude":-9.261582,
+    "lbl:longitude":142.208811,
+    "mps:latitude":-9.261582,
+    "mps:longitude":142.208811,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/malu-kiai/",
+    "nativeland:id":37693,
+    "nativeland:name":"Malu Ki&#8217;ai",
+    "nativeland:slug":"malu-kiai",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37693
+    },
+    "wof:country":"",
+    "wof:geomhash":"67b7e68d0441cd6eff4e51029b654c6c",
+    "wof:hierarchy":[],
+    "wof:id":1796618453,
+    "wof:lastmodified":1668367733,
+    "wof:name":"Malu Ki&#8217;ai",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.105306,
+    -9.333211,
+    142.326448,
+    -9.188898
+],
+  "geometry": {"coordinates":[[[142.15485100000001,-9.313536],[142.11859899999999,-9.300418],[142.10590999999999,-9.280143],[142.10530600000001,-9.250328],[142.10893100000001,-9.216929],[142.141559,-9.195459],[142.169352,-9.188898],[142.19956300000001,-9.19188],[142.22916900000001,-9.19188],[142.25877600000001,-9.210966],[142.30711299999999,-9.244362],[142.326448,-9.282529],[142.31013400000001,-9.311746],[142.27931899999999,-9.321883],[142.21466799999999,-9.333211],[142.15485100000001,-9.313536]]],"type":"Polygon"}
+}

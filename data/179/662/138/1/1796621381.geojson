@@ -1,0 +1,50 @@
+{
+  "id": 1796621381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.359532,
+    "geom:bbox":"-72.497559,10.947629,-71.435416,11.787868",
+    "geom:latitude":11.316299,
+    "geom:longitude":-71.956703,
+    "iso:country":"",
+    "lbl:latitude":11.194023,
+    "lbl:longitude":-71.992912,
+    "mps:latitude":11.194023,
+    "mps:longitude":-71.992912,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#BB2AB5",
+    "nativeland:description":"https://native-land.ca/maps/territories/anuu/",
+    "nativeland:id":33702,
+    "nativeland:name":"A\u00f1uu",
+    "nativeland:slug":"anuu",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33702
+    },
+    "wof:country":"",
+    "wof:geomhash":"e17d8e275a8b0a8befbadcc8a7ce76d0",
+    "wof:hierarchy":[],
+    "wof:id":1796621381,
+    "wof:lastmodified":1668367806,
+    "wof:name":"A\u00f1uu",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.497559,
+    10.947629,
+    -71.435416,
+    11.787868
+],
+  "geometry": {"coordinates":[[[-71.435416,11.706954],[-71.492114,11.676805],[-71.556393,11.625841],[-71.684952,11.57187],[-71.746171,11.50589],[-71.779841,11.400891],[-71.779841,11.313863],[-71.76453600000001,11.22981],[-71.736988,11.124709],[-71.776188,11.040812],[-71.81853700000001,10.98521],[-71.885373,10.947629],[-72.001688,10.956645],[-72.17310000000001,10.986694],[-72.347573,11.004723],[-72.46695,11.016741],[-72.49449799999999,11.060303],[-72.497559,11.109866],[-72.450114,11.136897],[-72.37818300000001,11.151913],[-72.301659,11.166929],[-72.255745,11.193954],[-72.200649,11.299029],[-72.114943,11.380061],[-71.99250499999999,11.626016],[-71.897617,11.691967],[-71.747631,11.739921],[-71.637438,11.763896],[-71.499696,11.787868],[-71.45990399999999,11.772885],[-71.435416,11.706954]]],"type":"Polygon"}
+}

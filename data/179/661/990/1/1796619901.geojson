@@ -1,0 +1,50 @@
+{
+  "id": 1796619901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":5.565097,
+    "geom:bbox":"-157.062394,61.835047,-151.624054,63.85218",
+    "geom:latitude":62.839151,
+    "geom:longitude":-154.21112,
+    "iso:country":"",
+    "lbl:latitude":62.720657,
+    "lbl:longitude":-153.944648,
+    "mps:latitude":62.720657,
+    "mps:longitude":-153.944648,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#ACC5F1",
+    "nativeland:description":"https://native-land.ca/maps/territories/upper-kuskokwim/",
+    "nativeland:id":36058,
+    "nativeland:name":"Upper Kuskokwim",
+    "nativeland:slug":"upper-kuskokwim",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36058
+    },
+    "wof:country":"",
+    "wof:geomhash":"8015f38318df1022f1115831f4104438",
+    "wof:hierarchy":[],
+    "wof:id":1796619901,
+    "wof:lastmodified":1668367767,
+    "wof:name":"Upper Kuskokwim",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.062394,
+    61.835047,
+    -151.624054,
+    63.85218
+],
+  "geometry": {"coordinates":[[[-153.261571,63.793498],[-152.95063099999999,63.85218],[-152.923294,63.847515],[-152.407839,63.387897],[-151.96924200000001,63.154341],[-151.624054,62.903421],[-152.07805500000001,62.780934],[-152.472613,62.62673],[-152.86542,62.506429],[-153.17330899999999,62.298919],[-153.32863399999999,62.12755],[-153.47428099999999,61.983398],[-153.661664,61.848411],[-153.873591,61.835047],[-154.08551800000001,61.863528],[-154.57141100000001,62.005094],[-154.92166,62.165496],[-155.27782999999999,62.353338],[-155.71533500000001,62.340221],[-156.12153599999999,62.360999],[-157.06239400000001,62.528124],[-156.83142599999999,62.818588],[-156.25181599999999,63.123736],[-155.47457299999999,63.253811],[-154.708124,63.412303],[-153.93627799999999,63.59874],[-153.261571,63.793498]]],"type":"Polygon"}
+}

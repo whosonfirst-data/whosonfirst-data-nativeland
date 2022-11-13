@@ -1,0 +1,50 @@
+{
+  "id": 1796621251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.16478,
+    "geom:bbox":"-124.04084,45.844318,-123.426607,46.246104",
+    "geom:latitude":46.005235,
+    "geom:longitude":-123.769588,
+    "iso:country":"",
+    "lbl:latitude":45.994249,
+    "lbl:longitude":-123.775438,
+    "mps:latitude":45.994249,
+    "mps:longitude":-123.775438,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#BCCE48",
+    "nativeland:description":"https://native-land.ca/maps/territories/clatsop/",
+    "nativeland:id":33759,
+    "nativeland:name":"Clatsop-Nehalem Confederated Tribes",
+    "nativeland:slug":"clatsop",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33759
+    },
+    "wof:country":"",
+    "wof:geomhash":"b4092cea9a19e1bc3176f1d1f5743393",
+    "wof:hierarchy":[],
+    "wof:id":1796621251,
+    "wof:lastmodified":1668367802,
+    "wof:name":"Clatsop-Nehalem Confederated Tribes",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.04084,
+    45.844318,
+    -123.426607,
+    46.246104
+],
+  "geometry": {"coordinates":[[[-124.03670700000001,46.238563],[-124.009868,46.246104],[-123.95954399999999,46.232762],[-123.919284,46.21013],[-123.872315,46.206067],[-123.828701,46.200262],[-123.790119,46.189231],[-123.746166,46.154863],[-123.696681,46.131618],[-123.609452,46.096733],[-123.570031,46.068808],[-123.53396600000001,46.046109],[-123.461834,45.977955],[-123.452608,45.945888],[-123.437511,45.907383],[-123.426607,45.85717],[-123.440866,45.845486],[-123.52473999999999,45.846655],[-123.59099999999999,45.845486],[-123.655582,45.844318],[-123.79313500000001,45.846071],[-123.952495,45.854834],[-123.98436700000001,45.853665],[-124.001981,45.87353],[-124.014776,45.924374],[-124.008066,45.964742],[-123.999679,46.035823],[-123.998065,46.081353],[-124.02825900000001,46.176101],[-124.040002,46.205133],[-124.04084,46.226026],[-124.03670700000001,46.238563]]],"type":"Polygon"}
+}

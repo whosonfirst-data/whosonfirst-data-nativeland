@@ -1,0 +1,50 @@
+{
+  "id": 1796619799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.652667,
+    "geom:bbox":"143.23463,-14.811467,144.175122,-13.720608",
+    "geom:latitude":-14.305231,
+    "geom:longitude":143.654247,
+    "iso:country":"",
+    "lbl:latitude":-14.351145,
+    "lbl:longitude":143.598266,
+    "mps:latitude":-14.351145,
+    "mps:longitude":143.598266,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#D724F6",
+    "nativeland:description":"https://native-land.ca/maps/territories/lamalama/",
+    "nativeland:id":36102,
+    "nativeland:name":"Lamalama",
+    "nativeland:slug":"lamalama",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36102
+    },
+    "wof:country":"",
+    "wof:geomhash":"78ec85f035595ab3972446dcfbc04541",
+    "wof:hierarchy":[],
+    "wof:id":1796619799,
+    "wof:lastmodified":1668367765,
+    "wof:name":"Lamalama",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.23463,
+    -14.811467,
+    144.175122,
+    -13.720608
+],
+  "geometry": {"coordinates":[[[143.32382000000001,-14.359969],[143.28717700000001,-14.194318],[143.23463000000001,-13.865136],[143.24506299999999,-13.76387],[143.46079700000001,-13.720608],[143.698037,-13.725094],[143.79695699999999,-13.978685],[143.83904200000001,-14.27666],[143.85202200000001,-14.334324],[143.88432399999999,-14.373257],[143.94896700000001,-14.386183],[144.00922,-14.365079],[144.127216,-14.346259],[144.14773500000001,-14.449795],[144.17512199999999,-14.652195],[144.14340899999999,-14.755107],[144.06081800000001,-14.798855],[143.972928,-14.808668],[143.88648800000001,-14.811467],[143.770141,-14.799001],[143.71498399999999,-14.776937],[143.662801,-14.779012],[143.56949299999999,-14.757471],[143.47824299999999,-14.703754],[143.39729199999999,-14.634965],[143.35342199999999,-14.530415],[143.32382000000001,-14.359969]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796618527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.043074,
+    "geom:bbox":"-123.376465,41.14557,-122.980957,41.319076",
+    "geom:latitude":41.228941,
+    "geom:longitude":-123.170415,
+    "iso:country":"",
+    "lbl:latitude":41.224202,
+    "lbl:longitude":-123.146873,
+    "mps:latitude":41.224202,
+    "mps:longitude":-123.146873,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#AE47B7",
+    "nativeland:description":"https://native-land.ca/maps/territories/konomihu/",
+    "nativeland:id":36669,
+    "nativeland:name":"Konomihu",
+    "nativeland:slug":"konomihu",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36669
+    },
+    "wof:country":"",
+    "wof:geomhash":"985d4cc6be412cd359d69d607909a4e3",
+    "wof:hierarchy":[],
+    "wof:id":1796618527,
+    "wof:lastmodified":1668367735,
+    "wof:name":"Konomihu",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.376465,
+    41.14557,
+    -122.980957,
+    41.319076
+],
+  "geometry": {"coordinates":[[[-123.288574,41.170384],[-123.376465,41.211722],[-123.33252,41.277806],[-123.17871100000001,41.286062],[-123.134766,41.302571],[-123.112793,41.319076],[-123.057861,41.294317],[-122.980957,41.26955],[-122.99194300000001,41.219986],[-123.112793,41.14557],[-123.288574,41.170384]]],"type":"Polygon"}
+}

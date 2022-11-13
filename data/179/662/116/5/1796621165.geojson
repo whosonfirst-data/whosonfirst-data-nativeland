@@ -1,0 +1,50 @@
+{
+  "id": 1796621165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.314379,
+    "geom:bbox":"-79.935009,35.682513,-79.039626,36.159443",
+    "geom:latitude":35.945386,
+    "geom:longitude":-79.451359,
+    "iso:country":"",
+    "lbl:latitude":35.955027,
+    "lbl:longitude":-79.442831,
+    "mps:latitude":35.955027,
+    "mps:longitude":-79.442831,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#487A33",
+    "nativeland:description":"https://native-land.ca/maps/territories/sissipahaw/",
+    "nativeland:id":33799,
+    "nativeland:name":"Sissipahaw",
+    "nativeland:slug":"sissipahaw",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33799
+    },
+    "wof:country":"",
+    "wof:geomhash":"1e21e0f4d351bbfc092c96abeab0c57c",
+    "wof:hierarchy":[],
+    "wof:id":1796621165,
+    "wof:lastmodified":1668367800,
+    "wof:name":"Sissipahaw",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.935009,
+    35.682513,
+    -79.039626,
+    36.159443
+],
+  "geometry": {"coordinates":[[[-79.049952,35.97633],[-79.039626,35.852581],[-79.045236,35.735327],[-79.07323700000001,35.689498],[-79.19690900000001,35.682513],[-79.308615,35.725128],[-79.59626900000001,35.789741],[-79.78873400000001,35.851106],[-79.87690000000001,35.875472],[-79.93100200000001,35.91769],[-79.93500899999999,36.019895],[-79.904347,36.0832],[-79.798753,36.135851],[-79.647398,36.159443],[-79.476292,36.157065],[-79.35816199999999,36.148991],[-79.220433,36.134336],[-79.12522300000001,36.074638],[-79.049952,35.97633]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796621077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.077633,
+    "geom:bbox":"-103.110232,41.475933,-100.588804,42.573885",
+    "geom:latitude":42.076336,
+    "geom:longitude":-101.839484,
+    "iso:country":"",
+    "lbl:latitude":42.069234,
+    "lbl:longitude":-101.839484,
+    "mps:latitude":42.069234,
+    "mps:longitude":-101.839484,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#C1413E",
+    "nativeland:description":"https://native-land.ca/maps/territories/sicangu/",
+    "nativeland:id":33843,
+    "nativeland:name":"Sicangu",
+    "nativeland:slug":"sicangu",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33843
+    },
+    "wof:country":"",
+    "wof:geomhash":"79c061f073dba105d5ba5eda6e8da814",
+    "wof:hierarchy":[],
+    "wof:id":1796621077,
+    "wof:lastmodified":1668367798,
+    "wof:name":"Sicangu",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.110232,
+    41.475933,
+    -100.588804,
+    42.573885
+],
+  "geometry": {"coordinates":[[[-103.071589,42.374371],[-103.042607,42.524066],[-102.830073,42.559655],[-102.057222,42.573885],[-100.849642,42.43857],[-100.588804,42.023691],[-100.76269600000001,41.707138],[-101.12014000000001,41.475933],[-102.086204,41.627755],[-102.83973400000001,41.786423],[-103.110232,42.167061],[-103.071589,42.374371]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796621147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.74886,
+    "geom:bbox":"-77.659685,34.476472,-76.226066,35.335853",
+    "geom:latitude":34.871288,
+    "geom:longitude":-77.061265,
+    "iso:country":"",
+    "lbl:latitude":34.857806,
+    "lbl:longitude":-77.289961,
+    "mps:latitude":34.857806,
+    "mps:longitude":-77.289961,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#BCFC9D",
+    "nativeland:description":"https://native-land.ca/maps/territories/neusiok-2/",
+    "nativeland:id":33806,
+    "nativeland:name":"Neusiok",
+    "nativeland:slug":"neusiok-2",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33806
+    },
+    "wof:country":"",
+    "wof:geomhash":"4b256fa82d2c2b806ad6114f472cc43d",
+    "wof:hierarchy":[],
+    "wof:id":1796621147,
+    "wof:lastmodified":1668367799,
+    "wof:name":"Neusiok",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.659685,
+    34.476472,
+    -76.226066,
+    35.335853
+],
+  "geometry": {"coordinates":[[[-76.520229,35.07782],[-76.463021,35.095392],[-76.290469,35.080477],[-76.226066,34.994913],[-76.25036900000001,34.911375],[-76.285676,34.854931],[-76.39284499999999,34.712106],[-76.51619100000001,34.569035],[-76.58898499999999,34.56404],[-76.710309,34.625628],[-76.812876,34.634194],[-77.07293900000001,34.575713],[-77.294425,34.492486],[-77.41099699999999,34.476472],[-77.550884,34.527708],[-77.60917000000001,34.652464],[-77.659685,34.777032],[-77.659685,34.926904],[-77.616941,35.086041],[-77.630989,35.15659],[-77.58662200000001,35.229106],[-77.530579,35.259619],[-77.483876,35.293933],[-77.44651399999999,35.335853],[-77.334428,35.328232],[-77.16396400000001,35.23292],[-77.049543,35.141315],[-76.96781300000001,35.043872],[-76.869738,34.982223],[-76.788009,34.947778],[-76.673587,34.99944],[-76.520229,35.07782]]],"type":"Polygon"}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1796621271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.039825,
+    "geom:bbox":"-120.262441,33.879427,-119.930014,34.04593",
+    "geom:latitude":33.96279,
+    "geom:longitude":-120.095406,
+    "iso:country":"",
+    "lbl:latitude":33.959977,
+    "lbl:longitude":-120.09224,
+    "mps:latitude":33.959977,
+    "mps:longitude":-120.09224,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "nativeland:color":"#0D4950",
+    "nativeland:description":"https://native-land.ca/maps/territories/wima/",
+    "nativeland:id":33751,
+    "nativeland:name":"Wi&#8217;ma",
+    "nativeland:slug":"wima",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33751
+    },
+    "wof:country":"",
+    "wof:geomhash":"3e885667e4445d8db6143a207eea5537",
+    "wof:hierarchy":[],
+    "wof:id":1796621271,
+    "wof:lastmodified":1668367803,
+    "wof:name":"Wi&#8217;ma",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.262441,
+    33.879427,
+    -119.930014,
+    34.04593
+],
+  "geometry": {"coordinates":[[[-120.259229,34.011317],[-120.228717,34.020635],[-120.195795,34.021966],[-120.166888,34.025959],[-120.13798199999999,34.033279],[-120.11309,34.031948],[-120.08320000000001,34.039635],[-120.060733,34.04593],[-120.03921699999999,34.045921],[-120.024424,34.042532],[-120.007762,34.029727],[-119.95972399999999,33.998004],[-119.937241,33.967377],[-119.930014,33.936071],[-119.946073,33.914751],[-119.97498,33.906088],[-120.017537,33.901423],[-120.044838,33.892092],[-120.09060700000001,33.88276],[-120.137179,33.879427],[-120.162874,33.88476],[-120.197401,33.901423],[-120.218278,33.926744],[-120.24076100000001,33.949394],[-120.260835,33.976699],[-120.262441,33.99401],[-120.259229,34.011317]]],"type":"Polygon"}
+}
