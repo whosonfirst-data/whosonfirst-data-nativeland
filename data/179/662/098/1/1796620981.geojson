@@ -8,13 +8,13 @@
     "geom:bbox":"-90.09249,13.238341,-88.49756,14.4193",
     "geom:latitude":13.773211,
     "geom:longitude":-89.298231,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":13.780444,
     "lbl:longitude":-89.310314,
     "mps:latitude":13.780444,
     "mps:longitude":-89.310314,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#7B6479",
     "nativeland:description":"https://native-land.ca/maps/territories/pipil/",
     "nativeland:id":33889,
@@ -22,18 +22,25 @@
     "nativeland:slug":"pipil",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33889
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"044e3605ba827abb4090d0c579ae8b91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620981
+        }
+    ],
     "wof:id":1796620981,
-    "wof:lastmodified":1668367795,
+    "wof:lastmodified":1668546119,
     "wof:name":"Nahua",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-120.654936,46.783922,-117.922192,47.886236",
     "geom:latitude":47.271626,
     "geom:longitude":-119.266556,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":47.22408,
     "lbl:longitude":-119.240481,
     "mps:latitude":47.22408,
     "mps:longitude":-119.240481,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#40FFE0",
     "nativeland:description":"https://native-land.ca/maps/territories/moses-columbia/",
     "nativeland:id":34052,
@@ -22,18 +22,25 @@
     "nativeland:slug":"moses-columbia",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34052
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"353316ff774ae2b79db25384ba29597a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620625
+        }
+    ],
     "wof:id":1796620625,
-    "wof:lastmodified":1668367785,
+    "wof:lastmodified":1668546118,
     "wof:name":"s\u030ckwa\u0301xc\u030c\u0259n\u0259x\u02b7 (Moses-Columbia)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

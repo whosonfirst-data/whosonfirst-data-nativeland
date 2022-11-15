@@ -8,13 +8,13 @@
     "geom:bbox":"-123.807859,40.988868,-123.53491,41.203172",
     "geom:latitude":41.099347,
     "geom:longitude":-123.671864,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":41.099566,
     "lbl:longitude":-123.671864,
     "mps:latitude":41.099566,
     "mps:longitude":-123.671864,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#1FFF55",
     "nativeland:description":"https://native-land.ca/maps/territories/hoopa/",
     "nativeland:id":36414,
@@ -22,18 +22,25 @@
     "nativeland:slug":"hoopa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36414
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3f50eb65719e08c97cf861c06bfb7973",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619099
+        }
+    ],
     "wof:id":1796619099,
-    "wof:lastmodified":1668367748,
+    "wof:lastmodified":1668546068,
     "wof:name":"Hoopa Valley Reservation",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

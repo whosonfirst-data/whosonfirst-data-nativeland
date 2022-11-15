@@ -8,13 +8,13 @@
     "geom:bbox":"-123.558377,44.383641,-123.208411,44.570794",
     "geom:latitude":44.482439,
     "geom:longitude":-123.384332,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":44.476899,
     "lbl:longitude":-123.387665,
     "mps:latitude":44.476899,
     "mps:longitude":-123.387665,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#418947",
     "nativeland:description":"https://native-land.ca/maps/territories/chemapho/",
     "nativeland:id":33792,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chemapho",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33792
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ec767988c6db5482af3b1e1d78ebb245",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621179
+        }
+    ],
     "wof:id":1796621179,
-    "wof:lastmodified":1668367800,
+    "wof:lastmodified":1668546128,
     "wof:name":"Chemapho",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

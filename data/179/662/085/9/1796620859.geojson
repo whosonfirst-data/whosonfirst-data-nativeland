@@ -8,13 +8,13 @@
     "geom:bbox":"174.159512,-36.859746,174.729648,-36.311454",
     "geom:latitude":-36.604604,
     "geom:longitude":174.49153,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-36.693894,
     "lbl:longitude":174.515286,
     "mps:latitude":-36.693894,
     "mps:longitude":174.515286,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#CF2EB2",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-whatua-o-kaipara/",
     "nativeland:id":33943,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-whatua-o-kaipara",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33943
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"be67a630eb4fbbdfff3b5efb9d3b41ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620859
+        }
+    ],
     "wof:id":1796620859,
-    "wof:lastmodified":1668367792,
+    "wof:lastmodified":1668546115,
     "wof:name":"Ng\u0101ti Wh\u0101tua o Kaipara",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

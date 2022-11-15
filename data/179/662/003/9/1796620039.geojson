@@ -8,13 +8,13 @@
     "geom:bbox":"141.47644,-15.218601,142.058715,-14.455958",
     "geom:latitude":-14.753367,
     "geom:longitude":141.757829,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-14.705128,
     "lbl:longitude":141.763374,
     "mps:latitude":-14.705128,
     "mps:longitude":141.763374,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#EBFF08",
     "nativeland:description":"https://native-land.ca/maps/territories/thaayorre/",
     "nativeland:id":35994,
@@ -22,18 +22,25 @@
     "nativeland:slug":"thaayorre",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35994
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"9d48ffa9189f6042a0affbb08109b8b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620039
+        }
+    ],
     "wof:id":1796620039,
-    "wof:lastmodified":1668367770,
+    "wof:lastmodified":1668546139,
     "wof:name":"Thaayorre",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

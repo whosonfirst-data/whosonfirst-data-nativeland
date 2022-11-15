@@ -8,13 +8,13 @@
     "geom:bbox":"-63.019347,-8.720372,-62.094921,-6.767516",
     "geom:latitude":-7.662816,
     "geom:longitude":-62.523858,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-7.462552,
     "lbl:longitude":-62.607496,
     "mps:latitude":-7.462552,
     "mps:longitude":-62.607496,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#5B050C",
     "nativeland:description":"https://native-land.ca/maps/territories/kagwahiva-parintintin/",
     "nativeland:id":33510,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kagwahiva-parintintin",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33510
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a4909c09b4199de85842e61e5b2df3ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621711
+        }
+    ],
     "wof:id":1796621711,
-    "wof:lastmodified":1668367815,
+    "wof:lastmodified":1668546149,
     "wof:name":"Kawahib (Parintintin)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

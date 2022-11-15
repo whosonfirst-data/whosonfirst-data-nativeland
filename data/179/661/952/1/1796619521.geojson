@@ -8,13 +8,13 @@
     "geom:bbox":"-124.359741,49.303636,-123.277588,50.348966",
     "geom:latitude":49.810326,
     "geom:longitude":-123.868037,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":49.724884,
     "lbl:longitude":-123.904958,
     "mps:latitude":49.724884,
     "mps:longitude":-123.904958,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#96424E",
     "nativeland:description":"https://native-land.ca/maps/territories/shishalh/",
     "nativeland:id":36225,
@@ -22,18 +22,25 @@
     "nativeland:slug":"shishalh",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36225
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c09667ebad1fb9eb114c115d467b4d53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619521
+        }
+    ],
     "wof:id":1796619521,
-    "wof:lastmodified":1668367758,
+    "wof:lastmodified":1668546074,
     "wof:name":"sh\u00edsh\u00e1lh sw\u00edya (Sechelt)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

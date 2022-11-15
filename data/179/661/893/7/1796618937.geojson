@@ -8,13 +8,13 @@
     "geom:bbox":"125.936279,-18.479609,129.342041,-15.866241",
     "geom:latitude":-17.16758,
     "geom:longitude":127.828648,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-16.879776,
     "lbl:longitude":128.112461,
     "mps:latitude":-16.879776,
     "mps:longitude":128.112461,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#33D643",
     "nativeland:description":"https://native-land.ca/maps/territories/kija/",
     "nativeland:id":36489,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kija",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36489
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b0fbdf8c14d66f28567959f6cc8aa855",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618937
+        }
+    ],
     "wof:id":1796618937,
-    "wof:lastmodified":1668367744,
+    "wof:lastmodified":1668546081,
     "wof:name":"Kija",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

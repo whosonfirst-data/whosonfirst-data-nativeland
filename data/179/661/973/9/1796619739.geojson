@@ -8,13 +8,13 @@
     "geom:bbox":"139.064941,-35.218697,142.086181,-33.293802",
     "geom:latitude":-34.134073,
     "geom:longitude":140.381914,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-33.994009,
     "lbl:longitude":140.35314,
     "mps:latitude":-33.994009,
     "mps:longitude":140.35314,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E8F1F3",
     "nativeland:description":"https://native-land.ca/maps/territories/meru/",
     "nativeland:id":36127,
@@ -22,18 +22,25 @@
     "nativeland:slug":"meru",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36127
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a5cf0edec57a1b161acff5e6b6fbc2be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619739
+        }
+    ],
     "wof:id":1796619739,
-    "wof:lastmodified":1668367763,
+    "wof:lastmodified":1668546102,
     "wof:name":"Meru",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

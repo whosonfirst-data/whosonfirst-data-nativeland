@@ -8,13 +8,13 @@
     "geom:bbox":"-98.234052,28.866325,-94.995334,31.394892",
     "geom:latitude":30.018643,
     "geom:longitude":-96.632723,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":30.079212,
     "lbl:longitude":-96.473241,
     "mps:latitude":30.079212,
     "mps:longitude":-96.473241,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#166CFC",
     "nativeland:description":"https://native-land.ca/maps/territories/sanan/",
     "nativeland:id":34089,
@@ -22,18 +22,25 @@
     "nativeland:slug":"sanan",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34089
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"4f1cb8dadffdba0db11644848bc08887",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620565
+        }
+    ],
     "wof:id":1796620565,
-    "wof:lastmodified":1668367783,
+    "wof:lastmodified":1668546143,
     "wof:name":"Sana",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

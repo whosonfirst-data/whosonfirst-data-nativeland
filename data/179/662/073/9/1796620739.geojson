@@ -8,13 +8,13 @@
     "geom:bbox":"175.496787,-36.717588,175.579715,-36.656822",
     "geom:latitude":-36.684749,
     "geom:longitude":175.534484,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-36.687641,
     "lbl:longitude":175.529547,
     "mps:latitude":-36.687641,
     "mps:longitude":175.529547,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#13A14E",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-porou-ki-harataunga-ki-mataora/",
     "nativeland:id":33999,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-porou-ki-harataunga-ki-mataora",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33999
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"bf6bbaca03389511726c34e6ddfe89b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620739
+        }
+    ],
     "wof:id":1796620739,
-    "wof:lastmodified":1668367788,
+    "wof:lastmodified":1668546134,
     "wof:name":"Ng\u0101ti Porou ki Harataunga ki Mataora",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

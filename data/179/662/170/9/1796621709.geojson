@@ -8,13 +8,13 @@
     "geom:bbox":"-62.224408,-8.880361,-61.014863,-6.555919",
     "geom:latitude":-7.86763,
     "geom:longitude":-61.758442,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-7.55659,
     "lbl:longitude":-61.868413,
     "mps:latitude":-7.55659,
     "mps:longitude":-61.868413,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B87C02",
     "nativeland:description":"https://native-land.ca/maps/territories/kagwahiva-tenharim/",
     "nativeland:id":33509,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kagwahiva-tenharim",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33509
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"70c9c4c9f7b22b2d6e932fa447588ecf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621709
+        }
+    ],
     "wof:id":1796621709,
-    "wof:lastmodified":1668367815,
+    "wof:lastmodified":1668546146,
     "wof:name":"Kawahib (Tenharim)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

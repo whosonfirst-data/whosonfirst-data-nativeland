@@ -8,13 +8,13 @@
     "geom:bbox":"175.061404,-40.445539,175.889532,-39.729387",
     "geom:latitude":-40.069291,
     "geom:longitude":175.429885,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-40.077571,
     "lbl:longitude":175.424153,
     "mps:latitude":-40.077571,
     "mps:longitude":175.424153,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6EDDE9",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-apa/",
     "nativeland:id":33965,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-apa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33965
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b79dfebebd601703ac84ccd2b9b43e45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620801
+        }
+    ],
     "wof:id":1796620801,
-    "wof:lastmodified":1668367790,
+    "wof:lastmodified":1668546135,
     "wof:name":"Ng\u0101ti Apa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-122.999332,38.313474,-122.219302,39.033763",
     "geom:latitude":38.607078,
     "geom:longitude":-122.595321,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":38.60381,
     "lbl:longitude":-122.59533,
     "mps:latitude":38.60381,
     "mps:longitude":-122.59533,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#BF7202",
     "nativeland:description":"https://native-land.ca/maps/territories/wappo/",
     "nativeland:id":36510,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wappo",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36510
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"fcfc3a7277849ca29933cf95d4d6310f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618881
+        }
+    ],
     "wof:id":1796618881,
-    "wof:lastmodified":1668367743,
+    "wof:lastmodified":1668546077,
     "wof:name":"Onasatis (Wappo)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

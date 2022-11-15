@@ -8,13 +8,13 @@
     "geom:bbox":"146.401841,-19.826235,147.002394,-18.444459",
     "geom:latitude":-19.122779,
     "geom:longitude":146.731962,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-19.050089,
     "lbl:longitude":146.797737,
     "mps:latitude":-19.050089,
     "mps:longitude":146.797737,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#A12C03",
     "nativeland:description":"https://native-land.ca/maps/territories/wulgurukaba/",
     "nativeland:id":33571,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wulgurukaba",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33571
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"350e0b39780377c56673e62061ca9a45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796621613
+        }
+    ],
     "wof:id":1796621613,
-    "wof:lastmodified":1668367812,
+    "wof:lastmodified":1668546109,
     "wof:name":"Wulgurukaba",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

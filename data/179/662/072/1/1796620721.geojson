@@ -8,13 +8,13 @@
     "geom:bbox":"174.616545,-41.437745,175.237202,-41.042046",
     "geom:latitude":-41.235622,
     "geom:longitude":174.93717,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-41.225705,
     "lbl:longitude":174.993593,
     "mps:latitude":-41.225705,
     "mps:longitude":174.993593,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#7F812C",
     "nativeland:description":"https://native-land.ca/maps/territories/taranaki-whanui-ki-te-upoko-o-te-ika/",
     "nativeland:id":34005,
@@ -22,18 +22,25 @@
     "nativeland:slug":"taranaki-whanui-ki-te-upoko-o-te-ika",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34005
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"2c133c85bdac929725b8e79edc7cf324",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620721
+        }
+    ],
     "wof:id":1796620721,
-    "wof:lastmodified":1668367788,
+    "wof:lastmodified":1668546137,
     "wof:name":"Taranaki Wh\u0101nui ki Te Upoko o Te Ika",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

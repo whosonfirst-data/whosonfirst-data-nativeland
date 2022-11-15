@@ -8,13 +8,13 @@
     "geom:bbox":"-105.577443,29.835577,-97.08678,38.937145",
     "geom:latitude":34.51761,
     "geom:longitude":-100.787068,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":34.506925,
     "lbl:longitude":-100.867931,
     "mps:latitude":34.506925,
     "mps:longitude":-100.867931,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#98A998",
     "nativeland:description":"https://native-land.ca/maps/territories/n%CA%89m%CA%89n%CA%89%CA%89-comanche/",
     "nativeland:id":36292,
@@ -22,18 +22,25 @@
     "nativeland:slug":"n%ca%89m%ca%89n%ca%89%ca%89-comanche",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36292
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ad5e24be48cef883fb3a875af5e957b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619367
+        }
+    ],
     "wof:id":1796619367,
-    "wof:lastmodified":1668367754,
+    "wof:lastmodified":1668546069,
     "wof:name":"N\u0289m\u0289n\u0289\u0289 Sookobit\u0289 (Comanche)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

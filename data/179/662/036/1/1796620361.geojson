@@ -8,13 +8,13 @@
     "geom:bbox":"141.987304,-13.114255,142.638244,-12.082295",
     "geom:latitude":-12.599101,
     "geom:longitude":142.333227,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-12.597216,
     "lbl:longitude":142.359575,
     "mps:latitude":-12.597216,
     "mps:longitude":142.359575,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C69E73",
     "nativeland:description":"https://native-land.ca/maps/territories/luthigh/",
     "nativeland:id":35852,
@@ -22,18 +22,25 @@
     "nativeland:slug":"luthigh",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35852
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1f73e4d97ebb9b7873fe18b104602cba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620361
+        }
+    ],
     "wof:id":1796620361,
-    "wof:lastmodified":1668367778,
+    "wof:lastmodified":1668546120,
     "wof:name":"Luthigh",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

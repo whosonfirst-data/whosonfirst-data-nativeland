@@ -8,13 +8,13 @@
     "geom:bbox":"-102.45985,20.174468,-100.618899,21.841298",
     "geom:latitude":21.004133,
     "geom:longitude":-101.449828,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":20.960018,
     "lbl:longitude":-101.432293,
     "mps:latitude":20.960018,
     "mps:longitude":-101.432293,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#08FC9D",
     "nativeland:description":"https://native-land.ca/maps/territories/guamares/",
     "nativeland:id":36389,
@@ -22,18 +22,25 @@
     "nativeland:slug":"guamares",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36389
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f5ec202c97a78e974ebdc437a2e95a7e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619153
+        }
+    ],
     "wof:id":1796619153,
-    "wof:lastmodified":1668367749,
+    "wof:lastmodified":1668546084,
     "wof:name":"Guamares",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

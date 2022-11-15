@@ -8,13 +8,13 @@
     "geom:bbox":"133.450927,-15.183482,134.994506,-13.678013",
     "geom:latitude":-14.509021,
     "geom:longitude":134.196854,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-14.50385,
     "lbl:longitude":134.196854,
     "mps:latitude":-14.50385,
     "mps:longitude":134.196854,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C89E17",
     "nativeland:description":"https://native-land.ca/maps/territories/ngalakan/",
     "nativeland:id":35907,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngalakan",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35907
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ef292388b9db6561dac403e1e98cb482",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620237
+        }
+    ],
     "wof:id":1796620237,
-    "wof:lastmodified":1668367775,
+    "wof:lastmodified":1668546112,
     "wof:name":"Ngalakan",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-122.696947,46.789522,-121.374619,47.418981",
     "geom:latitude":47.09265,
     "geom:longitude":-122.047125,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":46.980054,
     "lbl:longitude":-121.836755,
     "mps:latitude":46.980054,
     "mps:longitude":-121.836755,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#BD61B6",
     "nativeland:description":"https://native-land.ca/maps/territories/puyallup/",
     "nativeland:id":34048,
@@ -22,18 +22,25 @@
     "nativeland:slug":"puyallup",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34048
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"044638e1299da1f8c7e6bfd32769e7df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620627
+        }
+    ],
     "wof:id":1796620627,
-    "wof:lastmodified":1668367785,
+    "wof:lastmodified":1668546118,
     "wof:name":"Puyallup",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

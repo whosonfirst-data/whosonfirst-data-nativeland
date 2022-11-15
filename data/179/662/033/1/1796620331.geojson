@@ -8,13 +8,13 @@
     "geom:bbox":"-128.847656,49.532339,-124.222412,51.774638",
     "geom:latitude":50.719047,
     "geom:longitude":-126.529619,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":50.808834,
     "lbl:longitude":-126.3369,
     "mps:latitude":50.808834,
     "mps:longitude":-126.3369,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#F80C3C",
     "nativeland:description":"https://native-land.ca/maps/territories/kwakwakawakw/",
     "nativeland:id":35866,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kwakwakawakw",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35866
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"204a50f7a2ff29713c1af645a4f1b5d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620331
+        }
+    ],
     "wof:id":1796620331,
-    "wof:lastmodified":1668367778,
+    "wof:lastmodified":1668546142,
     "wof:name":"Kwakwaka&#8217;wakw A\u0331wi&#8217;nagwis",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-144.008789,63.680377,-136.373291,65.901652",
     "geom:latitude":64.716542,
     "geom:longitude":-140.62351,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":64.824556,
     "lbl:longitude":-141.201957,
     "mps:latitude":64.824556,
     "mps:longitude":-141.201957,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B2241C",
     "nativeland:description":"https://native-land.ca/maps/territories/han/",
     "nativeland:id":36165,
@@ -22,18 +22,25 @@
     "nativeland:slug":"han",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36165
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"421fd54c3cb423425cae08c218904b7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619653
+        }
+    ],
     "wof:id":1796619653,
-    "wof:lastmodified":1668367761,
+    "wof:lastmodified":1668546071,
     "wof:name":"H\u00e4n",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

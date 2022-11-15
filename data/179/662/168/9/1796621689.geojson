@@ -8,13 +8,13 @@
     "geom:bbox":"-90.801587,29.381444,-90.470136,29.730304",
     "geom:latitude":29.501656,
     "geom:longitude":-90.586202,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":29.500697,
     "lbl:longitude":-90.586649,
     "mps:latitude":29.500697,
     "mps:longitude":-90.586649,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#BAD3BC",
     "nativeland:description":"https://native-land.ca/maps/territories/isle-de-jean-charles-biloxi-chitimacha-choctaw/",
     "nativeland:id":33517,
@@ -22,18 +22,25 @@
     "nativeland:slug":"isle-de-jean-charles-biloxi-chitimacha-choctaw",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33517
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e6b356b835a6799f560ed53de6274bbc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621689
+        }
+    ],
     "wof:id":1796621689,
-    "wof:lastmodified":1668367815,
+    "wof:lastmodified":1668546107,
     "wof:name":"Isle de Jean Charles Biloxi-Chitimacha-Choctaw",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-72.773438,41.405656,-72.364197,41.990119",
     "geom:latitude":41.688423,
     "geom:longitude":-72.557692,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":41.686667,
     "lbl:longitude":-72.56042,
     "mps:latitude":41.686667,
     "mps:longitude":-72.56042,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#68C26A",
     "nativeland:description":"https://native-land.ca/maps/territories/wangunks/",
     "nativeland:id":36004,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wangunks",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36004
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"d5c1384a7ba14895ed64b976b6c60ffa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620021
+        }
+    ],
     "wof:id":1796620021,
-    "wof:lastmodified":1668367770,
+    "wof:lastmodified":1668546143,
     "wof:name":"Wangunks",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

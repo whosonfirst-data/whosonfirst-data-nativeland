@@ -8,13 +8,13 @@
     "geom:bbox":"145.189819,-18.143241,146.214294,-17.182779",
     "geom:latitude":-17.697754,
     "geom:longitude":145.672927,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-17.692979,
     "lbl:longitude":145.611946,
     "mps:latitude":-17.692979,
     "mps:longitude":145.611946,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#661363",
     "nativeland:description":"https://native-land.ca/maps/territories/djirbalngan/",
     "nativeland:id":36453,
@@ -22,18 +22,25 @@
     "nativeland:slug":"djirbalngan",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36453
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f825b2f79a406f4f829c4a75d0b214d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619019
+        }
+    ],
     "wof:id":1796619019,
-    "wof:lastmodified":1668367746,
+    "wof:lastmodified":1668546071,
     "wof:name":"Djirbalngan",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

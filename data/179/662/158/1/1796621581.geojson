@@ -8,13 +8,13 @@
     "geom:bbox":"61.807103,57.018484,81.737811,67.71608",
     "geom:latitude":62.049362,
     "geom:longitude":71.663363,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":60.79413,
     "lbl:longitude":73.17194,
     "mps:latitude":60.79413,
     "mps:longitude":73.17194,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#42D350",
     "nativeland:description":"https://native-land.ca/maps/territories/khanty-kantyk/",
     "nativeland:id":33605,
@@ -22,18 +22,25 @@
     "nativeland:slug":"khanty-kantyk",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33605
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"91eabf1f843eb0f30f167eb2a6c4255e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":1796621581
+        }
+    ],
     "wof:id":1796621581,
-    "wof:lastmodified":1668367811,
+    "wof:lastmodified":1668546110,
     "wof:name":"Khanty/Kantyk",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191581,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

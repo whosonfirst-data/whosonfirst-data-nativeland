@@ -8,13 +8,13 @@
     "geom:bbox":"148.909823,-35.25459,150.985107,-33.775608",
     "geom:latitude":-34.421329,
     "geom:longitude":149.869332,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-34.476794,
     "lbl:longitude":149.849568,
     "mps:latitude":-34.476794,
     "mps:longitude":149.849568,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#39541B",
     "nativeland:description":"https://native-land.ca/maps/territories/gundungurra/",
     "nativeland:id":36136,
@@ -22,18 +22,25 @@
     "nativeland:slug":"gundungurra",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36136
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b7376fb51f42a5bea6cb0018dd0d3e3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619723
+        }
+    ],
     "wof:id":1796619723,
-    "wof:lastmodified":1668367763,
+    "wof:lastmodified":1668546106,
     "wof:name":"Gandangara /Gundungurra",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-116.081543,55.497527,-112.719727,57.106419",
     "geom:latitude":56.269797,
     "geom:longitude":-114.306476,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":56.252448,
     "lbl:longitude":-114.306476,
     "mps:latitude":56.252448,
     "mps:longitude":-114.306476,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#655C38",
     "nativeland:description":"https://native-land.ca/maps/territories/big-stone-cree/",
     "nativeland:id":36390,
@@ -22,18 +22,25 @@
     "nativeland:slug":"big-stone-cree",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36390
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ae4b59b54a00a51e4d5fdc2fdee0ab3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619155
+        }
+    ],
     "wof:id":1796619155,
-    "wof:lastmodified":1668367749,
+    "wof:lastmodified":1668546084,
     "wof:name":"Big Stone Cree",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

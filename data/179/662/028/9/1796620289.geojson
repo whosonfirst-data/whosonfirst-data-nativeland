@@ -8,13 +8,13 @@
     "geom:bbox":"127.716064,-21.268899,130.572509,-19.238549",
     "geom:latitude":-20.278985,
     "geom:longitude":128.988987,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-20.273921,
     "lbl:longitude":128.988987,
     "mps:latitude":-20.273921,
     "mps:longitude":128.988987,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#79A560",
     "nativeland:description":"https://native-land.ca/maps/territories/ngarti/",
     "nativeland:id":35885,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngarti",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35885
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a067c57192e5f0656543d91878debbe7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620289
+        }
+    ],
     "wof:id":1796620289,
-    "wof:lastmodified":1668367777,
+    "wof:lastmodified":1668546138,
     "wof:name":"Ngarti",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

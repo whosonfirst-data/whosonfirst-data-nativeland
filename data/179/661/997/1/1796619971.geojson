@@ -8,13 +8,13 @@
     "geom:bbox":"-126.238403,50.586724,-124.73877,51.99841",
     "geom:latitude":51.413287,
     "geom:longitude":-125.536905,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":51.44028,
     "lbl:longitude":-125.59939,
     "mps:latitude":51.44028,
     "mps:longitude":-125.59939,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#8A8140",
     "nativeland:description":"https://native-land.ca/maps/territories/danaxdaxw-awaetlatla/",
     "nativeland:id":36023,
@@ -22,18 +22,25 @@
     "nativeland:slug":"danaxdaxw-awaetlatla",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36023
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"2834d0010388f1d61bd73590d47c505b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619971
+        }
+    ],
     "wof:id":1796619971,
-    "wof:lastmodified":1668367769,
+    "wof:lastmodified":1668546073,
     "wof:name":"Da&#8217;naxda&#8217;xw Awaetlatla",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"174.430132,-37.059355,174.942436,-36.660645",
     "geom:latitude":-36.867846,
     "geom:longitude":174.668129,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-36.899414,
     "lbl:longitude":174.592821,
     "mps:latitude":-36.899414,
     "mps:longitude":174.592821,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E235D7",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-whatua-o-orakei/",
     "nativeland:id":33929,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-whatua-o-orakei",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33929
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3edccd9239699e5d4bb77f054708dc9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620885
+        }
+    ],
     "wof:id":1796620885,
-    "wof:lastmodified":1668367792,
+    "wof:lastmodified":1668546137,
     "wof:name":"Ng\u0101ti Wh\u0101tua o \u014cr\u0101kei",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"144.54896,-42.245436,146.003469,-40.33196",
     "geom:latitude":-41.088994,
     "geom:longitude":145.069742,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-40.710644,
     "lbl:longitude":144.876909,
     "mps:latitude":-40.710644,
     "mps:longitude":144.876909,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3E181C",
     "nativeland:description":"https://native-land.ca/maps/territories/peerapper/",
     "nativeland:id":33888,
@@ -22,18 +22,25 @@
     "nativeland:slug":"peerapper",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33888
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b6558ff614c93dccab3850cd6c2b7618",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620979
+        }
+    ],
     "wof:id":1796620979,
-    "wof:lastmodified":1668367795,
+    "wof:lastmodified":1668546121,
     "wof:name":"Peerapper",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

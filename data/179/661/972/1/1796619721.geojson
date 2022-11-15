@@ -8,13 +8,13 @@
     "geom:bbox":"141.402282,-14.998555,143.04541,-12.57613",
     "geom:latitude":-13.852746,
     "geom:longitude":142.202792,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-13.848111,
     "lbl:longitude":142.187143,
     "mps:latitude":-13.848111,
     "mps:longitude":142.187143,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#F94845",
     "nativeland:description":"https://native-land.ca/maps/territories/wik/",
     "nativeland:id":36135,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wik",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36135
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"d9288f5b6fb226868756b1ee5ed6cfd5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619721
+        }
+    ],
     "wof:id":1796619721,
-    "wof:lastmodified":1668367763,
+    "wof:lastmodified":1668546106,
     "wof:name":"Wik",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

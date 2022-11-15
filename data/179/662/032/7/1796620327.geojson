@@ -8,13 +8,13 @@
     "geom:bbox":"136.087646,-27.839076,138.845214,-24.706915",
     "geom:latitude":-26.211074,
     "geom:longitude":137.325488,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-26.231977,
     "lbl:longitude":137.161347,
     "mps:latitude":-26.231977,
     "mps:longitude":137.161347,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#CA6327",
     "nativeland:description":"https://native-land.ca/maps/territories/wangkangurru/",
     "nativeland:id":35865,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wangkangurru",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35865
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"6c067bc05bc740f0086df91b5ce761db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620327
+        }
+    ],
     "wof:id":1796620327,
-    "wof:lastmodified":1668367777,
+    "wof:lastmodified":1668546140,
     "wof:name":"Wangkangurru",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

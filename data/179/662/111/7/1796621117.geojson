@@ -8,13 +8,13 @@
     "geom:bbox":"-80.617373,35.670887,-77.888077,37.901716",
     "geom:latitude":36.706652,
     "geom:longitude":-79.148098,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":36.670643,
     "lbl:longitude":-79.122105,
     "mps:latitude":36.670643,
     "mps:longitude":-79.122105,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#29B01A",
     "nativeland:description":"https://native-land.ca/maps/territories/occaneechi/",
     "nativeland:id":33821,
@@ -22,18 +22,25 @@
     "nativeland:slug":"occaneechi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33821
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f514cb1c69780a5b8d703f21ba184ca4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621117
+        }
+    ],
     "wof:id":1796621117,
-    "wof:lastmodified":1668367799,
+    "wof:lastmodified":1668546125,
     "wof:name":"Occaneechi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

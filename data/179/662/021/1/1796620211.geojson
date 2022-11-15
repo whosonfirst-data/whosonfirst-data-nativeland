@@ -8,13 +8,13 @@
     "geom:bbox":"-64.951171,53.527247,-56.975097,60.823494",
     "geom:latitude":56.776725,
     "geom:longitude":-61.706834,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":56.937424,
     "lbl:longitude":-62.431932,
     "mps:latitude":56.937424,
     "mps:longitude":-62.431932,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#7E6881",
     "nativeland:description":"https://native-land.ca/maps/territories/nunatsiavut/",
     "nativeland:id":35918,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nunatsiavut",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35918
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"4b074b510270cc60b08d0887fc233a1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620211
+        }
+    ],
     "wof:id":1796620211,
-    "wof:lastmodified":1668367775,
+    "wof:lastmodified":1668546139,
     "wof:name":"Nunatsiavut",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"141.437988,-28.536274,143.778076,-25.383735",
     "geom:latitude":-27.133414,
     "geom:longitude":142.748191,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-27.310722,
     "lbl:longitude":142.668415,
     "mps:latitude":-27.310722,
     "mps:longitude":142.668415,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E4D4E6",
     "nativeland:description":"https://native-land.ca/maps/territories/wangkumara/",
     "nativeland:id":36056,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wangkumara",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36056
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"67863e182dfa919f3578aa7395105640",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619895
+        }
+    ],
     "wof:id":1796619895,
-    "wof:lastmodified":1668367767,
+    "wof:lastmodified":1668546103,
     "wof:name":"Wangkumara",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

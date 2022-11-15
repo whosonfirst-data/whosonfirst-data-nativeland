@@ -8,13 +8,13 @@
     "geom:bbox":"-79.453125,54.316523,-63.237304,62.815018",
     "geom:latitude":58.110196,
     "geom:longitude":-71.69177,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":58.385157,
     "lbl:longitude":-71.846206,
     "mps:latitude":58.385157,
     "mps:longitude":-71.846206,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#7FC815",
     "nativeland:description":"https://native-land.ca/maps/territories/nunavik/",
     "nativeland:id":36221,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nunavik",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36221
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"7c6a9248e93a483568a0412503ad9278",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619525
+        }
+    ],
     "wof:id":1796619525,
-    "wof:lastmodified":1668367758,
+    "wof:lastmodified":1668546074,
     "wof:name":"\u14c4\u14c7\u1555\u1483 Nunavik",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

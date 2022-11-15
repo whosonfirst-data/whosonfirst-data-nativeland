@@ -8,13 +8,13 @@
     "geom:bbox":"-107.849477,31.550467,-106.032645,33.306751",
     "geom:latitude":32.398867,
     "geom:longitude":-106.956256,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":32.348753,
     "lbl:longitude":-107.016817,
     "mps:latitude":32.348753,
     "mps:longitude":-107.016817,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3160AC",
     "nativeland:description":"https://native-land.ca/maps/territories/mansos/",
     "nativeland:id":35808,
@@ -22,18 +22,25 @@
     "nativeland:slug":"mansos",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35808
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"129b471a13cbd3b1329b3559b712710c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620461
+        }
+    ],
     "wof:id":1796620461,
-    "wof:lastmodified":1668367781,
+    "wof:lastmodified":1668546113,
     "wof:name":"Tampachoa (Mansos)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-76.417745,42.374308,-75.603545,42.8312",
     "geom:latitude":42.605847,
     "geom:longitude":-75.999764,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":42.601033,
     "lbl:longitude":-75.999764,
     "mps:latitude":42.601033,
     "mps:longitude":-75.999764,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E9A0ED",
     "nativeland:description":"https://native-land.ca/maps/territories/tuscarora-3/",
     "nativeland:id":34080,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tuscarora-3",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34080
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"8fe73ca039582903626b11009c49b22e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620575
+        }
+    ],
     "wof:id":1796620575,
-    "wof:lastmodified":1668367784,
+    "wof:lastmodified":1668546142,
     "wof:name":"Tuscarora",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

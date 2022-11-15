@@ -8,13 +8,13 @@
     "geom:bbox":"-100.294224,17.121613,-98.406533,18.757934",
     "geom:latitude":17.911451,
     "geom:longitude":-99.307044,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":17.883323,
     "lbl:longitude":-99.292744,
     "mps:latitude":17.883323,
     "mps:longitude":-99.292744,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4E62BC",
     "nativeland:description":"https://native-land.ca/maps/territories/nahuatl-6/",
     "nativeland:id":35989,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nahuatl-6",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35989
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"fb6da99870df3b8c3a59dd95dd9c4b42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620055
+        }
+    ],
     "wof:id":1796620055,
-    "wof:lastmodified":1668367771,
+    "wof:lastmodified":1668546143,
     "wof:name":"Nahua (Guerrero)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

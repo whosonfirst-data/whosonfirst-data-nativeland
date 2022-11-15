@@ -8,13 +8,13 @@
     "geom:bbox":"-121.882094,45.597303,-117.803414,48.480873",
     "geom:latitude":46.880061,
     "geom:longitude":-120.192554,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":46.912848,
     "lbl:longitude":-120.393398,
     "mps:latitude":46.912848,
     "mps:longitude":-120.393398,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#10B05A",
     "nativeland:description":"https://native-land.ca/maps/territories/yakama/",
     "nativeland:id":36092,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yakama",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36092
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1e78c925f4ee3d7e68bf27e9f79bef0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619815
+        }
+    ],
     "wof:id":1796619815,
-    "wof:lastmodified":1668367765,
+    "wof:lastmodified":1668546106,
     "wof:name":"Yakama",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

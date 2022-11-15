@@ -8,13 +8,13 @@
     "geom:bbox":"174.440393,-36.679085,175.565324,-36.020193",
     "geom:latitude":-36.320968,
     "geom:longitude":174.881028,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-36.37289,
     "lbl:longitude":174.615397,
     "mps:latitude":-36.37289,
     "mps:longitude":174.615397,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#7649B0",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-manuhiri/",
     "nativeland:id":33927,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-manuhiri",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33927
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"36e6e2606b419eb037cb14487200081a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620893
+        }
+    ],
     "wof:id":1796620893,
-    "wof:lastmodified":1668367792,
+    "wof:lastmodified":1668546133,
     "wof:name":"Ng\u0101ti Manuhiri",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

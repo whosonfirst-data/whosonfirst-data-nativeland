@@ -8,13 +8,13 @@
     "geom:bbox":"139.899902,-20.220965,141.185302,-18.072756",
     "geom:latitude":-19.100521,
     "geom:longitude":140.516875,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-19.079489,
     "lbl:longitude":140.529117,
     "mps:latitude":-19.079489,
     "mps:longitude":140.529117,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#50EAEA",
     "nativeland:description":"https://native-land.ca/maps/territories/mayi-yapi/",
     "nativeland:id":36646,
@@ -22,18 +22,25 @@
     "nativeland:slug":"mayi-yapi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36646
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1ebb95f42d96817fb5d1cdc9082ce2ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618589
+        }
+    ],
     "wof:id":1796618589,
-    "wof:lastmodified":1668367736,
+    "wof:lastmodified":1668546081,
     "wof:name":"Mayi-Yapi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

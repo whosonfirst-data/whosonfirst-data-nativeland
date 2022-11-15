@@ -8,13 +8,13 @@
     "geom:bbox":"134.752807,-15.83982,136.071166,-14.42404",
     "geom:latitude":-15.050008,
     "geom:longitude":135.402104,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-14.978428,
     "lbl:longitude":135.347173,
     "mps:latitude":-14.978428,
     "mps:longitude":135.347173,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#7195DD",
     "nativeland:description":"https://native-land.ca/maps/territories/mara/",
     "nativeland:id":36138,
@@ -22,18 +22,25 @@
     "nativeland:slug":"mara",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36138
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ef028f4e1eb3cd393fe339b0d94d5d25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619713
+        }
+    ],
     "wof:id":1796619713,
-    "wof:lastmodified":1668367762,
+    "wof:lastmodified":1668546085,
     "wof:name":"Mara",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

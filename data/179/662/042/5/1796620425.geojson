@@ -8,13 +8,13 @@
     "geom:bbox":"141.53276,-14.948533,143.459472,-14.083301",
     "geom:latitude":-14.58726,
     "geom:longitude":142.605209,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-14.577525,
     "lbl:longitude":142.623559,
     "mps:latitude":-14.577525,
     "mps:longitude":142.623559,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#65F39C",
     "nativeland:description":"https://native-land.ca/maps/territories/bakanh/",
     "nativeland:id":35820,
@@ -22,18 +22,25 @@
     "nativeland:slug":"bakanh",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35820
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"61cf01c5b69fee7f33aad073d4db1f60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620425
+        }
+    ],
     "wof:id":1796620425,
-    "wof:lastmodified":1668367780,
+    "wof:lastmodified":1668546133,
     "wof:name":"Bakanh",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

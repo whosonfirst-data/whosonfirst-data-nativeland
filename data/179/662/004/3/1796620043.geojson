@@ -8,13 +8,13 @@
     "geom:bbox":"-112.857217,29.661215,-109.932144,32.8879",
     "geom:latitude":31.412739,
     "geom:longitude":-111.520654,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":31.423744,
     "lbl:longitude":-111.520654,
     "mps:latitude":31.423744,
     "mps:longitude":-111.520654,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#FE0C5D",
     "nativeland:description":"https://native-land.ca/maps/territories/papago-tohono-oodham/",
     "nativeland:id":35995,
@@ -22,18 +22,25 @@
     "nativeland:slug":"papago-tohono-oodham",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35995
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"50c39ae2434da1abb104a6b2d2a9804e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620043
+        }
+    ],
     "wof:id":1796620043,
-    "wof:lastmodified":1668367770,
+    "wof:lastmodified":1668546140,
     "wof:name":"Tohono O&#8217;odham",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

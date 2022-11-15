@@ -8,13 +8,13 @@
     "geom:bbox":"-97.602135,15.580711,-93.999982,17.627007",
     "geom:latitude":16.597561,
     "geom:longitude":-95.990949,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":16.618445,
     "lbl:longitude":-96.205363,
     "mps:latitude":16.618445,
     "mps:longitude":-96.205363,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0AF1CE",
     "nativeland:description":"https://native-land.ca/maps/territories/didxazon/",
     "nativeland:id":35934,
@@ -22,18 +22,25 @@
     "nativeland:slug":"didxazon",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35934
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"4b9f1ad57e60a5829a72e0daaa2a3d41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620177
+        }
+    ],
     "wof:id":1796620177,
-    "wof:lastmodified":1668367774,
+    "wof:lastmodified":1668546138,
     "wof:name":"Ben &#8216;Zaa/Binniz\u00e1/M\u00e9n Diiste/Bene Xhon (Zapoteco)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

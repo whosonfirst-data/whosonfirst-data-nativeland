@@ -8,13 +8,13 @@
     "geom:bbox":"-58.740886,-8.262245,-54.694656,-2.782135",
     "geom:latitude":-5.823385,
     "geom:longitude":-56.960189,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-6.773813,
     "lbl:longitude":-57.803154,
     "mps:latitude":-6.773813,
     "mps:longitude":-57.803154,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#2A5727",
     "nativeland:description":"https://native-land.ca/maps/territories/mundurukania-wuy-jugu/",
     "nativeland:id":33514,
@@ -22,18 +22,25 @@
     "nativeland:slug":"mundurukania-wuy-jugu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33514
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"813ccedb8d9561bbc530048981680697",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621693
+        }
+    ],
     "wof:id":1796621693,
-    "wof:lastmodified":1668367815,
+    "wof:lastmodified":1668546111,
     "wof:name":"Munduruk\u00e2nia (Wuy jugu)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

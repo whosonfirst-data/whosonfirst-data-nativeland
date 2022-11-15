@@ -8,13 +8,13 @@
     "geom:bbox":"151.776123,-27.122702,153.26477,-24.936257",
     "geom:latitude":-26.01814,
     "geom:longitude":152.530292,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-26.082437,
     "lbl:longitude":152.344212,
     "mps:latitude":-26.082437,
     "mps:longitude":152.344212,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#168095",
     "nativeland:description":"https://native-land.ca/maps/territories/gubbi-gubbi/",
     "nativeland:id":35957,
@@ -22,18 +22,25 @@
     "nativeland:slug":"gubbi-gubbi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35957
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1e831aede10bae6279b06cccb24734ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620119
+        }
+    ],
     "wof:id":1796620119,
-    "wof:lastmodified":1668367772,
+    "wof:lastmodified":1668546135,
     "wof:name":"Dyungungoo (Gubbi Gubbi)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"119.729004,-31.099982,123.585205,-28.652031",
     "geom:latitude":-29.877459,
     "geom:longitude":121.887614,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-29.954981,
     "lbl:longitude":121.887614,
     "mps:latitude":-29.954981,
     "mps:longitude":121.887614,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4345EE",
     "nativeland:description":"https://native-land.ca/maps/territories/wangkathaa/",
     "nativeland:id":36405,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wangkathaa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36405
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"962fb2f57aeed5702917813c6e8c7995",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619121
+        }
+    ],
     "wof:id":1796619121,
-    "wof:lastmodified":1668367749,
+    "wof:lastmodified":1668546084,
     "wof:name":"Wangkathaa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

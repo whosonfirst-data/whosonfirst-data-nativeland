@@ -8,13 +8,13 @@
     "geom:bbox":"-103.864746,31.015279,-78.596191,41.14557",
     "geom:latitude":37.240551,
     "geom:longitude":-93.502404,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":37.029003,
     "lbl:longitude":-93.693867,
     "mps:latitude":37.029003,
     "mps:longitude":-93.693867,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#468BC1",
     "nativeland:description":"https://native-land.ca/maps/territories/osage/",
     "nativeland:id":36479,
@@ -22,18 +22,25 @@
     "nativeland:slug":"osage",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36479
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"afd19f873d36c16dbe2e321c66f4f931",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618953
+        }
+    ],
     "wof:id":1796618953,
-    "wof:lastmodified":1668367745,
+    "wof:lastmodified":1668546079,
     "wof:name":"\ud801\udccf\ud801\udcb0\ud801\udcd3\ud801\udcb0\ud801\udcd3\ud801\udcb7  \ud801\udcbc\ud801\udcc2\ud801\udcca\ud801\udcbb  \ud801\udcc6\ud801\udcbb\ud801\udcbf\ud801\udcb7  \ud801\udcc0\ud801\udcb0^\ud801\udcd3\ud801\udcb0^(Osage)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

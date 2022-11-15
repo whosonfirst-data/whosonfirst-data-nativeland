@@ -8,13 +8,13 @@
     "geom:bbox":"-161.634908,61.592493,-154.360895,63.48512",
     "geom:latitude":62.345669,
     "geom:longitude":-158.289396,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":62.368074,
     "lbl:longitude":-158.23429,
     "mps:latitude":62.368074,
     "mps:longitude":-158.23429,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D2CE7A",
     "nativeland:description":"https://native-land.ca/maps/territories/deg-hitan/",
     "nativeland:id":36043,
@@ -22,18 +22,25 @@
     "nativeland:slug":"deg-hitan",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36043
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"035cba6ff128d6a5dcf2856b2b965ba4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619935
+        }
+    ],
     "wof:id":1796619935,
-    "wof:lastmodified":1668367768,
+    "wof:lastmodified":1668546091,
     "wof:name":"Deg Xit&#8217;an Ngan&#8217; (Deg Xit&#8217;an)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

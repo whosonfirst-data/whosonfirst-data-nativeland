@@ -8,13 +8,13 @@
     "geom:bbox":"-119.455692,33.998027,-118.596787,34.829268",
     "geom:latitude":34.381695,
     "geom:longitude":-119.028005,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":34.396238,
     "lbl:longitude":-119.07095,
     "mps:latitude":34.396238,
     "mps:longitude":-119.07095,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#BDF06F",
     "nativeland:description":"https://native-land.ca/maps/territories/ventureno/",
     "nativeland:id":36586,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ventureno",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36586
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c768ba49fce98747e6eb5c8aba15383f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618719
+        }
+    ],
     "wof:id":1796618719,
-    "wof:lastmodified":1668367739,
+    "wof:lastmodified":1668546096,
     "wof:name":"Micqanaqa\u2019n",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

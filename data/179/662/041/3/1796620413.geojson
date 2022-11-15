@@ -8,13 +8,13 @@
     "geom:bbox":"-126.914063,59.265881,-121.333008,61.206798",
     "geom:latitude":60.265827,
     "geom:longitude":-124.211782,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":60.278778,
     "lbl:longitude":-124.716735,
     "mps:latitude":60.278778,
     "mps:longitude":-124.716735,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#815E8D",
     "nativeland:description":"https://native-land.ca/maps/territories/acho-dene-koe/",
     "nativeland:id":35830,
@@ -22,18 +22,25 @@
     "nativeland:slug":"acho-dene-koe",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35830
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a767b5bd273cfe7d0372c36a3d6c2605",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620413
+        }
+    ],
     "wof:id":1796620413,
-    "wof:lastmodified":1668367780,
+    "wof:lastmodified":1668546113,
     "wof:name":"Denendeh (Acho Dene Koe)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

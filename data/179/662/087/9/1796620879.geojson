@@ -8,13 +8,13 @@
     "geom:bbox":"176.413655,-39.022426,176.879625,-38.326013",
     "geom:latitude":-38.666994,
     "geom:longitude":176.671536,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-38.724807,
     "lbl:longitude":176.667098,
     "mps:latitude":-38.724807,
     "mps:longitude":176.667098,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C308EA",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-whare/",
     "nativeland:id":33931,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-whare",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33931
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"fc834415ce80e3d946873b64fee5addc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620879
+        }
+    ],
     "wof:id":1796620879,
-    "wof:lastmodified":1668367792,
+    "wof:lastmodified":1668546134,
     "wof:name":"Ng\u0101ti Whare",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

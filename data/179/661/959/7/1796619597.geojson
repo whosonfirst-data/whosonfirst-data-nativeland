@@ -8,13 +8,13 @@
     "geom:bbox":"133.725585,-12.286333,134.077148,-11.802834",
     "geom:latitude":-12.017974,
     "geom:longitude":133.913016,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-12.014999,
     "lbl:longitude":133.89209,
     "mps:latitude":-12.014999,
     "mps:longitude":133.89209,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#213A0F",
     "nativeland:description":"https://native-land.ca/maps/territories/gunbalang/",
     "nativeland:id":36192,
@@ -22,18 +22,25 @@
     "nativeland:slug":"gunbalang",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36192
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b66400c445ffc815970e378c4fb6c8dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619597
+        }
+    ],
     "wof:id":1796619597,
-    "wof:lastmodified":1668367760,
+    "wof:lastmodified":1668546089,
     "wof:name":"Gunbalang",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

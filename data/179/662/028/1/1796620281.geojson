@@ -8,13 +8,13 @@
     "geom:bbox":"139.295654,-17.978733,139.812011,-17.465952",
     "geom:latitude":-17.742785,
     "geom:longitude":139.566088,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-17.750341,
     "lbl:longitude":139.571006,
     "mps:latitude":-17.750341,
     "mps:longitude":139.571006,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#84E174",
     "nativeland:description":"https://native-land.ca/maps/territories/mingin/",
     "nativeland:id":35887,
@@ -22,18 +22,25 @@
     "nativeland:slug":"mingin",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35887
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"bd2bab57a564275a7d379d9f1e69424e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620281
+        }
+    ],
     "wof:id":1796620281,
-    "wof:lastmodified":1668367776,
+    "wof:lastmodified":1668546138,
     "wof:name":"Mingin",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

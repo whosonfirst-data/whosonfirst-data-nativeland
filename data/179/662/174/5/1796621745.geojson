@@ -8,13 +8,13 @@
     "geom:bbox":"-61.973784,-12.842761,-61.513862,-12.443824",
     "geom:latitude":-12.628692,
     "geom:longitude":-61.757152,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-12.623367,
     "lbl:longitude":-61.761532,
     "mps:latitude":-12.623367,
     "mps:longitude":-61.761532,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#42C2FE",
     "nativeland:description":"https://native-land.ca/maps/territories/sakurabiat/",
     "nativeland:id":33491,
@@ -22,18 +22,25 @@
     "nativeland:slug":"sakurabiat",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33491
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"feb473cfb03350cd8af23287669b31f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621745
+        }
+    ],
     "wof:id":1796621745,
-    "wof:lastmodified":1668367816,
+    "wof:lastmodified":1668546124,
     "wof:name":"Sakurabiat",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

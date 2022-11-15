@@ -8,13 +8,13 @@
     "geom:bbox":"141.064453,-26.961245,143.756103,-24.146753",
     "geom:latitude":-25.539936,
     "geom:longitude":142.415291,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-25.615473,
     "lbl:longitude":142.435682,
     "mps:latitude":-25.615473,
     "mps:longitude":142.435682,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E18486",
     "nativeland:description":"https://native-land.ca/maps/territories/birria/",
     "nativeland:id":36111,
@@ -22,18 +22,25 @@
     "nativeland:slug":"birria",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36111
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"6687d3dc598910d17274088e158259f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619783
+        }
+    ],
     "wof:id":1796619783,
-    "wof:lastmodified":1668367764,
+    "wof:lastmodified":1668546085,
     "wof:name":"Birria",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

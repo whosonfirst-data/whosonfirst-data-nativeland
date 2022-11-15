@@ -8,13 +8,13 @@
     "geom:bbox":"-73.11676,40.647304,-72.715759,40.87718",
     "geom:latitude":40.772569,
     "geom:longitude":-72.930349,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":40.763902,
     "lbl:longitude":-72.930349,
     "mps:latitude":40.763902,
     "mps:longitude":-72.930349,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#26CB01",
     "nativeland:description":"https://native-land.ca/maps/territories/unkechaug/",
     "nativeland:id":36597,
@@ -22,18 +22,25 @@
     "nativeland:slug":"unkechaug",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36597
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1f8963c70c4e63af35a0ef3bc6866fd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618689
+        }
+    ],
     "wof:id":1796618689,
-    "wof:lastmodified":1668367739,
+    "wof:lastmodified":1668546079,
     "wof:name":"Unkechaug",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

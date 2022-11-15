@@ -8,13 +8,13 @@
     "geom:bbox":"-96.938384,17.017904,-93.980425,18.532268",
     "geom:latitude":17.68849,
     "geom:longitude":-95.71724,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":17.739965,
     "lbl:longitude":-95.862897,
     "mps:latitude":17.739965,
     "mps:longitude":-95.862897,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#153F62",
     "nativeland:description":"https://native-land.ca/maps/territories/chinanteco/",
     "nativeland:id":36001,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chinanteco",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36001
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ee44ab94a8eb2350d4eedb30db65dc43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620029
+        }
+    ],
     "wof:id":1796620029,
-    "wof:lastmodified":1668367770,
+    "wof:lastmodified":1668546143,
     "wof:name":"Chinantla (Tsa ju jm\u00ed\u2019)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

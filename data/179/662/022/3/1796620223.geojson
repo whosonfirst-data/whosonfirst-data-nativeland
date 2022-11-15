@@ -8,13 +8,13 @@
     "geom:bbox":"142.577819,-13.11693,142.984313,-12.444622",
     "geom:latitude":-12.81599,
     "geom:longitude":142.765643,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-12.811703,
     "lbl:longitude":142.769514,
     "mps:latitude":-12.811703,
     "mps:longitude":142.769514,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#BB84F4",
     "nativeland:description":"https://native-land.ca/maps/territories/yinwum/",
     "nativeland:id":35911,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yinwum",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35911
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"17f7ccdeab31313418780a7680d36c2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620223
+        }
+    ],
     "wof:id":1796620223,
-    "wof:lastmodified":1668367775,
+    "wof:lastmodified":1668546115,
     "wof:name":"Yinwum",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

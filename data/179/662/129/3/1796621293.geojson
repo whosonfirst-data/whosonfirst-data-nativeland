@@ -8,13 +8,13 @@
     "geom:bbox":"-86.098259,14.972651,-84.693317,15.904556",
     "geom:latitude":15.452773,
     "geom:longitude":-85.451948,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":15.384842,
     "lbl:longitude":-85.465329,
     "mps:latitude":15.384842,
     "mps:longitude":-85.465329,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B96CE4",
     "nativeland:description":"https://native-land.ca/maps/territories/pech/",
     "nativeland:id":33737,
@@ -22,18 +22,25 @@
     "nativeland:slug":"pech",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33737
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f002b8496fd16089b95a82fab5f3ea34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621293
+        }
+    ],
     "wof:id":1796621293,
-    "wof:lastmodified":1668367803,
+    "wof:lastmodified":1668546124,
     "wof:name":"Pech",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

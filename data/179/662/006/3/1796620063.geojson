@@ -8,13 +8,13 @@
     "geom:bbox":"-98.907346,16.16206,-97.824084,17.318704",
     "geom:latitude":16.712663,
     "geom:longitude":-98.285103,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":16.62934,
     "lbl:longitude":-98.274786,
     "mps:latitude":16.62934,
     "mps:longitude":-98.274786,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#468366",
     "nativeland:description":"https://native-land.ca/maps/territories/amuzgo-2/",
     "nativeland:id":35982,
@@ -22,18 +22,25 @@
     "nativeland:slug":"amuzgo-2",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35982
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1d47d5d93b503376538d307c1636ade2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620063
+        }
+    ],
     "wof:id":1796620063,
-    "wof:lastmodified":1668367771,
+    "wof:lastmodified":1668546123,
     "wof:name":"Tzjon Non/ Tzo&#8217;tyio (Amuzgo)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"147.178344,-26.140645,148.397827,-25.060721",
     "geom:latitude":-25.650195,
     "geom:longitude":147.836626,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-25.66724,
     "lbl:longitude":147.84824,
     "mps:latitude":-25.66724,
     "mps:longitude":147.84824,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B7E576",
     "nativeland:description":"https://native-land.ca/maps/territories/nguri/",
     "nativeland:id":36075,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nguri",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36075
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5afd8b0b7fa494e109f291087f91d7d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619857
+        }
+    ],
     "wof:id":1796619857,
-    "wof:lastmodified":1668367766,
+    "wof:lastmodified":1668546086,
     "wof:name":"Nguri",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

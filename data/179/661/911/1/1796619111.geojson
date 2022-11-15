@@ -8,13 +8,13 @@
     "geom:bbox":"-105.436225,22.36505,-104.461087,22.765574",
     "geom:latitude":22.566132,
     "geom:longitude":-104.961023,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":22.558533,
     "lbl:longitude":-104.97031,
     "mps:latitude":22.558533,
     "mps:longitude":-104.97031,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#ECD581",
     "nativeland:description":"https://native-land.ca/maps/territories/mexicanero-nahuatl/",
     "nativeland:id":36407,
@@ -22,18 +22,25 @@
     "nativeland:slug":"mexicanero-nahuatl",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36407
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"231286e7f46ce945cf98e67e298cba0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619111
+        }
+    ],
     "wof:id":1796619111,
-    "wof:lastmodified":1668367748,
+    "wof:lastmodified":1668546100,
     "wof:name":"Mexicanero (Nahuas)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

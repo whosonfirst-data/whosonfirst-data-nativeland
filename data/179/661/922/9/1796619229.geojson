@@ -8,13 +8,13 @@
     "geom:bbox":"143.289184,-35.799993,144.865722,-34.660322",
     "geom:latitude":-35.234142,
     "geom:longitude":144.062473,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-35.202269,
     "lbl:longitude":144.140106,
     "mps:latitude":-35.202269,
     "mps:longitude":144.140106,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B036B7",
     "nativeland:description":"https://native-land.ca/maps/territories/wemba-wemba/",
     "nativeland:id":36356,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wemba-wemba",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36356
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f301ade76a0ca32d1671e4a9d04e47b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619229
+        }
+    ],
     "wof:id":1796619229,
-    "wof:lastmodified":1668367751,
+    "wof:lastmodified":1668546087,
     "wof:name":"Wemba Wemba",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

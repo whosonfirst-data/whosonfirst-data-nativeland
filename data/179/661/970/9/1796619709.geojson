@@ -8,13 +8,13 @@
     "geom:bbox":"-123.493454,40.106897,-121.922009,41.45968",
     "geom:latitude":40.726053,
     "geom:longitude":-122.616283,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":40.682406,
     "lbl:longitude":-122.631461,
     "mps:latitude":40.682406,
     "mps:longitude":-122.631461,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D467B5",
     "nativeland:description":"https://native-land.ca/maps/territories/northern-wintu/",
     "nativeland:id":36142,
@@ -22,18 +22,25 @@
     "nativeland:slug":"northern-wintu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36142
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"69ec087603368a4afcaa100cdb412928",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619709
+        }
+    ],
     "wof:id":1796619709,
-    "wof:lastmodified":1668367762,
+    "wof:lastmodified":1668546083,
     "wof:name":"Wint\u02b0u\u2022 Po\u2022m (Northern Wintu)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

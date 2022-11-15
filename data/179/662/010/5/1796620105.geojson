@@ -8,13 +8,13 @@
     "geom:bbox":"-112.072271,32.168763,-109.149488,35.343382",
     "geom:latitude":33.757918,
     "geom:longitude":-110.491908,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":33.760231,
     "lbl:longitude":-110.270429,
     "mps:latitude":33.760231,
     "mps:longitude":-110.270429,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4699DC",
     "nativeland:description":"https://native-land.ca/maps/territories/western-apache/",
     "nativeland:id":35967,
@@ -22,18 +22,25 @@
     "nativeland:slug":"western-apache",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35967
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"40d4b7bf218880a4f664bd3f36bd582f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620105
+        }
+    ],
     "wof:id":1796620105,
-    "wof:lastmodified":1668367772,
+    "wof:lastmodified":1668546138,
     "wof:name":"Ndee/Nn\u0113\u0113: (Western Apache)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-124.431187,47.4842,-123.585514,47.853344",
     "geom:latitude":47.644398,
     "geom:longitude":-124.011085,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":47.633355,
     "lbl:longitude":-124.011085,
     "mps:latitude":47.633355,
     "mps:longitude":-124.011085,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3BDA61",
     "nativeland:description":"https://native-land.ca/maps/territories/queets/",
     "nativeland:id":33544,
@@ -22,18 +22,25 @@
     "nativeland:slug":"queets",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33544
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"83af7dfb3a7683ab82f3b8220f707ba4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621653
+        }
+    ],
     "wof:id":1796621653,
-    "wof:lastmodified":1668367813,
+    "wof:lastmodified":1668546129,
     "wof:name":"Queets",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

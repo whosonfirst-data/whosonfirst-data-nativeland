@@ -8,13 +8,13 @@
     "geom:bbox":"139.741949,-34.635557,144.79171,-29.004992",
     "geom:latitude":-31.65353,
     "geom:longitude":142.370332,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-31.52229,
     "lbl:longitude":142.622456,
     "mps:latitude":-31.52229,
     "mps:longitude":142.622456,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#54ED57",
     "nativeland:description":"https://native-land.ca/maps/territories/malyangaba/",
     "nativeland:id":36150,
@@ -22,18 +22,25 @@
     "nativeland:slug":"malyangaba",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36150
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ed0499e8590552e6331fc78d9f2bea8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619687
+        }
+    ],
     "wof:id":1796619687,
-    "wof:lastmodified":1668367762,
+    "wof:lastmodified":1668546088,
     "wof:name":"Malyangaba",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

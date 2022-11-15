@@ -8,13 +8,13 @@
     "geom:bbox":"-122.849121,38.034908,-121.500525,39.461644",
     "geom:latitude":38.773387,
     "geom:longitude":-122.104844,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":38.762787,
     "lbl:longitude":-122.059077,
     "mps:latitude":38.762787,
     "mps:longitude":-122.059077,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C3984A",
     "nativeland:description":"https://native-land.ca/maps/territories/patwin/",
     "nativeland:id":36047,
@@ -22,18 +22,25 @@
     "nativeland:slug":"patwin",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36047
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"d95f4efdb6710a81da2e5bcef66b4a66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619917
+        }
+    ],
     "wof:id":1796619917,
-    "wof:lastmodified":1668367767,
+    "wof:lastmodified":1668546071,
     "wof:name":"Patwin",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"118.465576,-29.00814,122.365723,-27.269279",
     "geom:latitude":-28.19622,
     "geom:longitude":120.403339,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-28.167526,
     "lbl:longitude":120.403339,
     "mps:latitude":-28.167526,
     "mps:longitude":120.403339,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C827AD",
     "nativeland:description":"https://native-land.ca/maps/territories/kuwarra/",
     "nativeland:id":36598,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kuwarra",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36598
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"84f01582b25b53bc33919c42ab4edc47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618693
+        }
+    ],
     "wof:id":1796618693,
-    "wof:lastmodified":1668367739,
+    "wof:lastmodified":1668546080,
     "wof:name":"Kuwarra",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

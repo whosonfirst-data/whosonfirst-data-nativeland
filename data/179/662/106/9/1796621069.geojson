@@ -8,13 +8,13 @@
     "geom:bbox":"-104.382001,45.581447,-100.30611,46.582762",
     "geom:latitude":46.085852,
     "geom:longitude":-102.419588,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":46.085944,
     "lbl:longitude":-102.419588,
     "mps:latitude":46.085944,
     "mps:longitude":-102.419588,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#CCC37F",
     "nativeland:description":"https://native-land.ca/maps/territories/itazipco/",
     "nativeland:id":33846,
@@ -22,18 +22,25 @@
     "nativeland:slug":"itazipco",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33846
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ed235649c574e96a44268ff1cafa00c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621069
+        }
+    ],
     "wof:id":1796621069,
-    "wof:lastmodified":1668367797,
+    "wof:lastmodified":1668546132,
     "wof:name":"Itazipco",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

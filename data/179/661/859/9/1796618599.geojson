@@ -8,13 +8,13 @@
     "geom:bbox":"-72.762451,40.772222,-72.281799,41.010993",
     "geom:latitude":40.884991,
     "geom:longitude":-72.522525,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":40.879581,
     "lbl:longitude":-72.518883,
     "mps:latitude":40.879581,
     "mps:longitude":-72.518883,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E91CF2",
     "nativeland:description":"https://native-land.ca/maps/territories/shinnecock/",
     "nativeland:id":36639,
@@ -22,18 +22,25 @@
     "nativeland:slug":"shinnecock",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36639
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"aff0017012e43f86cd8cc67382420e38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618599
+        }
+    ],
     "wof:id":1796618599,
-    "wof:lastmodified":1668367737,
+    "wof:lastmodified":1668546078,
     "wof:name":"Shinnecock",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

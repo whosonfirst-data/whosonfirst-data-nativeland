@@ -8,13 +8,13 @@
     "geom:bbox":"-104.293213,44.229457,-100.041504,46.437857",
     "geom:latitude":45.331642,
     "geom:longitude":-101.872285,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":45.202117,
     "lbl:longitude":-101.872285,
     "mps:latitude":45.202117,
     "mps:longitude":-101.872285,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4F0DCF",
     "nativeland:description":"https://native-land.ca/maps/territories/sihapsa/",
     "nativeland:id":36397,
@@ -22,18 +22,25 @@
     "nativeland:slug":"sihapsa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36397
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ba2da03d197b03b256f2d01d84934eb1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619145
+        }
+    ],
     "wof:id":1796619145,
-    "wof:lastmodified":1668367749,
+    "wof:lastmodified":1668546088,
     "wof:name":"Sih\u00e1sapa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

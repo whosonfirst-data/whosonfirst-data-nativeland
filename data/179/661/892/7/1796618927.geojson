@@ -8,13 +8,13 @@
     "geom:bbox":"140.998946,-34.640179,145.028935,-29.877425",
     "geom:latitude":-32.186831,
     "geom:longitude":142.761922,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-32.294621,
     "lbl:longitude":142.522536,
     "mps:latitude":-32.294621,
     "mps:longitude":142.522536,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#97512C",
     "nativeland:description":"https://native-land.ca/maps/territories/barkindji/",
     "nativeland:id":36490,
@@ -22,18 +22,25 @@
     "nativeland:slug":"barkindji",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36490
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e9c5b49c340cf44621c48d1610745d5d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618927
+        }
+    ],
     "wof:id":1796618927,
-    "wof:lastmodified":1668367744,
+    "wof:lastmodified":1668546078,
     "wof:name":"Barkindji",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

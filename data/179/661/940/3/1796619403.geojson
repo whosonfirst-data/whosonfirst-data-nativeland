@@ -8,13 +8,13 @@
     "geom:bbox":"126.298828,-19.425153,129.276123,-17.539296",
     "geom:latitude":-18.60034,
     "geom:longitude":128.046836,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-18.610812,
     "lbl:longitude":128.075192,
     "mps:latitude":-18.610812,
     "mps:longitude":128.075192,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3E6BB1",
     "nativeland:description":"https://native-land.ca/maps/territories/jaru/",
     "nativeland:id":36278,
@@ -22,18 +22,25 @@
     "nativeland:slug":"jaru",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36278
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c66a3a08e92e0fb7ff1959bf5e4f6c06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619403
+        }
+    ],
     "wof:id":1796619403,
-    "wof:lastmodified":1668367755,
+    "wof:lastmodified":1668546085,
     "wof:name":"Jaru",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

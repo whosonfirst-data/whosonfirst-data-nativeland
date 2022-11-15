@@ -8,13 +8,13 @@
     "geom:bbox":"135.249938,-14.546367,136.095886,-13.53653",
     "geom:latitude":-13.9613,
     "geom:longitude":135.681611,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-13.939111,
     "lbl:longitude":135.716859,
     "mps:latitude":-13.939111,
     "mps:longitude":135.716859,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D94FB4",
     "nativeland:description":"https://native-land.ca/maps/territories/nunggubuyu/",
     "nativeland:id":36060,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nunggubuyu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36060
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a44447d5c290ece1a53892350d484aec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619891
+        }
+    ],
     "wof:id":1796619891,
-    "wof:lastmodified":1668367767,
+    "wof:lastmodified":1668546103,
     "wof:name":"Nunggubuyu",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

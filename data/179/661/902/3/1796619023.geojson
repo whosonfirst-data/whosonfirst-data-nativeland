@@ -8,13 +8,13 @@
     "geom:bbox":"-118.707275,33.847667,-114.884033,35.43382",
     "geom:latitude":34.574552,
     "geom:longitude":-116.695475,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":34.608587,
     "lbl:longitude":-116.666511,
     "mps:latitude":34.608587,
     "mps:longitude":-116.666511,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B429D7",
     "nativeland:description":"https://native-land.ca/maps/territories/yuhaviatam-serrano/",
     "nativeland:id":36449,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yuhaviatam-serrano",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36449
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3749a49befb320f27aacea36592acdf0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619023
+        }
+    ],
     "wof:id":1796619023,
-    "wof:lastmodified":1668367746,
+    "wof:lastmodified":1668546093,
     "wof:name":"Yuhaaviatam/Maarenga&#8217;yam (Serrano)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

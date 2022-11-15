@@ -8,13 +8,13 @@
     "geom:bbox":"-105.330723,41.971566,-73.414777,53.408447",
     "geom:latitude":48.324666,
     "geom:longitude":-89.209937,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":48.487781,
     "lbl:longitude":-90.304531,
     "mps:latitude":48.487781,
     "mps:longitude":-90.304531,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#11EC21",
     "nativeland:description":"https://native-land.ca/maps/territories/anishinabek-%E1%90%8A%E1%93%82%E1%94%91%E1%93%88%E1%90%AF%E1%92%83/",
     "nativeland:id":36372,
@@ -22,18 +22,25 @@
     "nativeland:slug":"anishinabek-%e1%90%8a%e1%93%82%e1%94%91%e1%93%88%e1%90%af%e1%92%83",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36372
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5e6b5bfc3d68bb5740c8e3a43550c730",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619197
+        }
+    ],
     "wof:id":1796619197,
-    "wof:lastmodified":1668367750,
+    "wof:lastmodified":1668546104,
     "wof:name":"Anishinabewaki \u140a\u14c2\u1511\u14c8\u142f\u1417\u146d",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"143.235981,-9.600514,143.604302,-9.43881",
     "geom:latitude":-9.516143,
     "geom:longitude":143.426365,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-9.518937,
     "lbl:longitude":143.426364,
     "mps:latitude":-9.518937,
     "mps:longitude":143.426364,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/territories/ugarem-le/",
     "nativeland:id":37759,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ugarem-le",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":37759
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a9188f616fa264f12252f2ba9ec6475b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618441
+        }
+    ],
     "wof:id":1796618441,
-    "wof:lastmodified":1668367733,
+    "wof:lastmodified":1668546078,
     "wof:name":"Ugarem Le",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"122.629395,-31.052934,128.474121,-27.508271",
     "geom:latitude":-29.461911,
     "geom:longitude":125.286334,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-29.631185,
     "lbl:longitude":124.998526,
     "mps:latitude":-29.631185,
     "mps:longitude":124.998526,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#98E64D",
     "nativeland:description":"https://native-land.ca/maps/territories/nyanganyatjara/",
     "nativeland:id":36561,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nyanganyatjara",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36561
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c10b41a77f2201acec771e48d3c51bb9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618771
+        }
+    ],
     "wof:id":1796618771,
-    "wof:lastmodified":1668367741,
+    "wof:lastmodified":1668546094,
     "wof:name":"Nyanganyatjara",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

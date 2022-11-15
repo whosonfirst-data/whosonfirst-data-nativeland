@@ -8,13 +8,13 @@
     "geom:bbox":"-121.651611,39.614152,-120.146484,40.605612",
     "geom:latitude":40.140213,
     "geom:longitude":-120.821417,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":40.099196,
     "lbl:longitude":-120.807082,
     "mps:latitude":40.099196,
     "mps:longitude":-120.807082,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#85721B",
     "nativeland:description":"https://native-land.ca/maps/territories/mountain-maidu/",
     "nativeland:id":36088,
@@ -22,18 +22,25 @@
     "nativeland:slug":"mountain-maidu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36088
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"38ed2d03f49b9aa289d2411051ef611c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619833
+        }
+    ],
     "wof:id":1796619833,
-    "wof:lastmodified":1668367765,
+    "wof:lastmodified":1668546082,
     "wof:name":"Mountain Maidu",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"29.170987,56.474893,38.48414,67.060575",
     "geom:latitude":62.121204,
     "geom:longitude":33.39537,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":64.144191,
     "lbl:longitude":32.160672,
     "mps:latitude":64.144191,
     "mps:longitude":32.160672,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#FCC998",
     "nativeland:description":"https://native-land.ca/maps/territories/karjalaiset-karelian/",
     "nativeland:id":33616,
@@ -22,18 +22,25 @@
     "nativeland:slug":"karjalaiset-karelian",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33616
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"6865e431a874b4b4d865856b1f12d461",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":1796621565
+        }
+    ],
     "wof:id":1796621565,
-    "wof:lastmodified":1668367811,
+    "wof:lastmodified":1668546111,
     "wof:name":"Karjalaiset (Karelian)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191581,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

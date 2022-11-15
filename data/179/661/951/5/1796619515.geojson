@@ -8,13 +8,13 @@
     "geom:bbox":"-67.810827,50.884258,-55.130469,55.522692",
     "geom:latitude":53.41062,
     "geom:longitude":-60.982942,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":53.652517,
     "lbl:longitude":-59.202263,
     "mps:latitude":53.652517,
     "mps:longitude":-59.202263,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0B0092",
     "nativeland:description":"https://native-land.ca/maps/territories/southern-inuit-nunatukavut/",
     "nativeland:id":36228,
@@ -22,18 +22,25 @@
     "nativeland:slug":"southern-inuit-nunatukavut",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36228
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"74dff6e563332eac91b2c017d1ef7183",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619515
+        }
+    ],
     "wof:id":1796619515,
-    "wof:lastmodified":1668367758,
+    "wof:lastmodified":1668546092,
     "wof:name":"NunatuKavut",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

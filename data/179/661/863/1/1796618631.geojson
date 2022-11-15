@@ -8,13 +8,13 @@
     "geom:bbox":"-104.05014,20.505495,-102.25318,21.318801",
     "geom:latitude":20.878964,
     "geom:longitude":-103.015193,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":20.897297,
     "lbl:longitude":-102.790573,
     "mps:latitude":20.897297,
     "mps:longitude":-102.790573,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D26FA5",
     "nativeland:description":"https://native-land.ca/maps/territories/tecuexe/",
     "nativeland:id":36625,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tecuexe",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36625
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"2e1895c27ec5bed99c1d6fdf8466564f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618631
+        }
+    ],
     "wof:id":1796618631,
-    "wof:lastmodified":1668367737,
+    "wof:lastmodified":1668546100,
     "wof:name":"Tecuexe",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

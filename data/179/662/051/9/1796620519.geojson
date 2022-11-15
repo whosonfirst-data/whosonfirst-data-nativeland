@@ -8,13 +8,13 @@
     "geom:bbox":"-121.548229,42.007041,-119.817872,43.866912",
     "geom:latitude":43.018913,
     "geom:longitude":-120.64741,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":43.320765,
     "lbl:longitude":-120.778498,
     "mps:latitude":43.320765,
     "mps:longitude":-120.778498,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D2853C",
     "nativeland:description":"https://native-land.ca/maps/territories/yahooskin/",
     "nativeland:id":34108,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yahooskin",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34108
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"269e08b6fc384fff89217526082b6984",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620519
+        }
+    ],
     "wof:id":1796620519,
-    "wof:lastmodified":1668367782,
+    "wof:lastmodified":1668546144,
     "wof:name":"Yahooskin",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

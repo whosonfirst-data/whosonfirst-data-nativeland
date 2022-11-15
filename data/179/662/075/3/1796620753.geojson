@@ -8,13 +8,13 @@
     "geom:bbox":"176.337744,-38.060005,176.863208,-37.77425",
     "geom:latitude":-37.932931,
     "geom:longitude":176.578191,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-37.924117,
     "lbl:longitude":176.52064,
     "mps:latitude":-37.924117,
     "mps:longitude":176.52064,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#699228",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-makino/",
     "nativeland:id":33989,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-makino",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33989
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"96a7998b8d0c0c44ee834df7f852c614",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620753
+        }
+    ],
     "wof:id":1796620753,
-    "wof:lastmodified":1668367789,
+    "wof:lastmodified":1668546136,
     "wof:name":"Ng\u0101ti M\u0101kino",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

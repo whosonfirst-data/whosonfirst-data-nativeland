@@ -8,13 +8,13 @@
     "geom:bbox":"-117.454834,33.137551,-114.554443,34.161818",
     "geom:latitude":33.707412,
     "geom:longitude":-115.930883,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":33.588484,
     "lbl:longitude":-115.958506,
     "mps:latitude":33.588484,
     "mps:longitude":-115.958506,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#7A21D9",
     "nativeland:description":"https://native-land.ca/maps/territories/cahuilla/",
     "nativeland:id":35925,
@@ -22,18 +22,25 @@
     "nativeland:slug":"cahuilla",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35925
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f5999aa1ffa3d13bbe130567370c4040",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620197
+        }
+    ],
     "wof:id":1796620197,
-    "wof:lastmodified":1668367774,
+    "wof:lastmodified":1668546139,
     "wof:name":"\u0241\u00edvil\u0303uwenetem Meyt\u00e9mak (Cahuilla)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

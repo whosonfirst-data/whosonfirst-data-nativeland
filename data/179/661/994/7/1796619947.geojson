@@ -8,13 +8,13 @@
     "geom:bbox":"-90.956199,15.093107,-88.228199,19.604115",
     "geom:latitude":16.510082,
     "geom:longitude":-89.734137,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":15.920834,
     "lbl:longitude":-89.745928,
     "mps:latitude":15.920834,
     "mps:longitude":-89.745928,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#26FCAB",
     "nativeland:description":"https://native-land.ca/maps/territories/qeqchi/",
     "nativeland:id":36036,
@@ -22,18 +22,25 @@
     "nativeland:slug":"qeqchi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36036
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"667912afd642c24c98f1fc1c0eb87abd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619947
+        }
+    ],
     "wof:id":1796619947,
-    "wof:lastmodified":1668367768,
+    "wof:lastmodified":1668546091,
     "wof:name":"Q&#8217;eqchi&#8217;",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

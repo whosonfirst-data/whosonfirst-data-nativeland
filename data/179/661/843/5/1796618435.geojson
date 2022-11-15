@@ -8,13 +8,13 @@
     "geom:bbox":"143.234856,-10.056722,144.133066,-9.062378",
     "geom:latitude":-9.557726,
     "geom:longitude":143.753568,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-9.504449,
     "lbl:longitude":143.716142,
     "mps:latitude":-9.504449,
     "mps:longitude":143.716142,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/territories/kemer-kemer-meriam/",
     "nativeland:id":37776,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kemer-kemer-meriam",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":37776
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a065405dc0117bcb9f2aed7496a119ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618435
+        }
+    ],
     "wof:id":1796618435,
-    "wof:lastmodified":1668367733,
+    "wof:lastmodified":1668546077,
     "wof:name":"Kemer Kemer Meriam",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

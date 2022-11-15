@@ -8,13 +8,13 @@
     "geom:bbox":"-79.424051,-3.784964,-79.11267,-3.50958",
     "geom:latitude":-3.640302,
     "geom:longitude":-79.271559,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-3.640589,
     "lbl:longitude":-79.274524,
     "mps:latitude":-3.640589,
     "mps:longitude":-79.274524,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4C06B4",
     "nativeland:description":"https://native-land.ca/maps/territories/saraguro/",
     "nativeland:id":33593,
@@ -22,18 +22,25 @@
     "nativeland:slug":"saraguro",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33593
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"d1135555eb2d6d8d9705c8067786e09c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621597
+        }
+    ],
     "wof:id":1796621597,
-    "wof:lastmodified":1668367812,
+    "wof:lastmodified":1668546108,
     "wof:name":"Saraguro",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

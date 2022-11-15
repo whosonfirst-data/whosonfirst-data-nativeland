@@ -8,13 +8,13 @@
     "geom:bbox":"175.638807,-37.928178,176.108076,-37.565382",
     "geom:latitude":-37.735347,
     "geom:longitude":175.87957,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-37.718147,
     "lbl:longitude":175.930966,
     "mps:latitude":-37.718147,
     "mps:longitude":175.930966,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B54088",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-hinerangi/",
     "nativeland:id":33986,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-hinerangi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33986
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"44b40894403dfd5fc742aff1f2be58ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620767
+        }
+    ],
     "wof:id":1796620767,
-    "wof:lastmodified":1668367789,
+    "wof:lastmodified":1668546116,
     "wof:name":"Ng\u0101ti Hinerangi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"175.215451,-39.841291,175.904298,-39.277121",
     "geom:latitude":-39.521246,
     "geom:longitude":175.54849,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-39.460497,
     "lbl:longitude":175.543271,
     "mps:latitude":-39.460497,
     "mps:longitude":175.543271,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#236B3C",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-rangi/",
     "nativeland:id":34003,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-rangi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34003
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0f2d4e1995c188c93607c3404a72da00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620731
+        }
+    ],
     "wof:id":1796620731,
-    "wof:lastmodified":1668367788,
+    "wof:lastmodified":1668546134,
     "wof:name":"Ng\u0101ti Rangi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

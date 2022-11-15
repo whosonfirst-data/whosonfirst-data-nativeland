@@ -8,13 +8,13 @@
     "geom:bbox":"-123.470649,48.579636,-123.441007,48.590606",
     "geom:latitude":48.584821,
     "geom:longitude":-123.455962,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":48.58512,
     "lbl:longitude":-123.455962,
     "mps:latitude":48.58512,
     "mps:longitude":-123.455962,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#86AED6",
     "nativeland:description":"https://native-land.ca/maps/territories/wjo%C6%9Ae%C6%9Ap-tsartlip/",
     "nativeland:id":33520,
@@ -22,18 +22,25 @@
     "nativeland:slug":"w%cc%b1jo%c6%9ae%c6%9ap-tsartlip",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33520
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c26289bbe5a183365e53c9074f00aca1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621685
+        }
+    ],
     "wof:id":1796621685,
-    "wof:lastmodified":1668367814,
+    "wof:lastmodified":1668546107,
     "wof:name":"W\u0331JO\u023dE\u023dP (Tsartlip)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

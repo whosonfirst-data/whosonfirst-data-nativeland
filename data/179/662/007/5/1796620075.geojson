@@ -8,13 +8,13 @@
     "geom:bbox":"-118.476563,58.950008,-101.886211,67.016009",
     "geom:latitude":62.973158,
     "geom:longitude":-109.557339,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":62.889487,
     "lbl:longitude":-109.557235,
     "mps:latitude":62.889487,
     "mps:longitude":-109.557235,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#651C0A",
     "nativeland:description":"https://native-land.ca/maps/territories/akaitcho/",
     "nativeland:id":35976,
@@ -22,18 +22,25 @@
     "nativeland:slug":"akaitcho",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35976
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"4c7c4005ca1630bbeac7f00a65adc6de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620075
+        }
+    ],
     "wof:id":1796620075,
-    "wof:lastmodified":1668367771,
+    "wof:lastmodified":1668546119,
     "wof:name":"Akaitcho",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

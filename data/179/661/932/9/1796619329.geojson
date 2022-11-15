@@ -8,13 +8,13 @@
     "geom:bbox":"122.739257,-20.679044,125.112304,-18.20848",
     "geom:latitude":-19.422772,
     "geom:longitude":124.045555,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-19.510856,
     "lbl:longitude":124.141607,
     "mps:latitude":-19.510856,
     "mps:longitude":124.141607,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#61F2BE",
     "nativeland:description":"https://native-land.ca/maps/territories/mangala/",
     "nativeland:id":36309,
@@ -22,18 +22,25 @@
     "nativeland:slug":"mangala",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36309
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1274ce8b3c5217c42df51a4a870382e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619329
+        }
+    ],
     "wof:id":1796619329,
-    "wof:lastmodified":1668367753,
+    "wof:lastmodified":1668546090,
     "wof:name":"Mangala",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

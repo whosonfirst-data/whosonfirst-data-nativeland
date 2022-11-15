@@ -8,13 +8,13 @@
     "geom:bbox":"129.929809,-12.134833,131.561279,-11.065211",
     "geom:latitude":-11.554867,
     "geom:longitude":130.771507,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-11.528878,
     "lbl:longitude":130.755969,
     "mps:latitude":-11.528878,
     "mps:longitude":130.755969,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#73FA6E",
     "nativeland:description":"https://native-land.ca/maps/territories/tiwi/",
     "nativeland:id":36259,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tiwi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36259
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"4b57361217533870f9db2726be10c760",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619451
+        }
+    ],
     "wof:id":1796619451,
-    "wof:lastmodified":1668367756,
+    "wof:lastmodified":1668546103,
     "wof:name":"Tiwi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

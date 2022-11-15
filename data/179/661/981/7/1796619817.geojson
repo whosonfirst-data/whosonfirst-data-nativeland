@@ -8,13 +8,13 @@
     "geom:bbox":"-106.125099,27.71271,-104.666748,28.844673",
     "geom:latitude":28.357489,
     "geom:longitude":-105.419463,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":28.335242,
     "lbl:longitude":-105.408415,
     "mps:latitude":28.335242,
     "mps:longitude":-105.408415,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B5EFD7",
     "nativeland:description":"https://native-land.ca/maps/territories/julimes/",
     "nativeland:id":36093,
@@ -22,18 +22,25 @@
     "nativeland:slug":"julimes",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36093
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"75bee4057720805e62c6ef52072140a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619817
+        }
+    ],
     "wof:id":1796619817,
-    "wof:lastmodified":1668367765,
+    "wof:lastmodified":1668546105,
     "wof:name":"Julimes",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

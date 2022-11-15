@@ -8,13 +8,13 @@
     "geom:bbox":"-98.306334,20.36366,-97.739944,20.853824",
     "geom:latitude":20.595573,
     "geom:longitude":-98.029166,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":20.611409,
     "lbl:longitude":-98.033456,
     "mps:latitude":20.611409,
     "mps:longitude":-98.033456,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#FCC610",
     "nativeland:description":"https://native-land.ca/maps/territories/tepehua/",
     "nativeland:id":36335,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tepehua",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36335
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"6fe8d49bb740e714bfb3675a3fbe6611",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619277
+        }
+    ],
     "wof:id":1796619277,
-    "wof:lastmodified":1668367752,
+    "wof:lastmodified":1668546101,
     "wof:name":"Tepehua",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

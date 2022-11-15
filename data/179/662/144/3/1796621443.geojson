@@ -8,13 +8,13 @@
     "geom:bbox":"-79.070699,0.369018,-75.724264,4.896229",
     "geom:latitude":2.483798,
     "geom:longitude":-77.201215,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":2.434266,
     "lbl:longitude":-77.201215,
     "mps:latitude":2.434266,
     "mps:longitude":-77.201215,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#9583A3",
     "nativeland:description":"https://native-land.ca/maps/territories/eperara-siapidara/",
     "nativeland:id":33674,
@@ -22,18 +22,25 @@
     "nativeland:slug":"eperara-siapidara",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33674
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f31ae2aa6eed8ccef11e5b4c81443830",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621443
+        }
+    ],
     "wof:id":1796621443,
-    "wof:lastmodified":1668367807,
+    "wof:lastmodified":1668546126,
     "wof:name":"Eperara Siapidara",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-70.375396,-1.360296,-69.203225,0.147763",
     "geom:latitude":-0.524326,
     "geom:longitude":-69.767434,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-0.561518,
     "lbl:longitude":-69.837206,
     "mps:latitude":-0.561518,
     "mps:longitude":-69.837206,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E1741B",
     "nativeland:description":"https://native-land.ca/maps/territories/juhup-yuju-yuhupdeh/",
     "nativeland:id":33639,
@@ -22,18 +22,25 @@
     "nativeland:slug":"juhup-yuju-yuhupdeh",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33639
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"414ca52895514737e50d5917b69dcbe1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621523
+        }
+    ],
     "wof:id":1796621523,
-    "wof:lastmodified":1668367810,
+    "wof:lastmodified":1668546131,
     "wof:name":"Juhup-Yuju/Yuhupd\u00ebh",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"41.784952,59.595936,87.777532,73.925493",
     "geom:latitude":67.884419,
     "geom:longitude":68.807979,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":67.026222,
     "lbl:longitude":72.969213,
     "mps:latitude":67.026222,
     "mps:longitude":72.969213,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#41196A",
     "nativeland:description":"https://native-land.ca/maps/territories/neney-nenets-nenets/",
     "nativeland:id":33617,
@@ -22,18 +22,25 @@
     "nativeland:slug":"neney-nenets-nenets",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33617
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"8eda8bc3bc9de27b507c40b5733b7760",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":1796621557
+        }
+    ],
     "wof:id":1796621557,
-    "wof:lastmodified":1668367811,
+    "wof:lastmodified":1668546131,
     "wof:name":"N\u2019eney N\u2019enet\u2019s\u2019 (Nenets)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191581,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

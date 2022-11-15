@@ -8,13 +8,13 @@
     "geom:bbox":"134.923095,-33.961586,138.839721,-31.161109",
     "geom:latitude":-32.479432,
     "geom:longitude":136.831236,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-32.63884,
     "lbl:longitude":136.697715,
     "mps:latitude":-32.63884,
     "mps:longitude":136.697715,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E39EB5",
     "nativeland:description":"https://native-land.ca/maps/territories/banggarla/",
     "nativeland:id":35829,
@@ -22,18 +22,25 @@
     "nativeland:slug":"banggarla",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35829
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"411b4ef812c4b2ff73a335d227c2c7af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620411
+        }
+    ],
     "wof:id":1796620411,
-    "wof:lastmodified":1668367779,
+    "wof:lastmodified":1668546113,
     "wof:name":"Banggarla",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

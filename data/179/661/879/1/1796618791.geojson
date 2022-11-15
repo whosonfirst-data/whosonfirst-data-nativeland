@@ -8,13 +8,13 @@
     "geom:bbox":"-91.02556,15.285092,-90.790311,15.44344",
     "geom:latitude":15.367029,
     "geom:longitude":-90.90175,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":15.36548,
     "lbl:longitude":-90.90175,
     "mps:latitude":15.36548,
     "mps:longitude":-90.90175,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#F18006",
     "nativeland:description":"https://native-land.ca/maps/territories/uspantec/",
     "nativeland:id":36552,
@@ -22,18 +22,25 @@
     "nativeland:slug":"uspantec",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36552
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"056278aba552043a5628a28671bbe957",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618791
+        }
+    ],
     "wof:id":1796618791,
-    "wof:lastmodified":1668367741,
+    "wof:lastmodified":1668546094,
     "wof:name":"Uspanteko",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

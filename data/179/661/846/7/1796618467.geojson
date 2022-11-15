@@ -8,13 +8,13 @@
     "geom:bbox":"142.016238,-10.405984,142.537175,-10.045835",
     "geom:latitude":-10.235475,
     "geom:longitude":142.266158,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-10.240388,
     "lbl:longitude":142.27112,
     "mps:latitude":-10.240388,
     "mps:longitude":142.27112,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/territories/mualgal/",
     "nativeland:id":37566,
@@ -22,18 +22,25 @@
     "nativeland:slug":"mualgal",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":37566
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"4921ffd7886a4f609e2146f4c03df898",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618467
+        }
+    ],
     "wof:id":1796618467,
-    "wof:lastmodified":1668367733,
+    "wof:lastmodified":1668546093,
     "wof:name":"Mualgal",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

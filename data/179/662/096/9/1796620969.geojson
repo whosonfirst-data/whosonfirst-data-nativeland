@@ -8,13 +8,13 @@
     "geom:bbox":"-81.062375,26.257689,-80.832235,26.330644",
     "geom:latitude":26.290886,
     "geom:longitude":-80.942654,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":26.286779,
     "lbl:longitude":-80.942654,
     "mps:latitude":26.286779,
     "mps:longitude":-80.942654,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E664B7",
     "nativeland:description":"https://native-land.ca/maps/territories/seminole-tribe-of-florida-big-cypress-reservation/",
     "nativeland:id":33895,
@@ -22,18 +22,25 @@
     "nativeland:slug":"seminole-tribe-of-florida-big-cypress-reservation",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33895
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"469ecdf609c5048fb376b29f807cc1d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620969
+        }
+    ],
     "wof:id":1796620969,
-    "wof:lastmodified":1668367795,
+    "wof:lastmodified":1668546118,
     "wof:name":"Seminole Tribe of Florida (Big Cypress Reservation)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

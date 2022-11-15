@@ -8,13 +8,13 @@
     "geom:bbox":"143.684692,-36.619936,145.321655,-34.755153",
     "geom:latitude":-35.731865,
     "geom:longitude":144.499774,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-35.846179,
     "lbl:longitude":144.214546,
     "mps:latitude":-35.846179,
     "mps:longitude":144.214546,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#BFFA7B",
     "nativeland:description":"https://native-land.ca/maps/territories/baraba-baraba/",
     "nativeland:id":36239,
@@ -22,18 +22,25 @@
     "nativeland:slug":"baraba-baraba",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36239
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"7afcceb5296b68dc89abeb622f5c9ba3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619495
+        }
+    ],
     "wof:id":1796619495,
-    "wof:lastmodified":1668367757,
+    "wof:lastmodified":1668546086,
     "wof:name":"Baraba Baraba",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

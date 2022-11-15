@@ -8,13 +8,13 @@
     "geom:bbox":"129.457394,-15.52779,131.116333,-14.716447",
     "geom:latitude":-15.084063,
     "geom:longitude":130.347524,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-15.105392,
     "lbl:longitude":130.347524,
     "mps:latitude":-15.105392,
     "mps:longitude":130.347524,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#06BBB1",
     "nativeland:description":"https://native-land.ca/maps/territories/jaminjung/",
     "nativeland:id":35831,
@@ -22,18 +22,25 @@
     "nativeland:slug":"jaminjung",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35831
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5412990d9443c9f9ac3c3a0555e40935",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620405
+        }
+    ],
     "wof:id":1796620405,
-    "wof:lastmodified":1668367779,
+    "wof:lastmodified":1668546116,
     "wof:name":"Jaminjung",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

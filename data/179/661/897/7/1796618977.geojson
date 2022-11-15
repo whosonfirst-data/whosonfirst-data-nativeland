@@ -8,13 +8,13 @@
     "geom:bbox":"113.373413,-25.050769,115.323486,-23.714954",
     "geom:latitude":-24.397319,
     "geom:longitude":114.283412,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-24.344813,
     "lbl:longitude":114.301985,
     "mps:latitude":-24.344813,
     "mps:longitude":114.301985,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#1D4E0B",
     "nativeland:description":"https://native-land.ca/maps/territories/maya/",
     "nativeland:id":36469,
@@ -22,18 +22,25 @@
     "nativeland:slug":"maya",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36469
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"922b3033d6cc4655f68a7310278c7f8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618977
+        }
+    ],
     "wof:id":1796618977,
-    "wof:lastmodified":1668367745,
+    "wof:lastmodified":1668546100,
     "wof:name":"Maya",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-127.311203,52.328625,-119.223633,55.9492",
     "geom:latitude":53.789374,
     "geom:longitude":-123.464364,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":53.562112,
     "lbl:longitude":-123.463852,
     "mps:latitude":53.562112,
     "mps:longitude":-123.463852,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D57E6B",
     "nativeland:description":"https://native-land.ca/maps/territories/dakel-%E1%91%95%E1%97%B8%E1%92%A1/",
     "nativeland:id":36497,
@@ -22,18 +22,25 @@
     "nativeland:slug":"dakel-%e1%91%95%e1%97%b8%e1%92%a1",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36497
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"d43649a13878a6bf1f27bd955347a84f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618917
+        }
+    ],
     "wof:id":1796618917,
-    "wof:lastmodified":1668367744,
+    "wof:lastmodified":1668546098,
     "wof:name":"Dake\u0142 Keyoh (\u1455\u15f8\u14a1 \u15f2\u160f\u144b)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

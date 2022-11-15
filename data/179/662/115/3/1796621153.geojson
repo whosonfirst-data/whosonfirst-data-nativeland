@@ -8,13 +8,13 @@
     "geom:bbox":"-77.076108,35.364214,-76.353546,35.99632",
     "geom:latitude":35.689215,
     "geom:longitude":-76.699269,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":35.688943,
     "lbl:longitude":-76.706151,
     "mps:latitude":35.688943,
     "mps:longitude":-76.706151,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#9C4A46",
     "nativeland:description":"https://native-land.ca/maps/territories/secotan/",
     "nativeland:id":33809,
@@ -22,18 +22,25 @@
     "nativeland:slug":"secotan",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33809
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"26cf128d3f253f2124b7186b705bb62e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621153
+        }
+    ],
     "wof:id":1796621153,
-    "wof:lastmodified":1668367800,
+    "wof:lastmodified":1668546145,
     "wof:name":"Secotan",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

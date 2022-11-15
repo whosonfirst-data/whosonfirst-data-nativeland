@@ -8,13 +8,13 @@
     "geom:bbox":"-121.143694,33.788279,-118.111057,35.676761",
     "geom:latitude":34.684579,
     "geom:longitude":-119.684835,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":34.67148,
     "lbl:longitude":-119.684835,
     "mps:latitude":34.67148,
     "mps:longitude":-119.684835,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#99AEB5",
     "nativeland:description":"https://native-land.ca/maps/territories/chumash/",
     "nativeland:id":36620,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chumash",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36620
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"2b2d7d70c10f37ece19294bbda762ef4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618645
+        }
+    ],
     "wof:id":1796618645,
-    "wof:lastmodified":1668367738,
+    "wof:lastmodified":1668546100,
     "wof:name":"Chumash",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

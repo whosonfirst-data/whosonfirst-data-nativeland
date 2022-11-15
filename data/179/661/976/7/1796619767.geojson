@@ -8,13 +8,13 @@
     "geom:bbox":"135.736083,-16.878146,138.416748,-15.199386",
     "geom:latitude":-15.962939,
     "geom:longitude":137.066128,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-15.75314,
     "lbl:longitude":136.731045,
     "mps:latitude":-15.75314,
     "mps:longitude":136.731045,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#9D53B4",
     "nativeland:description":"https://native-land.ca/maps/territories/yanyuwa/",
     "nativeland:id":36116,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yanyuwa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36116
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"81e20e6478a587ab084ab33a1eea8bf6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619767
+        }
+    ],
     "wof:id":1796619767,
-    "wof:lastmodified":1668367764,
+    "wof:lastmodified":1668546086,
     "wof:name":"Yanyuwa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

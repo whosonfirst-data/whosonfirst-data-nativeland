@@ -8,13 +8,13 @@
     "geom:bbox":"176.070417,-38.018423,176.479484,-37.709923",
     "geom:latitude":-37.872995,
     "geom:longitude":176.282174,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-37.879066,
     "lbl:longitude":176.285273,
     "mps:latitude":-37.879066,
     "mps:longitude":176.285273,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#7ADB9F",
     "nativeland:description":"https://native-land.ca/maps/territories/tapuika/",
     "nativeland:id":34024,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tapuika",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34024
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b1f6b455c11a1c042403b6afb3a7ac86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620669
+        }
+    ],
     "wof:id":1796620669,
-    "wof:lastmodified":1668367786,
+    "wof:lastmodified":1668546141,
     "wof:name":"Tapuika",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

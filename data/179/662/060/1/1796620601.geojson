@@ -8,13 +8,13 @@
     "geom:bbox":"-67.364473,17.781337,-65.159745,18.587007",
     "geom:latitude":18.200763,
     "geom:longitude":-66.31697,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":18.187967,
     "lbl:longitude":-66.31697,
     "mps:latitude":18.187967,
     "mps:longitude":-66.31697,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#BE6326",
     "nativeland:description":"https://native-land.ca/maps/territories/boriken-taino/",
     "nativeland:id":34063,
@@ -22,18 +22,25 @@
     "nativeland:slug":"boriken-taino",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34063
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0481654f2a949d48f9151e1b34d67fac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620601
+        }
+    ],
     "wof:id":1796620601,
-    "wof:lastmodified":1668367784,
+    "wof:lastmodified":1668546145,
     "wof:name":"Borik\u00e9n Ta\u00edno",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

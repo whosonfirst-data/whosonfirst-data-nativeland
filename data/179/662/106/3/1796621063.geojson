@@ -8,13 +8,13 @@
     "geom:bbox":"-102.82475,42.383529,-99.814405,43.628508",
     "geom:latitude":43.014777,
     "geom:longitude":-101.398992,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":43.040532,
     "lbl:longitude":-101.398992,
     "mps:latitude":43.040532,
     "mps:longitude":-101.398992,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#350EC7",
     "nativeland:description":"https://native-land.ca/maps/territories/oohenumpa/",
     "nativeland:id":33844,
@@ -22,18 +22,25 @@
     "nativeland:slug":"oohenumpa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33844
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b956a42f095e83f7f33e0cde5393ec91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621063
+        }
+    ],
     "wof:id":1796621063,
-    "wof:lastmodified":1668367797,
+    "wof:lastmodified":1668546132,
     "wof:name":"Oohenumpa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

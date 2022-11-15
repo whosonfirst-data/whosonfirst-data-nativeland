@@ -8,13 +8,13 @@
     "geom:bbox":"-77.233882,36.998162,-76.705423,37.303962",
     "geom:latitude":37.127302,
     "geom:longitude":-76.980071,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":37.136087,
     "lbl:longitude":-77.011527,
     "mps:latitude":37.136087,
     "mps:longitude":-77.011527,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#8DE14B",
     "nativeland:description":"https://native-land.ca/maps/territories/quiyoughcohannock/",
     "nativeland:id":33832,
@@ -22,18 +22,25 @@
     "nativeland:slug":"quiyoughcohannock",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33832
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b8f1c3675c67fd723d3b9b60a5ae73e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621089
+        }
+    ],
     "wof:id":1796621089,
-    "wof:lastmodified":1668367798,
+    "wof:lastmodified":1668546132,
     "wof:name":"Quiyoughcohannock",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

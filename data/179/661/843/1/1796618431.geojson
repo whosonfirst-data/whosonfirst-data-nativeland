@@ -8,13 +8,13 @@
     "geom:bbox":"122.177584,10.82833,122.509625,11.568629",
     "geom:latitude":11.211003,
     "geom:longitude":122.350225,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":11.211498,
     "lbl:longitude":122.347062,
     "mps:latitude":11.211498,
     "mps:longitude":122.347062,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/territories/tumandok/",
     "nativeland:id":37931,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tumandok",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":37931
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"01205f1e101f01dc4c29d58d9cb13603",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":1796618431
+        }
+    ],
     "wof:id":1796618431,
-    "wof:lastmodified":1668367733,
+    "wof:lastmodified":1668546077,
     "wof:name":"Tumandok",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191569,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

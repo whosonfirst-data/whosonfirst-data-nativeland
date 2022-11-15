@@ -8,13 +8,13 @@
     "geom:bbox":"-85.230931,41.588416,-82.90414,42.438531",
     "geom:latitude":42.029428,
     "geom:longitude":-84.14138,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":42.020228,
     "lbl:longitude":-84.14138,
     "mps:latitude":42.020228,
     "mps:longitude":-84.14138,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#57E115",
     "nativeland:description":"https://native-land.ca/maps/territories/meskwahkiasahina-fox/",
     "nativeland:id":33781,
@@ -22,18 +22,25 @@
     "nativeland:slug":"meskwahki%c2%b7asa%c2%b7hina-fox",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33781
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"8f4e49ebb4b104d19dcfbb5422c615b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621207
+        }
+    ],
     "wof:id":1796621207,
-    "wof:lastmodified":1668367801,
+    "wof:lastmodified":1668546126,
     "wof:name":"Me\u0161kwahki\u00b7a\u0161a\u00b7hina (Fox)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

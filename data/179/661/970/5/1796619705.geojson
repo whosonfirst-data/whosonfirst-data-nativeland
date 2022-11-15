@@ -8,13 +8,13 @@
     "geom:bbox":"-93.154206,17.677733,-92.217867,18.644146",
     "geom:latitude":18.116935,
     "geom:longitude":-92.68533,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":18.141952,
     "lbl:longitude":-92.723229,
     "mps:latitude":18.141952,
     "mps:longitude":-92.723229,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#85CEF9",
     "nativeland:description":"https://native-land.ca/maps/territories/chontal-de-tabasco/",
     "nativeland:id":36146,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chontal-de-tabasco",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36146
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"438bb7ef05384f44dd5eb8a065431cc7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619705
+        }
+    ],
     "wof:id":1796619705,
-    "wof:lastmodified":1668367762,
+    "wof:lastmodified":1668546083,
     "wof:name":"Yoko T\u2019aan (Chontal)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

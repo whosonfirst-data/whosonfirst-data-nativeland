@@ -8,13 +8,13 @@
     "geom:bbox":"-72.154401,2.672547,-66.920943,7.326741",
     "geom:latitude":5.070172,
     "geom:longitude":-69.858784,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":4.576294,
     "lbl:longitude":-69.647034,
     "mps:latitude":4.576294,
     "mps:longitude":-69.647034,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#408878",
     "nativeland:description":"https://native-land.ca/maps/territories/sikuani-guajibo/",
     "nativeland:id":34113,
@@ -22,18 +22,25 @@
     "nativeland:slug":"sikuani-guajibo",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34113
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ed5bc2927083e57b8cc8674170f7959b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796620515
+        }
+    ],
     "wof:id":1796620515,
-    "wof:lastmodified":1668367782,
+    "wof:lastmodified":1668546144,
     "wof:name":"Guahibo/Hiwi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

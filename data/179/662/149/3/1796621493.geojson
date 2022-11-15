@@ -8,13 +8,13 @@
     "geom:bbox":"-73.439162,-3.282478,-72.445433,-2.398992",
     "geom:latitude":-2.820418,
     "geom:longitude":-72.980486,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-2.822733,
     "lbl:longitude":-72.988014,
     "mps:latitude":-2.822733,
     "mps:longitude":-72.988014,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#1A3243",
     "nativeland:description":"https://native-land.ca/maps/territories/maijuna/",
     "nativeland:id":33651,
@@ -22,18 +22,25 @@
     "nativeland:slug":"maijuna",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33651
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"cf2017056c00a39d18ed44b52a0977e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621493
+        }
+    ],
     "wof:id":1796621493,
-    "wof:lastmodified":1668367809,
+    "wof:lastmodified":1668546149,
     "wof:name":"Maijuna",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

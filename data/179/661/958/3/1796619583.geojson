@@ -8,13 +8,13 @@
     "geom:bbox":"115.19165,-22.87744,117.822876,-21.309846",
     "geom:latitude":-22.117566,
     "geom:longitude":116.694337,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-22.044983,
     "lbl:longitude":116.784038,
     "mps:latitude":-22.044983,
     "mps:longitude":116.784038,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C970F7",
     "nativeland:description":"https://native-land.ca/maps/territories/kurrama/",
     "nativeland:id":36198,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kurrama",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36198
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"97cf0747899ba3f18d5006d07194a56c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619583
+        }
+    ],
     "wof:id":1796619583,
-    "wof:lastmodified":1668367759,
+    "wof:lastmodified":1668546091,
     "wof:name":"Kurrama",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"151.684348,-29.61167,153.720703,-27.673798",
     "geom:latitude":-28.643292,
     "geom:longitude":152.762627,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-28.677098,
     "lbl:longitude":152.781978,
     "mps:latitude":-28.677098,
     "mps:longitude":152.781978,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0B6E5B",
     "nativeland:description":"https://native-land.ca/maps/territories/bundjalung/",
     "nativeland:id":36471,
@@ -22,18 +22,25 @@
     "nativeland:slug":"bundjalung",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36471
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"35a5db6b4e890a2784f0f4e4a136ddd1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618969
+        }
+    ],
     "wof:id":1796618969,
-    "wof:lastmodified":1668367745,
+    "wof:lastmodified":1668546097,
     "wof:name":"Bundjalung",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-126.674073,49.241717,-123.662749,52.069038",
     "geom:latitude":50.578551,
     "geom:longitude":-125.25247,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":50.212357,
     "lbl:longitude":-125.526382,
     "mps:latitude":50.212357,
     "mps:longitude":-125.526382,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#BD7D26",
     "nativeland:description":"https://native-land.ca/maps/territories/we-wai-kai/",
     "nativeland:id":33634,
@@ -22,18 +22,25 @@
     "nativeland:slug":"we-wai-kai",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33634
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e70d3eebd71c26414156af430b1b951c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621525
+        }
+    ],
     "wof:id":1796621525,
-    "wof:lastmodified":1668367810,
+    "wof:lastmodified":1668546132,
     "wof:name":"We Wai Kai",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

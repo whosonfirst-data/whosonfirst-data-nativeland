@@ -8,13 +8,13 @@
     "geom:bbox":"-77.066615,42.104696,-76.349862,43.349544",
     "geom:latitude":42.730358,
     "geom:longitude":-76.650343,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":42.73554,
     "lbl:longitude":-76.644914,
     "mps:latitude":42.73554,
     "mps:longitude":-76.644914,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4C930A",
     "nativeland:description":"https://native-land.ca/maps/territories/cayuga/",
     "nativeland:id":36677,
@@ -22,18 +22,25 @@
     "nativeland:slug":"cayuga",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36677
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"11350f69817da2d9409d2720e5ab6815",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618509
+        }
+    ],
     "wof:id":1796618509,
-    "wof:lastmodified":1668367734,
+    "wof:lastmodified":1668546080,
     "wof:name":"Od\u01ebhw\u0119ja:de\u02c0 (Cayuga)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-87.970553,9.482093,-84.754228,13.697545",
     "geom:latitude":11.969203,
     "geom:longitude":-86.034138,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":12.426082,
     "lbl:longitude":-86.058504,
     "mps:latitude":12.426082,
     "mps:longitude":-86.058504,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#A0278A",
     "nativeland:description":"https://native-land.ca/maps/territories/chorotega/",
     "nativeland:id":33734,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chorotega",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33734
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f1ee2c7ae30ada2692ed6d326e83eeea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621299
+        }
+    ],
     "wof:id":1796621299,
-    "wof:lastmodified":1668367803,
+    "wof:lastmodified":1668546124,
     "wof:name":"Chorotega",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

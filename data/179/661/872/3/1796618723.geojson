@@ -8,13 +8,13 @@
     "geom:bbox":"138.065185,-27.527758,140.405273,-26.194876",
     "geom:latitude":-26.823403,
     "geom:longitude":139.199793,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-26.850794,
     "lbl:longitude":139.199793,
     "mps:latitude":-26.850794,
     "mps:longitude":139.199793,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#A73BD3",
     "nativeland:description":"https://native-land.ca/maps/territories/ngamini/",
     "nativeland:id":36582,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngamini",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36582
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"71ed8efcdba8b03eeb987367ac59003c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618723
+        }
+    ],
     "wof:id":1796618723,
-    "wof:lastmodified":1668367740,
+    "wof:lastmodified":1668546076,
     "wof:name":"Ngamini",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

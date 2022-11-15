@@ -8,13 +8,13 @@
     "geom:bbox":"-75.773334,-6.120721,-63.948047,-1.970349",
     "geom:latitude":-3.666646,
     "geom:longitude":-69.631406,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-3.633837,
     "lbl:longitude":-69.541811,
     "mps:latitude":-3.633837,
     "mps:longitude":-69.541811,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#A4021F",
     "nativeland:description":"https://native-land.ca/maps/territories/inikana-kukama-kukamiria-kokama/",
     "nativeland:id":33656,
@@ -22,18 +22,25 @@
     "nativeland:slug":"inikana-kukama-kukamiria-kokama",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33656
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"dc1214c84105d2b1e3862cf5bface3a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621479
+        }
+    ],
     "wof:id":1796621479,
-    "wof:lastmodified":1668367808,
+    "wof:lastmodified":1668546148,
     "wof:name":"Inikana/Kukama Kukamiria/Kokama",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

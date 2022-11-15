@@ -8,13 +8,13 @@
     "geom:bbox":"133.01422,-12.993852,134.005737,-11.853911",
     "geom:latitude":-12.318657,
     "geom:longitude":133.516073,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-12.316733,
     "lbl:longitude":133.591188,
     "mps:latitude":-12.316733,
     "mps:longitude":133.591188,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#1A4E67",
     "nativeland:description":"https://native-land.ca/maps/territories/gunwinggu/",
     "nativeland:id":35897,
@@ -22,18 +22,25 @@
     "nativeland:slug":"gunwinggu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35897
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"af229cd8658f6e1f0438c2991c271660",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620259
+        }
+    ],
     "wof:id":1796620259,
-    "wof:lastmodified":1668367776,
+    "wof:lastmodified":1668546115,
     "wof:name":"Gunwinggu",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

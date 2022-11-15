@@ -8,13 +8,13 @@
     "geom:bbox":"-121.180439,47.571827,-120.037885,48.406026",
     "geom:latitude":47.950966,
     "geom:longitude":-120.590156,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":47.832369,
     "lbl:longitude":-120.494943,
     "mps:latitude":47.832369,
     "mps:longitude":-120.494943,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#CEE414",
     "nativeland:description":"https://native-land.ca/maps/territories/entiat/",
     "nativeland:id":34055,
@@ -22,18 +22,25 @@
     "nativeland:slug":"entiat",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34055
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"dea91133d0a14753caa51fddbfae5327",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620619
+        }
+    ],
     "wof:id":1796620619,
-    "wof:lastmodified":1668367785,
+    "wof:lastmodified":1668546141,
     "wof:name":"s\u030cntiya\u0301tk\u02b7\u0259x\u02b7 (Entiat)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"176.095899,-40.43387,177.115845,-39.387039",
     "geom:latitude":-39.865594,
     "geom:longitude":176.582267,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-39.850302,
     "lbl:longitude":176.582267,
     "mps:latitude":-39.850302,
     "mps:longitude":176.582267,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#06EF15",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-kahungunu-ki-heretaunga-tamatea/",
     "nativeland:id":33930,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-kahungunu-ki-heretaunga-tamatea",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33930
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"8ebfbf1bbd148d8fd6bd2f996600efc6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620889
+        }
+    ],
     "wof:id":1796620889,
-    "wof:lastmodified":1668367792,
+    "wof:lastmodified":1668546137,
     "wof:name":"Ng\u0101ti Kahungunu ki Heretaunga Tamatea",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

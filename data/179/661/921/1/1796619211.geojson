@@ -8,13 +8,13 @@
     "geom:bbox":"-76.263746,46.160176,-71.910086,49.587972",
     "geom:latitude":47.835689,
     "geom:longitude":-74.092632,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":47.882467,
     "lbl:longitude":-74.134095,
     "mps:latitude":47.882467,
     "mps:longitude":-74.134095,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E0EE15",
     "nativeland:description":"https://native-land.ca/maps/territories/atikamekw/",
     "nativeland:id":36362,
@@ -22,18 +22,25 @@
     "nativeland:slug":"atikamekw",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36362
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"8a0061c288fad0d8b596b5e368cbdaef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619211
+        }
+    ],
     "wof:id":1796619211,
-    "wof:lastmodified":1668367751,
+    "wof:lastmodified":1668546104,
     "wof:name":"Nitaskinan (Atikamekw / Nehirowisi Aski)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

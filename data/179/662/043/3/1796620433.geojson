@@ -8,13 +8,13 @@
     "geom:bbox":"-123.997192,49.225823,-122.65686,50.537872",
     "geom:latitude":49.865112,
     "geom:longitude":-123.260824,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":49.97069,
     "lbl:longitude":-123.103578,
     "mps:latitude":49.97069,
     "mps:longitude":-123.103578,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#29AB55",
     "nativeland:description":"https://native-land.ca/maps/territories/skwxwu7mesh-uxwumixw/",
     "nativeland:id":35816,
@@ -22,18 +22,25 @@
     "nativeland:slug":"skwxwu7mesh-uxwumixw",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35816
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f1621fb20b6c287d9900de279ec29202",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620433
+        }
+    ],
     "wof:id":1796620433,
-    "wof:lastmodified":1668367780,
+    "wof:lastmodified":1668546138,
     "wof:name":"Skwxw\u00fa7mesh-ulh Tem\u00edx\u0331w (Squamish)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

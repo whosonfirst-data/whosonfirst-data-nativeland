@@ -8,13 +8,13 @@
     "geom:bbox":"129.693603,-14.10994,130.227813,-13.604612",
     "geom:latitude":-13.864528,
     "geom:longitude":129.952623,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-13.843934,
     "lbl:longitude":129.952623,
     "mps:latitude":-13.843934,
     "mps:longitude":129.952623,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D48B76",
     "nativeland:description":"https://native-land.ca/maps/territories/marrithiyel/",
     "nativeland:id":36255,
@@ -22,18 +22,25 @@
     "nativeland:slug":"marrithiyel",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36255
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"347a53442e4391e1bdc77db2bccaec15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619455
+        }
+    ],
     "wof:id":1796619455,
-    "wof:lastmodified":1668367756,
+    "wof:lastmodified":1668546103,
     "wof:name":"Marrithiyel",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-125.345294,55.008732,-113.448074,58.976905",
     "geom:latitude":57.004432,
     "geom:longitude":-119.168987,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":56.711364,
     "lbl:longitude":-118.460819,
     "mps:latitude":56.711364,
     "mps:longitude":-118.460819,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#9FB33B",
     "nativeland:description":"https://native-land.ca/maps/territories/beaver/",
     "nativeland:id":36055,
@@ -22,18 +22,25 @@
     "nativeland:slug":"beaver",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36055
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a2aace2ebfba7db29387ed517d5a9d49",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619907
+        }
+    ],
     "wof:id":1796619907,
-    "wof:lastmodified":1668367767,
+    "wof:lastmodified":1668546073,
     "wof:name":"Beaver",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

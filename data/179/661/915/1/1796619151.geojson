@@ -8,13 +8,13 @@
     "geom:bbox":"-102.720218,36.943487,-96.591797,42.55308",
     "geom:latitude":39.880618,
     "geom:longitude":-99.753247,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":39.942049,
     "lbl:longitude":-99.694881,
     "mps:latitude":39.942049,
     "mps:longitude":-99.694881,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#2BF97D",
     "nativeland:description":"https://native-land.ca/maps/territories/pawnee/",
     "nativeland:id":36393,
@@ -22,18 +22,25 @@
     "nativeland:slug":"pawnee",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36393
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"10c7dffacfba55e2e898446b078e4911",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619151
+        }
+    ],
     "wof:id":1796619151,
-    "wof:lastmodified":1668367749,
+    "wof:lastmodified":1668546084,
     "wof:name":"P\u00e2ri (Pawnee)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

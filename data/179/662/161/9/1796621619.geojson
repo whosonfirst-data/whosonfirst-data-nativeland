@@ -8,13 +8,13 @@
     "geom:bbox":"-126.881224,48.157277,-125.282268,49.359878",
     "geom:latitude":48.798027,
     "geom:longitude":-126.094008,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":48.81828,
     "lbl:longitude":-126.106662,
     "mps:latitude":48.81828,
     "mps:longitude":-126.106662,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#81B2F3",
     "nativeland:description":"https://native-land.ca/maps/territories/%C6%9Ba%CA%94uuk%CA%B7i%CA%94ath-tla-o-qui-aht/",
     "nativeland:id":33568,
@@ -22,18 +22,25 @@
     "nativeland:slug":"%c6%9ba%ca%94uuk%ca%b7i%ca%94ath%cc%a3-tla-o-qui-aht",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33568
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e4f705fe1c9cb5ae25f9e4c5c4f426ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621619
+        }
+    ],
     "wof:id":1796621619,
-    "wof:lastmodified":1668367813,
+    "wof:lastmodified":1668546109,
     "wof:name":"\u019ba\u0294uuk\u02b7i\u0294ath\u0323 (Tla-o-qui-aht)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

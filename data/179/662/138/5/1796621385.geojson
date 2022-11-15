@@ -8,13 +8,13 @@
     "geom:bbox":"-67.569568,0.84879,-67.061929,2.814066",
     "geom:latitude":1.864932,
     "geom:longitude":-67.258027,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":2.62309,
     "lbl:longitude":-67.233009,
     "mps:latitude":2.62309,
     "mps:longitude":-67.233009,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#9EDE0E",
     "nativeland:description":"https://native-land.ca/maps/territories/warekena/",
     "nativeland:id":33698,
@@ -22,18 +22,25 @@
     "nativeland:slug":"warekena",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33698
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"579587c4057bbd2ab19879ebac0d3e3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621385
+        }
+    ],
     "wof:id":1796621385,
-    "wof:lastmodified":1668367806,
+    "wof:lastmodified":1668546131,
     "wof:name":"Warekena",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

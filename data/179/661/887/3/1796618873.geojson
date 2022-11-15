@@ -8,13 +8,13 @@
     "geom:bbox":"-76.720245,41.969842,-75.564071,44.425743",
     "geom:latitude":43.23851,
     "geom:longitude":-76.155693,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":43.29503,
     "lbl:longitude":-76.309002,
     "mps:latitude":43.29503,
     "mps:longitude":-76.309002,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0B6B7D",
     "nativeland:description":"https://native-land.ca/maps/territories/onondaga/",
     "nativeland:id":36519,
@@ -22,18 +22,25 @@
     "nativeland:slug":"onondaga",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36519
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"7a6a54028797594f409f9e682ea73368",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618873
+        }
+    ],
     "wof:id":1796618873,
-    "wof:lastmodified":1668367743,
+    "wof:lastmodified":1668546076,
     "wof:name":"Onundagaonoga (Onondaga)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

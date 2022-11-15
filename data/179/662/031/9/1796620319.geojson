@@ -8,13 +8,13 @@
     "geom:bbox":"130.223693,-13.915406,131.355285,-13.378931",
     "geom:latitude":-13.671052,
     "geom:longitude":130.711112,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-13.669432,
     "lbl:longitude":130.530596,
     "mps:latitude":-13.669432,
     "mps:longitude":130.530596,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#717379",
     "nativeland:description":"https://native-land.ca/maps/territories/malak-malak/",
     "nativeland:id":35869,
@@ -22,18 +22,25 @@
     "nativeland:slug":"malak-malak",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35869
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"482f828f7a52b47af39e7d4054cd6807",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620319
+        }
+    ],
     "wof:id":1796620319,
-    "wof:lastmodified":1668367777,
+    "wof:lastmodified":1668546120,
     "wof:name":"Malak malak",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

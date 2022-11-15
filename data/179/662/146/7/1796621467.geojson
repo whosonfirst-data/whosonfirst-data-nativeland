@@ -8,13 +8,13 @@
     "geom:bbox":"-72.716025,-4.014347,-70.03511,-1.612541",
     "geom:latitude":-2.819882,
     "geom:longitude":-71.435092,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-2.614822,
     "lbl:longitude":-71.409559,
     "mps:latitude":-2.614822,
     "mps:longitude":-71.409559,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D192BF",
     "nativeland:description":"https://native-land.ca/maps/territories/dyoxaiya-o-ivotsa-okaina/",
     "nativeland:id":33665,
@@ -22,18 +22,25 @@
     "nativeland:slug":"dyoxaiya-o-ivotsa-okaina",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33665
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"450d279f7ebbd1cca6603440c36fe460",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621467
+        }
+    ],
     "wof:id":1796621467,
-    "wof:lastmodified":1668367808,
+    "wof:lastmodified":1668546147,
     "wof:name":"Dyo&#8217;xaiya-o-Ivo&#8217;tsa (Okaina)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"116.191406,-21.427503,117.092285,-20.401272",
     "geom:latitude":-20.973575,
     "geom:longitude":116.64311,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-21.006947,
     "lbl:longitude":116.606646,
     "mps:latitude":-21.006947,
     "mps:longitude":116.606646,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#A9CB26",
     "nativeland:description":"https://native-land.ca/maps/territories/martuthunira/",
     "nativeland:id":36421,
@@ -22,18 +22,25 @@
     "nativeland:slug":"martuthunira",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36421
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1757c467fcaceaa7602fab831d142e15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619091
+        }
+    ],
     "wof:id":1796619091,
-    "wof:lastmodified":1668367748,
+    "wof:lastmodified":1668546068,
     "wof:name":"Martuthunira",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

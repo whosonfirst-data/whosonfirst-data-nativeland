@@ -8,13 +8,13 @@
     "geom:bbox":"-114.490587,29.59496,-109.395572,33.928789",
     "geom:latitude":31.698965,
     "geom:longitude":-111.745694,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":31.313939,
     "lbl:longitude":-111.539422,
     "mps:latitude":31.313939,
     "mps:longitude":-111.539422,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4F508D",
     "nativeland:description":"https://native-land.ca/maps/territories/tohono-oodham/",
     "nativeland:id":36387,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tohono-oodham",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36387
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5c80118d1e1d387b74036aae364d448a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619161
+        }
+    ],
     "wof:id":1796619161,
-    "wof:lastmodified":1668367749,
+    "wof:lastmodified":1668546100,
     "wof:name":"O&#8217;odham Jewe\u1e0d",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"174.522938,-37.382279,174.993018,-37.025561",
     "geom:latitude":-37.194254,
     "geom:longitude":174.732794,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-37.22027,
     "lbl:longitude":174.732794,
     "mps:latitude":-37.22027,
     "mps:longitude":174.732794,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6EE1D8",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-te-ata/",
     "nativeland:id":33563,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-te-ata",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33563
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b777635214b9094e57adda1da4a1f467",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796621631
+        }
+    ],
     "wof:id":1796621631,
-    "wof:lastmodified":1668367813,
+    "wof:lastmodified":1668546131,
     "wof:name":"Ng\u0101ti Te Ata",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"130.3363,-14.838611,132.000732,-13.402978",
     "geom:latitude":-14.25309,
     "geom:longitude":131.314802,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-14.203235,
     "lbl:longitude":131.396762,
     "mps:latitude":-14.203235,
     "mps:longitude":131.396762,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#869668",
     "nativeland:description":"https://native-land.ca/maps/territories/wagiman/",
     "nativeland:id":36462,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wagiman",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36462
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e43c4e8f5446979b9e085b2a0b051cc6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618989
+        }
+    ],
     "wof:id":1796618989,
-    "wof:lastmodified":1668367746,
+    "wof:lastmodified":1668546098,
     "wof:name":"Wagiman",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

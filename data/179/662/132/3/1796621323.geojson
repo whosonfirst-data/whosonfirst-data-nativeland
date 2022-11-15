@@ -8,13 +8,13 @@
     "geom:bbox":"-84.17505,8.940864,-82.927959,9.500791",
     "geom:latitude":9.223766,
     "geom:longitude":-83.527442,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":9.213035,
     "lbl:longitude":-83.539319,
     "mps:latitude":9.213035,
     "mps:longitude":-83.539319,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#76B636",
     "nativeland:description":"https://native-land.ca/maps/territories/brunka/",
     "nativeland:id":33723,
@@ -22,18 +22,25 @@
     "nativeland:slug":"brunka",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33723
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0d18a7af3579b38108ba6383c44b4084",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621323
+        }
+    ],
     "wof:id":1796621323,
-    "wof:lastmodified":1668367804,
+    "wof:lastmodified":1668546107,
     "wof:name":"Brunka",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

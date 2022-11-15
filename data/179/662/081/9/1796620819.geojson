@@ -8,13 +8,13 @@
     "geom:bbox":"176.764814,-39.158479,177.343836,-38.827865",
     "geom:latitude":-39.015,
     "geom:longitude":177.032761,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-39.048141,
     "lbl:longitude":177.061273,
     "mps:latitude":-39.048141,
     "mps:longitude":177.061273,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0CD61F",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-pahauwera/",
     "nativeland:id":33957,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-pahauwera",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33957
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"809c01cd297526b75f5f4a97e0d97ba3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620819
+        }
+    ],
     "wof:id":1796620819,
-    "wof:lastmodified":1668367790,
+    "wof:lastmodified":1668546136,
     "wof:name":"Ng\u0101ti P\u0101hauwera",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

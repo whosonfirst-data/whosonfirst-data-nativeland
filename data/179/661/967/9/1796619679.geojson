@@ -8,13 +8,13 @@
     "geom:bbox":"-94.89546,36.82023,-94.720403,36.879702",
     "geom:latitude":36.854866,
     "geom:longitude":-94.791809,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":36.849973,
     "lbl:longitude":-94.784724,
     "mps:latitude":36.849973,
     "mps:longitude":-94.784724,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4A788B",
     "nativeland:description":"https://native-land.ca/maps/territories/ottawa-oklahoma/",
     "nativeland:id":36153,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ottawa-oklahoma",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36153
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"48e13905f23c6bc5967ef7cecfb87c3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619679
+        }
+    ],
     "wof:id":1796619679,
-    "wof:lastmodified":1668367762,
+    "wof:lastmodified":1668546091,
     "wof:name":"Ottawa (Oklahoma)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

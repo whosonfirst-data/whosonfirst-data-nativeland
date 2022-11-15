@@ -8,13 +8,13 @@
     "geom:bbox":"176.623671,-39.436963,177.13732,-39.004774",
     "geom:latitude":-39.208668,
     "geom:longitude":176.87915,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-39.208257,
     "lbl:longitude":176.883041,
     "mps:latitude":-39.208257,
     "mps:longitude":176.883041,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#65E036",
     "nativeland:description":"https://native-land.ca/maps/territories/maungaharuru-tangitu-hapu/",
     "nativeland:id":34030,
@@ -22,18 +22,25 @@
     "nativeland:slug":"maungaharuru-tangitu-hapu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34030
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"85d2a9381cc59b95096046244a52ede5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620667
+        }
+    ],
     "wof:id":1796620667,
-    "wof:lastmodified":1668367786,
+    "wof:lastmodified":1668546141,
     "wof:name":"Maungaharuru Tangit\u016b Hap\u016b",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

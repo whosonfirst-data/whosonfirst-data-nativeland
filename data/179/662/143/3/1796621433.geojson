@@ -8,13 +8,13 @@
     "geom:bbox":"-77.10402,4.009902,-73.86334,8.848613",
     "geom:latitude":6.535197,
     "geom:longitude":-75.608147,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":6.534766,
     "lbl:longitude":-75.362641,
     "mps:latitude":6.534766,
     "mps:longitude":-75.362641,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#73EED2",
     "nativeland:description":"https://native-land.ca/maps/territories/embera-chami/",
     "nativeland:id":33676,
@@ -22,18 +22,25 @@
     "nativeland:slug":"embera-chami",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33676
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"d74fd1c9acc72a0b792b276f2848c30e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621433
+        }
+    ],
     "wof:id":1796621433,
-    "wof:lastmodified":1668367807,
+    "wof:lastmodified":1668546126,
     "wof:name":"Ember\u00e1 Cham\u00ed",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

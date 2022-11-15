@@ -8,13 +8,13 @@
     "geom:bbox":"145.541381,-30.202113,146.936645,-29.606894",
     "geom:latitude":-29.85345,
     "geom:longitude":146.208068,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-29.81619,
     "lbl:longitude":146.160502,
     "mps:latitude":-29.81619,
     "mps:longitude":146.160502,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3FEA67",
     "nativeland:description":"https://native-land.ca/maps/territories/barranbinya/",
     "nativeland:id":36383,
@@ -22,18 +22,25 @@
     "nativeland:slug":"barranbinya",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36383
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e393693f01500bddda70b01604974868",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619165
+        }
+    ],
     "wof:id":1796619165,
-    "wof:lastmodified":1668367750,
+    "wof:lastmodified":1668546101,
     "wof:name":"Barranbinya",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

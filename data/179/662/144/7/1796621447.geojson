@@ -8,13 +8,13 @@
     "geom:bbox":"-77.605134,0.925587,-76.471412,1.619749",
     "geom:latitude":1.25164,
     "geom:longitude":-77.068617,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":1.146289,
     "lbl:longitude":-76.823836,
     "mps:latitude":1.146289,
     "mps:longitude":-76.823836,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#62A45B",
     "nativeland:description":"https://native-land.ca/maps/territories/inga/",
     "nativeland:id":33669,
@@ -22,18 +22,25 @@
     "nativeland:slug":"inga",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33669
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"27c2029a0fb38922ecb051a9715378f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621447
+        }
+    ],
     "wof:id":1796621447,
-    "wof:lastmodified":1668367808,
+    "wof:lastmodified":1668546126,
     "wof:name":"Inga",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

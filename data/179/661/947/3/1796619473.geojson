@@ -8,13 +8,13 @@
     "geom:bbox":"-125.295435,47.881499,-121.387179,50.122444",
     "geom:latitude":48.896786,
     "geom:longitude":-123.569726,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":49.064434,
     "lbl:longitude":-123.437877,
     "mps:latitude":49.064434,
     "mps:longitude":-123.437877,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#21FCAB",
     "nativeland:description":"https://native-land.ca/maps/territories/hulquminum-treaty-group/",
     "nativeland:id":36247,
@@ -22,18 +22,25 @@
     "nativeland:slug":"hulquminum-treaty-group",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36247
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a5d7eb18dace45f2766ccc66dd25397a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619473
+        }
+    ],
     "wof:id":1796619473,
-    "wof:lastmodified":1668367757,
+    "wof:lastmodified":1668546085,
     "wof:name":"Hul&#8217;qumi&#8217;num Treaty Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

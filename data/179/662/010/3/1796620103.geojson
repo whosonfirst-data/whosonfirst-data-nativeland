@@ -8,13 +8,13 @@
     "geom:bbox":"114.543457,-30.368136,116.669312,-28.41556",
     "geom:latitude":-29.439801,
     "geom:longitude":115.556289,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-29.48081,
     "lbl:longitude":115.556289,
     "mps:latitude":-29.48081,
     "mps:longitude":115.556289,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#CA2E07",
     "nativeland:description":"https://native-land.ca/maps/territories/amangu/",
     "nativeland:id":35966,
@@ -22,18 +22,25 @@
     "nativeland:slug":"amangu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35966
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"fcc9d92b52268f78908733fb3216978a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620103
+        }
+    ],
     "wof:id":1796620103,
-    "wof:lastmodified":1668367772,
+    "wof:lastmodified":1668546138,
     "wof:name":"Amangu",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

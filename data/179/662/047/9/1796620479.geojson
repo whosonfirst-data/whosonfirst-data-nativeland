@@ -8,13 +8,13 @@
     "geom:bbox":"-66.482873,-0.244306,-61.324394,6.014547",
     "geom:latitude":2.745922,
     "geom:longitude":-64.028072,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":2.667551,
     "lbl:longitude":-63.773993,
     "mps:latitude":2.667551,
     "mps:longitude":-63.773993,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E0DC31",
     "nativeland:description":"https://native-land.ca/maps/territories/yanomami/",
     "nativeland:id":34124,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yanomami",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34124
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f31a9cef3a4216acb36ebf406071105c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796620479
+        }
+    ],
     "wof:id":1796620479,
-    "wof:lastmodified":1668367781,
+    "wof:lastmodified":1668546117,
     "wof:name":"Yanomami",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-128.081032,63.730747,-116.850737,67.461298",
     "geom:latitude":65.872932,
     "geom:longitude":-122.155964,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":65.605975,
     "lbl:longitude":-121.701405,
     "mps:latitude":65.605975,
     "mps:longitude":-121.701405,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#14C00A",
     "nativeland:description":"https://native-land.ca/maps/territories/sahtu-gotine/",
     "nativeland:id":33626,
@@ -22,18 +22,25 @@
     "nativeland:slug":"sahtu-gotine",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33626
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"03fc1a6fba6ef6be51b0503138c8e5e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621547
+        }
+    ],
     "wof:id":1796621547,
-    "wof:lastmodified":1668367810,
+    "wof:lastmodified":1668546128,
     "wof:name":"Saht\u00fa Got\u2019ine",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

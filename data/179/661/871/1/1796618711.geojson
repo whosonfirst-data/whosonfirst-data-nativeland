@@ -8,13 +8,13 @@
     "geom:bbox":"-107.764408,26.770731,-103.777507,30.936105",
     "geom:latitude":28.820958,
     "geom:longitude":-105.816407,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":28.605938,
     "lbl:longitude":-105.453962,
     "mps:latitude":28.605938,
     "mps:longitude":-105.453962,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#EE8D4C",
     "nativeland:description":"https://native-land.ca/maps/territories/conchos/",
     "nativeland:id":36588,
@@ -22,18 +22,25 @@
     "nativeland:slug":"conchos",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36588
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"8e07b7176d5cee00131dc62899ccd6ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618711
+        }
+    ],
     "wof:id":1796618711,
-    "wof:lastmodified":1668367739,
+    "wof:lastmodified":1668546096,
     "wof:name":"Yoli (Concho)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

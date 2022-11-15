@@ -8,13 +8,13 @@
     "geom:bbox":"127.628173,-15.586001,128.303833,-14.615478",
     "geom:latitude":-15.121452,
     "geom:longitude":127.943585,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-15.162044,
     "lbl:longitude":127.915432,
     "mps:latitude":-15.162044,
     "mps:longitude":127.915432,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#731319",
     "nativeland:description":"https://native-land.ca/maps/territories/yiiji/",
     "nativeland:id":36524,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yiiji",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36524
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"6fa659f617e209ecd7dae6a2e130eb77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618857
+        }
+    ],
     "wof:id":1796618857,
-    "wof:lastmodified":1668367742,
+    "wof:lastmodified":1668546096,
     "wof:name":"Yiiji",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

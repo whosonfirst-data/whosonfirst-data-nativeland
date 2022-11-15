@@ -8,13 +8,13 @@
     "geom:bbox":"141.992766,-10.423006,142.558843,-9.880382",
     "geom:latitude":-10.169903,
     "geom:longitude":142.232994,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-10.154898,
     "lbl:longitude":142.227603,
     "mps:latitude":-10.154898,
     "mps:longitude":142.227603,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/territories/maluligal/",
     "nativeland:id":37672,
@@ -22,18 +22,25 @@
     "nativeland:slug":"maluligal",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":37672
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"8f5c38d40894e35e180b32cfe1b47c6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618459
+        }
+    ],
     "wof:id":1796618459,
-    "wof:lastmodified":1668367733,
+    "wof:lastmodified":1668546075,
     "wof:name":"Maluligal",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

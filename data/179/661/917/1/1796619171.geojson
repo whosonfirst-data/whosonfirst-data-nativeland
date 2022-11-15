@@ -8,13 +8,13 @@
     "geom:bbox":"-169.208674,63.838952,-133.630872,71.688906",
     "geom:latitude":68.266855,
     "geom:longitude":-156.241498,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":67.45982,
     "lbl:longitude":-161.901636,
     "mps:latitude":67.45982,
     "mps:longitude":-161.901636,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3CF952",
     "nativeland:description":"https://native-land.ca/maps/territories/inupiatun/",
     "nativeland:id":36381,
@@ -22,18 +22,25 @@
     "nativeland:slug":"inupiatun",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36381
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"80b87fde8336f7428ec6ebf5a9e0b669",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619171
+        }
+    ],
     "wof:id":1796619171,
-    "wof:lastmodified":1668367750,
+    "wof:lastmodified":1668546104,
     "wof:name":"Inupiat",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"175.082362,-38.868612,176.569126,-37.724985",
     "geom:latitude":-38.359958,
     "geom:longitude":175.781031,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-38.326471,
     "lbl:longitude":175.706693,
     "mps:latitude":-38.326471,
     "mps:longitude":175.706693,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#513C2B",
     "nativeland:description":"https://native-land.ca/maps/territories/raukawa/",
     "nativeland:id":33953,
@@ -22,18 +22,25 @@
     "nativeland:slug":"raukawa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33953
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ce49f51740d36fa2ac5933c49655f22e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620829
+        }
+    ],
     "wof:id":1796620829,
-    "wof:lastmodified":1668367791,
+    "wof:lastmodified":1668546116,
     "wof:name":"Raukawa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

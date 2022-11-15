@@ -8,13 +8,13 @@
     "geom:bbox":"-76.440185,37.766463,-76.212494,37.951943",
     "geom:latitude":37.862854,
     "geom:longitude":-76.328886,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":37.863248,
     "lbl:longitude":-76.328886,
     "mps:latitude":37.863248,
     "mps:longitude":-76.328886,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C3F0D2",
     "nativeland:description":"https://native-land.ca/maps/territories/wicocomico/",
     "nativeland:id":33862,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wicocomico",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33862
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f10f8c5307ae7735cdec6962c546caf6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621041
+        }
+    ],
     "wof:id":1796621041,
-    "wof:lastmodified":1668367797,
+    "wof:lastmodified":1668546107,
     "wof:name":"Wicocomico",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

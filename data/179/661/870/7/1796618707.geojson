@@ -8,13 +8,13 @@
     "geom:bbox":"-127.328083,48.828566,-124.568481,50.166343",
     "geom:latitude":49.498768,
     "geom:longitude":-126.073979,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":49.490657,
     "lbl:longitude":-126.095335,
     "mps:latitude":49.490657,
     "mps:longitude":-126.095335,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#61F21D",
     "nativeland:description":"https://native-land.ca/maps/territories/nuu-chah-nulth-tribal-council/",
     "nativeland:id":36593,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nuu-chah-nulth-tribal-council",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36593
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"8b4fc59bc164373473a4b2d1d6632194",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618707
+        }
+    ],
     "wof:id":1796618707,
-    "wof:lastmodified":1668367739,
+    "wof:lastmodified":1668546094,
     "wof:name":"nuu\u010daan\u0313uu\u026b\u0241at\u1e25 nism\u0313a (Nuu-chah-nulth)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

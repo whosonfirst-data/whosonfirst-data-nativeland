@@ -8,13 +8,13 @@
     "geom:bbox":"-105.732893,36.337507,-105.322944,36.552054",
     "geom:latitude":36.460687,
     "geom:longitude":-105.510962,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":36.461499,
     "lbl:longitude":-105.525078,
     "mps:latitude":36.461499,
     "mps:longitude":-105.525078,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#14FD88",
     "nativeland:description":"https://native-land.ca/maps/territories/taos-pueblo/",
     "nativeland:id":33524,
@@ -22,18 +22,25 @@
     "nativeland:slug":"taos-pueblo",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33524
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3e05b6702d6d2c301279fc0178cbfb74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621683
+        }
+    ],
     "wof:id":1796621683,
-    "wof:lastmodified":1668367814,
+    "wof:lastmodified":1668546107,
     "wof:name":"Taos Pueblo",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-123.458113,48.662527,-123.44404,48.666227",
     "geom:latitude":48.664521,
     "geom:longitude":-123.449663,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":48.664351,
     "lbl:longitude":-123.449663,
     "mps:latitude":48.664351,
     "mps:longitude":-123.449663,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#44A6A2",
     "nativeland:description":"https://native-land.ca/maps/territories/wsl%E1%B8%B5em-tseycum/",
     "nativeland:id":33523,
@@ -22,18 +22,25 @@
     "nativeland:slug":"w%cc%b1sl%e1%b8%b5em-tseycum",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33523
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c8619049a9ced0d3e9d495d4d9a9233c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621681
+        }
+    ],
     "wof:id":1796621681,
-    "wof:lastmodified":1668367814,
+    "wof:lastmodified":1668546107,
     "wof:name":"W\u0331S\u013a\u1e34EM (Tseycum)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

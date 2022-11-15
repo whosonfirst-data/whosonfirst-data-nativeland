@@ -8,13 +8,13 @@
     "geom:bbox":"-123.579251,43.961608,-122.925609,44.489675",
     "geom:latitude":44.188753,
     "geom:longitude":-123.307066,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":44.205244,
     "lbl:longitude":-123.334301,
     "mps:latitude":44.205244,
     "mps:longitude":-123.334301,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#41A4AA",
     "nativeland:description":"https://native-land.ca/maps/territories/long-tom/",
     "nativeland:id":33793,
@@ -22,18 +22,25 @@
     "nativeland:slug":"long-tom",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33793
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a2c9b231c4ab38150b27644f0dbc5099",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621181
+        }
+    ],
     "wof:id":1796621181,
-    "wof:lastmodified":1668367800,
+    "wof:lastmodified":1668546125,
     "wof:name":"Chelamela",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

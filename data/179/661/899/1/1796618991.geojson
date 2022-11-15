@@ -8,13 +8,13 @@
     "geom:bbox":"-111.886243,34.212188,-105.295477,39.206934",
     "geom:latitude":36.710381,
     "geom:longitude":-108.720255,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":37.171652,
     "lbl:longitude":-108.670126,
     "mps:latitude":37.171652,
     "mps:longitude":-108.670126,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E0A548",
     "nativeland:description":"https://native-land.ca/maps/territories/navajo/",
     "nativeland:id":36463,
@@ -22,18 +22,25 @@
     "nativeland:slug":"navajo",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36463
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5e67163c81ef4bd3f055bc65edc59177",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618991
+        }
+    ],
     "wof:id":1796618991,
-    "wof:lastmodified":1668367746,
+    "wof:lastmodified":1668546099,
     "wof:name":"Din\u00e9 Bik\u00e9yah",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

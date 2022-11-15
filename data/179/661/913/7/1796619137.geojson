@@ -8,13 +8,13 @@
     "geom:bbox":"151.292724,-33.234091,151.960144,-32.720287",
     "geom:latitude":-32.984732,
     "geom:longitude":151.579462,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-32.98652,
     "lbl:longitude":151.574406,
     "mps:latitude":-32.98652,
     "mps:longitude":151.574406,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B54C23",
     "nativeland:description":"https://native-land.ca/maps/territories/awabakal/",
     "nativeland:id":36394,
@@ -22,18 +22,25 @@
     "nativeland:slug":"awabakal",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36394
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f1b0f0dca858b05c32b1185614fcbe64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619137
+        }
+    ],
     "wof:id":1796619137,
-    "wof:lastmodified":1668367749,
+    "wof:lastmodified":1668546087,
     "wof:name":"Awabakal",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

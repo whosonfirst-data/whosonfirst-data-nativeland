@@ -8,13 +8,13 @@
     "geom:bbox":"-83.737793,28.506765,-80.939872,31.968221",
     "geom:latitude":30.314648,
     "geom:longitude":-82.287929,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":30.334805,
     "lbl:longitude":-82.314576,
     "mps:latitude":30.334805,
     "mps:longitude":-82.314576,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#CA2172",
     "nativeland:description":"https://native-land.ca/maps/territories/timucua/",
     "nativeland:id":36562,
@@ -22,18 +22,25 @@
     "nativeland:slug":"timucua",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36562
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"97fe619da0cb77ce7a862a8242f019f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618773
+        }
+    ],
     "wof:id":1796618773,
-    "wof:lastmodified":1668367741,
+    "wof:lastmodified":1668546095,
     "wof:name":"Timucua",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

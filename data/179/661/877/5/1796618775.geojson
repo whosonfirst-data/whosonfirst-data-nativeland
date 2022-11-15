@@ -8,13 +8,13 @@
     "geom:bbox":"-85.763044,11.614259,-83.110056,15.990818",
     "geom:latitude":14.20496,
     "geom:longitude":-84.114224,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":14.833529,
     "lbl:longitude":-84.093929,
     "mps:latitude":14.833529,
     "mps:longitude":-84.093929,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#5D4487",
     "nativeland:description":"https://native-land.ca/maps/territories/miskito/",
     "nativeland:id":36557,
@@ -22,18 +22,25 @@
     "nativeland:slug":"miskito",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36557
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"cd4458c5db406adb8da5353901b124e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618775
+        }
+    ],
     "wof:id":1796618775,
-    "wof:lastmodified":1668367741,
+    "wof:lastmodified":1668546095,
     "wof:name":"Miskito",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

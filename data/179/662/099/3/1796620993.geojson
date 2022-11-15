@@ -8,13 +8,13 @@
     "geom:bbox":"146.033642,-42.767641,147.391746,-41.64867",
     "geom:latitude":-42.210641,
     "geom:longitude":146.815487,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-42.1643,
     "lbl:longitude":146.861786,
     "mps:latitude":-42.1643,
     "mps:longitude":146.861786,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#50EA6C",
     "nativeland:description":"https://native-land.ca/maps/territories/lairmairrener/",
     "nativeland:id":33882,
@@ -22,18 +22,25 @@
     "nativeland:slug":"lairmairrener",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33882
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"84ec2b6b4c404225e2c3544b2ab623ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620993
+        }
+    ],
     "wof:id":1796620993,
-    "wof:lastmodified":1668367795,
+    "wof:lastmodified":1668546120,
     "wof:name":"Lairmairrener",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

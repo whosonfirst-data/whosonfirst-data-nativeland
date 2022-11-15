@@ -8,13 +8,13 @@
     "geom:bbox":"145.130358,-43.600823,146.380822,-42.181033",
     "geom:latitude":-42.895201,
     "geom:longitude":145.671873,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-42.797265,
     "lbl:longitude":145.558195,
     "mps:latitude":-42.797265,
     "mps:longitude":145.558195,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#29D75D",
     "nativeland:description":"https://native-land.ca/maps/territories/toogee/",
     "nativeland:id":33887,
@@ -22,18 +22,25 @@
     "nativeland:slug":"toogee",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33887
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"55f6eb2a5690fcf54d94831819e2995c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620975
+        }
+    ],
     "wof:id":1796620975,
-    "wof:lastmodified":1668367795,
+    "wof:lastmodified":1668546121,
     "wof:name":"Toogee",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

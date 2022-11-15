@@ -8,13 +8,13 @@
     "geom:bbox":"176.35948,-38.160734,176.433421,-38.037419",
     "geom:latitude":-38.103412,
     "geom:longitude":176.397547,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-38.133224,
     "lbl:longitude":176.387744,
     "mps:latitude":-38.133224,
     "mps:longitude":176.387744,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#A3147D",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-rongomai/",
     "nativeland:id":34014,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-rongomai",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34014
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b9d4953282035a83ed10b7160b306cd4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620701
+        }
+    ],
     "wof:id":1796620701,
-    "wof:lastmodified":1668367787,
+    "wof:lastmodified":1668546114,
     "wof:name":"Ng\u0101ti Rongomai",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

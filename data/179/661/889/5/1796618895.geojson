@@ -8,13 +8,13 @@
     "geom:bbox":"-104.704118,33.750619,-96.734497,38.999947",
     "geom:latitude":36.309105,
     "geom:longitude":-100.601093,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":36.503043,
     "lbl:longitude":-99.804002,
     "mps:latitude":36.503043,
     "mps:longitude":-99.804002,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D56E44",
     "nativeland:description":"https://native-land.ca/maps/territories/kiowa/",
     "nativeland:id":36506,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kiowa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36506
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"36874fa95d2192f3238f9dd35de7e452",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618895
+        }
+    ],
     "wof:id":1796618895,
-    "wof:lastmodified":1668367743,
+    "wof:lastmodified":1668546075,
     "wof:name":"G\u00e1uig\u00fa (Kiowa)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

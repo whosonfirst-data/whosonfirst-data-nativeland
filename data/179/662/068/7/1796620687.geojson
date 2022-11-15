@@ -8,13 +8,13 @@
     "geom:bbox":"175.927004,-38.286616,176.247449,-38.086761",
     "geom:latitude":-38.1799,
     "geom:longitude":176.092734,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-38.183902,
     "lbl:longitude":176.095161,
     "mps:latitude":-38.183902,
     "mps:longitude":176.095161,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3CCE3C",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-kea-ngati-tuara/",
     "nativeland:id":34016,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-kea-ngati-tuara",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34016
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0d40b5f5867fb2b8233336e2b60b5bc7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620687
+        }
+    ],
     "wof:id":1796620687,
-    "wof:lastmodified":1668367787,
+    "wof:lastmodified":1668546142,
     "wof:name":"Ng\u0101ti Kea / Ng\u0101ti Tuar\u0101",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

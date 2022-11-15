@@ -8,13 +8,13 @@
     "geom:bbox":"175.252733,-40.150906,176.827514,-38.229228",
     "geom:latitude":-38.838344,
     "geom:longitude":175.996995,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-38.773804,
     "lbl:longitude":175.948894,
     "mps:latitude":-38.773804,
     "mps:longitude":175.948894,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0EE874",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-tuwharetoa/",
     "nativeland:id":33928,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-tuwharetoa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33928
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5822a07aa87b882d27f870fbb0b16177",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620895
+        }
+    ],
     "wof:id":1796620895,
-    "wof:lastmodified":1668367793,
+    "wof:lastmodified":1668546133,
     "wof:name":"Ng\u0101ti T\u016bwharetoa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

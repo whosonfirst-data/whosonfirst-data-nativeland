@@ -8,13 +8,13 @@
     "geom:bbox":"134.329833,-13.939398,135.373535,-13.058074",
     "geom:latitude":-13.498482,
     "geom:longitude":134.824511,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-13.478716,
     "lbl:longitude":134.834451,
     "mps:latitude":-13.478716,
     "mps:longitude":134.834451,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C75DB3",
     "nativeland:description":"https://native-land.ca/maps/territories/ngalkbun/",
     "nativeland:id":36320,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngalkbun",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36320
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"eefb2424687574d9500bad2b759ae55f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619315
+        }
+    ],
     "wof:id":1796619315,
-    "wof:lastmodified":1668367753,
+    "wof:lastmodified":1668546069,
     "wof:name":"Ngalkbun",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

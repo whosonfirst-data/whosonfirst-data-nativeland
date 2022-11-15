@@ -8,13 +8,13 @@
     "geom:bbox":"146.44226,-21.876792,147.886962,-20.499064",
     "geom:latitude":-21.257333,
     "geom:longitude":147.092375,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-21.298885,
     "lbl:longitude":147.078615,
     "mps:latitude":-21.298885,
     "mps:longitude":147.078615,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6B2EFD",
     "nativeland:description":"https://native-land.ca/maps/territories/yangga/",
     "nativeland:id":35842,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yangga",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35842
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"6375ebb6d9e5db218c6014ea38ef34eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620379
+        }
+    ],
     "wof:id":1796620379,
-    "wof:lastmodified":1668367779,
+    "wof:lastmodified":1668546122,
     "wof:name":"Yangga",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

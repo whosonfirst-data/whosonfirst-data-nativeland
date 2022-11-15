@@ -8,13 +8,13 @@
     "geom:bbox":"-122.027695,47.378894,-121.058981,47.858903",
     "geom:latitude":47.6313,
     "geom:longitude":-121.565462,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":47.597579,
     "lbl:longitude":-121.565484,
     "mps:latitude":47.597579,
     "mps:longitude":-121.565484,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#881E81",
     "nativeland:description":"https://native-land.ca/maps/territories/sduk%CA%B7albix%CA%B7-snoqualmie/",
     "nativeland:id":34072,
@@ -22,18 +22,25 @@
     "nativeland:slug":"sduk%ca%b7albix%ca%b7-snoqualmie",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34072
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"d2a28ad98d9c203a9f26127d8b123b65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620589
+        }
+    ],
     "wof:id":1796620589,
-    "wof:lastmodified":1668367784,
+    "wof:lastmodified":1668546144,
     "wof:name":"sduk\u02b7albix\u02b7 (Snoqualmie)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

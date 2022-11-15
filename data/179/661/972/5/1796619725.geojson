@@ -8,13 +8,13 @@
     "geom:bbox":"123.502807,-17.439751,124.508056,-16.815057",
     "geom:latitude":-17.117148,
     "geom:longitude":124.088022,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-17.103254,
     "lbl:longitude":124.088022,
     "mps:latitude":-17.103254,
     "mps:longitude":124.088022,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#DCC709",
     "nativeland:description":"https://native-land.ca/maps/territories/warwa/",
     "nativeland:id":36137,
@@ -22,18 +22,25 @@
     "nativeland:slug":"warwa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36137
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b0d37fa12042a3fc3cf7627f7287a4e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619725
+        }
+    ],
     "wof:id":1796619725,
-    "wof:lastmodified":1668367763,
+    "wof:lastmodified":1668546106,
     "wof:name":"Warwa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

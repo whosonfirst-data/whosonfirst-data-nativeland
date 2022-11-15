@@ -8,13 +8,13 @@
     "geom:bbox":"-74.564209,41.43449,-72.740479,44.190082",
     "geom:latitude":42.646239,
     "geom:longitude":-73.543823,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":42.599834,
     "lbl:longitude":-73.633628,
     "mps:latitude":42.599834,
     "mps:longitude":-73.633628,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#2B7C27",
     "nativeland:description":"https://native-land.ca/maps/territories/mohican/",
     "nativeland:id":36091,
@@ -22,18 +22,25 @@
     "nativeland:slug":"mohican",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36091
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"14bf7513206511dd08fff6a599683875",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619827
+        }
+    ],
     "wof:id":1796619827,
-    "wof:lastmodified":1668367765,
+    "wof:lastmodified":1668546086,
     "wof:name":"Mohican",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

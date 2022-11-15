@@ -8,13 +8,13 @@
     "geom:bbox":"-128.083424,53.2983,-125.193381,55.313903",
     "geom:latitude":54.210905,
     "geom:longitude":-126.838822,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":54.153086,
     "lbl:longitude":-126.981155,
     "mps:latitude":54.153086,
     "mps:longitude":-126.981155,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6695AB",
     "nativeland:description":"https://native-land.ca/maps/territories/wetsuweten/",
     "nativeland:id":36103,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wetsuweten",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36103
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e26f8d91b48b397e3286aadab1a30ccf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619791
+        }
+    ],
     "wof:id":1796619791,
-    "wof:lastmodified":1668367764,
+    "wof:lastmodified":1668546083,
     "wof:name":"Wet&#8217;suwet&#8217;en Yintikh",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

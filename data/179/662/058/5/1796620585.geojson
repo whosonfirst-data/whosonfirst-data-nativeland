@@ -8,13 +8,13 @@
     "geom:bbox":"143.411207,-44.038879,148.877951,-39.552378",
     "geom:latitude":-41.752184,
     "geom:longitude":146.277475,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-42.174519,
     "lbl:longitude":146.498747,
     "mps:latitude":-42.174519,
     "mps:longitude":146.498747,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#A1245D",
     "nativeland:description":"https://native-land.ca/maps/territories/palawa/",
     "nativeland:id":34077,
@@ -22,18 +22,25 @@
     "nativeland:slug":"palawa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34077
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"d1a52eb3ea0237592c225f4b4a70444e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620585
+        }
+    ],
     "wof:id":1796620585,
-    "wof:lastmodified":1668367784,
+    "wof:lastmodified":1668546145,
     "wof:name":"Palawa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

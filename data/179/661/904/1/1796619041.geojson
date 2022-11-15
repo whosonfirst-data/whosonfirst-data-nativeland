@@ -8,13 +8,13 @@
     "geom:bbox":"140.811767,-18.041421,143.129882,-16.515099",
     "geom:latitude":-17.311976,
     "geom:longitude":141.924028,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-17.317297,
     "lbl:longitude":141.906466,
     "mps:latitude":-17.317297,
     "mps:longitude":141.906466,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4D1772",
     "nativeland:description":"https://native-land.ca/maps/territories/kurtjar/",
     "nativeland:id":36439,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kurtjar",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36439
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0d9ecacb989b867d0c088c7b9bd45248",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619041
+        }
+    ],
     "wof:id":1796619041,
-    "wof:lastmodified":1668367747,
+    "wof:lastmodified":1668546090,
     "wof:name":"Kurtjar",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

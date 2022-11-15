@@ -8,13 +8,13 @@
     "geom:bbox":"-92.952869,16.02297,-89.080851,19.016821",
     "geom:latitude":17.379793,
     "geom:longitude":-91.191549,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":17.288818,
     "lbl:longitude":-91.865201,
     "mps:latitude":17.288818,
     "mps:longitude":-91.865201,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#65BDE1",
     "nativeland:description":"https://native-land.ca/maps/territories/chol/",
     "nativeland:id":36323,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chol",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36323
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"faa6b68f9fce1743a78673f02bf0b578",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619299
+        }
+    ],
     "wof:id":1796619299,
-    "wof:lastmodified":1668367753,
+    "wof:lastmodified":1668546101,
     "wof:name":"Wi\u00f1iko\u00f1lojo\u00f1b\u00e4 /Xk&#8217;uk&#8217;witsob/Ajlumob (Ch&#8217;ol)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

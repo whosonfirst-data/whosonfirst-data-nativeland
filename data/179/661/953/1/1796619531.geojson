@@ -8,13 +8,13 @@
     "geom:bbox":"-94.877586,36.879702,-94.618214,36.920361",
     "geom:latitude":36.899571,
     "geom:longitude":-94.749409,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":36.898651,
     "lbl:longitude":-94.749409,
     "mps:latitude":36.898651,
     "mps:longitude":-94.749409,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#1BECAD",
     "nativeland:description":"https://native-land.ca/maps/territories/peoria-oklahoma/",
     "nativeland:id":36224,
@@ -22,18 +22,25 @@
     "nativeland:slug":"peoria-oklahoma",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36224
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3ae1fb1704fce95fff6dd25b0b1d5d36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619531
+        }
+    ],
     "wof:id":1796619531,
-    "wof:lastmodified":1668367758,
+    "wof:lastmodified":1668546070,
     "wof:name":"Peoria (Oklahoma)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

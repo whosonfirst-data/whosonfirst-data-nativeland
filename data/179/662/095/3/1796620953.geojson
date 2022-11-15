@@ -8,13 +8,13 @@
     "geom:bbox":"-81.130651,26.987339,-80.969209,27.162107",
     "geom:latitude":27.080672,
     "geom:longitude":-81.066807,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":27.083266,
     "lbl:longitude":-81.06803,
     "mps:latitude":27.083266,
     "mps:longitude":-81.06803,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6CB411",
     "nativeland:description":"https://native-land.ca/maps/territories/seminole-tribe-of-florida-brighton-reservation/",
     "nativeland:id":33897,
@@ -22,18 +22,25 @@
     "nativeland:slug":"seminole-tribe-of-florida-brighton-reservation",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33897
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3076723cb180aa68963e4855463a1970",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620953
+        }
+    ],
     "wof:id":1796620953,
-    "wof:lastmodified":1668367794,
+    "wof:lastmodified":1668546140,
     "wof:name":"Seminole Tribe of Florida (Brighton Reservation)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

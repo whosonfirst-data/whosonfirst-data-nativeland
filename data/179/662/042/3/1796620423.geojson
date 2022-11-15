@@ -8,13 +8,13 @@
     "geom:bbox":"-111.576971,33.855411,-107.463752,35.686409",
     "geom:latitude":34.8202,
     "geom:longitude":-109.273813,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":34.730604,
     "lbl:longitude":-108.7285,
     "mps:latitude":34.730604,
     "mps:longitude":-108.7285,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#702A5B",
     "nativeland:description":"https://native-land.ca/maps/territories/zuni/",
     "nativeland:id":35827,
@@ -22,18 +22,25 @@
     "nativeland:slug":"zuni",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35827
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"9c4d716007407b464e8bf6609ef8b90e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620423
+        }
+    ],
     "wof:id":1796620423,
-    "wof:lastmodified":1668367780,
+    "wof:lastmodified":1668546133,
     "wof:name":"Shiwinna (Zuni)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

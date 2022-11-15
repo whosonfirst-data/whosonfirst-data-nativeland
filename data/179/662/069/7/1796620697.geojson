@@ -8,13 +8,13 @@
     "geom:bbox":"176.088341,-38.630583,176.882341,-37.736795",
     "geom:latitude":-38.230227,
     "geom:longitude":176.50895,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-38.318142,
     "lbl:longitude":176.536018,
     "mps:latitude":-38.318142,
     "mps:longitude":176.536018,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0BAC7E",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-rangitihi/",
     "nativeland:id":34012,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-rangitihi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34012
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"8abb2f2ffc76b30e176bf10b925b8024",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620697
+        }
+    ],
     "wof:id":1796620697,
-    "wof:lastmodified":1668367787,
+    "wof:lastmodified":1668546143,
     "wof:name":"Ng\u0101ti Rangitihi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

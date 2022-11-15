@@ -8,13 +8,13 @@
     "geom:bbox":"140.976562,-37.775056,143.442993,-36.217687",
     "geom:latitude":-36.993746,
     "geom:longitude":142.073431,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-37.035939,
     "lbl:longitude":142.092116,
     "mps:latitude":-37.035939,
     "mps:longitude":142.092116,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#787105",
     "nativeland:description":"https://native-land.ca/maps/territories/jardwadjali/",
     "nativeland:id":36503,
@@ -22,18 +22,25 @@
     "nativeland:slug":"jardwadjali",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36503
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5bb2d140be65f02cadc1b040c8d379ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618901
+        }
+    ],
     "wof:id":1796618901,
-    "wof:lastmodified":1668367744,
+    "wof:lastmodified":1668546099,
     "wof:name":"Jardwadjali",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

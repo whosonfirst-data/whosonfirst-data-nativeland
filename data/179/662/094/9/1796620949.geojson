@@ -8,13 +8,13 @@
     "geom:bbox":"-92.16065,30.406492,-91.990128,30.614372",
     "geom:latitude":30.516093,
     "geom:longitude":-92.073324,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":30.519122,
     "lbl:longitude":-92.074948,
     "mps:latitude":30.519122,
     "mps:longitude":-92.074948,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#F865E7",
     "nativeland:description":"https://native-land.ca/maps/territories/opelousas/",
     "nativeland:id":33901,
@@ -22,18 +22,25 @@
     "nativeland:slug":"opelousas",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33901
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"67354f335c6398b84664c6922573cfb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620949
+        }
+    ],
     "wof:id":1796620949,
-    "wof:lastmodified":1668367794,
+    "wof:lastmodified":1668546145,
     "wof:name":"Opelousas",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

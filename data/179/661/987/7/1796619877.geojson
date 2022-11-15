@@ -8,13 +8,13 @@
     "geom:bbox":"-72.349091,40.903134,-71.836853,41.102121",
     "geom:latitude":41.001982,
     "geom:longitude":-72.127515,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":40.993237,
     "lbl:longitude":-72.152739,
     "mps:latitude":40.993237,
     "mps:longitude":-72.152739,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#59ECDD",
     "nativeland:description":"https://native-land.ca/maps/territories/montauk/",
     "nativeland:id":36066,
@@ -22,18 +22,25 @@
     "nativeland:slug":"montauk",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36066
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"cbc9406a1012be6a61cce336d769b68c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619877
+        }
+    ],
     "wof:id":1796619877,
-    "wof:lastmodified":1668367766,
+    "wof:lastmodified":1668546102,
     "wof:name":"Montaukett",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

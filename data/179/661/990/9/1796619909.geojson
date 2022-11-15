@@ -8,13 +8,13 @@
     "geom:bbox":"132.967529,-29.046565,135.318603,-26.007424",
     "geom:latitude":-27.469245,
     "geom:longitude":134.080351,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-27.434231,
     "lbl:longitude":134.102742,
     "mps:latitude":-27.434231,
     "mps:longitude":134.102742,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D6F49A",
     "nativeland:description":"https://native-land.ca/maps/territories/antakarinja/",
     "nativeland:id":36050,
@@ -22,18 +22,25 @@
     "nativeland:slug":"antakarinja",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36050
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e60a12cbc85734a2295724448cc8662a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619909
+        }
+    ],
     "wof:id":1796619909,
-    "wof:lastmodified":1668367767,
+    "wof:lastmodified":1668546073,
     "wof:name":"Antakarinja",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

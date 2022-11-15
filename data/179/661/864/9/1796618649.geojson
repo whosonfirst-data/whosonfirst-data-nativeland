@@ -8,13 +8,13 @@
     "geom:bbox":"-156.640799,59.002594,-147.878578,63.407701",
     "geom:latitude":61.128926,
     "geom:longitude":-152.094629,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":61.065999,
     "lbl:longitude":-151.739968,
     "mps:latitude":61.065999,
     "mps:longitude":-151.739968,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#39EC6C",
     "nativeland:description":"https://native-land.ca/maps/territories/denaina/",
     "nativeland:id":36617,
@@ -22,18 +22,25 @@
     "nativeland:slug":"denaina",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36617
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c1ff19bd9aecce6cea9377e1d8bab42a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618649
+        }
+    ],
     "wof:id":1796618649,
-    "wof:lastmodified":1668367738,
+    "wof:lastmodified":1668546099,
     "wof:name":"Dena&#8217;ina E\u0142nena",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

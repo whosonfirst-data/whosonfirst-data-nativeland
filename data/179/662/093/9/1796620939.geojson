@@ -8,13 +8,13 @@
     "geom:bbox":"-78.503314,17.583271,-76.061048,18.610813",
     "geom:latitude":18.087232,
     "geom:longitude":-77.327731,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":18.075072,
     "lbl:longitude":-77.327731,
     "mps:latitude":18.075072,
     "mps:longitude":-77.327731,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4C1EF7",
     "nativeland:description":"https://native-land.ca/maps/territories/yamayeka-yamaye/",
     "nativeland:id":33903,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yamayeka-yamaye",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33903
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"fa4cba376ba880a2aeefc083a53ff9ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620939
+        }
+    ],
     "wof:id":1796620939,
-    "wof:lastmodified":1668367794,
+    "wof:lastmodified":1668546144,
     "wof:name":"Yamayeka (Yamaye)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

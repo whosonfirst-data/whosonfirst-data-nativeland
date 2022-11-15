@@ -8,13 +8,13 @@
     "geom:bbox":"-124.090894,44.494838,-123.579174,44.772353",
     "geom:latitude":44.619249,
     "geom:longitude":-123.853878,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":44.599222,
     "lbl:longitude":-123.849004,
     "mps:latitude":44.599222,
     "mps:longitude":-123.849004,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6A21E2",
     "nativeland:description":"https://native-land.ca/maps/territories/yakina/",
     "nativeland:id":33904,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yakina",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33904
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"2347c9bc2caa910d15e360f1cf98eb54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620943
+        }
+    ],
     "wof:id":1796620943,
-    "wof:lastmodified":1668367794,
+    "wof:lastmodified":1668546145,
     "wof:name":"Yakina",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

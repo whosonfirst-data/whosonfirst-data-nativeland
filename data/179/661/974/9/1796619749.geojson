@@ -8,13 +8,13 @@
     "geom:bbox":"-118.806152,35.514343,-117.949219,36.75649",
     "geom:latitude":36.120676,
     "geom:longitude":-118.338824,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":35.969533,
     "lbl:longitude":-118.296627,
     "mps:latitude":35.969533,
     "mps:longitude":-118.296627,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#096D9C",
     "nativeland:description":"https://native-land.ca/maps/territories/tubatulabal/",
     "nativeland:id":36126,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tubatulabal",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36126
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"4ad4519d73cbf9a966abc90b55e5f5b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619749
+        }
+    ],
     "wof:id":1796619749,
-    "wof:lastmodified":1668367763,
+    "wof:lastmodified":1668546102,
     "wof:name":"T\u00fcbatulabal",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

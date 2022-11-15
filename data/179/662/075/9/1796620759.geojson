@@ -8,13 +8,13 @@
     "geom:bbox":"173.882759,-39.59869,174.30426,-39.23456",
     "geom:latitude":-39.444439,
     "geom:longitude":174.129531,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-39.454674,
     "lbl:longitude":174.133546,
     "mps:latitude":-39.454674,
     "mps:longitude":174.133546,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#2B06FA",
     "nativeland:description":"https://native-land.ca/maps/territories/ngaruahine/",
     "nativeland:id":33983,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngaruahine",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33983
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3aa5ea5fbd858b1e5c594f14ec1f77e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620759
+        }
+    ],
     "wof:id":1796620759,
-    "wof:lastmodified":1668367789,
+    "wof:lastmodified":1668546136,
     "wof:name":"Ng\u0101ruahine",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

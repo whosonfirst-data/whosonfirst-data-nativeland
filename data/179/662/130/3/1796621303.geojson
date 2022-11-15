@@ -8,13 +8,13 @@
     "geom:bbox":"-85.843993,13.755493,-84.05013,15.230328",
     "geom:latitude":14.616191,
     "geom:longitude":-84.977479,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":14.79119,
     "lbl:longitude":-85.065813,
     "mps:latitude":14.79119,
     "mps:longitude":-85.065813,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0BDF21",
     "nativeland:description":"https://native-land.ca/maps/territories/tawahka/",
     "nativeland:id":33735,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tawahka",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33735
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"75136a6430cc20c16f15e22b90b618b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621303
+        }
+    ],
     "wof:id":1796621303,
-    "wof:lastmodified":1668367803,
+    "wof:lastmodified":1668546133,
     "wof:name":"Tawahka",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

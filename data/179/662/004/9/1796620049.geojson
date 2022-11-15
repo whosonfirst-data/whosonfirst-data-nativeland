@@ -8,13 +8,13 @@
     "geom:bbox":"139.040222,-16.87289,139.792785,-16.346495",
     "geom:latitude":-16.581048,
     "geom:longitude":139.378524,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-16.562292,
     "lbl:longitude":139.371357,
     "mps:latitude":-16.562292,
     "mps:longitude":139.371357,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E40CBC",
     "nativeland:description":"https://native-land.ca/maps/territories/lardil/",
     "nativeland:id":35992,
@@ -22,18 +22,25 @@
     "nativeland:slug":"lardil",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35992
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0bc40c285487dd8ae3b74eb5031f7b82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620049
+        }
+    ],
     "wof:id":1796620049,
-    "wof:lastmodified":1668367771,
+    "wof:lastmodified":1668546140,
     "wof:name":"Lardil",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

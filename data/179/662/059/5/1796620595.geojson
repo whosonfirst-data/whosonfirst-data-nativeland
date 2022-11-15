@@ -8,13 +8,13 @@
     "geom:bbox":"-122.538493,48.585834,-121.470002,49.055587",
     "geom:latitude":48.847421,
     "geom:longitude":-122.060616,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":48.81744,
     "lbl:longitude":-121.997016,
     "mps:latitude":48.81744,
     "mps:longitude":-121.997016,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#004C40",
     "nativeland:description":"https://native-land.ca/maps/territories/nuxwsa7aq-nooksack/",
     "nativeland:id":34066,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nuxwsa7aq-nooksack",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34066
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e89104fe8298f31465bb3188fd905a4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620595
+        }
+    ],
     "wof:id":1796620595,
-    "wof:lastmodified":1668367784,
+    "wof:lastmodified":1668546141,
     "wof:name":"Nuxwsa&#8217;7aq (Nooksack)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-124.094619,46.222599,-123.687313,46.432826",
     "geom:latitude":46.323808,
     "geom:longitude":-123.904379,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":46.330046,
     "lbl:longitude":-123.904385,
     "mps:latitude":46.330046,
     "mps:longitude":-123.904385,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#26BA07",
     "nativeland:description":"https://native-land.ca/maps/territories/lower-chinook-2/",
     "nativeland:id":33910,
@@ -22,18 +22,25 @@
     "nativeland:slug":"lower-chinook-2",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33910
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"951299dc2e8f25c7c156ff89c11dd5f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620933
+        }
+    ],
     "wof:id":1796620933,
-    "wof:lastmodified":1668367794,
+    "wof:lastmodified":1668546144,
     "wof:name":"Lower Chinook",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

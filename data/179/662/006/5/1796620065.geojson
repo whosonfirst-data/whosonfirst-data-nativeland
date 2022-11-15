@@ -8,13 +8,13 @@
     "geom:bbox":"-97.06463,36.16126,-96.000687,36.999212",
     "geom:latitude":36.62926,
     "geom:longitude":-96.397356,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":36.644069,
     "lbl:longitude":-96.334026,
     "mps:latitude":36.644069,
     "mps:longitude":-96.334026,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#32EC3F",
     "nativeland:description":"https://native-land.ca/maps/territories/osage-oklahoma/",
     "nativeland:id":35983,
@@ -22,18 +22,25 @@
     "nativeland:slug":"osage-oklahoma",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35983
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"2b544c23f5721baa2ec41aa841057372",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620065
+        }
+    ],
     "wof:id":1796620065,
-    "wof:lastmodified":1668367771,
+    "wof:lastmodified":1668546123,
     "wof:name":"Osage (Oklahoma)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"146.107177,-31.933516,149.326171,-29.926374",
     "geom:latitude":-30.911131,
     "geom:longitude":147.900551,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-30.985424,
     "lbl:longitude":147.869894,
     "mps:latitude":-30.985424,
     "mps:longitude":147.869894,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B6BCC4",
     "nativeland:description":"https://native-land.ca/maps/territories/wailwan/",
     "nativeland:id":35839,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wailwan",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35839
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"6d6c23ebca50ad3c5751214b25f30e0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620391
+        }
+    ],
     "wof:id":1796620391,
-    "wof:lastmodified":1668367779,
+    "wof:lastmodified":1668546123,
     "wof:name":"Wailwan",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

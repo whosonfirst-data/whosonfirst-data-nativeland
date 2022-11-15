@@ -8,13 +8,13 @@
     "geom:bbox":"143.553575,12.765457,146.99169,20.680056",
     "geom:latitude":16.612274,
     "geom:longitude":145.231973,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":16.539147,
     "lbl:longitude":145.264717,
     "mps:latitude":16.539147,
     "mps:longitude":145.264717,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D80BA9",
     "nativeland:description":"https://native-land.ca/maps/territories/chamorro/",
     "nativeland:id":34119,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chamorro",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34119
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c1a23841f1b1f0353ce749efbd43a4e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":1796620497
+        }
+    ],
     "wof:id":1796620497,
-    "wof:lastmodified":1668367782,
+    "wof:lastmodified":1668546116,
     "wof:name":"Chamorro/Chamoru",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191569,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

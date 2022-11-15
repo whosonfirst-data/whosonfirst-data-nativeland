@@ -8,13 +8,13 @@
     "geom:bbox":"133.945312,-23.241346,137.065429,-20.715015",
     "geom:latitude":-22.179465,
     "geom:longitude":135.664472,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-22.179114,
     "lbl:longitude":135.790762,
     "mps:latitude":-22.179114,
     "mps:longitude":135.790762,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#1B3A9A",
     "nativeland:description":"https://native-land.ca/maps/territories/alyawarre/",
     "nativeland:id":36532,
@@ -22,18 +22,25 @@
     "nativeland:slug":"alyawarre",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36532
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"24eec8b7ab536622141aa3adcc49b856",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618833
+        }
+    ],
     "wof:id":1796618833,
-    "wof:lastmodified":1668367742,
+    "wof:lastmodified":1668546095,
     "wof:name":"Alyawarre",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

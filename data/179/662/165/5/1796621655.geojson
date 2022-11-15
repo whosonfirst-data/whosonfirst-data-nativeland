@@ -8,13 +8,13 @@
     "geom:bbox":"138.51528,39.960876,159.703411,52.046698",
     "geom:latitude":46.265462,
     "geom:longitude":148.302062,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":45.622027,
     "lbl:longitude":145.814062,
     "mps:latitude":45.622027,
     "mps:longitude":145.814062,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0ED313",
     "nativeland:description":"https://native-land.ca/maps/territories/ainu/",
     "nativeland:id":33541,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ainu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33541
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b08f386de9edb4fd8f44d6f53a69d8d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":1796621655
+        }
+    ],
     "wof:id":1796621655,
-    "wof:lastmodified":1668367814,
+    "wof:lastmodified":1668546129,
     "wof:name":"Ainumoshir (Ainu)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191569,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

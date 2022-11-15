@@ -8,13 +8,13 @@
     "geom:bbox":"-99.684666,24.520062,-97.088407,26.153964",
     "geom:latitude":25.347583,
     "geom:longitude":-98.365255,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":25.243796,
     "lbl:longitude":-98.340528,
     "mps:latitude":25.243796,
     "mps:longitude":-98.340528,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4B172C",
     "nativeland:description":"https://native-land.ca/maps/territories/rayados-borrados/",
     "nativeland:id":33756,
@@ -22,18 +22,25 @@
     "nativeland:slug":"rayados-borrados",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33756
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"7268363d4ca885826b25481b44988cad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621253
+        }
+    ],
     "wof:id":1796621253,
-    "wof:lastmodified":1668367802,
+    "wof:lastmodified":1668546147,
     "wof:name":"Rayados (Borrados)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"173.518473,-35.18451,173.977629,-34.906413",
     "geom:latitude":-35.048835,
     "geom:longitude":173.750278,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-35.060008,
     "lbl:longitude":173.745906,
     "mps:latitude":-35.060008,
     "mps:longitude":173.745906,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#788FEE",
     "nativeland:description":"https://native-land.ca/maps/territories/ngapuhi-ngati-kahu-ki-whaingaroa/",
     "nativeland:id":34009,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngapuhi-ngati-kahu-ki-whaingaroa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34009
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1ce4c0e5b11d06443f34453479f8777c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620705
+        }
+    ],
     "wof:id":1796620705,
-    "wof:lastmodified":1668367787,
+    "wof:lastmodified":1668546114,
     "wof:name":"Ng\u0101puhi / Ng\u0101ti Kahu ki Whaingaroa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"140.218505,-22.553147,141.053466,-21.647217",
     "geom:latitude":-22.09768,
     "geom:longitude":140.660392,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-22.092507,
     "lbl:longitude":140.660392,
     "mps:latitude":-22.092507,
     "mps:longitude":140.660392,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#BD71FF",
     "nativeland:description":"https://native-land.ca/maps/territories/yanda/",
     "nativeland:id":36345,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yanda",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36345
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"4d27141f38f9e8e47f41691f6114141f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619259
+        }
+    ],
     "wof:id":1796619259,
-    "wof:lastmodified":1668367752,
+    "wof:lastmodified":1668546087,
     "wof:name":"Yanda",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

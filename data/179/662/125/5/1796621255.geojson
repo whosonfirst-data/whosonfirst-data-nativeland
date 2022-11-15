@@ -8,13 +8,13 @@
     "geom:bbox":"-104.708768,27.803671,-101.854217,30.007517",
     "geom:latitude":28.875481,
     "geom:longitude":-103.213382,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":28.842156,
     "lbl:longitude":-103.09784,
     "mps:latitude":28.842156,
     "mps:longitude":-103.09784,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#501FE4",
     "nativeland:description":"https://native-land.ca/maps/territories/chiso/",
     "nativeland:id":33757,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chiso",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33757
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3eca291857deac7d5124f9fc5f9ebae2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621255
+        }
+    ],
     "wof:id":1796621255,
-    "wof:lastmodified":1668367802,
+    "wof:lastmodified":1668546147,
     "wof:name":"Chiso",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

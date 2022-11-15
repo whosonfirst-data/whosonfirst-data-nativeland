@@ -8,13 +8,13 @@
     "geom:bbox":"-124.549255,48.259427,-122.426147,49.29468",
     "geom:latitude":48.73537,
     "geom:longitude":-123.338255,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":48.637366,
     "lbl:longitude":-123.442878,
     "mps:latitude":48.637366,
     "mps:longitude":-123.442878,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#44F56A",
     "nativeland:description":"https://native-land.ca/maps/territories/wsanec/",
     "nativeland:id":36388,
@@ -22,18 +22,25 @@
     "nativeland:slug":"w%cc%b1sanec",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36388
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"4ac21424170c7f66ed502d1360333df5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619163
+        }
+    ],
     "wof:id":1796619163,
-    "wof:lastmodified":1668367749,
+    "wof:lastmodified":1668546101,
     "wof:name":"\u00c1,LE\u1e48ENE\u023b \u023dTE (W\u0331S\u00c1NE\u0106)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"116.401463,-20.911074,117.133678,-20.287961",
     "geom:latitude":-20.586398,
     "geom:longitude":116.742244,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-20.575931,
     "lbl:longitude":116.698659,
     "mps:latitude":-20.575931,
     "mps:longitude":116.698659,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D16526",
     "nativeland:description":"https://native-land.ca/maps/territories/jaburrara/",
     "nativeland:id":36289,
@@ -22,18 +22,25 @@
     "nativeland:slug":"jaburrara",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36289
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3c4c99b3e6957b5ef08fd5a300f10717",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619373
+        }
+    ],
     "wof:id":1796619373,
-    "wof:lastmodified":1668367754,
+    "wof:lastmodified":1668546073,
     "wof:name":"Jaburrara",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

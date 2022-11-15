@@ -8,13 +8,13 @@
     "geom:bbox":"118.910522,-23.488439,121.261597,-21.88189",
     "geom:latitude":-22.644908,
     "geom:longitude":120.220794,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-22.719597,
     "lbl:longitude":120.243186,
     "mps:latitude":-22.719597,
     "mps:longitude":120.243186,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#ABB49B",
     "nativeland:description":"https://native-land.ca/maps/territories/palyku-3/",
     "nativeland:id":36119,
@@ -22,18 +22,25 @@
     "nativeland:slug":"palyku-3",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36119
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e9eac5c570cea5cb6cc77c4d3b6082fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619761
+        }
+    ],
     "wof:id":1796619761,
-    "wof:lastmodified":1668367764,
+    "wof:lastmodified":1668546086,
     "wof:name":"Palyku",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

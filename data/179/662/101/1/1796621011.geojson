@@ -8,13 +8,13 @@
     "geom:bbox":"-81.170453,24.650278,-80.217401,25.360563",
     "geom:latitude":24.953081,
     "geom:longitude":-80.638606,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":24.944736,
     "lbl:longitude":-80.606115,
     "mps:latitude":24.944736,
     "mps:longitude":-80.606115,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3ECF84",
     "nativeland:description":"https://native-land.ca/maps/territories/matecumbe/",
     "nativeland:id":33875,
@@ -22,18 +22,25 @@
     "nativeland:slug":"matecumbe",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33875
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"35480d6b9cc7047c380ed0f743961979",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621011
+        }
+    ],
     "wof:id":1796621011,
-    "wof:lastmodified":1668367796,
+    "wof:lastmodified":1668546132,
     "wof:name":"Matecumbe",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

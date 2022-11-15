@@ -8,13 +8,13 @@
     "geom:bbox":"142.805786,-34.854382,144.179077,-33.628341",
     "geom:latitude":-34.171801,
     "geom:longitude":143.538324,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-34.133972,
     "lbl:longitude":143.548728,
     "mps:latitude":-34.133972,
     "mps:longitude":143.548728,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3145A3",
     "nativeland:description":"https://native-land.ca/maps/territories/madi-madi/",
     "nativeland:id":35826,
@@ -22,18 +22,25 @@
     "nativeland:slug":"madi-madi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35826
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"511e2f141fd42ed3a746a3fcf3e5ff31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620421
+        }
+    ],
     "wof:id":1796620421,
-    "wof:lastmodified":1668367780,
+    "wof:lastmodified":1668546133,
     "wof:name":"Madi Madi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

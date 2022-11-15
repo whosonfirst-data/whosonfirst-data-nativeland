@@ -8,13 +8,13 @@
     "geom:bbox":"132.165527,-20.951179,136.40625,-17.936928",
     "geom:latitude":-19.395699,
     "geom:longitude":134.320607,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-19.175939,
     "lbl:longitude":134.704292,
     "mps:latitude":-19.175939,
     "mps:longitude":134.704292,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E95F0D",
     "nativeland:description":"https://native-land.ca/maps/territories/warumungu/",
     "nativeland:id":36048,
@@ -22,18 +22,25 @@
     "nativeland:slug":"warumungu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36048
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"fd097629956532de8b6d2ebecd2567f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619919
+        }
+    ],
     "wof:id":1796619919,
-    "wof:lastmodified":1668367767,
+    "wof:lastmodified":1668546071,
     "wof:name":"Warumungu",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

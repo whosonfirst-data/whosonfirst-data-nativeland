@@ -8,13 +8,13 @@
     "geom:bbox":"-75.990178,-13.229279,-70.25377,-5.357191",
     "geom:latitude":-10.873388,
     "geom:longitude":-73.713264,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-11.240827,
     "lbl:longitude":-73.908982,
     "mps:latitude":-11.240827,
     "mps:longitude":-73.908982,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B780CD",
     "nativeland:description":"https://native-land.ca/maps/territories/arawac/",
     "nativeland:id":34112,
@@ -22,18 +22,25 @@
     "nativeland:slug":"arawac",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34112
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"4bb4b1fcaf7cd0b8814db323a4cc6081",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796620513
+        }
+    ],
     "wof:id":1796620513,
-    "wof:lastmodified":1668367782,
+    "wof:lastmodified":1668546144,
     "wof:name":"Arawak",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

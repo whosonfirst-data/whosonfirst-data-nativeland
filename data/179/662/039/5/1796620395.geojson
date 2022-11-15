@@ -8,13 +8,13 @@
     "geom:bbox":"-118.311082,46.55886,-75.585938,59.265881",
     "geom:latitude":54.059974,
     "geom:longitude":-99.108652,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":54.194638,
     "lbl:longitude":-100.88754,
     "mps:latitude":54.194638,
     "mps:longitude":-100.88754,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#EC11D7",
     "nativeland:description":"https://native-land.ca/maps/territories/cree/",
     "nativeland:id":35833,
@@ -22,18 +22,25 @@
     "nativeland:slug":"cree",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35833
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"536fd5412f904f75fdc7381a81282438",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620395
+        }
+    ],
     "wof:id":1796620395,
-    "wof:lastmodified":1668367779,
+    "wof:lastmodified":1668546123,
     "wof:name":"Cree",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-79.639133,37.788638,-77.178716,39.424369",
     "geom:latitude":38.547558,
     "geom:longitude":-78.235045,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":38.481841,
     "lbl:longitude":-78.235045,
     "mps:latitude":38.481841,
     "mps:longitude":-78.235045,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#82735C",
     "nativeland:description":"https://native-land.ca/maps/territories/manahoac/",
     "nativeland:id":33822,
@@ -22,18 +22,25 @@
     "nativeland:slug":"manahoac",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33822
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"032152dc14ecb4c967bd17f3d6d769b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621119
+        }
+    ],
     "wof:id":1796621119,
-    "wof:lastmodified":1668367799,
+    "wof:lastmodified":1668546125,
     "wof:name":"Manahoac",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

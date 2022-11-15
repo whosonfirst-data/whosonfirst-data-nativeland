@@ -8,13 +8,13 @@
     "geom:bbox":"-97.253512,34.900023,-96.775531,35.543938",
     "geom:latitude":35.176982,
     "geom:longitude":-97.027987,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":35.144994,
     "lbl:longitude":-97.051886,
     "mps:latitude":35.144994,
     "mps:longitude":-97.051886,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#DC58D9",
     "nativeland:description":"https://native-land.ca/maps/territories/potawatomi-shawnee-oklahoma/",
     "nativeland:id":36120,
@@ -22,18 +22,25 @@
     "nativeland:slug":"potawatomi-shawnee-oklahoma",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36120
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ebdb27985a9a53d264441c6bc3a5fa35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619763
+        }
+    ],
     "wof:id":1796619763,
-    "wof:lastmodified":1668367764,
+    "wof:lastmodified":1668546087,
     "wof:name":"Potawatomi-Shawnee (Oklahoma)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

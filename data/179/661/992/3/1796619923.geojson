@@ -8,13 +8,13 @@
     "geom:bbox":"-146.50331,59.335457,-142.126174,61.062661",
     "geom:latitude":60.149003,
     "geom:longitude":-144.367264,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":60.232561,
     "lbl:longitude":-144.408952,
     "mps:latitude":60.232561,
     "mps:longitude":-144.408952,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#FDD28C",
     "nativeland:description":"https://native-land.ca/maps/territories/eyak/",
     "nativeland:id":36044,
@@ -22,18 +22,25 @@
     "nativeland:slug":"eyak",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36044
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3f111615d3b0b7c4b9137e41903f5e1d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619923
+        }
+    ],
     "wof:id":1796619923,
-    "wof:lastmodified":1668367768,
+    "wof:lastmodified":1668546089,
     "wof:name":"Eyak",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"176.082821,-38.471124,176.722654,-38.098866",
     "geom:latitude":-38.275045,
     "geom:longitude":176.360542,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-38.285337,
     "lbl:longitude":176.338729,
     "mps:latitude":-38.285337,
     "mps:longitude":176.338729,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#078C97",
     "nativeland:description":"https://native-land.ca/maps/territories/tuhourangi/",
     "nativeland:id":33974,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tuhourangi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33974
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c7341ce642b9610d80373c1727862c41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620791
+        }
+    ],
     "wof:id":1796620791,
-    "wof:lastmodified":1668367790,
+    "wof:lastmodified":1668546112,
     "wof:name":"T\u016bhourangi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

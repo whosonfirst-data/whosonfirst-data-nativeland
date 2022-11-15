@@ -8,13 +8,13 @@
     "geom:bbox":"-77.163815,38.798612,-76.677803,39.085557",
     "geom:latitude":38.93827,
     "geom:longitude":-76.917966,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":38.941726,
     "lbl:longitude":-76.917966,
     "mps:latitude":38.941726,
     "mps:longitude":-76.917966,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#9B2E39",
     "nativeland:description":"https://native-land.ca/maps/territories/nacotchtank-anacostan/",
     "nativeland:id":33873,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nacotchtank-anacostan",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33873
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"7a76026534b7b85b7db3c56318b5928d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621007
+        }
+    ],
     "wof:id":1796621007,
-    "wof:lastmodified":1668367796,
+    "wof:lastmodified":1668546130,
     "wof:name":"Nacotchtank (Anacostan)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

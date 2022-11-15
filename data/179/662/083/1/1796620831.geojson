@@ -8,13 +8,13 @@
     "geom:bbox":"175.958416,-38.219306,176.460493,-37.724948",
     "geom:latitude":-37.995966,
     "geom:longitude":176.214633,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-38.113513,
     "lbl:longitude":176.127149,
     "mps:latitude":-38.113513,
     "mps:longitude":176.127149,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D4B9C9",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-rangiwewehi/",
     "nativeland:id":33954,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-rangiwewehi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33954
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a1ae6ee698e2ca839cab52978941fac1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620831
+        }
+    ],
     "wof:id":1796620831,
-    "wof:lastmodified":1668367791,
+    "wof:lastmodified":1668546114,
     "wof:name":"Ng\u0101ti Rangiwewehi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

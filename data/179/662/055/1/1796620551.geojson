@@ -8,13 +8,13 @@
     "geom:bbox":"-133.432349,59.182433,-130.31771,60.002298",
     "geom:latitude":59.640556,
     "geom:longitude":-131.618933,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":59.621657,
     "lbl:longitude":-131.58927,
     "mps:latitude":59.621657,
     "mps:longitude":-131.58927,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3221A3",
     "nativeland:description":"https://native-land.ca/maps/territories/teslin-tlingit-council/",
     "nativeland:id":34093,
@@ -22,18 +22,25 @@
     "nativeland:slug":"teslin-tlingit-council",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34093
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"856f93eb451a5a70969c3ff587f5d196",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620551
+        }
+    ],
     "wof:id":1796620551,
-    "wof:lastmodified":1668367783,
+    "wof:lastmodified":1668546121,
     "wof:name":"Teslin Tlingit Council (BC)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"122.514038,-17.038403,123.321533,-16.696708",
     "geom:latitude":-16.8645,
     "geom:longitude":122.888619,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-16.884921,
     "lbl:longitude":122.888619,
     "mps:latitude":-16.884921,
     "mps:longitude":122.888619,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#48C662",
     "nativeland:description":"https://native-land.ca/maps/territories/nyul-nyul/",
     "nativeland:id":35900,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nyul-nyul",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35900
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c22dd82021d91ddd7e0ff9d23f3b7ffd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620249
+        }
+    ],
     "wof:id":1796620249,
-    "wof:lastmodified":1668367776,
+    "wof:lastmodified":1668546111,
     "wof:name":"Nyul Nyul",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

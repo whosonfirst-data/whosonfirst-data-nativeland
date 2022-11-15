@@ -8,13 +8,13 @@
     "geom:bbox":"-91.961605,41.454787,-87.384001,44.702088",
     "geom:latitude":43.189724,
     "geom:longitude":-89.338755,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":43.002302,
     "lbl:longitude":-89.153419,
     "mps:latitude":43.002302,
     "mps:longitude":-89.153419,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3C671C",
     "nativeland:description":"https://native-land.ca/maps/territories/ho-chunk-2/",
     "nativeland:id":35959,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ho-chunk-2",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35959
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0f759b0049244f15b032800a9438d1f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620123
+        }
+    ],
     "wof:id":1796620123,
-    "wof:lastmodified":1668367772,
+    "wof:lastmodified":1668546112,
     "wof:name":"Hooc\u0105k (Ho-Chunk)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

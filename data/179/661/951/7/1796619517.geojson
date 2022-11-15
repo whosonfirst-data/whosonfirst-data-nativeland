@@ -8,13 +8,13 @@
     "geom:bbox":"143.464965,-28.091366,145.338134,-26.465655",
     "geom:latitude":-27.293063,
     "geom:longitude":144.400965,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-27.295897,
     "lbl:longitude":144.400965,
     "mps:latitude":-27.295897,
     "mps:longitude":144.400965,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D36844",
     "nativeland:description":"https://native-land.ca/maps/territories/margany/",
     "nativeland:id":36229,
@@ -22,18 +22,25 @@
     "nativeland:slug":"margany",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36229
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"d884221f624f3051e15bf84737935f09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619517
+        }
+    ],
     "wof:id":1796619517,
-    "wof:lastmodified":1668367758,
+    "wof:lastmodified":1668546092,
     "wof:name":"Margany",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

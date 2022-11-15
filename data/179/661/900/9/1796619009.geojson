@@ -8,13 +8,13 @@
     "geom:bbox":"130.028686,-14.131248,130.325317,-13.872746",
     "geom:latitude":-14.025499,
     "geom:longitude":130.211538,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-14.040265,
     "lbl:longitude":130.238504,
     "mps:latitude":-14.040265,
     "mps:longitude":130.238504,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#56390E",
     "nativeland:description":"https://native-land.ca/maps/territories/marramaninjsji/",
     "nativeland:id":36454,
@@ -22,18 +22,25 @@
     "nativeland:slug":"marramaninjsji",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36454
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e4b10171ff6e9a0c2cb8701bd089f566",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619009
+        }
+    ],
     "wof:id":1796619009,
-    "wof:lastmodified":1668367746,
+    "wof:lastmodified":1668546070,
     "wof:name":"Marramaninjsji",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

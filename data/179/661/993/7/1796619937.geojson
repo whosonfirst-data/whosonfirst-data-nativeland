@@ -8,13 +8,13 @@
     "geom:bbox":"-122.194966,37.754952,-121.453857,38.16056",
     "geom:latitude":37.952004,
     "geom:longitude":-121.850193,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":37.957538,
     "lbl:longitude":-121.850194,
     "mps:latitude":37.957538,
     "mps:longitude":-121.850194,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#220522",
     "nativeland:description":"https://native-land.ca/maps/territories/bay-miwok/",
     "nativeland:id":36038,
@@ -22,18 +22,25 @@
     "nativeland:slug":"bay-miwok",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36038
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a973503aa91f88bc79e2183da070adfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619937
+        }
+    ],
     "wof:id":1796619937,
-    "wof:lastmodified":1668367768,
+    "wof:lastmodified":1668546090,
     "wof:name":"Me-Wuk (Bay Miwok)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

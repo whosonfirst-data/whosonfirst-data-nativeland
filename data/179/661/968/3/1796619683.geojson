@@ -8,13 +8,13 @@
     "geom:bbox":"-120.457767,48.983151,-106.400599,55.079639",
     "geom:latitude":51.94468,
     "geom:longitude":-112.822882,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":51.987603,
     "lbl:longitude":-112.817147,
     "mps:latitude":51.987603,
     "mps:longitude":-112.817147,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#110071",
     "nativeland:description":"https://native-land.ca/maps/territories/stoney/",
     "nativeland:id":36154,
@@ -22,18 +22,25 @@
     "nativeland:slug":"stoney",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36154
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e5f402841f284a4e5d78749a6e556645",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619683
+        }
+    ],
     "wof:id":1796619683,
-    "wof:lastmodified":1668367762,
+    "wof:lastmodified":1668546088,
     "wof:name":"\u0128y\u00e3\u0127\u00e9 Nak\u00f3n ma\u0328ko\u0301ce (Stoney)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

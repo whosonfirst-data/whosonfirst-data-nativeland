@@ -8,13 +8,13 @@
     "geom:bbox":"-91.658158,29.071077,-87.42943,34.454026",
     "geom:latitude":31.948867,
     "geom:longitude":-89.635489,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":31.7618,
     "lbl:longitude":-89.596029,
     "mps:latitude":31.7618,
     "mps:longitude":-89.596029,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#BD725E",
     "nativeland:description":"https://native-land.ca/maps/territories/chahta-choctaw/",
     "nativeland:id":36162,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chahta-choctaw",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36162
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"35cde3ff8da3354cf9b1b3fda61d1a5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619659
+        }
+    ],
     "wof:id":1796619659,
-    "wof:lastmodified":1668367761,
+    "wof:lastmodified":1668546071,
     "wof:name":"Chahta Yakni (Choctaw)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

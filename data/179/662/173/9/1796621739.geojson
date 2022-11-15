@@ -8,13 +8,13 @@
     "geom:bbox":"-64.358178,-9.481617,-63.167395,-8.946411",
     "geom:latitude":-9.245699,
     "geom:longitude":-63.759067,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-9.24147,
     "lbl:longitude":-63.759092,
     "mps:latitude":-9.24147,
     "mps:longitude":-63.759092,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#05EC62",
     "nativeland:description":"https://native-land.ca/maps/territories/yjxa/",
     "nativeland:id":33496,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yjxa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33496
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"084ba76698770abc552bf2d034c758fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621739
+        }
+    ],
     "wof:id":1796621739,
-    "wof:lastmodified":1668367816,
+    "wof:lastmodified":1668546124,
     "wof:name":"Yjxa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

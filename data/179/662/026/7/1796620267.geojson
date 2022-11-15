@@ -8,13 +8,13 @@
     "geom:bbox":"-121.000664,35.127244,-120.387742,35.479022",
     "geom:latitude":35.282107,
     "geom:longitude":-120.702136,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":35.279484,
     "lbl:longitude":-120.726945,
     "mps:latitude":35.279484,
     "mps:longitude":-120.726945,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#F543E6",
     "nativeland:description":"https://native-land.ca/maps/territories/obispeno/",
     "nativeland:id":35894,
@@ -22,18 +22,25 @@
     "nativeland:slug":"obispeno",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35894
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"bbbf2a9ad3cb0c6c07ceb18b43b76fbb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620267
+        }
+    ],
     "wof:id":1796620267,
-    "wof:lastmodified":1668367776,
+    "wof:lastmodified":1668546139,
     "wof:name":"Obispe\u00f1o",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

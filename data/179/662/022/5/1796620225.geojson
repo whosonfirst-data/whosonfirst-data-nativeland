@@ -8,13 +8,13 @@
     "geom:bbox":"-72.790444,41.713787,-72.603645,41.824549",
     "geom:latitude":41.766154,
     "geom:longitude":-72.694704,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":41.766029,
     "lbl:longitude":-72.694704,
     "mps:latitude":41.766029,
     "mps:longitude":-72.694704,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#AE11D9",
     "nativeland:description":"https://native-land.ca/maps/territories/sicoags/",
     "nativeland:id":35912,
@@ -22,18 +22,25 @@
     "nativeland:slug":"sicoags",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35912
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"fffd895ae56d1a4773a97a1fdf71b253",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620225
+        }
+    ],
     "wof:id":1796620225,
-    "wof:lastmodified":1668367775,
+    "wof:lastmodified":1668546115,
     "wof:name":"Sicaog (Saukiog)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

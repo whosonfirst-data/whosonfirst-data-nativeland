@@ -8,13 +8,13 @@
     "geom:bbox":"-78.776468,0.645354,-77.937108,1.670326",
     "geom:latitude":1.232398,
     "geom:longitude":-78.351722,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":1.219872,
     "lbl:longitude":-78.359716,
     "mps:latitude":1.219872,
     "mps:longitude":-78.359716,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#2FEBE9",
     "nativeland:description":"https://native-land.ca/maps/territories/inkal-awa/",
     "nativeland:id":33678,
@@ -22,18 +22,25 @@
     "nativeland:slug":"inkal-awa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33678
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"47f93c8b03f36afba60138141af2f988",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621437
+        }
+    ],
     "wof:id":1796621437,
-    "wof:lastmodified":1668367807,
+    "wof:lastmodified":1668546126,
     "wof:name":"Inkal Aw\u00e1",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"150.831298,-27.332735,152.929687,-25.020906",
     "geom:latitude":-26.178097,
     "geom:longitude":151.801921,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-25.697713,
     "lbl:longitude":151.452189,
     "mps:latitude":-25.697713,
     "mps:longitude":151.452189,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0BCE6D",
     "nativeland:description":"https://native-land.ca/maps/territories/waka-waka/",
     "nativeland:id":36233,
@@ -22,18 +22,25 @@
     "nativeland:slug":"waka-waka",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36233
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"77ea2a9489e6a36e41ce38a739e13f1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619509
+        }
+    ],
     "wof:id":1796619509,
-    "wof:lastmodified":1668367758,
+    "wof:lastmodified":1668546088,
     "wof:name":"Waka Waka",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

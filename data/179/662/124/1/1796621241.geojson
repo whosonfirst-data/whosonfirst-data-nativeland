@@ -8,13 +8,13 @@
     "geom:bbox":"-86.432531,36.640788,-81.353917,39.977051",
     "geom:latitude":38.393013,
     "geom:longitude":-84.050067,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":38.339648,
     "lbl:longitude":-84.098435,
     "mps:latitude":38.339648,
     "mps:longitude":-84.098435,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#89C3C9",
     "nativeland:description":"https://native-land.ca/maps/territories/adena/",
     "nativeland:id":33765,
@@ -22,18 +22,25 @@
     "nativeland:slug":"adena",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33765
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"bb3a155454e726d9f80c4f35a8acf7de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621241
+        }
+    ],
     "wof:id":1796621241,
-    "wof:lastmodified":1668367802,
+    "wof:lastmodified":1668546146,
     "wof:name":"Adena Culture",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

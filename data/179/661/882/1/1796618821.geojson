@@ -8,13 +8,13 @@
     "geom:bbox":"150.721435,-30.705456,152.039794,-27.464413",
     "geom:latitude":-29.067594,
     "geom:longitude":151.3606,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-29.051928,
     "lbl:longitude":151.413962,
     "mps:latitude":-29.051928,
     "mps:longitude":151.413962,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6683DA",
     "nativeland:description":"https://native-land.ca/maps/territories/ngoorabul/",
     "nativeland:id":36537,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngoorabul",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36537
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"00e665e644832b3cee2dd65bf8c022b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618821
+        }
+    ],
     "wof:id":1796618821,
-    "wof:lastmodified":1668367742,
+    "wof:lastmodified":1668546095,
     "wof:name":"Ngoorabul",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

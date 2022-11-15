@@ -8,13 +8,13 @@
     "geom:bbox":"-100.09725,19.956246,-97.184848,24.466873",
     "geom:latitude":22.174928,
     "geom:longitude":-98.487649,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":22.301081,
     "lbl:longitude":-98.586844,
     "mps:latitude":22.301081,
     "mps:longitude":-98.586844,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#DE61C8",
     "nativeland:description":"https://native-land.ca/maps/territories/huasteco-teenek/",
     "nativeland:id":36020,
@@ -22,18 +22,25 @@
     "nativeland:slug":"huasteco-teenek",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36020
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0a2cfcbbe98b363ff5280835de581205",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619977
+        }
+    ],
     "wof:id":1796619977,
-    "wof:lastmodified":1668367769,
+    "wof:lastmodified":1668546073,
     "wof:name":"T\u00e9nek",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

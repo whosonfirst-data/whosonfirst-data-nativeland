@@ -8,13 +8,13 @@
     "geom:bbox":"142.567909,-9.45417,142.830103,-9.337254",
     "geom:latitude":-9.39585,
     "geom:longitude":142.697501,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-9.39878,
     "lbl:longitude":142.697501,
     "mps:latitude":-9.39878,
     "mps:longitude":142.697501,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/territories/koeybuway/",
     "nativeland:id":37725,
@@ -22,18 +22,25 @@
     "nativeland:slug":"koeybuway",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":37725
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f8c7c062b76ef0641a9aab2824bf5d6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618449
+        }
+    ],
     "wof:id":1796618449,
-    "wof:lastmodified":1668367733,
+    "wof:lastmodified":1668546077,
     "wof:name":"Koeybuway",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

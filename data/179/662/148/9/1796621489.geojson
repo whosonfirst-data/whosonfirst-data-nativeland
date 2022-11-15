@@ -8,13 +8,13 @@
     "geom:bbox":"-70.227707,-1.157115,-69.966031,-0.723591",
     "geom:latitude":-0.948862,
     "geom:longitude":-70.103753,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-0.966991,
     "lbl:longitude":-70.106245,
     "mps:latitude":-0.966991,
     "mps:longitude":-70.106245,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D9FF96",
     "nativeland:description":"https://native-land.ca/maps/territories/cabiyari-kawiyari/",
     "nativeland:id":33655,
@@ -22,18 +22,25 @@
     "nativeland:slug":"cabiyari-kawiyari",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33655
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ec1ed0fdf2eabd20502c7647371ff870",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621489
+        }
+    ],
     "wof:id":1796621489,
-    "wof:lastmodified":1668367809,
+    "wof:lastmodified":1668546146,
     "wof:name":"Cabiyari/Kawiyar\u00ed",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

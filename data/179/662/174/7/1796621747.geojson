@@ -8,13 +8,13 @@
     "geom:bbox":"-62.287909,-11.878638,-61.901297,-11.655877",
     "geom:latitude":-11.76161,
     "geom:longitude":-62.101173,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-11.764836,
     "lbl:longitude":-62.104856,
     "mps:latitude":-11.764836,
     "mps:longitude":-62.104856,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#EE57BE",
     "nativeland:description":"https://native-land.ca/maps/territories/arikapu/",
     "nativeland:id":33492,
@@ -22,18 +22,25 @@
     "nativeland:slug":"arikapu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33492
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0a6afe372146c9ff6dfc3d326b7ded58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621747
+        }
+    ],
     "wof:id":1796621747,
-    "wof:lastmodified":1668367816,
+    "wof:lastmodified":1668546123,
     "wof:name":"Arikap\u00fa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

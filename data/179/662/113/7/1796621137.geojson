@@ -8,13 +8,13 @@
     "geom:bbox":"-76.589108,35.274705,-75.832007,35.717975",
     "geom:latitude":35.500189,
     "geom:longitude":-76.232557,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":35.497017,
     "lbl:longitude":-76.239768,
     "mps:latitude":35.497017,
     "mps:longitude":-76.239768,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B0D3E5",
     "nativeland:description":"https://native-land.ca/maps/territories/mattamuskeet/",
     "nativeland:id":33810,
@@ -22,18 +22,25 @@
     "nativeland:slug":"mattamuskeet",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33810
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"8cddf4dc59cc2dfa59c5353cf93ebe72",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621137
+        }
+    ],
     "wof:id":1796621137,
-    "wof:lastmodified":1668367799,
+    "wof:lastmodified":1668546148,
     "wof:name":"Mattamuskeet",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

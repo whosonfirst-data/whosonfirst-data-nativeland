@@ -8,13 +8,13 @@
     "geom:bbox":"176.003243,-38.879487,176.671955,-38.307127",
     "geom:latitude":-38.540973,
     "geom:longitude":176.307976,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-38.535587,
     "lbl:longitude":176.313042,
     "mps:latitude":-38.535587,
     "mps:longitude":176.313042,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#DA1AB2",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-tahu-ngati-whaoa/",
     "nativeland:id":34020,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-tahu-ngati-whaoa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34020
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b0252ac836ee06a7b1643fe9fa6eca7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620679
+        }
+    ],
     "wof:id":1796620679,
-    "wof:lastmodified":1668367786,
+    "wof:lastmodified":1668546144,
     "wof:name":"Ng\u0101ti Tahu / Ng\u0101ti Whaoa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

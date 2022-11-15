@@ -8,13 +8,13 @@
     "geom:bbox":"-78.127073,8.736311,-77.764487,9.074295",
     "geom:latitude":8.893812,
     "geom:longitude":-77.955735,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":8.903517,
     "lbl:longitude":-77.968064,
     "mps:latitude":8.903517,
     "mps:longitude":-77.968064,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#49A334",
     "nativeland:description":"https://native-land.ca/maps/territories/guna-of-wargandi/",
     "nativeland:id":34100,
@@ -22,18 +22,25 @@
     "nativeland:slug":"guna-of-wargandi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34100
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"6c139f4e46244fa53c352948ef5d97b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620539
+        }
+    ],
     "wof:id":1796620539,
-    "wof:lastmodified":1668367783,
+    "wof:lastmodified":1668546118,
     "wof:name":"Guna of Wargand\u00ed",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

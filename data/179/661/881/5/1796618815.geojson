@@ -8,13 +8,13 @@
     "geom:bbox":"142.932128,-19.63224,144.810791,-16.488764",
     "geom:latitude":-17.922378,
     "geom:longitude":143.923821,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-17.866542,
     "lbl:longitude":144.002099,
     "mps:latitude":-17.866542,
     "mps:longitude":144.002099,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#5E9C1B",
     "nativeland:description":"https://native-land.ca/maps/territories/agwarmin/",
     "nativeland:id":36541,
@@ -22,18 +22,25 @@
     "nativeland:slug":"agwarmin",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36541
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5465747b569217759b5087e7be4f4743",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618815
+        }
+    ],
     "wof:id":1796618815,
-    "wof:lastmodified":1668367742,
+    "wof:lastmodified":1668546077,
     "wof:name":"Agwarmin",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

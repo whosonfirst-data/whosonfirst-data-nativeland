@@ -8,13 +8,13 @@
     "geom:bbox":"138.87268,-17.067287,139.207763,-16.820316",
     "geom:latitude":-16.947618,
     "geom:longitude":139.038375,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-16.950674,
     "lbl:longitude":139.035184,
     "mps:latitude":-16.950674,
     "mps:longitude":139.035184,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#49DD42",
     "nativeland:description":"https://native-land.ca/maps/territories/gananggalinda/",
     "nativeland:id":35956,
@@ -22,18 +22,25 @@
     "nativeland:slug":"gananggalinda",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35956
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c074631bd51e9047b9f62ff859a5629e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620125
+        }
+    ],
     "wof:id":1796620125,
-    "wof:lastmodified":1668367772,
+    "wof:lastmodified":1668546112,
     "wof:name":"Gananggalinda",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

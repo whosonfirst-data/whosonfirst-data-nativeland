@@ -8,13 +8,13 @@
     "geom:bbox":"141.542358,-13.544541,142.047729,-12.822513",
     "geom:latitude":-13.154559,
     "geom:longitude":141.779853,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-13.142665,
     "lbl:longitude":141.784666,
     "mps:latitude":-13.142665,
     "mps:longitude":141.784666,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B53234",
     "nativeland:description":"https://native-land.ca/maps/territories/winda-winda/",
     "nativeland:id":36049,
@@ -22,18 +22,25 @@
     "nativeland:slug":"winda-winda",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36049
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f3b66c760925432cdedd1a26355998c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619921
+        }
+    ],
     "wof:id":1796619921,
-    "wof:lastmodified":1668367767,
+    "wof:lastmodified":1668546089,
     "wof:name":"Winda Winda",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

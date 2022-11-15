@@ -8,13 +8,13 @@
     "geom:bbox":"-123.640137,39.303044,-122.727617,40.166396",
     "geom:latitude":39.694341,
     "geom:longitude":-123.123721,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":39.641315,
     "lbl:longitude":-123.116807,
     "mps:latitude":39.641315,
     "mps:longitude":-123.116807,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0171DD",
     "nativeland:description":"https://native-land.ca/maps/territories/northern-yukian/",
     "nativeland:id":36196,
@@ -22,18 +22,25 @@
     "nativeland:slug":"northern-yukian",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36196
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"08eeff95852cc7a806519bac075fc80e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619593
+        }
+    ],
     "wof:id":1796619593,
-    "wof:lastmodified":1668367760,
+    "wof:lastmodified":1668546089,
     "wof:name":"Northern Yuki",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

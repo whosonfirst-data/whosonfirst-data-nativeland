@@ -8,13 +8,13 @@
     "geom:bbox":"-123.767845,40.704862,-123.183553,41.003205",
     "geom:latitude":40.859671,
     "geom:longitude":-123.489194,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":40.82321,
     "lbl:longitude":-123.489194,
     "mps:latitude":40.82321,
     "mps:longitude":-123.489194,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4EBFB4",
     "nativeland:description":"https://native-land.ca/maps/territories/tsnungwe/",
     "nativeland:id":36328,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tsnungwe",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36328
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e590db579cdc73d3195ebc77e96c30be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619297
+        }
+    ],
     "wof:id":1796619297,
-    "wof:lastmodified":1668367753,
+    "wof:lastmodified":1668546101,
     "wof:name":"Tsnungwe",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

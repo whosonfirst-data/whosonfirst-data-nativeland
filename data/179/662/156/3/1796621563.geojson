@@ -8,13 +8,13 @@
     "geom:bbox":"31.174587,58.850291,38.921049,63.977476",
     "geom:latitude":61.283312,
     "geom:longitude":35.02829,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":61.446273,
     "lbl:longitude":35.341837,
     "mps:latitude":61.446273,
     "mps:longitude":35.341837,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#137539",
     "nativeland:description":"https://native-land.ca/maps/territories/vepslaine-vepsalne-veps/",
     "nativeland:id":33614,
@@ -22,18 +22,25 @@
     "nativeland:slug":"vepslaine-vepsalne-veps",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33614
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"07596da68438ef422cddd91ac77118bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":1796621563
+        }
+    ],
     "wof:id":1796621563,
-    "wof:lastmodified":1668367811,
+    "wof:lastmodified":1668546111,
     "wof:name":"Vepslaine/Vepsalne (Veps)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191581,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

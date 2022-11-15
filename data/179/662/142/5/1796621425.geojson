@@ -8,13 +8,13 @@
     "geom:bbox":"-76.182921,2.426858,-75.706379,2.818051",
     "geom:latitude":2.62103,
     "geom:longitude":-75.946294,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":2.622415,
     "lbl:longitude":-75.946294,
     "mps:latitude":2.622415,
     "mps:longitude":-75.946294,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0DED82",
     "nativeland:description":"https://native-land.ca/maps/territories/guanaca/",
     "nativeland:id":33679,
@@ -22,18 +22,25 @@
     "nativeland:slug":"guanaca",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33679
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b02a6e089fcde9c3667e7dbab33296e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621425
+        }
+    ],
     "wof:id":1796621425,
-    "wof:lastmodified":1668367807,
+    "wof:lastmodified":1668546124,
     "wof:name":"Guanaca",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

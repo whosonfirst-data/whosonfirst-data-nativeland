@@ -8,13 +8,13 @@
     "geom:bbox":"-106.820722,25.161551,-96.883756,41.908704",
     "geom:latitude":32.967253,
     "geom:longitude":-102.144711,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":32.112079,
     "lbl:longitude":-103.04377,
     "mps:latitude":32.112079,
     "mps:longitude":-103.04377,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C429A2",
     "nativeland:description":"https://native-land.ca/maps/territories/lipan-apache/",
     "nativeland:id":34090,
@@ -22,18 +22,25 @@
     "nativeland:slug":"lipan-apache",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34090
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"70f7ccf98ba3fffd75aca8d93a9599df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620557
+        }
+    ],
     "wof:id":1796620557,
-    "wof:lastmodified":1668367783,
+    "wof:lastmodified":1668546121,
     "wof:name":"Nd\u00e9 K\u00f3nits\u0105\u0105\u00ed\u00ed Gok\u00edyaa (Lipan Apache)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

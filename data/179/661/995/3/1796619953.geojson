@@ -8,13 +8,13 @@
     "geom:bbox":"-121.937442,44.200197,-119.821568,45.747085",
     "geom:latitude":44.972364,
     "geom:longitude":-120.913614,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":45.099647,
     "lbl:longitude":-120.78767,
     "mps:latitude":45.099647,
     "mps:longitude":-120.78767,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#64A42B",
     "nativeland:description":"https://native-land.ca/maps/territories/tenino/",
     "nativeland:id":36031,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tenino",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36031
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ff91cad655c4aeeef881eb8b8d475666",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619953
+        }
+    ],
     "wof:id":1796619953,
-    "wof:lastmodified":1668367768,
+    "wof:lastmodified":1668546088,
     "wof:name":"Tenino",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

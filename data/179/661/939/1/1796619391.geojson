@@ -8,13 +8,13 @@
     "geom:bbox":"-123.193205,37.072486,-119.160978,39.031232",
     "geom:latitude":38.068359,
     "geom:longitude":-121.12052,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":38.042589,
     "lbl:longitude":-120.921579,
     "mps:latitude":38.042589,
     "mps:longitude":-120.921579,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#71679B",
     "nativeland:description":"https://native-land.ca/maps/territories/plains-miwok/",
     "nativeland:id":36285,
@@ -22,18 +22,25 @@
     "nativeland:slug":"plains-miwok",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36285
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"441cdf1efe82a7c3703bb4da6d2877ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619391
+        }
+    ],
     "wof:id":1796619391,
-    "wof:lastmodified":1668367755,
+    "wof:lastmodified":1668546072,
     "wof:name":"Miwok",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

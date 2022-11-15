@@ -8,13 +8,13 @@
     "geom:bbox":"-70.534599,0.147614,-69.07013,1.237143",
     "geom:latitude":0.673165,
     "geom:longitude":-69.677639,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":0.593698,
     "lbl:longitude":-69.5556,
     "mps:latitude":0.593698,
     "mps:longitude":-69.5556,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#A5AA3C",
     "nativeland:description":"https://native-land.ca/maps/territories/umukomasa-desana/",
     "nativeland:id":33638,
@@ -22,18 +22,25 @@
     "nativeland:slug":"umukomasa-desana",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33638
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"bcf949c632f167bf2bc5fad3ef28f2f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621521
+        }
+    ],
     "wof:id":1796621521,
-    "wof:lastmodified":1668367810,
+    "wof:lastmodified":1668546131,
     "wof:name":"Umukomas\u00e3/Desana",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

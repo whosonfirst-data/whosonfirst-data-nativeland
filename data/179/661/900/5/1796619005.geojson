@@ -8,13 +8,13 @@
     "geom:bbox":"-76.219702,38.063147,-75.53885,38.758519",
     "geom:latitude":38.374014,
     "geom:longitude":-75.819214,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":38.308381,
     "lbl:longitude":-75.824372,
     "mps:latitude":38.308381,
     "mps:longitude":-75.824372,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#BBCF7B",
     "nativeland:description":"https://native-land.ca/maps/territories/nentego-nanticoke/",
     "nativeland:id":36458,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nentego-nanticoke",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36458
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"2b0cbe16aaba07f34e9b899c44422f1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619005
+        }
+    ],
     "wof:id":1796619005,
-    "wof:lastmodified":1668367746,
+    "wof:lastmodified":1668546070,
     "wof:name":"Nentego (Nanticoke)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

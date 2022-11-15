@@ -8,13 +8,13 @@
     "geom:bbox":"118.476563,-34.470335,124.16748,-32.778038",
     "geom:latitude":-33.572983,
     "geom:longitude":121.280736,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-33.466832,
     "lbl:longitude":121.280736,
     "mps:latitude":-33.466832,
     "mps:longitude":121.280736,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#F3D178",
     "nativeland:description":"https://native-land.ca/maps/territories/wudjari/",
     "nativeland:id":36163,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wudjari",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36163
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"88e1c87f013bda6459b0cc693d8cfdc7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619661
+        }
+    ],
     "wof:id":1796619661,
-    "wof:lastmodified":1668367761,
+    "wof:lastmodified":1668546089,
     "wof:name":"Wudjari",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

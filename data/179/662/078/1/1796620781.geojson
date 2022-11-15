@@ -8,13 +8,13 @@
     "geom:bbox":"174.528645,-38.172122,175.847102,-36.850222",
     "geom:latitude":-37.535754,
     "geom:longitude":175.139453,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-37.557046,
     "lbl:longitude":175.129486,
     "mps:latitude":-37.557046,
     "mps:longitude":175.129486,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#EFAFAD",
     "nativeland:description":"https://native-land.ca/maps/territories/waikato/",
     "nativeland:id":33976,
@@ -22,18 +22,25 @@
     "nativeland:slug":"waikato",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33976
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"4589e42d7012198a6626c9b5b31c06f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620781
+        }
+    ],
     "wof:id":1796620781,
-    "wof:lastmodified":1668367789,
+    "wof:lastmodified":1668546117,
     "wof:name":"Waikato",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"151.495971,-32.847288,152.627563,-32.012732",
     "geom:latitude":-32.439306,
     "geom:longitude":152.054316,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-32.476631,
     "lbl:longitude":152.008513,
     "mps:latitude":-32.476631,
     "mps:longitude":152.008513,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C091B9",
     "nativeland:description":"https://native-land.ca/maps/territories/worimi/",
     "nativeland:id":35906,
@@ -22,18 +22,25 @@
     "nativeland:slug":"worimi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35906
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3dac1985c29f140746f97afd8059a9ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620235
+        }
+    ],
     "wof:id":1796620235,
-    "wof:lastmodified":1668367775,
+    "wof:lastmodified":1668546112,
     "wof:name":"Worimi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

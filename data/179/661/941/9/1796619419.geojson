@@ -8,13 +8,13 @@
     "geom:bbox":"-73.045427,41.71803,-71.316504,42.698756",
     "geom:latitude":42.233402,
     "geom:longitude":-72.104257,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":42.087644,
     "lbl:longitude":-72.01781,
     "mps:latitude":42.087644,
     "mps:longitude":-72.01781,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#F62A2B",
     "nativeland:description":"https://native-land.ca/maps/territories/nipmuck/",
     "nativeland:id":36273,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nipmuck",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36273
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"307fb64fbb400bbd9ed2899882bbea93",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619419
+        }
+    ],
     "wof:id":1796619419,
-    "wof:lastmodified":1668367755,
+    "wof:lastmodified":1668546083,
     "wof:name":"Nipmuc",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

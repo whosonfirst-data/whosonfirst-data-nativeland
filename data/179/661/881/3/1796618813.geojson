@@ -8,13 +8,13 @@
     "geom:bbox":"-141.130371,60.207075,-137.856445,62.945231",
     "geom:latitude":61.528273,
     "geom:longitude":-139.886435,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":61.354307,
     "lbl:longitude":-140.018951,
     "mps:latitude":61.354307,
     "mps:longitude":-140.018951,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D31816",
     "nativeland:description":"https://native-land.ca/maps/territories/white-river/",
     "nativeland:id":36540,
@@ -22,18 +22,25 @@
     "nativeland:slug":"white-river",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36540
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"6c763400e35d11c9c7b4adb22cec0d8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618813
+        }
+    ],
     "wof:id":1796618813,
-    "wof:lastmodified":1668367742,
+    "wof:lastmodified":1668546077,
     "wof:name":"White River-Kluane",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

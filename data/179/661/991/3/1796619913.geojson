@@ -8,13 +8,13 @@
     "geom:bbox":"-73.747101,40.571197,-73.43399,40.809652",
     "geom:latitude":40.69887,
     "geom:longitude":-73.562059,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":40.713991,
     "lbl:longitude":-73.546641,
     "mps:latitude":40.713991,
     "mps:longitude":-73.546641,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#F65126",
     "nativeland:description":"https://native-land.ca/maps/territories/merrick/",
     "nativeland:id":36052,
@@ -22,18 +22,25 @@
     "nativeland:slug":"merrick",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36052
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5c363877eca0b7c287b6bb2c6c76aeaf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619913
+        }
+    ],
     "wof:id":1796619913,
-    "wof:lastmodified":1668367767,
+    "wof:lastmodified":1668546071,
     "wof:name":"Merrick",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

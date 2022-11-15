@@ -8,13 +8,13 @@
     "geom:bbox":"-77.553082,37.268604,-77.218248,37.457088",
     "geom:latitude":37.363608,
     "geom:longitude":-77.38313,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":37.357512,
     "lbl:longitude":-77.383131,
     "mps:latitude":37.357512,
     "mps:longitude":-77.383131,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#17D151",
     "nativeland:description":"https://native-land.ca/maps/territories/arrohatec/",
     "nativeland:id":33835,
@@ -22,18 +22,25 @@
     "nativeland:slug":"arrohatec",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33835
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"2dbca249ec5197a79527972fb3403cd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621095
+        }
+    ],
     "wof:id":1796621095,
-    "wof:lastmodified":1668367798,
+    "wof:lastmodified":1668546130,
     "wof:name":"Arrohateck",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"177.02251,-38.532173,177.608932,-37.962794",
     "geom:latitude":-38.208912,
     "geom:longitude":177.327686,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-38.183465,
     "lbl:longitude":177.333271,
     "mps:latitude":-38.183465,
     "mps:longitude":177.333271,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6EE8C1",
     "nativeland:description":"https://native-land.ca/maps/territories/whakatohea/",
     "nativeland:id":33969,
@@ -22,18 +22,25 @@
     "nativeland:slug":"whakatohea",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33969
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0840c1eff7f12c47884912c25967ee1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620793
+        }
+    ],
     "wof:id":1796620793,
-    "wof:lastmodified":1668367790,
+    "wof:lastmodified":1668546112,
     "wof:name":"Whakat\u014dhea",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

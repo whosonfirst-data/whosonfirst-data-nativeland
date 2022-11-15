@@ -8,13 +8,13 @@
     "geom:bbox":"174.537805,-37.612766,175.627111,-36.3347",
     "geom:latitude":-36.970058,
     "geom:longitude":175.077158,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-37.056901,
     "lbl:longitude":175.176705,
     "mps:latitude":-37.056901,
     "mps:longitude":175.176705,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#333243",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-paoa/",
     "nativeland:id":33958,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-paoa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33958
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"87126826078419bfb87bd828c04b159b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620821
+        }
+    ],
     "wof:id":1796620821,
-    "wof:lastmodified":1668367790,
+    "wof:lastmodified":1668546116,
     "wof:name":"Ng\u0101ti Paoa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

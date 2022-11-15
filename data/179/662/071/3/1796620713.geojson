@@ -8,13 +8,13 @@
     "geom:bbox":"177.298319,-38.747929,178.068872,-38.020904",
     "geom:latitude":-38.436074,
     "geom:longitude":177.705987,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-38.447446,
     "lbl:longitude":177.668043,
     "mps:latitude":-38.447446,
     "mps:longitude":177.668043,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#754FFD",
     "nativeland:description":"https://native-land.ca/maps/territories/te-aitanga-a-mahaki/",
     "nativeland:id":34006,
@@ -22,18 +22,25 @@
     "nativeland:slug":"te-aitanga-a-mahaki",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34006
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1f00870f6ba5988a7197b30f25e395e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620713
+        }
+    ],
     "wof:id":1796620713,
-    "wof:lastmodified":1668367787,
+    "wof:lastmodified":1668546115,
     "wof:name":"Te Aitanga \u0101 M\u0101haki",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

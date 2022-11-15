@@ -8,13 +8,13 @@
     "geom:bbox":"-100.063477,18.31281,-99.685477,18.600046",
     "geom:latitude":18.457064,
     "geom:longitude":-99.870895,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":18.4482,
     "lbl:longitude":-99.868031,
     "mps:latitude":18.4482,
     "mps:longitude":-99.868031,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#F4C660",
     "nativeland:description":"https://native-land.ca/maps/territories/chontal-de-guerrero-tuxteco/",
     "nativeland:id":35916,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chontal-de-guerrero-tuxteco",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35916
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3196b9293cdf4e9bc93aeebbdc5be10a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620219
+        }
+    ],
     "wof:id":1796620219,
-    "wof:lastmodified":1668367775,
+    "wof:lastmodified":1668546139,
     "wof:name":"Chontal de Guerrero &#8211; Tuxteco",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

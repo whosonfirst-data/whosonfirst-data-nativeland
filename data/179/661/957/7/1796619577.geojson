@@ -8,13 +8,13 @@
     "geom:bbox":"115.697021,-24.642024,117.729492,-22.902743",
     "geom:latitude":-23.767312,
     "geom:longitude":116.569548,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-23.832066,
     "lbl:longitude":116.754318,
     "mps:latitude":-23.832066,
     "mps:longitude":116.754318,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6BC3A1",
     "nativeland:description":"https://native-land.ca/maps/territories/thiin/",
     "nativeland:id":36201,
@@ -22,18 +22,25 @@
     "nativeland:slug":"thiin",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36201
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"78e9770a859cd8d184b027dbc960d887",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619577
+        }
+    ],
     "wof:id":1796619577,
-    "wof:lastmodified":1668367759,
+    "wof:lastmodified":1668546088,
     "wof:name":"Thiin",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

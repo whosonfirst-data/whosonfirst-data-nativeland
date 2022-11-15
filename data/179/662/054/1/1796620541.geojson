@@ -8,13 +8,13 @@
     "geom:bbox":"-78.798995,8.911644,-78.048797,9.383186",
     "geom:latitude":9.130655,
     "geom:longitude":-78.426015,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":9.096347,
     "lbl:longitude":-78.369166,
     "mps:latitude":9.096347,
     "mps:longitude":-78.369166,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#10E9EE",
     "nativeland:description":"https://native-land.ca/maps/territories/guna-of-madugandi/",
     "nativeland:id":34101,
@@ -22,18 +22,25 @@
     "nativeland:slug":"guna-of-madugandi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34101
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"89e95b3bfe297561865897945101d000",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620541
+        }
+    ],
     "wof:id":1796620541,
-    "wof:lastmodified":1668367783,
+    "wof:lastmodified":1668546118,
     "wof:name":"Guna of Madugand\u00ed",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

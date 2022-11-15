@@ -8,13 +8,13 @@
     "geom:bbox":"124.749755,-20.427012,126.848144,-18.417078",
     "geom:latitude":-19.488565,
     "geom:longitude":125.727014,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-19.607169,
     "lbl:longitude":125.746999,
     "mps:latitude":-19.607169,
     "mps:longitude":125.746999,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#A04043",
     "nativeland:description":"https://native-land.ca/maps/territories/walmatjarri/",
     "nativeland:id":36647,
@@ -22,18 +22,25 @@
     "nativeland:slug":"walmatjarri",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36647
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e080634bee7939a5ca8ea1df3c35d739",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618577
+        }
+    ],
     "wof:id":1796618577,
-    "wof:lastmodified":1668367736,
+    "wof:lastmodified":1668546079,
     "wof:name":"Walmatjarri",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

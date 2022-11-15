@@ -8,13 +8,13 @@
     "geom:bbox":"-72.960205,41.767215,-72.756958,41.979911",
     "geom:latitude":41.873844,
     "geom:longitude":-72.862591,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":41.868427,
     "lbl:longitude":-72.870817,
     "mps:latitude":41.868427,
     "mps:longitude":-72.870817,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6D0361",
     "nativeland:description":"https://native-land.ca/maps/territories/massacoes/",
     "nativeland:id":36161,
@@ -22,18 +22,25 @@
     "nativeland:slug":"massacoes",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36161
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"fd20a1421bcb756c2a4c9f39d9847443",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619671
+        }
+    ],
     "wof:id":1796619671,
-    "wof:lastmodified":1668367761,
+    "wof:lastmodified":1668546091,
     "wof:name":"Massacoes",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

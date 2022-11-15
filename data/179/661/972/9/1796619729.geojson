@@ -8,13 +8,13 @@
     "geom:bbox":"-88.990341,33.492565,-79.956858,39.007241",
     "geom:latitude":36.136622,
     "geom:longitude":-84.877805,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":36.060653,
     "lbl:longitude":-84.791772,
     "mps:latitude":36.060653,
     "mps:longitude":-84.791772,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#98219B",
     "nativeland:description":"https://native-land.ca/maps/territories/tsoyaha-yuchi/",
     "nativeland:id":36133,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tsoyaha-yuchi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36133
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3ab7ba700d22deaf192717d8a275ba48",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619729
+        }
+    ],
     "wof:id":1796619729,
-    "wof:lastmodified":1668367763,
+    "wof:lastmodified":1668546106,
     "wof:name":"S\u2019atsoyaha (Yuchi)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

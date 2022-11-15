@@ -8,13 +8,13 @@
     "geom:bbox":"-124.911801,48.07234,-124.320893,48.487486",
     "geom:latitude":48.283973,
     "geom:longitude":-124.638798,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":48.299297,
     "lbl:longitude":-124.662716,
     "mps:latitude":48.299297,
     "mps:longitude":-124.662716,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E537EA",
     "nativeland:description":"https://native-land.ca/maps/territories/makah/",
     "nativeland:id":35879,
@@ -22,18 +22,25 @@
     "nativeland:slug":"makah",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35879
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"668ad0c6c2d1163bd4b40b167b468c3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620305
+        }
+    ],
     "wof:id":1796620305,
-    "wof:lastmodified":1668367777,
+    "wof:lastmodified":1668546122,
     "wof:name":"Q\u02b7idi\u010d\u010da\u0294a\u2022tx\u030c (Makah)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"145.404052,-21.698265,146.958618,-20.31372",
     "geom:latitude":-20.989003,
     "geom:longitude":146.035463,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-20.992481,
     "lbl:longitude":145.97254,
     "mps:latitude":-20.992481,
     "mps:longitude":145.97254,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#2B95C6",
     "nativeland:description":"https://native-land.ca/maps/territories/yilba/",
     "nativeland:id":36287,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yilba",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36287
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"74b0a4300decabc9f8bdca10ff547f23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619383
+        }
+    ],
     "wof:id":1796619383,
-    "wof:lastmodified":1668367755,
+    "wof:lastmodified":1668546069,
     "wof:name":"Yilba",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"174.63164,-37.565718,175.967527,-36.008638",
     "geom:latitude":-36.93621,
     "geom:longitude":175.387966,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-37.069729,
     "lbl:longitude":175.696925,
     "mps:latitude":-37.069729,
     "mps:longitude":175.696925,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4A7E2D",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-whanaunga/",
     "nativeland:id":33946,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngati-whanaunga",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33946
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"516f1a67e3cfca871488e8b3ccaedeb3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620847
+        }
+    ],
     "wof:id":1796620847,
-    "wof:lastmodified":1668367791,
+    "wof:lastmodified":1668546114,
     "wof:name":"Ng\u0101ti Whanaunga",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

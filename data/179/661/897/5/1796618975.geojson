@@ -8,13 +8,13 @@
     "geom:bbox":"-90.590911,33.541633,-85.694855,37.230385",
     "geom:latitude":35.209331,
     "geom:longitude":-88.374603,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":35.129477,
     "lbl:longitude":-88.578138,
     "mps:latitude":35.129477,
     "mps:longitude":-88.578138,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#851347",
     "nativeland:description":"https://native-land.ca/maps/territories/chickasaw/",
     "nativeland:id":36468,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chickasaw",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36468
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b16f64f887b2362bc5b3088dfdb63bc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618975
+        }
+    ],
     "wof:id":1796618975,
-    "wof:lastmodified":1668367745,
+    "wof:lastmodified":1668546100,
     "wof:name":"Chikashsha I\u0320yaakni\u2019 (Chickasaw)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

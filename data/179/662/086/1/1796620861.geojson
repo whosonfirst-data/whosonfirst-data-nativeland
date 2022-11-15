@@ -8,13 +8,13 @@
     "geom:bbox":"174.854125,-41.613135,176.672705,-39.864222",
     "geom:latitude":-40.671773,
     "geom:longitude":175.773612,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-40.401056,
     "lbl:longitude":175.939913,
     "mps:latitude":-40.401056,
     "mps:longitude":175.939913,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#BE8413",
     "nativeland:description":"https://native-land.ca/maps/territories/rangitane/",
     "nativeland:id":33944,
@@ -22,18 +22,25 @@
     "nativeland:slug":"rangitane",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33944
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5fb792bf859a9619b171f40d7f605da3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620861
+        }
+    ],
     "wof:id":1796620861,
-    "wof:lastmodified":1668367792,
+    "wof:lastmodified":1668546137,
     "wof:name":"Rangit\u0101ne",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

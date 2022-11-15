@@ -8,13 +8,13 @@
     "geom:bbox":"-101.35595,21.47739,-100.435037,21.974334",
     "geom:latitude":21.754282,
     "geom:longitude":-100.831664,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":21.781518,
     "lbl:longitude":-100.822894,
     "mps:latitude":21.781518,
     "mps:longitude":-100.822894,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#343A93",
     "nativeland:description":"https://native-land.ca/maps/territories/copuces/",
     "nativeland:id":33535,
@@ -22,18 +22,25 @@
     "nativeland:slug":"copuces",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33535
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"df890fff1380954fbe7ac156dccde3b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621659
+        }
+    ],
     "wof:id":1796621659,
-    "wof:lastmodified":1668367814,
+    "wof:lastmodified":1668546129,
     "wof:name":"Copuces",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

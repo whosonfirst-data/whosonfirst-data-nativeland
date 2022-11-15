@@ -8,13 +8,13 @@
     "geom:bbox":"-123.15245,48.460161,-122.480108,48.93141",
     "geom:latitude":48.702719,
     "geom:longitude":-122.831024,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":48.757897,
     "lbl:longitude":-122.797917,
     "mps:latitude":48.757897,
     "mps:longitude":-122.797917,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#81ACD7",
     "nativeland:description":"https://native-land.ca/maps/territories/lummi/",
     "nativeland:id":35997,
@@ -22,18 +22,25 @@
     "nativeland:slug":"lummi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35997
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"64cb9e36ba89dd15bbde4e664f920b71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620033
+        }
+    ],
     "wof:id":1796620033,
-    "wof:lastmodified":1668367770,
+    "wof:lastmodified":1668546140,
     "wof:name":"Lhaq\u2019temish (Lummi)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-117.344971,53.540307,-113.36792,56.52314",
     "geom:latitude":55.042327,
     "geom:longitude":-115.582688,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":55.115144,
     "lbl:longitude":-115.778528,
     "mps:latitude":55.115144,
     "mps:longitude":-115.778528,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#809B08",
     "nativeland:description":"https://native-land.ca/maps/territories/woodland-cree/",
     "nativeland:id":36245,
@@ -22,18 +22,25 @@
     "nativeland:slug":"woodland-cree",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36245
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"fdfb7aee488212420d47927da528b9ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619481
+        }
+    ],
     "wof:id":1796619481,
-    "wof:lastmodified":1668367757,
+    "wof:lastmodified":1668546082,
     "wof:name":"Woodland Cree",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

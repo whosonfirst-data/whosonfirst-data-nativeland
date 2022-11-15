@@ -8,13 +8,13 @@
     "geom:bbox":"174.869041,-40.977792,175.183701,-40.814963",
     "geom:latitude":-40.902386,
     "geom:longitude":175.054085,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-40.903036,
     "lbl:longitude":175.077587,
     "mps:latitude":-40.903036,
     "mps:longitude":175.077587,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4CA2B8",
     "nativeland:description":"https://native-land.ca/maps/territories/te-atiawa-ki-whakarongotai/",
     "nativeland:id":33960,
@@ -22,18 +22,25 @@
     "nativeland:slug":"te-atiawa-ki-whakarongotai",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33960
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ca9a9adaafcd00edab02670bed3f8129",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620825
+        }
+    ],
     "wof:id":1796620825,
-    "wof:lastmodified":1668367791,
+    "wof:lastmodified":1668546116,
     "wof:name":"Te Atiawa ki Whakarongotai",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

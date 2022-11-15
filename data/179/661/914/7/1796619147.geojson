@@ -8,13 +8,13 @@
     "geom:bbox":"-111.263683,28.038518,-108.25953,29.930175",
     "geom:latitude":28.748646,
     "geom:longitude":-109.854545,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":28.742906,
     "lbl:longitude":-110.503169,
     "mps:latitude":28.742906,
     "mps:longitude":-110.503169,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#178FB0",
     "nativeland:description":"https://native-land.ca/maps/territories/pima-tohono-oodham/",
     "nativeland:id":36391,
@@ -22,18 +22,25 @@
     "nativeland:slug":"pima-tohono-oodham",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36391
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1c39e7b6e86f699d1ed13b84700274a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619147
+        }
+    ],
     "wof:id":1796619147,
-    "wof:lastmodified":1668367749,
+    "wof:lastmodified":1668546088,
     "wof:name":"O&#8217;ob (Lower Pima)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

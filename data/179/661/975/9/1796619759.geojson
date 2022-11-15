@@ -8,13 +8,13 @@
     "geom:bbox":"137.993774,-35.630511,138.790283,-33.298394",
     "geom:latitude":-34.404382,
     "geom:longitude":138.365986,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-34.34509,
     "lbl:longitude":138.405208,
     "mps:latitude":-34.34509,
     "mps:longitude":138.405208,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#99A911",
     "nativeland:description":"https://native-land.ca/maps/territories/kaurna/",
     "nativeland:id":36118,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kaurna",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36118
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"fcb7d9fab14b8841239a3d29dca21eb9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619759
+        }
+    ],
     "wof:id":1796619759,
-    "wof:lastmodified":1668367764,
+    "wof:lastmodified":1668546106,
     "wof:name":"Kaurna Pangkarra",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

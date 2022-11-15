@@ -8,13 +8,13 @@
     "geom:bbox":"-123.828318,40.673085,-123.341598,41.18594",
     "geom:latitude":40.948224,
     "geom:longitude":-123.59709,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":40.954962,
     "lbl:longitude":-123.616791,
     "mps:latitude":40.954962,
     "mps:longitude":-123.616791,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#CACA3A",
     "nativeland:description":"https://native-land.ca/maps/territories/hoopa-3/",
     "nativeland:id":34091,
@@ -22,18 +22,25 @@
     "nativeland:slug":"hoopa-3",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34091
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f21776027b44b8ca1628acb8c5822193",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620559
+        }
+    ],
     "wof:id":1796620559,
-    "wof:lastmodified":1668367783,
+    "wof:lastmodified":1668546121,
     "wof:name":"Hupa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

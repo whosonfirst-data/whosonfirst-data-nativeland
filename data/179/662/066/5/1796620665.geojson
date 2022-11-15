@@ -8,13 +8,13 @@
     "geom:bbox":"175.741753,-37.94456,176.477664,-37.262099",
     "geom:latitude":-37.706994,
     "geom:longitude":176.088408,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-37.731689,
     "lbl:longitude":176.084615,
     "mps:latitude":-37.731689,
     "mps:longitude":176.084615,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3BEA39",
     "nativeland:description":"https://native-land.ca/maps/territories/ngai-te-rangi/",
     "nativeland:id":34029,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngai-te-rangi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34029
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"37e52c84bda7a169c065a72efb9b339d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620665
+        }
+    ],
     "wof:id":1796620665,
-    "wof:lastmodified":1668367786,
+    "wof:lastmodified":1668546141,
     "wof:name":"Ng\u0101i Te Rangi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

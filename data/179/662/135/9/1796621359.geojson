@@ -8,13 +8,13 @@
     "geom:bbox":"-61.705891,5.056852,-58.204296,7.314235",
     "geom:latitude":6.08067,
     "geom:longitude":-59.946229,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":5.968059,
     "lbl:longitude":-59.773802,
     "mps:latitude":5.968059,
     "mps:longitude":-59.773802,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4869C0",
     "nativeland:description":"https://native-land.ca/maps/territories/akawaio-akawayo/",
     "nativeland:id":33710,
@@ -22,18 +22,25 @@
     "nativeland:slug":"akawaio-akawayo",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33710
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5bfb99919c8c1693f8790200f568cfcd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621359
+        }
+    ],
     "wof:id":1796621359,
-    "wof:lastmodified":1668367805,
+    "wof:lastmodified":1668546106,
     "wof:name":"Akawaio/Akawayo",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

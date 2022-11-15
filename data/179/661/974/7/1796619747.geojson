@@ -8,13 +8,13 @@
     "geom:bbox":"-123.324398,49.180375,-122.766107,49.891098",
     "geom:latitude":49.482805,
     "geom:longitude":-122.988484,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":49.454528,
     "lbl:longitude":-122.965997,
     "mps:latitude":49.454528,
     "mps:longitude":-122.965997,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#7985D9",
     "nativeland:description":"https://native-land.ca/maps/territories/tsleil-waututh-s%C9%99lilw%C9%99ta%C9%82%C9%AC/",
     "nativeland:id":36125,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tsleil-waututh-s%c9%99l%cc%93ilw%c9%99ta%c9%82%c9%ac",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36125
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"af7cda10e124cf429b1f4552c5b934a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619747
+        }
+    ],
     "wof:id":1796619747,
-    "wof:lastmodified":1668367763,
+    "wof:lastmodified":1668546102,
     "wof:name":"s\u0259l\u0313ilw\u0259ta\u0241\u026c t\u0259m\u0259x\u02b7 (Tsleil-Waututh)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

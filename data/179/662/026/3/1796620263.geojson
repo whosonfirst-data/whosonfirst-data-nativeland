@@ -8,13 +8,13 @@
     "geom:bbox":"-124.589097,41.508638,-122.757891,42.871757",
     "geom:latitude":42.273757,
     "geom:longitude":-123.774898,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":42.277061,
     "lbl:longitude":-123.865299,
     "mps:latitude":42.277061,
     "mps:longitude":-123.865299,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D4A155",
     "nativeland:description":"https://native-land.ca/maps/territories/coquille-umpqua-chetco-tolowa-tututni/",
     "nativeland:id":35892,
@@ -22,18 +22,25 @@
     "nativeland:slug":"coquille-umpqua-chetco-tolowa-tututni",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35892
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ca0e8dd6fd10661ee68ebc775464c839",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620263
+        }
+    ],
     "wof:id":1796620263,
-    "wof:lastmodified":1668367776,
+    "wof:lastmodified":1668546139,
     "wof:name":"Tolowa Dee-ni\u2019",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

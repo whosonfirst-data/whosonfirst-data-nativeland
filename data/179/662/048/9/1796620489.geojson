@@ -8,13 +8,13 @@
     "geom:bbox":"-77.858454,-0.493122,-75.601896,0.902426",
     "geom:latitude":0.22213,
     "geom:longitude":-76.785842,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":0.429701,
     "lbl:longitude":-77.085007,
     "mps:latitude":0.429701,
     "mps:longitude":-77.085007,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#2F5835",
     "nativeland:description":"https://native-land.ca/maps/territories/cofan/",
     "nativeland:id":34123,
@@ -22,18 +22,25 @@
     "nativeland:slug":"cofan",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34123
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a40921aeb9b436bfc38671b80b35122a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796620489
+        }
+    ],
     "wof:id":1796620489,
-    "wof:lastmodified":1668367782,
+    "wof:lastmodified":1668546113,
     "wof:name":"A\u2019i Cof\u00e1n/Kof\u00e1n",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-122.170448,39.930479,-121.43958,40.839467",
     "geom:latitude":40.375408,
     "geom:longitude":-121.864381,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":40.378703,
     "lbl:longitude":-121.869922,
     "mps:latitude":40.378703,
     "mps:longitude":-121.869922,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#028741",
     "nativeland:description":"https://native-land.ca/maps/territories/yana/",
     "nativeland:id":36368,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yana",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36368
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"df30abad83fd0b7c30ba89722f3cd2a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619199
+        }
+    ],
     "wof:id":1796619199,
-    "wof:lastmodified":1668367750,
+    "wof:lastmodified":1668546104,
     "wof:name":"Yana",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

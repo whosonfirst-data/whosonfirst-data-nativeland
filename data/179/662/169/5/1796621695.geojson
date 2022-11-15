@@ -8,13 +8,13 @@
     "geom:bbox":"-129.890784,55.140689,-127.894583,56.386961",
     "geom:latitude":55.752791,
     "geom:longitude":-128.900056,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":56.003688,
     "lbl:longitude":-129.300691,
     "mps:latitude":56.003688,
     "mps:longitude":-129.300691,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#386348",
     "nativeland:description":"https://native-land.ca/maps/territories/gitanyow-laxyip/",
     "nativeland:id":33515,
@@ -22,18 +22,25 @@
     "nativeland:slug":"gitanyow-laxyip",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33515
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"792e096b6664090c8755ef51a541d4fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621695
+        }
+    ],
     "wof:id":1796621695,
-    "wof:lastmodified":1668367815,
+    "wof:lastmodified":1668546111,
     "wof:name":"Gitanyow Lax\u2019yip",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

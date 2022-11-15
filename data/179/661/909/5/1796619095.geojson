@@ -8,13 +8,13 @@
     "geom:bbox":"-160.542662,62.717728,-155.665702,64.021079",
     "geom:latitude":63.332067,
     "geom:longitude":-157.94934,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":63.40131,
     "lbl:longitude":-157.751939,
     "mps:latitude":63.40131,
     "mps:longitude":-157.751939,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#9A46D4",
     "nativeland:description":"https://native-land.ca/maps/territories/holikachuk/",
     "nativeland:id":36417,
@@ -22,18 +22,25 @@
     "nativeland:slug":"holikachuk",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36417
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"aa74fe681468f34e93d996bf08a90f54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619095
+        }
+    ],
     "wof:id":1796619095,
-    "wof:lastmodified":1668367748,
+    "wof:lastmodified":1668546068,
     "wof:name":"Holikachuk",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

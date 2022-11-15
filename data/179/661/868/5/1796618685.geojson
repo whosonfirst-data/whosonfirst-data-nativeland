@@ -8,13 +8,13 @@
     "geom:bbox":"-122.992837,49.116493,-122.414359,49.632051",
     "geom:latitude":49.396781,
     "geom:longitude":-122.693655,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":49.444432,
     "lbl:longitude":-122.649842,
     "mps:latitude":49.444432,
     "mps:longitude":-122.649842,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#FFBBA2",
     "nativeland:description":"https://native-land.ca/maps/territories/kwikwetlem/",
     "nativeland:id":36601,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kwikwetlem",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36601
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e91d1c847056f7c00fc69af20618fe57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618685
+        }
+    ],
     "wof:id":1796618685,
-    "wof:lastmodified":1668367739,
+    "wof:lastmodified":1668546079,
     "wof:name":"k\u02b7ik\u02b7\u0259\u019b\u0313\u0259m",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"142.82297,-37.478458,144.719082,-36.099247",
     "geom:latitude":-36.734616,
     "geom:longitude":143.85174,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-36.73406,
     "lbl:longitude":143.869737,
     "mps:latitude":-36.73406,
     "mps:longitude":143.869737,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#5B569A",
     "nativeland:description":"https://native-land.ca/maps/territories/djadjawurung/",
     "nativeland:id":36673,
@@ -22,18 +22,25 @@
     "nativeland:slug":"djadjawurung",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36673
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"eff37e7e51093fc81bd96b73d0e2906b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618525
+        }
+    ],
     "wof:id":1796618525,
-    "wof:lastmodified":1668367735,
+    "wof:lastmodified":1668546099,
     "wof:name":"Dja Dja Wurrung",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

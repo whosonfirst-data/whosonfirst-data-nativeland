@@ -8,13 +8,13 @@
     "geom:bbox":"-122.576562,37.027994,-121.086028,38.180367",
     "geom:latitude":37.542814,
     "geom:longitude":-121.909197,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":37.506067,
     "lbl:longitude":-121.909198,
     "mps:latitude":37.506067,
     "mps:longitude":-121.909198,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B04DDB",
     "nativeland:description":"https://native-land.ca/maps/territories/muwekma/",
     "nativeland:id":33548,
@@ -22,18 +22,25 @@
     "nativeland:slug":"muwekma",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33548
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"6355fef23120d9d9e125061272f18c39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621641
+        }
+    ],
     "wof:id":1796621641,
-    "wof:lastmodified":1668367813,
+    "wof:lastmodified":1668546131,
     "wof:name":"Muwekma",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"142.976074,-38.496593,143.673706,-37.798933",
     "geom:latitude":-38.164146,
     "geom:longitude":143.247998,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-38.131726,
     "lbl:longitude":143.213645,
     "mps:latitude":-38.131726,
     "mps:longitude":143.213645,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#02AC9B",
     "nativeland:description":"https://native-land.ca/maps/territories/djargurdwurung/",
     "nativeland:id":36396,
@@ -22,18 +22,25 @@
     "nativeland:slug":"djargurdwurung",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36396
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f349d6b111e3e6c024c8c14751718736",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619143
+        }
+    ],
     "wof:id":1796619143,
-    "wof:lastmodified":1668367749,
+    "wof:lastmodified":1668546088,
     "wof:name":"Djargurdwurung",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

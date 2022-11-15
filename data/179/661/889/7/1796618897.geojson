@@ -8,13 +8,13 @@
     "geom:bbox":"131.715087,-11.904978,133.173521,-10.906133",
     "geom:latitude":-11.345433,
     "geom:longitude":132.511166,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-11.288618,
     "lbl:longitude":132.570198,
     "mps:latitude":-11.288618,
     "mps:longitude":132.570198,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0B67BB",
     "nativeland:description":"https://native-land.ca/maps/territories/iwaidja/",
     "nativeland:id":36505,
@@ -22,18 +22,25 @@
     "nativeland:slug":"iwaidja",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36505
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"8c9b5c9405d8813ce0267dc74d6782d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618897
+        }
+    ],
     "wof:id":1796618897,
-    "wof:lastmodified":1668367743,
+    "wof:lastmodified":1668546075,
     "wof:name":"Iwaidja",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

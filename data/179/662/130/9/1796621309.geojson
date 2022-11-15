@@ -8,13 +8,13 @@
     "geom:bbox":"-87.496181,10.23472,-84.637579,13.243314",
     "geom:latitude":11.542599,
     "geom:longitude":-85.919454,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":10.970548,
     "lbl:longitude":-85.302255,
     "mps:latitude":10.970548,
     "mps:longitude":-85.302255,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#5EDFB7",
     "nativeland:description":"https://native-land.ca/maps/territories/nicarao-nahoa/",
     "nativeland:id":33732,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nicarao-nahoa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33732
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"44b052b08a5f0c504c4f7a0811be3f74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621309
+        }
+    ],
     "wof:id":1796621309,
-    "wof:lastmodified":1668367804,
+    "wof:lastmodified":1668546133,
     "wof:name":"Nicarao/Nahoa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

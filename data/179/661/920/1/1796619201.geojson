@@ -8,13 +8,13 @@
     "geom:bbox":"122.893066,-18.885497,125.744018,-17.167034",
     "geom:latitude":-18.016579,
     "geom:longitude":124.291205,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-17.848529,
     "lbl:longitude":123.934836,
     "mps:latitude":-17.848529,
     "mps:longitude":123.934836,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#855D71",
     "nativeland:description":"https://native-land.ca/maps/territories/nyikina/",
     "nativeland:id":36369,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nyikina",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36369
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"9b696694428ad28c5a1d336ace05e258",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619201
+        }
+    ],
     "wof:id":1796619201,
-    "wof:lastmodified":1668367750,
+    "wof:lastmodified":1668546101,
     "wof:name":"Nyikina",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

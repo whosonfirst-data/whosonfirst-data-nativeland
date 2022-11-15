@@ -8,13 +8,13 @@
     "geom:bbox":"129.990231,-14.535732,130.940551,-13.80074",
     "geom:latitude":-14.193494,
     "geom:longitude":130.515546,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-14.185764,
     "lbl:longitude":130.554012,
     "mps:latitude":-14.185764,
     "mps:longitude":130.554012,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D86C52",
     "nativeland:description":"https://native-land.ca/maps/territories/ngangiwumirri/",
     "nativeland:id":36551,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngangiwumirri",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36551
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3314573f0fdbaf36a6b0620ed4bf0d6a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618789
+        }
+    ],
     "wof:id":1796618789,
-    "wof:lastmodified":1668367741,
+    "wof:lastmodified":1668546097,
     "wof:name":"Ngan&#8217;giwumirri",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

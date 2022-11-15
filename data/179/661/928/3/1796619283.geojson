@@ -8,13 +8,13 @@
     "geom:bbox":"138.153076,-29.573457,140.031738,-27.225325",
     "geom:latitude":-28.317396,
     "geom:longitude":139.11037,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-28.086624,
     "lbl:longitude":139.128263,
     "mps:latitude":-28.086624,
     "mps:longitude":139.128263,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#8CD6D2",
     "nativeland:description":"https://native-land.ca/maps/territories/dieri/",
     "nativeland:id":36333,
@@ -22,18 +22,25 @@
     "nativeland:slug":"dieri",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36333
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0b993b6a10b4fb4f6ce770a7384b6895",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619283
+        }
+    ],
     "wof:id":1796619283,
-    "wof:lastmodified":1668367752,
+    "wof:lastmodified":1668546104,
     "wof:name":"Dieri",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

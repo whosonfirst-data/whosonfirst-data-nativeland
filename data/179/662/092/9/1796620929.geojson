@@ -8,13 +8,13 @@
     "geom:bbox":"-123.997889,45.303202,-123.25938,45.691262",
     "geom:latitude":45.510738,
     "geom:longitude":-123.632165,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":45.50975,
     "lbl:longitude":-123.632164,
     "mps:latitude":45.50975,
     "mps:longitude":-123.632164,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D18F6C",
     "nativeland:description":"https://native-land.ca/maps/territories/tillamook-2/",
     "nativeland:id":33908,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tillamook-2",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33908
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a4bc2b9dad5f91d53fec91d45e3038ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620929
+        }
+    ],
     "wof:id":1796620929,
-    "wof:lastmodified":1668367794,
+    "wof:lastmodified":1668546141,
     "wof:name":"Tillamook",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

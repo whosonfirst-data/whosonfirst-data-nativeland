@@ -8,13 +8,13 @@
     "geom:bbox":"136.647949,-21.739091,139.086914,-20.365227",
     "geom:latitude":-21.097123,
     "geom:longitude":137.91465,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-21.180346,
     "lbl:longitude":137.91465,
     "mps:latitude":-21.180346,
     "mps:longitude":137.91465,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#241ECB",
     "nativeland:description":"https://native-land.ca/maps/territories/bularnu/",
     "nativeland:id":36441,
@@ -22,18 +22,25 @@
     "nativeland:slug":"bularnu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36441
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0ea4842813e22c851841cc806c13ba84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619045
+        }
+    ],
     "wof:id":1796619045,
-    "wof:lastmodified":1668367747,
+    "wof:lastmodified":1668546090,
     "wof:name":"Bularnu",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

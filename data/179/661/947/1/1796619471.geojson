@@ -8,13 +8,13 @@
     "geom:bbox":"130.704343,-28.420391,133.505856,-25.453194",
     "geom:latitude":-27.084096,
     "geom:longitude":132.020175,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-27.072996,
     "lbl:longitude":131.993494,
     "mps:latitude":-27.072996,
     "mps:longitude":131.993494,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#AB6187",
     "nativeland:description":"https://native-land.ca/maps/territories/yankuntjatjara/",
     "nativeland:id":36246,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yankuntjatjara",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36246
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"60afa11e885cc49b76c532f9891a44ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619471
+        }
+    ],
     "wof:id":1796619471,
-    "wof:lastmodified":1668367757,
+    "wof:lastmodified":1668546085,
     "wof:name":"Yankuntjatjara",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

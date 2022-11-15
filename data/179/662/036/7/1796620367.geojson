@@ -8,13 +8,13 @@
     "geom:bbox":"-93.820495,14.647368,-92.125854,16.177748",
     "geom:latitude":15.424528,
     "geom:longitude":-92.933899,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":15.428228,
     "lbl:longitude":-92.921061,
     "mps:latitude":15.428228,
     "mps:longitude":-92.921061,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#018C7A",
     "nativeland:description":"https://native-land.ca/maps/territories/tapachulteco-mixe-zoque/",
     "nativeland:id":35845,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tapachulteco-mixe-zoque",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35845
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f8941141f7229e68683330642b437537",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620367
+        }
+    ],
     "wof:id":1796620367,
-    "wof:lastmodified":1668367778,
+    "wof:lastmodified":1668546120,
     "wof:name":"Tapachulteco (mixe-zoque)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

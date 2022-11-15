@@ -8,13 +8,13 @@
     "geom:bbox":"144.217529,-33.008663,147.266235,-29.945415",
     "geom:latitude":-31.435383,
     "geom:longitude":145.719861,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-31.239257,
     "lbl:longitude":145.950824,
     "mps:latitude":-31.239257,
     "mps:longitude":145.950824,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#2FB9A3",
     "nativeland:description":"https://native-land.ca/maps/territories/wongaibon/",
     "nativeland:id":36370,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wongaibon",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36370
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b379aab67303d816d34aae5ea4e3fc02",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619203
+        }
+    ],
     "wof:id":1796619203,
-    "wof:lastmodified":1668367750,
+    "wof:lastmodified":1668546101,
     "wof:name":"Wongaibon",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

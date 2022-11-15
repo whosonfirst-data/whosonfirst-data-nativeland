@@ -8,13 +8,13 @@
     "geom:bbox":"136.801757,-29.659416,138.691406,-27.595934",
     "geom:latitude":-28.612115,
     "geom:longitude":137.711008,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-28.641963,
     "lbl:longitude":137.729004,
     "mps:latitude":-28.641963,
     "mps:longitude":137.729004,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4104B4",
     "nativeland:description":"https://native-land.ca/maps/territories/dhirari/",
     "nativeland:id":36158,
@@ -22,18 +22,25 @@
     "nativeland:slug":"dhirari",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36158
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"4f1949766a5359e5a8564347068d0606",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619677
+        }
+    ],
     "wof:id":1796619677,
-    "wof:lastmodified":1668367762,
+    "wof:lastmodified":1668546091,
     "wof:name":"Dhirari",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

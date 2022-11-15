@@ -8,13 +8,13 @@
     "geom:bbox":"-77.362503,37.162612,-76.97612,37.414198",
     "geom:latitude":37.287777,
     "geom:longitude":-77.162877,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":37.288769,
     "lbl:longitude":-77.159197,
     "mps:latitude":37.288769,
     "mps:longitude":-77.159197,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4BB969",
     "nativeland:description":"https://native-land.ca/maps/territories/weyanock/",
     "nativeland:id":33833,
@@ -22,18 +22,25 @@
     "nativeland:slug":"weyanock",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33833
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"09f41f478266be3512056089157834ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621091
+        }
+    ],
     "wof:id":1796621091,
-    "wof:lastmodified":1668367798,
+    "wof:lastmodified":1668546130,
     "wof:name":"Weyanock",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

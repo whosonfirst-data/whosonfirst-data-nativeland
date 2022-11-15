@@ -8,13 +8,13 @@
     "geom:bbox":"-103.110232,41.475933,-100.588804,42.573885",
     "geom:latitude":42.076336,
     "geom:longitude":-101.839484,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":42.069234,
     "lbl:longitude":-101.839484,
     "mps:latitude":42.069234,
     "mps:longitude":-101.839484,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C1413E",
     "nativeland:description":"https://native-land.ca/maps/territories/sicangu/",
     "nativeland:id":33843,
@@ -22,18 +22,25 @@
     "nativeland:slug":"sicangu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33843
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"79c061f073dba105d5ba5eda6e8da814",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621077
+        }
+    ],
     "wof:id":1796621077,
-    "wof:lastmodified":1668367798,
+    "wof:lastmodified":1668546130,
     "wof:name":"Sicangu",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

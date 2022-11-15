@@ -8,13 +8,13 @@
     "geom:bbox":"147.711181,-29.056169,150.968627,-27.137368",
     "geom:latitude":-28.153051,
     "geom:longitude":149.659315,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-27.858579,
     "lbl:longitude":150.177545,
     "mps:latitude":-27.858579,
     "mps:longitude":150.177545,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#EECBC8",
     "nativeland:description":"https://native-land.ca/maps/territories/bigambul/",
     "nativeland:id":36571,
@@ -22,18 +22,25 @@
     "nativeland:slug":"bigambul",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36571
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"19b6f1d4ef4377864c455b84492f5d06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618743
+        }
+    ],
     "wof:id":1796618743,
-    "wof:lastmodified":1668367740,
+    "wof:lastmodified":1668546075,
     "wof:name":"Bigambul",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

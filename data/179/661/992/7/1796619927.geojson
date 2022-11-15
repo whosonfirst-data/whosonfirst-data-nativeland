@@ -8,13 +8,13 @@
     "geom:bbox":"117.449341,-34.556335,119.536743,-33.146749",
     "geom:latitude":-33.867927,
     "geom:longitude":118.379119,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-33.757666,
     "lbl:longitude":118.27633,
     "mps:latitude":-33.757666,
     "mps:longitude":118.27633,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#06FE80",
     "nativeland:description":"https://native-land.ca/maps/territories/goreng/",
     "nativeland:id":36046,
@@ -22,18 +22,25 @@
     "nativeland:slug":"goreng",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36046
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"46ae77cea1812299d99a495ed37cee0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619927
+        }
+    ],
     "wof:id":1796619927,
-    "wof:lastmodified":1668367768,
+    "wof:lastmodified":1668546089,
     "wof:name":"Goreng",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

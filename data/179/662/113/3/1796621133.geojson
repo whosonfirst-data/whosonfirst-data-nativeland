@@ -8,13 +8,13 @@
     "geom:bbox":"-76.569067,36.072419,-76.18786,36.325873",
     "geom:latitude":36.188065,
     "geom:longitude":-76.40568,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":36.196911,
     "lbl:longitude":-76.42474,
     "mps:latitude":36.196911,
     "mps:longitude":-76.42474,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6402BE",
     "nativeland:description":"https://native-land.ca/maps/territories/perquimans/",
     "nativeland:id":33815,
@@ -22,18 +22,25 @@
     "nativeland:slug":"perquimans",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33815
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"68bf46cb7cbc330a146e20ec7d6fa0d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621133
+        }
+    ],
     "wof:id":1796621133,
-    "wof:lastmodified":1668367799,
+    "wof:lastmodified":1668546148,
     "wof:name":"Perquimans",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

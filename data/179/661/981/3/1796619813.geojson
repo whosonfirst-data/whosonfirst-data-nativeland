@@ -8,13 +8,13 @@
     "geom:bbox":"-113.483554,32.46013,-110.880804,34.00959",
     "geom:latitude":33.289502,
     "geom:longitude":-112.08414,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":33.123366,
     "lbl:longitude":-111.886962,
     "mps:latitude":33.123366,
     "mps:longitude":-111.886962,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E30238",
     "nativeland:description":"https://native-land.ca/maps/territories/akimel-oodham/",
     "nativeland:id":36097,
@@ -22,18 +22,25 @@
     "nativeland:slug":"akimel-oodham",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36097
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"2f27e322c44740b0a58ff468c2f767a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619813
+        }
+    ],
     "wof:id":1796619813,
-    "wof:lastmodified":1668367765,
+    "wof:lastmodified":1668546106,
     "wof:name":"Akimel O&#8217;odham (Upper Pima)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-123.800282,48.389501,-122.149225,49.363029",
     "geom:latitude":48.897841,
     "geom:longitude":-122.907892,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":48.820224,
     "lbl:longitude":-122.907892,
     "mps:latitude":48.820224,
     "mps:longitude":-122.907892,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#82B5FE",
     "nativeland:description":"https://native-land.ca/maps/territories/semiahmoo/",
     "nativeland:id":36514,
@@ -22,18 +22,25 @@
     "nativeland:slug":"semiahmoo",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36514
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"7bb719f348d3297b244c6bfc4ed8c259",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618877
+        }
+    ],
     "wof:id":1796618877,
-    "wof:lastmodified":1668367743,
+    "wof:lastmodified":1668546076,
     "wof:name":"Semiahmoo",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

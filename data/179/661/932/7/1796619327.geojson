@@ -8,13 +8,13 @@
     "geom:bbox":"-118.956503,48.341365,-116.640519,52.183983",
     "geom:latitude":50.157712,
     "geom:longitude":-117.875661,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":50.141697,
     "lbl:longitude":-117.737791,
     "mps:latitude":50.141697,
     "mps:longitude":-117.737791,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#F99CCB",
     "nativeland:description":"https://native-land.ca/maps/territories/sinixt/",
     "nativeland:id":36314,
@@ -22,18 +22,25 @@
     "nativeland:slug":"sinixt",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36314
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"8dee892da168304ac22535eb0adf5b0b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619327
+        }
+    ],
     "wof:id":1796619327,
-    "wof:lastmodified":1668367753,
+    "wof:lastmodified":1668546090,
     "wof:name":"sn\u0295ickstx tmx\u02b7\u00fala\u0294x\u02b7 (Sinixt)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

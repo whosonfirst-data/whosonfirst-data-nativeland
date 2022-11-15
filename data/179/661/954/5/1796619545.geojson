@@ -8,13 +8,13 @@
     "geom:bbox":"118.773193,-20.43216,119.976196,-19.849394",
     "geom:latitude":-20.108782,
     "geom:longitude":119.430933,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-20.129755,
     "lbl:longitude":119.479626,
     "mps:latitude":-20.129755,
     "mps:longitude":119.479626,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#9005F5",
     "nativeland:description":"https://native-land.ca/maps/territories/ngarla/",
     "nativeland:id":36217,
@@ -22,18 +22,25 @@
     "nativeland:slug":"ngarla",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36217
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"52f85a8b610f676673a503522d5b8dcc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619545
+        }
+    ],
     "wof:id":1796619545,
-    "wof:lastmodified":1668367758,
+    "wof:lastmodified":1668546070,
     "wof:name":"Ngarla",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

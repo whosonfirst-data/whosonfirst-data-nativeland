@@ -8,13 +8,13 @@
     "geom:bbox":"-171.806975,65.346216,-168.908052,66.341841",
     "geom:latitude":65.83388,
     "geom:longitude":-170.588182,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":65.829325,
     "lbl:longitude":-170.687009,
     "mps:latitude":65.829325,
     "mps:longitude":-170.687009,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#12205D",
     "nativeland:description":"https://native-land.ca/maps/territories/nyvukagmit-naukan/",
     "nativeland:id":33561,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nyvukagmit-naukan",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33561
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"15d9c8453a49d7c4b0ba7e20fea57d46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621639
+        }
+    ],
     "wof:id":1796621639,
-    "wof:lastmodified":1668367813,
+    "wof:lastmodified":1668546131,
     "wof:name":"Nyvukagmit (Naukan) Yupik",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

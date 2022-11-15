@@ -8,13 +8,13 @@
     "geom:bbox":"147.897949,-23.569022,149.320678,-22.294179",
     "geom:latitude":-22.910073,
     "geom:longitude":148.610503,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-22.92169,
     "lbl:longitude":148.621281,
     "mps:latitude":-22.92169,
     "mps:longitude":148.621281,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#A9B5C3",
     "nativeland:description":"https://native-land.ca/maps/territories/gabalbara/",
     "nativeland:id":36166,
@@ -22,18 +22,25 @@
     "nativeland:slug":"gabalbara",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36166
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"50386dd6585436fe86a1460a96c0b73d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619655
+        }
+    ],
     "wof:id":1796619655,
-    "wof:lastmodified":1668367761,
+    "wof:lastmodified":1668546071,
     "wof:name":"Gabalbara",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

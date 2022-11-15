@@ -8,13 +8,13 @@
     "geom:bbox":"-103.472263,24.726875,-94.351719,30.688692",
     "geom:latitude":28.272657,
     "geom:longitude":-99.288177,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":28.11645,
     "lbl:longitude":-99.657342,
     "mps:latitude":28.11645,
     "mps:longitude":-99.657342,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#FC790D",
     "nativeland:description":"https://native-land.ca/maps/territories/coahuiltecan/",
     "nativeland:id":36430,
@@ -22,18 +22,25 @@
     "nativeland:slug":"coahuiltecan",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36430
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e835879c002810b0db4b19e382dc5848",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619065
+        }
+    ],
     "wof:id":1796619065,
-    "wof:lastmodified":1668367747,
+    "wof:lastmodified":1668546072,
     "wof:name":"Coahuiltecan",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

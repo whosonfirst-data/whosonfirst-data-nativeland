@@ -8,13 +8,13 @@
     "geom:bbox":"-141.020508,64.820907,-135.0,68.568414",
     "geom:latitude":66.592645,
     "geom:longitude":-138.3546,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":66.632623,
     "lbl:longitude":-138.3546,
     "mps:latitude":66.632623,
     "mps:longitude":-138.3546,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#F26A33",
     "nativeland:description":"https://native-land.ca/maps/territories/vuntut-gwitchin/",
     "nativeland:id":36141,
@@ -22,18 +22,25 @@
     "nativeland:slug":"vuntut-gwitchin",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36141
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"bbc37aeabe0952cdcae05da4635eb431",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619707
+        }
+    ],
     "wof:id":1796619707,
-    "wof:lastmodified":1668367762,
+    "wof:lastmodified":1668546083,
     "wof:name":"Vuntut Gwich&#8217;in",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"136.713867,-18.521283,138.405761,-17.224758",
     "geom:latitude":-17.914177,
     "geom:longitude":137.519283,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-17.932678,
     "lbl:longitude":137.519283,
     "mps:latitude":-17.932678,
     "mps:longitude":137.519283,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C264C1",
     "nativeland:description":"https://native-land.ca/maps/territories/waanyi/",
     "nativeland:id":36207,
@@ -22,18 +22,25 @@
     "nativeland:slug":"waanyi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36207
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1431f93bdf37338bf8165f027ed2d717",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619565
+        }
+    ],
     "wof:id":1796619565,
-    "wof:lastmodified":1668367759,
+    "wof:lastmodified":1668546092,
     "wof:name":"Waanyi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-95.525428,29.092381,-91.883295,31.144761",
     "geom:latitude":30.095194,
     "geom:longitude":-93.689919,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":30.156491,
     "lbl:longitude":-93.717511,
     "mps:latitude":30.156491,
     "mps:longitude":-93.717511,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#1EE57D",
     "nativeland:description":"https://native-land.ca/maps/territories/ishak/",
     "nativeland:id":34087,
@@ -22,18 +22,25 @@
     "nativeland:slug":"atakapa-2",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34087
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"7d12aafab886a9aa6245a6afde613fef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620569
+        }
+    ],
     "wof:id":1796620569,
-    "wof:lastmodified":1668367783,
+    "wof:lastmodified":1668546143,
     "wof:name":"Ishak (Atakapa)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-80.039976,35.837924,-77.209283,37.294123",
     "geom:latitude":36.598717,
     "geom:longitude":-78.763453,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":36.671096,
     "lbl:longitude":-78.763453,
     "mps:latitude":36.671096,
     "mps:longitude":-78.763453,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#34A00A",
     "nativeland:description":"https://native-land.ca/maps/territories/saponi/",
     "nativeland:id":33820,
@@ -22,18 +22,25 @@
     "nativeland:slug":"saponi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33820
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3818e5229490905bdd2748b44b949e63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621115
+        }
+    ],
     "wof:id":1796621115,
-    "wof:lastmodified":1668367799,
+    "wof:lastmodified":1668546125,
     "wof:name":"Saponi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

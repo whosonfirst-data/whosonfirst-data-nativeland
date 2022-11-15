@@ -8,13 +8,13 @@
     "geom:bbox":"-87.910229,14.51958,-85.901523,16.043905",
     "geom:latitude":15.358782,
     "geom:longitude":-86.986356,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":15.283074,
     "lbl:longitude":-87.001573,
     "mps:latitude":15.283074,
     "mps:longitude":-87.001573,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#5354AB",
     "nativeland:description":"https://native-land.ca/maps/territories/tolupan/",
     "nativeland:id":33738,
@@ -22,18 +22,25 @@
     "nativeland:slug":"tolupan",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33738
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5c95b4f0e37e951fd37ad2b33775935f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621295
+        }
+    ],
     "wof:id":1796621295,
-    "wof:lastmodified":1668367803,
+    "wof:lastmodified":1668546124,
     "wof:name":"Tolupan",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

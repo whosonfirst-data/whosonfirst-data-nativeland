@@ -8,13 +8,13 @@
     "geom:bbox":"-120.262441,33.879427,-119.930014,34.04593",
     "geom:latitude":33.96279,
     "geom:longitude":-120.095406,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":33.959977,
     "lbl:longitude":-120.09224,
     "mps:latitude":33.959977,
     "mps:longitude":-120.09224,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0D4950",
     "nativeland:description":"https://native-land.ca/maps/territories/wima/",
     "nativeland:id":33751,
@@ -22,18 +22,25 @@
     "nativeland:slug":"wima",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33751
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"3e885667e4445d8db6143a207eea5537",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621271
+        }
+    ],
     "wof:id":1796621271,
-    "wof:lastmodified":1668367803,
+    "wof:lastmodified":1668546125,
     "wof:name":"Wi&#8217;ma",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

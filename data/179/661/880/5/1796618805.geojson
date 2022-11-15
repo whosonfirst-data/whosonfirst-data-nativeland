@@ -8,13 +8,13 @@
     "geom:bbox":"149.088468,-37.512232,150.856615,-34.745562",
     "geom:latitude":-36.00536,
     "geom:longitude":149.845878,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-36.011865,
     "lbl:longitude":149.772234,
     "mps:latitude":-36.011865,
     "mps:longitude":149.772234,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#39F796",
     "nativeland:description":"https://native-land.ca/maps/territories/yuin/",
     "nativeland:id":36548,
@@ -22,18 +22,25 @@
     "nativeland:slug":"yuin",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36548
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"b9237ec69a0834fbdc459b181ac0e560",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796618805
+        }
+    ],
     "wof:id":1796618805,
-    "wof:lastmodified":1668367741,
+    "wof:lastmodified":1668546076,
     "wof:name":"Yuin",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

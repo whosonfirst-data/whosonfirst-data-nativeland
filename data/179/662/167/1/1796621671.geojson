@@ -8,13 +8,13 @@
     "geom:bbox":"-124.216914,41.783676,-121.008212,46.420463",
     "geom:latitude":44.188299,
     "geom:longitude":-122.819254,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":44.398244,
     "lbl:longitude":-122.788581,
     "mps:latitude":44.398244,
     "mps:longitude":-122.788581,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#715B31",
     "nativeland:description":"https://native-land.ca/maps/territories/confederated-tribes-of-grand-ronde/",
     "nativeland:id":33534,
@@ -22,18 +22,25 @@
     "nativeland:slug":"confederated-tribes-of-grand-ronde",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33534
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a4e3c77798e116a39d471a99d66dd62b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621671
+        }
+    ],
     "wof:id":1796621671,
-    "wof:lastmodified":1668367814,
+    "wof:lastmodified":1668546110,
     "wof:name":"Confederated Tribes of Grand Ronde",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

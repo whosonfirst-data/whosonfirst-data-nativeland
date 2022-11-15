@@ -8,13 +8,13 @@
     "geom:bbox":"-101.114044,19.719525,-101.007614,19.782857",
     "geom:latitude":19.752202,
     "geom:longitude":-101.055187,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":19.749524,
     "lbl:longitude":-101.056201,
     "mps:latitude":19.749524,
     "mps:longitude":-101.056201,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#FD2898",
     "nativeland:description":"https://native-land.ca/maps/territories/matlatzinco-matlatzinteca/",
     "nativeland:id":35917,
@@ -22,18 +22,25 @@
     "nativeland:slug":"matlatzinco-matlatzinteca",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35917
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"15ef5f6d0d9985ff968bf2dfe8f6b710",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620209
+        }
+    ],
     "wof:id":1796620209,
-    "wof:lastmodified":1668367775,
+    "wof:lastmodified":1668546135,
     "wof:name":"Matlatzinco/matlatzinteca",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

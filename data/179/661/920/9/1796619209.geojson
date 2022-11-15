@@ -8,13 +8,13 @@
     "geom:bbox":"133.483886,-17.214264,135.439453,-14.72176",
     "geom:latitude":-15.915236,
     "geom:longitude":134.460304,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-15.949363,
     "lbl:longitude":134.478928,
     "mps:latitude":-15.949363,
     "mps:longitude":134.478928,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#FE3E8C",
     "nativeland:description":"https://native-land.ca/maps/territories/alawa/",
     "nativeland:id":36367,
@@ -22,18 +22,25 @@
     "nativeland:slug":"alawa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36367
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"7e3bc18da8500ba776663227cd98b315",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619209
+        }
+    ],
     "wof:id":1796619209,
-    "wof:lastmodified":1668367751,
+    "wof:lastmodified":1668546101,
     "wof:name":"Alawa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

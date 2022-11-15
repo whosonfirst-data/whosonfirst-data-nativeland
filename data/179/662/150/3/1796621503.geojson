@@ -8,13 +8,13 @@
     "geom:bbox":"-71.418664,0.023701,-70.455962,0.851636",
     "geom:latitude":0.38017,
     "geom:longitude":-70.880622,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":0.359333,
     "lbl:longitude":-70.841655,
     "mps:latitude":0.359333,
     "mps:longitude":-70.841655,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#3CBFB8",
     "nativeland:description":"https://native-land.ca/maps/territories/eduria-taiwano/",
     "nativeland:id":33645,
@@ -22,18 +22,25 @@
     "nativeland:slug":"eduria-taiwano",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33645
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"cab319fdceb7d5edbe7c04d844a3b7e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621503
+        }
+    ],
     "wof:id":1796621503,
-    "wof:lastmodified":1668367809,
+    "wof:lastmodified":1668546108,
     "wof:name":"Eduria (Taiwano)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

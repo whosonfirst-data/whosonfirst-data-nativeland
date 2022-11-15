@@ -8,13 +8,13 @@
     "geom:bbox":"-96.043864,15.818557,-95.09609,16.461835",
     "geom:latitude":16.165267,
     "geom:longitude":-95.618755,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":16.177077,
     "lbl:longitude":-95.627782,
     "mps:latitude":16.177077,
     "mps:longitude":-95.627782,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#061E46",
     "nativeland:description":"https://native-land.ca/maps/territories/chontal/",
     "nativeland:id":36363,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chontal",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36363
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"e258bdc608cb833da6a56840eef7db62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619215
+        }
+    ],
     "wof:id":1796619215,
-    "wof:lastmodified":1668367751,
+    "wof:lastmodified":1668546104,
     "wof:name":"Slijuala Xanuc (Chontal)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-135.109863,56.788845,-123.288574,63.626745",
     "geom:latitude":60.368547,
     "geom:longitude":-128.399048,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":60.346966,
     "lbl:longitude":-128.399627,
     "mps:latitude":60.346966,
     "mps:longitude":-128.399627,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#2DB230",
     "nativeland:description":"https://native-land.ca/maps/territories/kaska-dena/",
     "nativeland:id":36263,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kaska-dena",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36263
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"72d6016288dd900ca453b883e8354d85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619433
+        }
+    ],
     "wof:id":1796619433,
-    "wof:lastmodified":1668367756,
+    "wof:lastmodified":1668546105,
     "wof:name":"Kaska Dena Kayeh",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

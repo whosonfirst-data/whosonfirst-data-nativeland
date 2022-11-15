@@ -8,13 +8,13 @@
     "geom:bbox":"131.879882,-14.90763,133.637695,-13.084828",
     "geom:latitude":-14.007689,
     "geom:longitude":132.830507,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-14.108967,
     "lbl:longitude":132.918397,
     "mps:latitude":-14.108967,
     "mps:longitude":132.918397,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#5347D4",
     "nativeland:description":"https://native-land.ca/maps/territories/jawoyn/",
     "nativeland:id":36302,
@@ -22,18 +22,25 @@
     "nativeland:slug":"jawoyn",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36302
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"7785fa0d2aa893675e844f3d7ea96f3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619353
+        }
+    ],
     "wof:id":1796619353,
-    "wof:lastmodified":1668367754,
+    "wof:lastmodified":1668546090,
     "wof:name":"Jawoyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

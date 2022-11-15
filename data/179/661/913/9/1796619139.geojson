@@ -8,13 +8,13 @@
     "geom:bbox":"-112.766172,34.15313,-109.053662,37.335224",
     "geom:latitude":35.71513,
     "geom:longitude":-110.834763,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":35.683772,
     "lbl:longitude":-110.835016,
     "mps:latitude":35.683772,
     "mps:longitude":-110.835016,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6C2D1B",
     "nativeland:description":"https://native-land.ca/maps/territories/hopi/",
     "nativeland:id":36395,
@@ -22,18 +22,25 @@
     "nativeland:slug":"hopi",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36395
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"6554273dc5ed164a1682912c79523704",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619139
+        }
+    ],
     "wof:id":1796619139,
-    "wof:lastmodified":1668367749,
+    "wof:lastmodified":1668546087,
     "wof:name":"Hopitutskwa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"124.156494,-16.504566,125.820922,-15.103946",
     "geom:latitude":-15.691935,
     "geom:longitude":124.822521,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-15.566383,
     "lbl:longitude":124.67121,
     "mps:latitude":-15.566383,
     "mps:longitude":124.67121,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C2C7E4",
     "nativeland:description":"https://native-land.ca/maps/territories/worora/",
     "nativeland:id":36373,
@@ -22,18 +22,25 @@
     "nativeland:slug":"worora",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36373
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"afae55cc40148d293a756bcdf4e7ce63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619189
+        }
+    ],
     "wof:id":1796619189,
-    "wof:lastmodified":1668367750,
+    "wof:lastmodified":1668546101,
     "wof:name":"Worora",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

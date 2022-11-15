@@ -8,13 +8,13 @@
     "geom:bbox":"-88.993115,12.401358,-83.592384,17.724143",
     "geom:latitude":16.31995,
     "geom:longitude":-87.334764,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":16.323804,
     "lbl:longitude":-88.085466,
     "mps:latitude":16.323804,
     "mps:longitude":-88.085466,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#52B95C",
     "nativeland:description":"https://native-land.ca/maps/territories/garifuna/",
     "nativeland:id":33736,
@@ -22,18 +22,25 @@
     "nativeland:slug":"garifuna",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33736
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ca166db01282dc438e29f5583ae61f74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621305
+        }
+    ],
     "wof:id":1796621305,
-    "wof:lastmodified":1668367804,
+    "wof:lastmodified":1668546133,
     "wof:name":"Gar\u00ednagu",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

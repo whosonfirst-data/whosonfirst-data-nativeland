@@ -8,13 +8,13 @@
     "geom:bbox":"174.547119,-40.056046,175.486148,-39.273463",
     "geom:latitude":-39.639908,
     "geom:longitude":175.030902,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-39.722377,
     "lbl:longitude":175.102041,
     "mps:latitude":-39.722377,
     "mps:longitude":175.102041,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#0C8CBB",
     "nativeland:description":"https://native-land.ca/maps/territories/whanganui-land-settlement-lower-whanganui/",
     "nativeland:id":34007,
@@ -22,18 +22,25 @@
     "nativeland:slug":"whanganui-land-settlement-lower-whanganui",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34007
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"de09265077d5998bc1cb46bea1d18806",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620715
+        }
+    ],
     "wof:id":1796620715,
-    "wof:lastmodified":1668367788,
+    "wof:lastmodified":1668546115,
     "wof:name":"Whanganui Land Settlement (Lower Whanganui)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

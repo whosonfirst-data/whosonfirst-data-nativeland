@@ -8,13 +8,13 @@
     "geom:bbox":"139.680175,-38.09674,141.315765,-37.024483",
     "geom:latitude":-37.612786,
     "geom:longitude":140.428697,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-37.681475,
     "lbl:longitude":140.416306,
     "mps:latitude":-37.681475,
     "mps:longitude":140.416306,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#65B4D4",
     "nativeland:description":"https://native-land.ca/maps/territories/buandig/",
     "nativeland:id":36352,
@@ -22,18 +22,25 @@
     "nativeland:slug":"buandig",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36352
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"7147d4a3ba587b598312abb9f994eb07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619235
+        }
+    ],
     "wof:id":1796619235,
-    "wof:lastmodified":1668367751,
+    "wof:lastmodified":1668546084,
     "wof:name":"Buandig",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

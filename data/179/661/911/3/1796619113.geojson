@@ -8,13 +8,13 @@
     "geom:bbox":"-110.275537,28.772776,-104.651521,34.414354",
     "geom:latitude":31.307354,
     "geom:longitude":-107.672968,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":31.333556,
     "lbl:longitude":-107.864696,
     "mps:latitude":31.333556,
     "mps:longitude":-107.864696,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B7ECE1",
     "nativeland:description":"https://native-land.ca/maps/territories/chiricahua-apache/",
     "nativeland:id":36408,
@@ -22,18 +22,25 @@
     "nativeland:slug":"chiricahua-apache",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36408
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0958374bbbb393bd5a370ef871f72192",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619113
+        }
+    ],
     "wof:id":1796619113,
-    "wof:lastmodified":1668367748,
+    "wof:lastmodified":1668546100,
     "wof:name":"Chiricahua Apache",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

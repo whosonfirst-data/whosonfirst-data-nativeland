@@ -8,13 +8,13 @@
     "geom:bbox":"-81.472168,34.415816,-78.369954,36.870272",
     "geom:latitude":35.89087,
     "geom:longitude":-80.09514,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":35.909852,
     "lbl:longitude":-80.279796,
     "mps:latitude":35.909852,
     "mps:longitude":-80.279796,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#1F117D",
     "nativeland:description":"https://native-land.ca/maps/territories/cheraw/",
     "nativeland:id":36129,
@@ -22,18 +22,25 @@
     "nativeland:slug":"cheraw",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36129
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0a8deb33ab5c6a80d1399f4422ccc497",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619743
+        }
+    ],
     "wof:id":1796619743,
-    "wof:lastmodified":1668367763,
+    "wof:lastmodified":1668546102,
     "wof:name":"Cheraw",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

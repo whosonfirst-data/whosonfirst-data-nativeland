@@ -8,13 +8,13 @@
     "geom:bbox":"-102.831955,43.087535,-99.321247,45.127232",
     "geom:latitude":44.067522,
     "geom:longitude":-101.086611,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":44.105165,
     "lbl:longitude":-101.086611,
     "mps:latitude":44.105165,
     "mps:longitude":-101.086611,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#2CCD3C",
     "nativeland:description":"https://native-land.ca/maps/territories/mnicoujou/",
     "nativeland:id":33845,
@@ -22,18 +22,25 @@
     "nativeland:slug":"mnicoujou",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33845
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c4ee3bcaaf927cc7fdcb57753a529358",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621065
+        }
+    ],
     "wof:id":1796621065,
-    "wof:lastmodified":1668367797,
+    "wof:lastmodified":1668546132,
     "wof:name":"Mnicoujou",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-76.86137,37.994408,-76.50872,38.182337",
     "geom:latitude":38.092079,
     "geom:longitude":-76.690582,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":38.085325,
     "lbl:longitude":-76.67295,
     "mps:latitude":38.085325,
     "mps:longitude":-76.67295,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#38DAFF",
     "nativeland:description":"https://native-land.ca/maps/territories/onawmanient/",
     "nativeland:id":33826,
@@ -22,18 +22,25 @@
     "nativeland:slug":"onawmanient",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33826
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"f70ac666c6534f35ffa94b59010a8032",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621111
+        }
+    ],
     "wof:id":1796621111,
-    "wof:lastmodified":1668367799,
+    "wof:lastmodified":1668546125,
     "wof:name":"Onawmanient",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

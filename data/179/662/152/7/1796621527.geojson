@@ -8,13 +8,13 @@
     "geom:bbox":"-71.65456,42.252974,-70.553657,42.918077",
     "geom:latitude":42.589799,
     "geom:longitude":-71.151314,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":42.582186,
     "lbl:longitude":-71.151314,
     "mps:latitude":42.582186,
     "mps:longitude":-71.151314,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#6D7427",
     "nativeland:description":"https://native-land.ca/maps/territories/pawtucket/",
     "nativeland:id":33635,
@@ -22,18 +22,25 @@
     "nativeland:slug":"pawtucket",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33635
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"67bf8241d4f9832e522f55178d14b886",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621527
+        }
+    ],
     "wof:id":1796621527,
-    "wof:lastmodified":1668367810,
+    "wof:lastmodified":1668546131,
     "wof:name":"Pawtucket",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

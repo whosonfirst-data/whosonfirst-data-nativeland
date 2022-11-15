@@ -8,13 +8,13 @@
     "geom:bbox":"143.127136,-13.394963,143.594055,-12.795731",
     "geom:latitude":-13.085207,
     "geom:longitude":143.401567,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-13.083131,
     "lbl:longitude":143.401567,
     "mps:latitude":-13.083131,
     "mps:longitude":143.401567,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#D31B80",
     "nativeland:description":"https://native-land.ca/maps/territories/uutaalnganu/",
     "nativeland:id":36260,
@@ -22,18 +22,25 @@
     "nativeland:slug":"uutaalnganu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36260
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"49c4aba5a2bbc784d332cc749c859b66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619439
+        }
+    ],
     "wof:id":1796619439,
-    "wof:lastmodified":1668367756,
+    "wof:lastmodified":1668546105,
     "wof:name":"Uutaalnganu",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

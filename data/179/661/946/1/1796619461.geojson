@@ -8,13 +8,13 @@
     "geom:bbox":"-83.108257,40.921424,-78.232719,42.770397",
     "geom:latitude":41.697951,
     "geom:longitude":-80.401613,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":41.699627,
     "lbl:longitude":-80.235402,
     "mps:latitude":41.699627,
     "mps:longitude":-80.235402,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#2E2B87",
     "nativeland:description":"https://native-land.ca/maps/territories/erie/",
     "nativeland:id":36254,
@@ -22,18 +22,25 @@
     "nativeland:slug":"erie",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36254
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"526c88333e076bcbc15da4fa78056c70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619461
+        }
+    ],
     "wof:id":1796619461,
-    "wof:lastmodified":1668367756,
+    "wof:lastmodified":1668546083,
     "wof:name":"Erie",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

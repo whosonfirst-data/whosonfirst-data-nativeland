@@ -8,13 +8,13 @@
     "geom:bbox":"-91.928513,28.905619,-88.951675,31.266878",
     "geom:latitude":29.808632,
     "geom:longitude":-90.493489,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":29.454758,
     "lbl:longitude":-90.719243,
     "mps:latitude":29.454758,
     "mps:longitude":-90.719243,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#9B17D9",
     "nativeland:description":"https://native-land.ca/maps/territories/houma-2/",
     "nativeland:id":34079,
@@ -22,18 +22,25 @@
     "nativeland:slug":"houma-2",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":34079
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ad344d37d80b3203eb2dd0f01816f85c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620579
+        }
+    ],
     "wof:id":1796620579,
-    "wof:lastmodified":1668367784,
+    "wof:lastmodified":1668546142,
     "wof:name":"Houma",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

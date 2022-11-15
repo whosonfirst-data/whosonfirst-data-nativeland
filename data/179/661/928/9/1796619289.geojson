@@ -8,13 +8,13 @@
     "geom:bbox":"-123.860331,45.427504,-121.385204,47.17955",
     "geom:latitude":46.243236,
     "geom:longitude":-122.463294,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":46.099661,
     "lbl:longitude":-122.481435,
     "mps:latitude":46.099661,
     "mps:longitude":-122.481435,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#EFD5E9",
     "nativeland:description":"https://native-land.ca/maps/territories/cowlitz/",
     "nativeland:id":36329,
@@ -22,18 +22,25 @@
     "nativeland:slug":"cowlitz",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36329
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"12a30506f2342ffa4c7b7df0b1b8bea4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619289
+        }
+    ],
     "wof:id":1796619289,
-    "wof:lastmodified":1668367752,
+    "wof:lastmodified":1668546104,
     "wof:name":"Stl&#8217;pulmsh (Cowlitz)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

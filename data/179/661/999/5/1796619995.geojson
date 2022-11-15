@@ -8,13 +8,13 @@
     "geom:bbox":"-107.95166,29.045926,-103.618086,32.393808",
     "geom:latitude":31.035503,
     "geom:longitude":-106.262446,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":31.939958,
     "lbl:longitude":-107.199123,
     "mps:latitude":31.939958,
     "mps:longitude":-107.199123,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#99602B",
     "nativeland:description":"https://native-land.ca/maps/territories/pescado/",
     "nativeland:id":36016,
@@ -22,18 +22,25 @@
     "nativeland:slug":"pescado",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36016
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"5b9467aa8c7fcc7738b0e76842905321",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619995
+        }
+    ],
     "wof:id":1796619995,
-    "wof:lastmodified":1668367769,
+    "wof:lastmodified":1668546074,
     "wof:name":"Pescado",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

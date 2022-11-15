@@ -8,13 +8,13 @@
     "geom:bbox":"-61.816943,-28.40251,-57.170021,-23.403953",
     "geom:latitude":-25.985384,
     "geom:longitude":-59.571542,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-25.997241,
     "lbl:longitude":-59.536339,
     "mps:latitude":-25.997241,
     "mps:longitude":-59.536339,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#62031C",
     "nativeland:description":"https://native-land.ca/maps/territories/qom/",
     "nativeland:id":33590,
@@ -22,18 +22,25 @@
     "nativeland:slug":"qom",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33590
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"41c9987c94b84896c09644e4ab0bedd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621603
+        }
+    ],
     "wof:id":1796621603,
-    "wof:lastmodified":1668367812,
+    "wof:lastmodified":1668546110,
     "wof:name":"Qom",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

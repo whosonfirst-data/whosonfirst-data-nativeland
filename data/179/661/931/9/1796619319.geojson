@@ -8,13 +8,13 @@
     "geom:bbox":"-118.564453,33.669497,-113.856837,42.444459",
     "geom:latitude":38.219354,
     "geom:longitude":-116.235234,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":38.287243,
     "lbl:longitude":-116.42578,
     "mps:latitude":38.287243,
     "mps:longitude":-116.42578,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#4A0548",
     "nativeland:description":"https://native-land.ca/maps/territories/newe-western-shoshone/",
     "nativeland:id":36317,
@@ -22,18 +22,25 @@
     "nativeland:slug":"newe-western-shoshone",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36317
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"a4f66ef05cfd350f84771079e0f5b207",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619319
+        }
+    ],
     "wof:id":1796619319,
-    "wof:lastmodified":1668367753,
+    "wof:lastmodified":1668546069,
     "wof:name":"Newe Sogobia (Western Shoshone)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

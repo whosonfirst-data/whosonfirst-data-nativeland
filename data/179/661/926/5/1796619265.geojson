@@ -8,13 +8,13 @@
     "geom:bbox":"-124.790955,48.286848,-123.86261,48.861101",
     "geom:latitude":48.55857,
     "geom:longitude":-124.290481,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":48.574046,
     "lbl:longitude":-124.283448,
     "mps:latitude":48.574046,
     "mps:longitude":-124.283448,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B5152F",
     "nativeland:description":"https://native-land.ca/maps/territories/pacheedaht/",
     "nativeland:id":36342,
@@ -22,18 +22,25 @@
     "nativeland:slug":"pacheedaht",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36342
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"af4737b271d7177bf6bd07626dcbd21c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619265
+        }
+    ],
     "wof:id":1796619265,
-    "wof:lastmodified":1668367752,
+    "wof:lastmodified":1668546103,
     "wof:name":"Pacheedaht",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"143.315277,-14.362851,143.745117,-14.02202",
     "geom:latitude":-14.183031,
     "geom:longitude":143.547698,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-14.179379,
     "lbl:longitude":143.547698,
     "mps:latitude":-14.179379,
     "mps:longitude":143.547698,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B19843",
     "nativeland:description":"https://native-land.ca/maps/territories/umbindhamu/",
     "nativeland:id":36400,
@@ -22,18 +22,25 @@
     "nativeland:slug":"umbindhamu",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36400
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"9810a3ccc8f29a4771574fe2fbd7a135",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796619135
+        }
+    ],
     "wof:id":1796619135,
-    "wof:lastmodified":1668367749,
+    "wof:lastmodified":1668546087,
     "wof:name":"Umbindhamu",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

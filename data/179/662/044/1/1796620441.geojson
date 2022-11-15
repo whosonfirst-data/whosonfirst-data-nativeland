@@ -8,13 +8,13 @@
     "geom:bbox":"-81.479817,41.534107,-73.320535,45.684943",
     "geom:latitude":43.28499,
     "geom:longitude":-77.023716,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":42.889248,
     "lbl:longitude":-76.946009,
     "mps:latitude":42.889248,
     "mps:longitude":-76.946009,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C33BBF",
     "nativeland:description":"https://native-land.ca/maps/territories/haudenosauneega-confederacy/",
     "nativeland:id":35819,
@@ -22,18 +22,25 @@
     "nativeland:slug":"haudenosauneega-confederacy",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35819
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"7a859048b0829e203de6b1db25db614a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796620441
+        }
+    ],
     "wof:id":1796620441,
-    "wof:lastmodified":1668367780,
+    "wof:lastmodified":1668546137,
     "wof:name":"Ho-de-no-sau-nee-ga (Haudenosaunee)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

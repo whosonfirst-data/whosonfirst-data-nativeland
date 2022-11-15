@@ -8,13 +8,13 @@
     "geom:bbox":"-77.515427,0.771507,-76.856635,1.674699",
     "geom:latitude":1.242313,
     "geom:longitude":-77.176721,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":1.23662,
     "lbl:longitude":-77.182995,
     "mps:latitude":1.23662,
     "mps:longitude":-77.182995,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#69FB8F",
     "nativeland:description":"https://native-land.ca/maps/territories/quillacinga/",
     "nativeland:id":33670,
@@ -22,18 +22,25 @@
     "nativeland:slug":"quillacinga",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33670
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"d04b0bcd0f21a6a0b6367420553cdfdb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796621449
+        }
+    ],
     "wof:id":1796621449,
-    "wof:lastmodified":1668367808,
+    "wof:lastmodified":1668546126,
     "wof:name":"Quillacinga",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

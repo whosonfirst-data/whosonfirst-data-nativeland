@@ -8,13 +8,13 @@
     "geom:bbox":"-65.478516,9.709057,-58.447266,19.020577",
     "geom:latitude":14.863383,
     "geom:longitude":-61.521157,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":14.812261,
     "lbl:longitude":-60.988487,
     "mps:latitude":14.812261,
     "mps:longitude":-60.988487,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#B5C5E6",
     "nativeland:description":"https://native-land.ca/maps/territories/kalinago-island-carib/",
     "nativeland:id":36294,
@@ -22,18 +22,25 @@
     "nativeland:slug":"kalinago-island-carib",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36294
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"7f500b940db5fcd1145f0219776de663",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619371
+        }
+    ],
     "wof:id":1796619371,
-    "wof:lastmodified":1668367754,
+    "wof:lastmodified":1668546073,
     "wof:name":"Kalinago (Island Carib)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-122.816162,38.950865,-122.585449,39.147103",
     "geom:latitude":39.032201,
     "geom:longitude":-122.709877,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":39.029017,
     "lbl:longitude":-122.719216,
     "mps:latitude":39.029017,
     "mps:longitude":-122.719216,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#F75505",
     "nativeland:description":"https://native-land.ca/maps/territories/southeastern-pomo/",
     "nativeland:id":36659,
@@ -22,18 +22,25 @@
     "nativeland:slug":"southeastern-pomo",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36659
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"c09921e6b2aa051f38d447846a06ba00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618551
+        }
+    ],
     "wof:id":1796618551,
-    "wof:lastmodified":1668367735,
+    "wof:lastmodified":1668546099,
     "wof:name":"Southeastern Pomo",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

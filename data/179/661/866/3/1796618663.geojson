@@ -8,13 +8,13 @@
     "geom:bbox":"-130.48733,54.511036,-127.783952,57.171529",
     "geom:latitude":55.94062,
     "geom:longitude":-129.268043,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":56.008666,
     "lbl:longitude":-129.268147,
     "mps:latitude":56.008666,
     "mps:longitude":-129.268147,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E0C366",
     "nativeland:description":"https://native-land.ca/maps/territories/nisgaa/",
     "nativeland:id":36613,
@@ -22,18 +22,25 @@
     "nativeland:slug":"nisg%cc%b1aa",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36613
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"1d141728309b3c326b0b01a76d69256d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796618663
+        }
+    ],
     "wof:id":1796618663,
-    "wof:lastmodified":1668367738,
+    "wof:lastmodified":1668546078,
     "wof:name":"Nisg\u0331a&#8217;a",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

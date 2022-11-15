@@ -8,13 +8,13 @@
     "geom:bbox":"-108.951776,29.798304,-104.03878,31.808147",
     "geom:latitude":30.723732,
     "geom:longitude":-106.362806,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":31.002985,
     "lbl:longitude":-106.316016,
     "mps:latitude":31.002985,
     "mps:longitude":-106.316016,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#5DD2E5",
     "nativeland:description":"https://native-land.ca/maps/territories/sumas/",
     "nativeland:id":36059,
@@ -22,18 +22,25 @@
     "nativeland:slug":"sumas",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36059
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"ecf2677a228b572d076b8201cb60d9d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619889
+        }
+    ],
     "wof:id":1796619889,
-    "wof:lastmodified":1668367767,
+    "wof:lastmodified":1668546105,
     "wof:name":"Sumas",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

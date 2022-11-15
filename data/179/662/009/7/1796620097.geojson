@@ -8,13 +8,13 @@
     "geom:bbox":"122.107543,-17.3952,122.923278,-16.891287",
     "geom:latitude":-17.180159,
     "geom:longitude":122.504719,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":-17.167493,
     "lbl:longitude":122.471701,
     "mps:latitude":-17.167493,
     "mps:longitude":122.471701,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#5B5BA4",
     "nativeland:description":"https://native-land.ca/maps/territories/jabirrjabirr/",
     "nativeland:id":35969,
@@ -22,18 +22,25 @@
     "nativeland:slug":"jabirrjabirr",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":35969
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"61d0bd20600fa8e25d3485c497d3f3bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":1796620097
+        }
+    ],
     "wof:id":1796620097,
-    "wof:lastmodified":1668367772,
+    "wof:lastmodified":1668546119,
     "wof:name":"Jabirrjabirr",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

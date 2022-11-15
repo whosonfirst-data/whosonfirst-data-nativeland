@@ -8,13 +8,13 @@
     "geom:bbox":"-79.136559,-0.588494,-73.802053,9.485534",
     "geom:latitude":4.793481,
     "geom:longitude":-76.568171,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":6.865386,
     "lbl:longitude":-75.94166,
     "mps:latitude":6.865386,
     "mps:longitude":-75.94166,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#C46403",
     "nativeland:description":"https://native-land.ca/maps/territories/embera/",
     "nativeland:id":36284,
@@ -22,18 +22,25 @@
     "nativeland:slug":"embera",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36284
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"afc78482211b1f8f4c4750a63bfaf5d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":1796619389
+        }
+    ],
     "wof:id":1796619389,
-    "wof:lastmodified":1668367755,
+    "wof:lastmodified":1668546069,
     "wof:name":"Ember\u00e1/Eperara/\u00c9pera",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191577,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

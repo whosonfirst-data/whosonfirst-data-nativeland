@@ -8,13 +8,13 @@
     "geom:bbox":"-76.564178,36.088219,-76.029098,36.493307",
     "geom:latitude":36.275367,
     "geom:longitude":-76.323656,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":36.271857,
     "lbl:longitude":-76.328752,
     "mps:latitude":36.271857,
     "mps:longitude":-76.328752,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E1A6B7",
     "nativeland:description":"https://native-land.ca/maps/territories/pasquotank/",
     "nativeland:id":33814,
@@ -22,18 +22,25 @@
     "nativeland:slug":"pasquotank",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":33814
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"0c63efac12170c64f1f148081333c475",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796621131
+        }
+    ],
     "wof:id":1796621131,
-    "wof:lastmodified":1668367799,
+    "wof:lastmodified":1668546148,
     "wof:name":"Pasquotank",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],

@@ -8,13 +8,13 @@
     "geom:bbox":"-113.754485,33.862131,-84.427331,53.992451",
     "geom:latitude":44.897138,
     "geom:longitude":-99.492146,
-    "iso:country":"",
+    "iso:country":"XY",
     "lbl:latitude":45.006467,
     "lbl:longitude":-99.717282,
     "mps:latitude":45.006467,
     "mps:longitude":-99.717282,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "nativeland:color":"#E264F7",
     "nativeland:description":"https://native-land.ca/maps/territories/oceti-sakowin-sioux/",
     "nativeland:id":36082,
@@ -22,18 +22,25 @@
     "nativeland:slug":"oceti-sakowin-sioux",
     "src:geom":"nativeland",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nativeland:id":36082
     },
-    "wof:country":"",
+    "wof:country":"XY",
     "wof:geomhash":"911c85e0ca447e4759e0c95e6f7b32b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":1796619845
+        }
+    ],
     "wof:id":1796619845,
-    "wof:lastmodified":1668367766,
+    "wof:lastmodified":1668546083,
     "wof:name":"O\u010dh\u00e9thi \u0160ak\u00f3wi\u014b",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
