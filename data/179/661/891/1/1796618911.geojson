@@ -2,8 +2,8 @@
   "id": 1796618911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.285293,
     "geom:bbox":"117.526245,-33.169744,120.415649,-30.836215",
     "geom:latitude":-32.259677,
@@ -14,7 +14,7 @@
     "mps:latitude":-32.32559,
     "mps:longitude":118.836302,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E7B2CB",
     "nativeland:description":"https://native-land.ca/maps/territories/nyaki-nyaki/",
     "nativeland:id":36500,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618911,
-    "wof:lastmodified":1668546098,
+    "wof:lastmodified":1668985041,
     "wof:name":"Nyaki-nyaki",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

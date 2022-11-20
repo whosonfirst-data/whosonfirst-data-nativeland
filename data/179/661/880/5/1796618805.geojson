@@ -2,8 +2,8 @@
   "id": 1796618805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.443611,
     "geom:bbox":"149.088468,-37.512232,150.856615,-34.745562",
     "geom:latitude":-36.00536,
@@ -14,7 +14,7 @@
     "mps:latitude":-36.011865,
     "mps:longitude":149.772234,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#39F796",
     "nativeland:description":"https://native-land.ca/maps/territories/yuin/",
     "nativeland:id":36548,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618805,
-    "wof:lastmodified":1668546076,
+    "wof:lastmodified":1668985017,
     "wof:name":"Yuin",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

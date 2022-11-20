@@ -2,8 +2,8 @@
   "id": 1796618479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.033094,
     "geom:bbox":"142.80181,-10.086608,143.178013,-9.958164",
     "geom:latitude":-10.031232,
@@ -14,7 +14,7 @@
     "mps:latitude":-10.033003,
     "mps:longitude":143.007273,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/territories/porumalgal/",
     "nativeland:id":37469,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618479,
-    "wof:lastmodified":1668546096,
+    "wof:lastmodified":1668985039,
     "wof:name":"Porumalgal",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

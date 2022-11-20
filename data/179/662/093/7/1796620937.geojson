@@ -2,8 +2,8 @@
   "id": 1796620937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.115277,
     "geom:bbox":"-124.011829,45.069818,-123.373465,45.43019",
     "geom:latitude":45.269046,
@@ -14,7 +14,7 @@
     "mps:latitude":45.287994,
     "mps:longitude":-123.778988,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#31716E",
     "nativeland:description":"https://native-land.ca/maps/territories/nestucca/",
     "nativeland:id":33907,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620937,
-    "wof:lastmodified":1668546144,
+    "wof:lastmodified":1668985088,
     "wof:name":"Nestucca",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.601452,
     "geom:bbox":"-121.981201,38.462192,-120.025635,39.766325",
     "geom:latitude":39.018516,
@@ -14,7 +14,7 @@
     "mps:latitude":39.05239,
     "mps:longitude":-120.867466,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#FABD8F",
     "nativeland:description":"https://native-land.ca/maps/territories/nisenan/",
     "nativeland:id":36442,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619035,
-    "wof:lastmodified":1668546090,
+    "wof:lastmodified":1668985033,
     "wof:name":"Nisenan",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

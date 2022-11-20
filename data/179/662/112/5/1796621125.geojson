@@ -2,8 +2,8 @@
   "id": 1796621125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.313283,
     "geom:bbox":"-80.446737,38.743551,-77.559861,40.151258",
     "geom:latitude":39.459634,
@@ -14,7 +14,7 @@
     "mps:latitude":39.467188,
     "mps:longitude":-79.092769,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#BC447A",
     "nativeland:description":"https://native-land.ca/maps/territories/massawomeck/",
     "nativeland:id":33817,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621125,
-    "wof:lastmodified":1668546145,
+    "wof:lastmodified":1668985089,
     "wof:name":"Massawomeck",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

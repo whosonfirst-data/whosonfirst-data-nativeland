@@ -2,8 +2,8 @@
   "id": 1796620611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.194766,
     "geom:bbox":"-72.088857,43.739635,-69.032525,46.896588",
     "geom:latitude":45.483829,
@@ -14,7 +14,7 @@
     "mps:latitude":45.539449,
     "mps:longitude":-70.306104,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#067369",
     "nativeland:description":"https://native-land.ca/maps/territories/nanrantsouak/",
     "nativeland:id":34057,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620611,
-    "wof:lastmodified":1668546141,
+    "wof:lastmodified":1668985084,
     "wof:name":"Nanrantsouak",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

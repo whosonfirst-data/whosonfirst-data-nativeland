@@ -2,8 +2,8 @@
   "id": 1796619467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.591175,
     "geom:bbox":"-77.438073,6.965114,-76.487882,8.679287",
     "geom:latitude":7.958806,
@@ -14,7 +14,7 @@
     "mps:latitude":8.333742,
     "mps:longitude":-76.939309,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#91DB92",
     "nativeland:description":"https://native-land.ca/maps/territories/guna-dule/",
     "nativeland:id":36250,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619467,
-    "wof:lastmodified":1668546083,
+    "wof:lastmodified":1668985025,
     "wof:name":"Gunadule (Kuna-Tule)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

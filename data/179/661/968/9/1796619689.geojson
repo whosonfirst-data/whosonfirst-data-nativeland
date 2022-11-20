@@ -2,8 +2,8 @@
   "id": 1796619689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.707391,
     "geom:bbox":"-122.860107,48.063397,-121.245117,48.69096",
     "geom:latitude":48.400616,
@@ -14,7 +14,7 @@
     "mps:latitude":48.394802,
     "mps:longitude":-122.022264,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D87992",
     "nativeland:description":"https://native-land.ca/maps/territories/skagit/",
     "nativeland:id":36151,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619689,
-    "wof:lastmodified":1668546088,
+    "wof:lastmodified":1668985031,
     "wof:name":"Skagit",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

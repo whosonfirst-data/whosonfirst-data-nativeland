@@ -2,8 +2,8 @@
   "id": 1796619093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.604864,
     "geom:bbox":"-118.163452,44.606113,-114.257813,46.950262",
     "geom:latitude":45.747126,
@@ -14,7 +14,7 @@
     "mps:latitude":45.683441,
     "mps:longitude":-116.049948,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#105F8F",
     "nativeland:description":"https://native-land.ca/maps/territories/nimiipuu-nez-perce/",
     "nativeland:id":36416,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619093,
-    "wof:lastmodified":1668546068,
+    "wof:lastmodified":1668985007,
     "wof:name":"Nimiipuu (Nez Perce)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

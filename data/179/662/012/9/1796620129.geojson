@@ -2,8 +2,8 @@
   "id": 1796620129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.914863,
     "geom:bbox":"148.30345,-27.995081,149.671336,-26.009182",
     "geom:latitude":-26.967902,
@@ -14,7 +14,7 @@
     "mps:latitude":-26.957001,
     "mps:longitude":149.071754,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#1F0D0B",
     "nativeland:description":"https://native-land.ca/maps/territories/mandandanji/",
     "nativeland:id":35955,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620129,
-    "wof:lastmodified":1668546112,
+    "wof:lastmodified":1668985055,
     "wof:name":"Mandandanji",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.68682,
     "geom:bbox":"-114.601938,29.290175,-111.997153,32.89087",
     "geom:latitude":31.359193,
@@ -14,7 +14,7 @@
     "mps:latitude":31.899453,
     "mps:longitude":-113.351917,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E3BE29",
     "nativeland:description":"https://native-land.ca/maps/territories/hia-ced-oodham/",
     "nativeland:id":36169,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619651,
-    "wof:lastmodified":1668546071,
+    "wof:lastmodified":1668985011,
     "wof:name":"Hia-Ced O&#8217;odham",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

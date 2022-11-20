@@ -2,8 +2,8 @@
   "id": 1796618797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.28031,
     "geom:bbox":"-125.211182,48.516604,-123.97522,49.115231",
     "geom:latitude":48.793572,
@@ -14,7 +14,7 @@
     "mps:latitude":48.672591,
     "mps:longitude":-124.874247,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#98B058",
     "nativeland:description":"https://native-land.ca/maps/territories/ditidaht/",
     "nativeland:id":36550,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618797,
-    "wof:lastmodified":1668546094,
+    "wof:lastmodified":1668985037,
     "wof:name":"ditidaqiic\u0313aq disib\u0313a\u0294k (Ditidaht)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

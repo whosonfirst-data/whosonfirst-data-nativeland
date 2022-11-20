@@ -2,8 +2,8 @@
   "id": 1796620475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.191637,
     "geom:bbox":"-77.06344,-2.982867,-76.332443,-1.937234",
     "geom:latitude":-2.529087,
@@ -14,7 +14,7 @@
     "mps:latitude":-2.779445,
     "mps:longitude":-76.515013,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#F4C2C2",
     "nativeland:description":"https://native-land.ca/maps/territories/andoa/",
     "nativeland:id":34128,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620475,
-    "wof:lastmodified":1668546117,
+    "wof:lastmodified":1668985060,
     "wof:name":"Andoa",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

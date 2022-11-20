@@ -2,8 +2,8 @@
   "id": 1796621721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.115201,
     "geom:bbox":"-63.11785,-11.41921,-62.661685,-11.036826",
     "geom:latitude":-11.243657,
@@ -14,7 +14,7 @@
     "mps:latitude":-11.267734,
     "mps:longitude":-62.952117,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#5A71DD",
     "nativeland:description":"https://native-land.ca/maps/territories/envuga-kawahib/",
     "nativeland:id":33504,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621721,
-    "wof:lastmodified":1668546126,
+    "wof:lastmodified":1668985070,
     "wof:name":"Envuga (Kawahib)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

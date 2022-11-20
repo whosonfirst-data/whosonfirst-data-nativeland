@@ -2,8 +2,8 @@
   "id": 1796619763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.228324,
     "geom:bbox":"-97.253512,34.900023,-96.775531,35.543938",
     "geom:latitude":35.176982,
@@ -14,7 +14,7 @@
     "mps:latitude":35.144994,
     "mps:longitude":-97.051886,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#DC58D9",
     "nativeland:description":"https://native-land.ca/maps/territories/potawatomi-shawnee-oklahoma/",
     "nativeland:id":36120,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619763,
-    "wof:lastmodified":1668546087,
+    "wof:lastmodified":1668985029,
     "wof:name":"Potawatomi-Shawnee (Oklahoma)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

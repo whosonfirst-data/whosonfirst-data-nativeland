@@ -2,8 +2,8 @@
   "id": 1796620931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.132076,
     "geom:bbox":"-124.003485,45.649218,-123.266222,45.947593",
     "geom:latitude":45.762598,
@@ -14,7 +14,7 @@
     "mps:latitude":45.766055,
     "mps:longitude":-123.775508,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#84CC0F",
     "nativeland:description":"https://native-land.ca/maps/territories/nehalem/",
     "nativeland:id":33909,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620931,
-    "wof:lastmodified":1668546144,
+    "wof:lastmodified":1668985088,
     "wof:name":"Nehalem",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

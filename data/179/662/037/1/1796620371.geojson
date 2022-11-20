@@ -2,8 +2,8 @@
   "id": 1796620371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.251304,
     "geom:bbox":"-121.915987,36.037057,-121.139344,36.553709",
     "geom:latitude":36.293114,
@@ -14,7 +14,7 @@
     "mps:latitude":36.296052,
     "mps:longitude":-121.551255,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#3FA5D5",
     "nativeland:description":"https://native-land.ca/maps/territories/esselen/",
     "nativeland:id":35847,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620371,
-    "wof:lastmodified":1668546122,
+    "wof:lastmodified":1668985066,
     "wof:name":"Esselen",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

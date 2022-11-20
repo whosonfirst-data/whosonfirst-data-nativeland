@@ -2,8 +2,8 @@
   "id": 1796619819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.770065,
     "geom:bbox":"122.76123,-27.469287,127.430419,-24.196868",
     "geom:latitude":-25.701673,
@@ -14,7 +14,7 @@
     "mps:latitude":-25.586583,
     "mps:longitude":124.039924,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#FFA26E",
     "nativeland:description":"https://native-land.ca/maps/territories/ngaanyatjarra/",
     "nativeland:id":36094,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619819,
-    "wof:lastmodified":1668546105,
+    "wof:lastmodified":1668985048,
     "wof:name":"Ngaanyatjarra",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

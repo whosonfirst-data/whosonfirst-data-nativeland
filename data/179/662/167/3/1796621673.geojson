@@ -2,8 +2,8 @@
   "id": 1796621673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":9.120258,
     "geom:bbox":"-81.649146,47.938475,-77.737599,50.762621",
     "geom:latitude":49.370082,
@@ -14,7 +14,7 @@
     "mps:latitude":49.442982,
     "mps:longitude":-79.656381,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#52BE93",
     "nativeland:description":"https://native-land.ca/maps/territories/abitibiwinni-aki/",
     "nativeland:id":33530,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621673,
-    "wof:lastmodified":1668546110,
+    "wof:lastmodified":1668985053,
     "wof:name":"Abitibiwinni Aki",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

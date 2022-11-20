@@ -2,8 +2,8 @@
   "id": 1796620333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.314873,
     "geom:bbox":"139.537353,-30.230594,141.108398,-28.835049",
     "geom:latitude":-29.326457,
@@ -14,7 +14,7 @@
     "mps:latitude":-29.351447,
     "mps:longitude":140.468224,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#ED59A5",
     "nativeland:description":"https://native-land.ca/maps/territories/pirlatapa/",
     "nativeland:id":35867,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620333,
-    "wof:lastmodified":1668546143,
+    "wof:lastmodified":1668985086,
     "wof:name":"Pirlatapa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

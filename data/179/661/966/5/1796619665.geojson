@@ -2,8 +2,8 @@
   "id": 1796619665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.88773,
     "geom:bbox":"-91.74163,14.024721,-90.48793,15.517189",
     "geom:latitude":14.900131,
@@ -14,7 +14,7 @@
     "mps:latitude":15.168772,
     "mps:longitude":-91.124814,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#9DFF7E",
     "nativeland:description":"https://native-land.ca/maps/territories/kiche/",
     "nativeland:id":36164,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619665,
-    "wof:lastmodified":1668546089,
+    "wof:lastmodified":1668985032,
     "wof:name":"K&#8217;iche&#8217;",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

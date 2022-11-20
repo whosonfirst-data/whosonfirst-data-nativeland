@@ -2,8 +2,8 @@
   "id": 1796620097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.294126,
     "geom:bbox":"122.107543,-17.3952,122.923278,-16.891287",
     "geom:latitude":-17.180159,
@@ -14,7 +14,7 @@
     "mps:latitude":-17.167493,
     "mps:longitude":122.471701,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#5B5BA4",
     "nativeland:description":"https://native-land.ca/maps/territories/jabirrjabirr/",
     "nativeland:id":35969,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620097,
-    "wof:lastmodified":1668546119,
+    "wof:lastmodified":1668985063,
     "wof:name":"Jabirrjabirr",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

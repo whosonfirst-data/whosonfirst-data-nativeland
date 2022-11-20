@@ -2,8 +2,8 @@
   "id": 1796620283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.21547,
     "geom:bbox":"-122.585449,37.134045,-122.058105,37.866181",
     "geom:latitude":37.478623,
@@ -14,7 +14,7 @@
     "mps:latitude":37.470976,
     "mps:longitude":-122.351128,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D04EC6",
     "nativeland:description":"https://native-land.ca/maps/territories/ramaytush/",
     "nativeland:id":35888,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620283,
-    "wof:lastmodified":1668546138,
+    "wof:lastmodified":1668985082,
     "wof:name":"Ramaytush",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796620483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":5.191548,
     "geom:bbox":"-69.964177,0.958648,-66.732021,3.853228",
     "geom:latitude":2.181454,
@@ -14,7 +14,7 @@
     "mps:latitude":2.07654,
     "mps:longitude":-67.733021,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#21E04C",
     "nativeland:description":"https://native-land.ca/maps/territories/kurripako/",
     "nativeland:id":34126,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620483,
-    "wof:lastmodified":1668546113,
+    "wof:lastmodified":1668985056,
     "wof:name":"Wakuenai/Walimanai (Kuripako)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

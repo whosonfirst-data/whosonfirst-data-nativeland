@@ -2,8 +2,8 @@
   "id": 1796619085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":19.085457,
     "geom:bbox":"-80.613187,44.47979,-73.449601,49.228251",
     "geom:latitude":46.853625,
@@ -14,7 +14,7 @@
     "mps:latitude":46.887513,
     "mps:longitude":-77.717061,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B1CFCB",
     "nativeland:description":"https://native-land.ca/maps/territories/algonquin/",
     "nativeland:id":36419,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619085,
-    "wof:lastmodified":1668546072,
+    "wof:lastmodified":1668985013,
     "wof:name":"Om\u00e0m\u00ecwinin\u00ecwag (Algonquin)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

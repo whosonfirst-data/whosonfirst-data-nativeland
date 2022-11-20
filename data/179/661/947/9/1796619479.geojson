@@ -2,8 +2,8 @@
   "id": 1796619479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.660868,
     "geom:bbox":"-134.34082,59.970004,-130.495605,61.710706",
     "geom:latitude":60.787321,
@@ -14,7 +14,7 @@
     "mps:latitude":60.790414,
     "mps:longitude":-132.455963,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#9CF480",
     "nativeland:description":"https://native-land.ca/maps/territories/teslin-tlingit/",
     "nativeland:id":36244,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619479,
-    "wof:lastmodified":1668546085,
+    "wof:lastmodified":1668985028,
     "wof:name":"Teslin Tlingit Council (Yukon)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

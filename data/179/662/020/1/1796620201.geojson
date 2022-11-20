@@ -2,8 +2,8 @@
   "id": 1796620201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.298511,
     "geom:bbox":"-123.148499,49.010852,-122.308044,49.922935",
     "geom:latitude":49.421209,
@@ -14,7 +14,7 @@
     "mps:latitude":49.364201,
     "mps:longitude":-122.547669,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#8C42F2",
     "nativeland:description":"https://native-land.ca/maps/territories/katzie/",
     "nativeland:id":35920,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620201,
-    "wof:lastmodified":1668546135,
+    "wof:lastmodified":1668985078,
     "wof:name":"sq\u0313\u0259c\u0313iy\u0313a\u0241\u026c t\u0259m\u0259x\u02b7 (Katzie)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

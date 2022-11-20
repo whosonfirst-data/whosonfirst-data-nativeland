@@ -2,8 +2,8 @@
   "id": 1796620299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.093299,
     "geom:bbox":"143.865966,-17.460712,145.552368,-15.379543",
     "geom:latitude":-16.532247,
@@ -14,7 +14,7 @@
     "mps:latitude":-16.605801,
     "mps:longitude":144.703784,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E51F65",
     "nativeland:description":"https://native-land.ca/maps/territories/kuku-yalanji/",
     "nativeland:id":35876,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620299,
-    "wof:lastmodified":1668546136,
+    "wof:lastmodified":1668985080,
     "wof:name":"Kuku-yalanji",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796621045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.395515,
     "geom:bbox":"-123.889046,52.476953,-118.451147,54.972008",
     "geom:latitude":53.750139,
@@ -14,7 +14,7 @@
     "mps:latitude":53.879606,
     "mps:longitude":-120.868544,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#5298AF",
     "nativeland:description":"https://native-land.ca/maps/territories/lheidli-tenneh/",
     "nativeland:id":33855,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621045,
-    "wof:lastmodified":1668546107,
+    "wof:lastmodified":1668985050,
     "wof:name":"Lheidli T&#8217;enneh",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

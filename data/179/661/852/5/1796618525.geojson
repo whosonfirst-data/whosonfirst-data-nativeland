@@ -2,8 +2,8 @@
   "id": 1796618525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.760249,
     "geom:bbox":"142.82297,-37.478458,144.719082,-36.099247",
     "geom:latitude":-36.734616,
@@ -14,7 +14,7 @@
     "mps:latitude":-36.73406,
     "mps:longitude":143.869737,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#5B569A",
     "nativeland:description":"https://native-land.ca/maps/territories/djadjawurung/",
     "nativeland:id":36673,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618525,
-    "wof:lastmodified":1668546099,
+    "wof:lastmodified":1668985042,
     "wof:name":"Dja Dja Wurrung",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

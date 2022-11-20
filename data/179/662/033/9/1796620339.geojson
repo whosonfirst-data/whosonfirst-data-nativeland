@@ -2,8 +2,8 @@
   "id": 1796620339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.487588,
     "geom:bbox":"145.681148,-19.63917,146.728558,-18.427535",
     "geom:latitude":-19.006637,
@@ -14,7 +14,7 @@
     "mps:latitude":-19.047667,
     "mps:longitude":146.059593,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#192A5F",
     "nativeland:description":"https://native-land.ca/maps/territories/nyawaygi/",
     "nativeland:id":35863,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620339,
-    "wof:lastmodified":1668546142,
+    "wof:lastmodified":1668985086,
     "wof:name":"Nyawaygi",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

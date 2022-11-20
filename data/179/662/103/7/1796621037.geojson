@@ -2,8 +2,8 @@
   "id": 1796621037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.893961,
     "geom:bbox":"-71.907676,18.345617,-69.07296,20.021804",
     "geom:latitude":19.243354,
@@ -14,7 +14,7 @@
     "mps:latitude":19.461372,
     "mps:longitude":-70.566322,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E46A30",
     "nativeland:description":"https://native-land.ca/maps/territories/macorix/",
     "nativeland:id":33860,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621037,
-    "wof:lastmodified":1668546107,
+    "wof:lastmodified":1668985050,
     "wof:name":"Macorix",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

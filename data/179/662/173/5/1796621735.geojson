@@ -2,8 +2,8 @@
   "id": 1796621735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.020925,
     "geom:bbox":"-62.575967,-11.994645,-62.406483,-11.836454",
     "geom:latitude":-11.911825,
@@ -14,7 +14,7 @@
     "mps:latitude":-11.911431,
     "mps:longitude":-62.487835,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#DF1780",
     "nativeland:description":"https://native-land.ca/maps/territories/arua/",
     "nativeland:id":33494,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621735,
-    "wof:lastmodified":1668546124,
+    "wof:lastmodified":1668985067,
     "wof:name":"Aru\u00e1",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

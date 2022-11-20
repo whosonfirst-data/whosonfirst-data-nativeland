@@ -2,8 +2,8 @@
   "id": 1796618933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.03367,
     "geom:bbox":"-123.057861,49.181255,-122.78183,49.374326",
     "geom:latitude":49.270708,
@@ -14,7 +14,7 @@
     "mps:latitude":49.25861,
     "mps:longitude":-122.924103,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#520E87",
     "nativeland:description":"https://native-land.ca/maps/territories/qayqayt/",
     "nativeland:id":36487,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618933,
-    "wof:lastmodified":1668546081,
+    "wof:lastmodified":1668985023,
     "wof:name":"Qayqayt",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

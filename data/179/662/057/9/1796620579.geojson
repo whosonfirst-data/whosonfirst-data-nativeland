@@ -2,8 +2,8 @@
   "id": 1796620579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.699187,
     "geom:bbox":"-91.928513,28.905619,-88.951675,31.266878",
     "geom:latitude":29.808632,
@@ -14,7 +14,7 @@
     "mps:latitude":29.454758,
     "mps:longitude":-90.719243,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#9B17D9",
     "nativeland:description":"https://native-land.ca/maps/territories/houma-2/",
     "nativeland:id":34079,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620579,
-    "wof:lastmodified":1668546142,
+    "wof:lastmodified":1668985085,
     "wof:name":"Houma",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

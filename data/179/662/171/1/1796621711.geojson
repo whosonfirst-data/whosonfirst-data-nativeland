@@ -2,8 +2,8 @@
   "id": 1796621711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.127777,
     "geom:bbox":"-63.019347,-8.720372,-62.094921,-6.767516",
     "geom:latitude":-7.662816,
@@ -14,7 +14,7 @@
     "mps:latitude":-7.462552,
     "mps:longitude":-62.607496,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#5B050C",
     "nativeland:description":"https://native-land.ca/maps/territories/kagwahiva-parintintin/",
     "nativeland:id":33510,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621711,
-    "wof:lastmodified":1668546149,
+    "wof:lastmodified":1668985093,
     "wof:name":"Kawahib (Parintintin)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

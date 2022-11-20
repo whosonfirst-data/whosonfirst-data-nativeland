@@ -2,8 +2,8 @@
   "id": 1796620067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.748251,
     "geom:bbox":"-123.189697,39.436193,-121.948242,40.388397",
     "geom:latitude":39.94683,
@@ -14,7 +14,7 @@
     "mps:latitude":39.949003,
     "mps:longitude":-122.589985,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#5497F7",
     "nativeland:description":"https://native-land.ca/maps/territories/nomlaki/",
     "nativeland:id":35984,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620067,
-    "wof:lastmodified":1668546123,
+    "wof:lastmodified":1668985066,
     "wof:name":"Nomlaki",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.11471,
     "geom:bbox":"133.725585,-12.286333,134.077148,-11.802834",
     "geom:latitude":-12.017974,
@@ -14,7 +14,7 @@
     "mps:latitude":-12.014999,
     "mps:longitude":133.89209,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#213A0F",
     "nativeland:description":"https://native-land.ca/maps/territories/gunbalang/",
     "nativeland:id":36192,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619597,
-    "wof:lastmodified":1668546089,
+    "wof:lastmodified":1668985032,
     "wof:name":"Gunbalang",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.438036,
     "geom:bbox":"115.697021,-24.642024,117.729492,-22.902743",
     "geom:latitude":-23.767312,
@@ -14,7 +14,7 @@
     "mps:latitude":-23.832066,
     "mps:longitude":116.754318,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#6BC3A1",
     "nativeland:description":"https://native-land.ca/maps/territories/thiin/",
     "nativeland:id":36201,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619577,
-    "wof:lastmodified":1668546088,
+    "wof:lastmodified":1668985031,
     "wof:name":"Thiin",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

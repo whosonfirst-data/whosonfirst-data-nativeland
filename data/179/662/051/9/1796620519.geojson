@@ -2,8 +2,8 @@
   "id": 1796620519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.762935,
     "geom:bbox":"-121.548229,42.007041,-119.817872,43.866912",
     "geom:latitude":43.018913,
@@ -14,7 +14,7 @@
     "mps:latitude":43.320765,
     "mps:longitude":-120.778498,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D2853C",
     "nativeland:description":"https://native-land.ca/maps/territories/yahooskin/",
     "nativeland:id":34108,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620519,
-    "wof:lastmodified":1668546144,
+    "wof:lastmodified":1668985088,
     "wof:name":"Yahooskin",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":26.351239,
     "geom:bbox":"-79.136559,-0.588494,-73.802053,9.485534",
     "geom:latitude":4.793481,
@@ -14,7 +14,7 @@
     "mps:latitude":6.865386,
     "mps:longitude":-75.94166,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C46403",
     "nativeland:description":"https://native-land.ca/maps/territories/embera/",
     "nativeland:id":36284,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619389,
-    "wof:lastmodified":1668546069,
+    "wof:lastmodified":1668985009,
     "wof:name":"Ember\u00e1/Eperara/\u00c9pera",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

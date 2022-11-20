@@ -2,8 +2,8 @@
   "id": 1796620727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.499101,
     "geom:bbox":"175.319881,-37.704374,176.011113,-36.460181",
     "geom:latitude":-37.122351,
@@ -14,7 +14,7 @@
     "mps:latitude":-37.085524,
     "mps:longitude":175.731493,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#CFBAFA",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-rahiri-tumutumu/",
     "nativeland:id":34001,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620727,
-    "wof:lastmodified":1668546137,
+    "wof:lastmodified":1668985081,
     "wof:name":"Ng\u0101ti R\u0101hiri Tumutumu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

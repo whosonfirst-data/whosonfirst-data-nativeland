@@ -2,8 +2,8 @@
   "id": 1796619913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.037715,
     "geom:bbox":"-73.747101,40.571197,-73.43399,40.809652",
     "geom:latitude":40.69887,
@@ -14,7 +14,7 @@
     "mps:latitude":40.713991,
     "mps:longitude":-73.546641,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#F65126",
     "nativeland:description":"https://native-land.ca/maps/territories/merrick/",
     "nativeland:id":36052,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619913,
-    "wof:lastmodified":1668546071,
+    "wof:lastmodified":1668985012,
     "wof:name":"Merrick",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

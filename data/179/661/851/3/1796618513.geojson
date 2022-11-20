@@ -2,8 +2,8 @@
   "id": 1796618513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.514745,
     "geom:bbox":"-120.486803,37.080276,-119.243961,37.844203",
     "geom:latitude":37.521516,
@@ -14,7 +14,7 @@
     "mps:latitude":37.447707,
     "mps:longitude":-119.91249,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#89BA4D",
     "nativeland:description":"https://native-land.ca/maps/territories/southern-sierra-miwok/",
     "nativeland:id":36678,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618513,
-    "wof:lastmodified":1668546080,
+    "wof:lastmodified":1668985021,
     "wof:name":"Me-Wuk (Southern Sierra Miwok)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

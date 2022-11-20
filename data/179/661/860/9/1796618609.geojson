@@ -2,8 +2,8 @@
   "id": 1796618609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.062186,
     "geom:bbox":"-121.982645,39.486684,-121.697377,39.785825",
     "geom:latitude":39.639766,
@@ -14,7 +14,7 @@
     "mps:latitude":39.640688,
     "mps:longitude":-121.841145,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#630A4E",
     "nativeland:description":"https://native-land.ca/maps/territories/mechoopda-maidu/",
     "nativeland:id":36637,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618609,
-    "wof:lastmodified":1668546081,
+    "wof:lastmodified":1668985022,
     "wof:name":"Mechoopda",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796620319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.375222,
     "geom:bbox":"130.223693,-13.915406,131.355285,-13.378931",
     "geom:latitude":-13.671052,
@@ -14,7 +14,7 @@
     "mps:latitude":-13.669432,
     "mps:longitude":130.530596,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#717379",
     "nativeland:description":"https://native-land.ca/maps/territories/malak-malak/",
     "nativeland:id":35869,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620319,
-    "wof:lastmodified":1668546120,
+    "wof:lastmodified":1668985063,
     "wof:name":"Malak malak",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

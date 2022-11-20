@@ -2,8 +2,8 @@
   "id": 1796621033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.071823,
     "geom:bbox":"-77.591565,38.216294,-77.239601,38.48906",
     "geom:latitude":38.352837,
@@ -14,7 +14,7 @@
     "mps:latitude":38.355662,
     "mps:longitude":-77.409798,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C0DB22",
     "nativeland:description":"https://native-land.ca/maps/territories/patawomeck/",
     "nativeland:id":33864,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621033,
-    "wof:lastmodified":1668546107,
+    "wof:lastmodified":1668985050,
     "wof:name":"Patawomeck",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

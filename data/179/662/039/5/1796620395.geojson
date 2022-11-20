@@ -2,8 +2,8 @@
   "id": 1796620395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":258.205442,
     "geom:bbox":"-118.311082,46.55886,-75.585938,59.265881",
     "geom:latitude":54.059974,
@@ -14,7 +14,7 @@
     "mps:latitude":54.194638,
     "mps:longitude":-100.88754,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#EC11D7",
     "nativeland:description":"https://native-land.ca/maps/territories/cree/",
     "nativeland:id":35833,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620395,
-    "wof:lastmodified":1668546123,
+    "wof:lastmodified":1668985066,
     "wof:name":"Cree",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

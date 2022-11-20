@@ -2,8 +2,8 @@
   "id": 1796618631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.741956,
     "geom:bbox":"-104.05014,20.505495,-102.25318,21.318801",
     "geom:latitude":20.878964,
@@ -14,7 +14,7 @@
     "mps:latitude":20.897297,
     "mps:longitude":-102.790573,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D26FA5",
     "nativeland:description":"https://native-land.ca/maps/territories/tecuexe/",
     "nativeland:id":36625,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618631,
-    "wof:lastmodified":1668546100,
+    "wof:lastmodified":1668985043,
     "wof:name":"Tecuexe",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

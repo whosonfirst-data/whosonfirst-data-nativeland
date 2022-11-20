@@ -2,8 +2,8 @@
   "id": 1796619679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.006999,
     "geom:bbox":"-94.89546,36.82023,-94.720403,36.879702",
     "geom:latitude":36.854866,
@@ -14,7 +14,7 @@
     "mps:latitude":36.849973,
     "mps:longitude":-94.784724,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#4A788B",
     "nativeland:description":"https://native-land.ca/maps/territories/ottawa-oklahoma/",
     "nativeland:id":36153,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619679,
-    "wof:lastmodified":1668546091,
+    "wof:lastmodified":1668985033,
     "wof:name":"Ottawa (Oklahoma)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

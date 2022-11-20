@@ -2,8 +2,8 @@
   "id": 1796618921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.008717,
     "geom:bbox":"-94.825877,36.768535,-94.618361,36.820249",
     "geom:latitude":36.796179,
@@ -14,7 +14,7 @@
     "mps:latitude":36.794647,
     "mps:longitude":-94.705782,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#A093A1",
     "nativeland:description":"https://native-land.ca/maps/territories/wyandotte-oklahoma/",
     "nativeland:id":36494,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618921,
-    "wof:lastmodified":1668546078,
+    "wof:lastmodified":1668985020,
     "wof:name":"Wyandotte (Oklahoma)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1264.206061,
     "geom:bbox":"-141.151329,53.095123,-57.009583,83.327297",
     "geom:latitude":69.310921,
@@ -14,7 +14,7 @@
     "mps:latitude":70.658614,
     "mps:longitude":-88.663478,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0CFFB1",
     "nativeland:description":"https://native-land.ca/maps/territories/inuit/",
     "nativeland:id":36380,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619181,
-    "wof:lastmodified":1668546102,
+    "wof:lastmodified":1668985044,
     "wof:name":"Inuit Nunangat \u1403\u14c4\u1403\u1466 \u14c4\u14c7\u1593\u1466",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

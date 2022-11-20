@@ -2,8 +2,8 @@
   "id": 1796621531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":25.422597,
     "geom:bbox":"-85.070577,41.219543,-75.469168,46.662364",
     "geom:latitude":43.927786,
@@ -14,7 +14,7 @@
     "mps:latitude":43.428307,
     "mps:longitude":-81.156619,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#69B2E9",
     "nativeland:description":"https://native-land.ca/maps/territories/mississauga/",
     "nativeland:id":33631,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621531,
-    "wof:lastmodified":1668546128,
+    "wof:lastmodified":1668985072,
     "wof:name":"Mississauga",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

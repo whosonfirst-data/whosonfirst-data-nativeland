@@ -2,8 +2,8 @@
   "id": 1796620947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.893125,
     "geom:bbox":"-80.770381,43.673428,-79.507294,44.632367",
     "geom:latitude":44.091486,
@@ -14,7 +14,7 @@
     "mps:latitude":44.111732,
     "mps:longitude":-80.221548,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B850A6",
     "nativeland:description":"https://native-land.ca/maps/territories/petun/",
     "nativeland:id":33900,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620947,
-    "wof:lastmodified":1668546145,
+    "wof:lastmodified":1668985089,
     "wof:name":"Petun",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

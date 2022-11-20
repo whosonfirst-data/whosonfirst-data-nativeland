@@ -2,8 +2,8 @@
   "id": 1796620461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.733561,
     "geom:bbox":"-107.849477,31.550467,-106.032645,33.306751",
     "geom:latitude":32.398867,
@@ -14,7 +14,7 @@
     "mps:latitude":32.348753,
     "mps:longitude":-107.016817,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#3160AC",
     "nativeland:description":"https://native-land.ca/maps/territories/mansos/",
     "nativeland:id":35808,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620461,
-    "wof:lastmodified":1668546113,
+    "wof:lastmodified":1668985055,
     "wof:name":"Tampachoa (Mansos)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

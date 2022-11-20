@@ -2,8 +2,8 @@
   "id": 1796618847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.122696,
     "geom:bbox":"122.731018,-16.762467,123.132019,-16.346495",
     "geom:latitude":-16.584714,
@@ -14,7 +14,7 @@
     "mps:latitude":-16.592931,
     "mps:longitude":122.948865,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0E1CBC",
     "nativeland:description":"https://native-land.ca/maps/territories/bardi/",
     "nativeland:id":36526,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618847,
-    "wof:lastmodified":1668546094,
+    "wof:lastmodified":1668985037,
     "wof:name":"Bardi",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

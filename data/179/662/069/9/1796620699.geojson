@@ -2,8 +2,8 @@
   "id": 1796620699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.063538,
     "geom:bbox":"175.04092,-36.352135,175.570296,-36.02315",
     "geom:latitude":-36.185745,
@@ -14,7 +14,7 @@
     "mps:latitude":-36.164979,
     "mps:longitude":175.409855,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E460F3",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-rehua/",
     "nativeland:id":34013,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620699,
-    "wof:lastmodified":1668546143,
+    "wof:lastmodified":1668985087,
     "wof:name":"Ng\u0101ti Rehua",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

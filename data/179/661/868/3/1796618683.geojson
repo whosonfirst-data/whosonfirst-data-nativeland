@@ -2,8 +2,8 @@
   "id": 1796618683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.347402,
     "geom:bbox":"-105.50134,25.799295,-102.000914,28.977764",
     "geom:latitude":27.531097,
@@ -14,7 +14,7 @@
     "mps:latitude":27.472637,
     "mps:longitude":-103.785306,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#F63F99",
     "nativeland:description":"https://native-land.ca/maps/territories/tobosos/",
     "nativeland:id":36600,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618683,
-    "wof:lastmodified":1668546079,
+    "wof:lastmodified":1668985020,
     "wof:name":"Tobosos",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

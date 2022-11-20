@@ -2,8 +2,8 @@
   "id": 1796621457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.192643,
     "geom:bbox":"-77.199502,0.930983,-76.710633,1.496405",
     "geom:latitude":1.212639,
@@ -14,7 +14,7 @@
     "mps:latitude":1.200065,
     "mps:longitude":-76.944574,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D186CD",
     "nativeland:description":"https://native-land.ca/maps/territories/kamentsa/",
     "nativeland:id":33668,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621457,
-    "wof:lastmodified":1668546124,
+    "wof:lastmodified":1668985067,
     "wof:name":"Kam\u00ebnts\u00e1",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

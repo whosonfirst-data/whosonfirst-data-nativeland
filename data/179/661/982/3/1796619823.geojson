@@ -2,8 +2,8 @@
   "id": 1796619823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.983373,
     "geom:bbox":"118.547974,-22.233175,121.234131,-20.112682",
     "geom:latitude":-21.239643,
@@ -14,7 +14,7 @@
     "mps:latitude":-21.1975,
     "mps:longitude":119.764388,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#7C9394",
     "nativeland:description":"https://native-land.ca/maps/territories/nyamal/",
     "nativeland:id":36090,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619823,
-    "wof:lastmodified":1668546086,
+    "wof:lastmodified":1668985029,
     "wof:name":"Nyamal",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

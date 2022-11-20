@@ -2,8 +2,8 @@
   "id": 1796621385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.331678,
     "geom:bbox":"-67.569568,0.84879,-67.061929,2.814066",
     "geom:latitude":1.864932,
@@ -14,7 +14,7 @@
     "mps:latitude":2.62309,
     "mps:longitude":-67.233009,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#9EDE0E",
     "nativeland:description":"https://native-land.ca/maps/territories/warekena/",
     "nativeland:id":33698,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621385,
-    "wof:lastmodified":1668546131,
+    "wof:lastmodified":1668985074,
     "wof:name":"Warekena",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

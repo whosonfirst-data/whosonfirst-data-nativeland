@@ -2,8 +2,8 @@
   "id": 1796621431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.934226,
     "geom:bbox":"-77.94805,3.94079,-76.042393,8.703159",
     "geom:latitude":5.98241,
@@ -14,7 +14,7 @@
     "mps:latitude":5.538976,
     "mps:longitude":-76.826642,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#EC13B5",
     "nativeland:description":"https://native-land.ca/maps/territories/embera-dobida/",
     "nativeland:id":33675,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621431,
-    "wof:lastmodified":1668546126,
+    "wof:lastmodified":1668985069,
     "wof:name":"Ember\u00e1 Dobid\u00e1",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

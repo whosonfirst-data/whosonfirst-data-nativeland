@@ -2,8 +2,8 @@
   "id": 1796620303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.905245,
     "geom:bbox":"139.383544,-36.341678,141.514892,-34.506556",
     "geom:latitude":-35.379427,
@@ -14,7 +14,7 @@
     "mps:latitude":-35.393831,
     "mps:longitude":140.458899,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#6A2AFC",
     "nativeland:description":"https://native-land.ca/maps/territories/ngargad/",
     "nativeland:id":35878,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620303,
-    "wof:lastmodified":1668546122,
+    "wof:lastmodified":1668985065,
     "wof:name":"Ngargad",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

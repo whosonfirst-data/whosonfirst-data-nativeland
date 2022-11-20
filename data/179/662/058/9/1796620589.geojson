@@ -2,8 +2,8 @@
   "id": 1796620589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.271123,
     "geom:bbox":"-122.027695,47.378894,-121.058981,47.858903",
     "geom:latitude":47.6313,
@@ -14,7 +14,7 @@
     "mps:latitude":47.597579,
     "mps:longitude":-121.565484,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#881E81",
     "nativeland:description":"https://native-land.ca/maps/territories/sduk%CA%B7albix%CA%B7-snoqualmie/",
     "nativeland:id":34072,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620589,
-    "wof:lastmodified":1668546144,
+    "wof:lastmodified":1668985088,
     "wof:name":"sduk\u02b7albix\u02b7 (Snoqualmie)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796621705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.642644,
     "geom:bbox":"-64.458289,-11.850972,-62.530276,-10.37166",
     "geom:latitude":-11.176298,
@@ -14,7 +14,7 @@
     "mps:latitude":-11.151302,
     "mps:longitude":-63.423458,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B09003",
     "nativeland:description":"https://native-land.ca/maps/territories/jupau-kawahib/",
     "nativeland:id":33507,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621705,
-    "wof:lastmodified":1668546146,
+    "wof:lastmodified":1668985090,
     "wof:name":"Jupa\u00fa (Kawahib)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

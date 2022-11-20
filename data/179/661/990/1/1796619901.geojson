@@ -2,8 +2,8 @@
   "id": 1796619901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":5.565097,
     "geom:bbox":"-157.062394,61.835047,-151.624054,63.85218",
     "geom:latitude":62.839151,
@@ -14,7 +14,7 @@
     "mps:latitude":62.720657,
     "mps:longitude":-153.944648,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#ACC5F1",
     "nativeland:description":"https://native-land.ca/maps/territories/upper-kuskokwim/",
     "nativeland:id":36058,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619901,
-    "wof:lastmodified":1668546073,
+    "wof:lastmodified":1668985014,
     "wof:name":"Upper Kuskokwim",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

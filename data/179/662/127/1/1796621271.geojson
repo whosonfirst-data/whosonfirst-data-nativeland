@@ -2,8 +2,8 @@
   "id": 1796621271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.039825,
     "geom:bbox":"-120.262441,33.879427,-119.930014,34.04593",
     "geom:latitude":33.96279,
@@ -14,7 +14,7 @@
     "mps:latitude":33.959977,
     "mps:longitude":-120.09224,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0D4950",
     "nativeland:description":"https://native-land.ca/maps/territories/wima/",
     "nativeland:id":33751,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621271,
-    "wof:lastmodified":1668546125,
+    "wof:lastmodified":1668985069,
     "wof:name":"Wi&#8217;ma",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796621421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.399052,
     "geom:bbox":"-76.121487,2.866672,-74.947578,4.454411",
     "geom:latitude":3.671106,
@@ -14,7 +14,7 @@
     "mps:latitude":3.659624,
     "mps:longitude":-75.5585,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#1545D9",
     "nativeland:description":"https://native-land.ca/maps/territories/pijao/",
     "nativeland:id":33683,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621421,
-    "wof:lastmodified":1668546124,
+    "wof:lastmodified":1668985067,
     "wof:name":"Pijao",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

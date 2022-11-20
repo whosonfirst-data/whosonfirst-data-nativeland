@@ -2,8 +2,8 @@
   "id": 1796620105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.881868,
     "geom:bbox":"-112.072271,32.168763,-109.149488,35.343382",
     "geom:latitude":33.757918,
@@ -14,7 +14,7 @@
     "mps:latitude":33.760231,
     "mps:longitude":-110.270429,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#4699DC",
     "nativeland:description":"https://native-land.ca/maps/territories/western-apache/",
     "nativeland:id":35967,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620105,
-    "wof:lastmodified":1668546138,
+    "wof:lastmodified":1668985082,
     "wof:name":"Ndee/Nn\u0113\u0113: (Western Apache)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

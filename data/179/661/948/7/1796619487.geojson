@@ -2,8 +2,8 @@
   "id": 1796619487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.093826,
     "geom:bbox":"-117.652588,47.378774,-114.663111,49.131408",
     "geom:latitude":48.191065,
@@ -14,7 +14,7 @@
     "mps:latitude":48.173606,
     "mps:longitude":-116.44209,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#08BF25",
     "nativeland:description":"https://native-land.ca/maps/territories/kalispel/",
     "nativeland:id":36241,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619487,
-    "wof:lastmodified":1668546082,
+    "wof:lastmodified":1668985023,
     "wof:name":"Kalispel",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

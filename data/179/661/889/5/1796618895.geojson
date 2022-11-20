@@ -2,8 +2,8 @@
   "id": 1796618895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":31.853199,
     "geom:bbox":"-104.704118,33.750619,-96.734497,38.999947",
     "geom:latitude":36.309105,
@@ -14,7 +14,7 @@
     "mps:latitude":36.503043,
     "mps:longitude":-99.804002,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D56E44",
     "nativeland:description":"https://native-land.ca/maps/territories/kiowa/",
     "nativeland:id":36506,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618895,
-    "wof:lastmodified":1668546075,
+    "wof:lastmodified":1668985016,
     "wof:name":"G\u00e1uig\u00fa (Kiowa)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

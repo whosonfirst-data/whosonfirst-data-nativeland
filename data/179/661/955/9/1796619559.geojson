@@ -2,8 +2,8 @@
   "id": 1796619559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.7987,
     "geom:bbox":"125.661621,-17.738222,127.529296,-15.919073",
     "geom:latitude":-16.955344,
@@ -14,7 +14,7 @@
     "mps:latitude":-17.084938,
     "mps:longitude":126.875366,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#33F867",
     "nativeland:description":"https://native-land.ca/maps/territories/worla/",
     "nativeland:id":36208,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619559,
-    "wof:lastmodified":1668546074,
+    "wof:lastmodified":1668985015,
     "wof:name":"Worla",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

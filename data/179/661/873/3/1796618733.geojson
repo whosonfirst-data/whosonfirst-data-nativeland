@@ -2,8 +2,8 @@
   "id": 1796618733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.081803,
     "geom:bbox":"141.539611,-15.347761,141.783195,-14.847565",
     "geom:latitude":-15.123816,
@@ -14,7 +14,7 @@
     "mps:latitude":-15.231741,
     "mps:longitude":141.674588,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#30AC3B",
     "nativeland:description":"https://native-land.ca/maps/territories/yir-yoront/",
     "nativeland:id":36576,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618733,
-    "wof:lastmodified":1668546076,
+    "wof:lastmodified":1668985017,
     "wof:name":"Yir Yoront",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

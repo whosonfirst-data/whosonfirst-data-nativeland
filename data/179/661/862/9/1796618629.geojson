@@ -2,8 +2,8 @@
   "id": 1796618629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":39.624898,
     "geom:bbox":"-112.038574,41.902277,-103.579102,48.57479",
     "geom:latitude":45.518683,
@@ -14,7 +14,7 @@
     "mps:latitude":45.460309,
     "mps:longitude":-107.571117,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C45F61",
     "nativeland:description":"https://native-land.ca/maps/territories/apsaalooke-crow/",
     "nativeland:id":36624,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618629,
-    "wof:lastmodified":1668546097,
+    "wof:lastmodified":1668985040,
     "wof:name":"Aps\u00e1alooke (Crow)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

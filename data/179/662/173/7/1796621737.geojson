@@ -2,8 +2,8 @@
   "id": 1796621737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.286858,
     "geom:bbox":"-62.821251,-12.344899,-61.977341,-11.70079",
     "geom:latitude":-11.996028,
@@ -14,7 +14,7 @@
     "mps:latitude":-11.966326,
     "mps:longitude":-62.452078,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#9EE5BC",
     "nativeland:description":"https://native-land.ca/maps/territories/djeoromitxi/",
     "nativeland:id":33495,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621737,
-    "wof:lastmodified":1668546124,
+    "wof:lastmodified":1668985067,
     "wof:name":"Djeoromitx\u00ed",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

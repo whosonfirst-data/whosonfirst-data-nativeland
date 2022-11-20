@@ -2,8 +2,8 @@
   "id": 1796620981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.963951,
     "geom:bbox":"-90.09249,13.238341,-88.49756,14.4193",
     "geom:latitude":13.773211,
@@ -14,7 +14,7 @@
     "mps:latitude":13.780444,
     "mps:longitude":-89.310314,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#7B6479",
     "nativeland:description":"https://native-land.ca/maps/territories/pipil/",
     "nativeland:id":33889,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620981,
-    "wof:lastmodified":1668546119,
+    "wof:lastmodified":1668985062,
     "wof:name":"Nahua",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796620561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":7.798592,
     "geom:bbox":"-99.062544,29.064705,-94.90859,32.0968",
     "geom:latitude":30.604002,
@@ -14,7 +14,7 @@
     "mps:latitude":30.701771,
     "mps:longitude":-96.907632,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#8E3EAB",
     "nativeland:description":"https://native-land.ca/maps/territories/tonkawa-2/",
     "nativeland:id":34088,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620561,
-    "wof:lastmodified":1668546143,
+    "wof:lastmodified":1668985087,
     "wof:name":"Tonkawa",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

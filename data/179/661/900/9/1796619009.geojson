@@ -2,8 +2,8 @@
   "id": 1796619009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.033904,
     "geom:bbox":"130.028686,-14.131248,130.325317,-13.872746",
     "geom:latitude":-14.025499,
@@ -14,7 +14,7 @@
     "mps:latitude":-14.040265,
     "mps:longitude":130.238504,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#56390E",
     "nativeland:description":"https://native-land.ca/maps/territories/marramaninjsji/",
     "nativeland:id":36454,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619009,
-    "wof:lastmodified":1668546070,
+    "wof:lastmodified":1668985010,
     "wof:name":"Marramaninjsji",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

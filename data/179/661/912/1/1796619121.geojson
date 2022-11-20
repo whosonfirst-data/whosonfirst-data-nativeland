@@ -2,8 +2,8 @@
   "id": 1796619121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.178375,
     "geom:bbox":"119.729004,-31.099982,123.585205,-28.652031",
     "geom:latitude":-29.877459,
@@ -14,7 +14,7 @@
     "mps:latitude":-29.954981,
     "mps:longitude":121.887614,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#4345EE",
     "nativeland:description":"https://native-land.ca/maps/territories/wangkathaa/",
     "nativeland:id":36405,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619121,
-    "wof:lastmodified":1668546084,
+    "wof:lastmodified":1668985026,
     "wof:name":"Wangkathaa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

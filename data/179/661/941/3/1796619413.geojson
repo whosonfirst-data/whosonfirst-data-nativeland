@@ -2,8 +2,8 @@
   "id": 1796619413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.819622,
     "geom:bbox":"-121.465484,47.07411,-119.995142,48.169558",
     "geom:latitude":47.526353,
@@ -14,7 +14,7 @@
     "mps:latitude":47.547384,
     "mps:longitude":-120.788871,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#445F23",
     "nativeland:description":"https://native-land.ca/maps/territories/columbia-wenatchi/",
     "nativeland:id":36276,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619413,
-    "wof:lastmodified":1668546084,
+    "wof:lastmodified":1668985025,
     "wof:name":"np\u0313\u0259\u0161q\u02b7\u00e1w\u0313s\u0259x\u02b7 (Wenatchi)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796621585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.337668,
     "geom:bbox":"29.744136,59.175783,31.431022,60.331127",
     "geom:latitude":59.708926,
@@ -14,7 +14,7 @@
     "mps:latitude":59.710736,
     "mps:longitude":30.641226,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#7523EF",
     "nativeland:description":"https://native-land.ca/maps/territories/inkerilainen/",
     "nativeland:id":33596,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621585,
-    "wof:lastmodified":1668546110,
+    "wof:lastmodified":1668985053,
     "wof:name":"Inkeril\u00e4inen",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

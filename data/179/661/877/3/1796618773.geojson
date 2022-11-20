@@ -2,8 +2,8 @@
   "id": 1796618773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":5.804128,
     "geom:bbox":"-83.737793,28.506765,-80.939872,31.968221",
     "geom:latitude":30.314648,
@@ -14,7 +14,7 @@
     "mps:latitude":30.334805,
     "mps:longitude":-82.314576,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#CA2172",
     "nativeland:description":"https://native-land.ca/maps/territories/timucua/",
     "nativeland:id":36562,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618773,
-    "wof:lastmodified":1668546095,
+    "wof:lastmodified":1668985038,
     "wof:name":"Timucua",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

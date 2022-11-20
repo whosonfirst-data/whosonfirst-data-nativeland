@@ -2,8 +2,8 @@
   "id": 1796621165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.314379,
     "geom:bbox":"-79.935009,35.682513,-79.039626,36.159443",
     "geom:latitude":35.945386,
@@ -14,7 +14,7 @@
     "mps:latitude":35.955027,
     "mps:longitude":-79.442831,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#487A33",
     "nativeland:description":"https://native-land.ca/maps/territories/sissipahaw/",
     "nativeland:id":33799,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621165,
-    "wof:lastmodified":1668546125,
+    "wof:lastmodified":1668985068,
     "wof:name":"Sissipahaw",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

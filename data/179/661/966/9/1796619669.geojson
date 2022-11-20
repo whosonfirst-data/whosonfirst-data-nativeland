@@ -2,8 +2,8 @@
   "id": 1796619669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.052982,
     "geom:bbox":"-97.246819,36.333037,-96.924747,36.507052",
     "geom:latitude":36.416371,
@@ -14,7 +14,7 @@
     "mps:latitude":36.420105,
     "mps:longitude":-97.092938,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#46FD99",
     "nativeland:description":"https://native-land.ca/maps/territories/otoe-missouri-oklahoma/",
     "nativeland:id":36160,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619669,
-    "wof:lastmodified":1668546089,
+    "wof:lastmodified":1668985031,
     "wof:name":"J\u00edwere\u2013\u00d1\u00fat\u2019achi M\u00e1ya\u207f (Otoe-Missouria [Oklahoma])",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

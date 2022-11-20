@@ -2,8 +2,8 @@
   "id": 1796618829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":5.392013,
     "geom:bbox":"-110.752194,25.121575,-107.389725,27.946564",
     "geom:latitude":26.634254,
@@ -14,7 +14,7 @@
     "mps:latitude":26.640038,
     "mps:longitude":-108.850525,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#78A1AB",
     "nativeland:description":"https://native-land.ca/maps/territories/cahita/",
     "nativeland:id":36535,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618829,
-    "wof:lastmodified":1668546095,
+    "wof:lastmodified":1668985038,
     "wof:name":"Cahita",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796620103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.718172,
     "geom:bbox":"114.543457,-30.368136,116.669312,-28.41556",
     "geom:latitude":-29.439801,
@@ -14,7 +14,7 @@
     "mps:latitude":-29.48081,
     "mps:longitude":115.556289,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#CA2E07",
     "nativeland:description":"https://native-land.ca/maps/territories/amangu/",
     "nativeland:id":35966,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620103,
-    "wof:lastmodified":1668546138,
+    "wof:lastmodified":1668985082,
     "wof:name":"Amangu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

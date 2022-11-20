@@ -2,8 +2,8 @@
   "id": 1796619979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.048699,
     "geom:bbox":"-89.864806,14.033903,-88.667866,15.324189",
     "geom:latitude":14.727213,
@@ -14,7 +14,7 @@
     "mps:latitude":14.717199,
     "mps:longitude":-89.207248,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#994F17",
     "nativeland:description":"https://native-land.ca/maps/territories/chorti/",
     "nativeland:id":36021,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619979,
-    "wof:lastmodified":1668546073,
+    "wof:lastmodified":1668985014,
     "wof:name":"Ch&#8217;orti&#8217;",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

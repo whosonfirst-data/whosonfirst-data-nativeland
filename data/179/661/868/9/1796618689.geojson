@@ -2,8 +2,8 @@
   "id": 1796618689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.056869,
     "geom:bbox":"-73.11676,40.647304,-72.715759,40.87718",
     "geom:latitude":40.772569,
@@ -14,7 +14,7 @@
     "mps:latitude":40.763902,
     "mps:longitude":-72.930349,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#26CB01",
     "nativeland:description":"https://native-land.ca/maps/territories/unkechaug/",
     "nativeland:id":36597,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618689,
-    "wof:lastmodified":1668546079,
+    "wof:lastmodified":1668985020,
     "wof:name":"Unkechaug",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

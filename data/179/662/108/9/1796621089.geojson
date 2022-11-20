@@ -2,8 +2,8 @@
   "id": 1796621089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.109713,
     "geom:bbox":"-77.233882,36.998162,-76.705423,37.303962",
     "geom:latitude":37.127302,
@@ -14,7 +14,7 @@
     "mps:latitude":37.136087,
     "mps:longitude":-77.011527,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#8DE14B",
     "nativeland:description":"https://native-land.ca/maps/territories/quiyoughcohannock/",
     "nativeland:id":33832,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621089,
-    "wof:lastmodified":1668546132,
+    "wof:lastmodified":1668985076,
     "wof:name":"Quiyoughcohannock",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

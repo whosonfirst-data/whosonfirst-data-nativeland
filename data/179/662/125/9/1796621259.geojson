@@ -2,8 +2,8 @@
   "id": 1796621259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.012839,
     "geom:bbox":"-120.465874,33.99248,-120.287366,34.088447",
     "geom:latitude":34.037356,
@@ -14,7 +14,7 @@
     "mps:latitude":34.041036,
     "mps:longitude":-120.366402,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#79DAD4",
     "nativeland:description":"https://native-land.ca/maps/territories/tuqan/",
     "nativeland:id":33752,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621259,
-    "wof:lastmodified":1668546147,
+    "wof:lastmodified":1668985091,
     "wof:name":"Tuqan",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

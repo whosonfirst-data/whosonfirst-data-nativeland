@@ -2,8 +2,8 @@
   "id": 1796619365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.91959,
     "geom:bbox":"-114.008633,32.522731,-112.182705,33.468099",
     "geom:latitude":32.979697,
@@ -14,7 +14,7 @@
     "mps:latitude":32.981375,
     "mps:longitude":-113.051168,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0DD14D",
     "nativeland:description":"https://native-land.ca/maps/territories/maricopa-pima/",
     "nativeland:id":36297,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619365,
-    "wof:lastmodified":1668546069,
+    "wof:lastmodified":1668985008,
     "wof:name":"Piipaash (Maricopa)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

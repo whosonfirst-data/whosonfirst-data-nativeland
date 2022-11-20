@@ -2,8 +2,8 @@
   "id": 1796621297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.183766,
     "geom:bbox":"-90.767059,14.925659,-90.127035,15.284107",
     "geom:latitude":15.110981,
@@ -14,7 +14,7 @@
     "mps:latitude":15.109893,
     "mps:longitude":-90.450113,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#599F58",
     "nativeland:description":"https://native-land.ca/maps/territories/achi/",
     "nativeland:id":33739,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621297,
-    "wof:lastmodified":1668546124,
+    "wof:lastmodified":1668985068,
     "wof:name":"Ach\u00ed",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

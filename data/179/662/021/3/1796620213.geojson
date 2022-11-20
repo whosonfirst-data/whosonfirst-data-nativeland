@@ -2,8 +2,8 @@
   "id": 1796620213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.984865,
     "geom:bbox":"-75.964187,41.938154,-74.906747,44.731477",
     "geom:latitude":43.165329,
@@ -14,7 +14,7 @@
     "mps:latitude":43.043413,
     "mps:longitude":-75.48894,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E596CB",
     "nativeland:description":"https://native-land.ca/maps/territories/oneida/",
     "nativeland:id":35919,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620213,
-    "wof:lastmodified":1668546139,
+    "wof:lastmodified":1668985083,
     "wof:name":"On\u028cyote\u2019a\u2022ka (Oneida)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

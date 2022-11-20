@@ -2,8 +2,8 @@
   "id": 1796619103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":19.22629,
     "geom:bbox":"-116.881838,33.275299,-110.114833,39.5975",
     "geom:latitude":36.861285,
@@ -14,7 +14,7 @@
     "mps:latitude":37.360518,
     "mps:longitude":-113.831529,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#F7B650",
     "nativeland:description":"https://native-land.ca/maps/territories/southern-paiute/",
     "nativeland:id":36410,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619103,
-    "wof:lastmodified":1668546105,
+    "wof:lastmodified":1668985047,
     "wof:name":"Nuwuvi (Southern Paiute)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

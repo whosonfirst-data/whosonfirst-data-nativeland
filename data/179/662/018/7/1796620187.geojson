@@ -2,8 +2,8 @@
   "id": 1796620187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.886714,
     "geom:bbox":"144.981079,-30.353916,145.79956,-28.839861",
     "geom:latitude":-29.654528,
@@ -14,7 +14,7 @@
     "mps:latitude":-29.652268,
     "mps:longitude":145.385753,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#6CEDA2",
     "nativeland:description":"https://native-land.ca/maps/territories/gunu/",
     "nativeland:id":35927,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620187,
-    "wof:lastmodified":1668546135,
+    "wof:lastmodified":1668985079,
     "wof:name":"Gunu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

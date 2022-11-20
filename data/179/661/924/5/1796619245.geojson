@@ -2,8 +2,8 @@
   "id": 1796619245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.790602,
     "geom:bbox":"-79.91986,34.496015,-77.036133,36.593217",
     "geom:latitude":35.482918,
@@ -14,7 +14,7 @@
     "mps:latitude":35.41202,
     "mps:longitude":-78.289255,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#276A1D",
     "nativeland:description":"https://native-land.ca/maps/territories/tuscarora/",
     "nativeland:id":36351,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619245,
-    "wof:lastmodified":1668546084,
+    "wof:lastmodified":1668985027,
     "wof:name":"Skaruhreh/Tuscarora (North Carolina)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

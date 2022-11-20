@@ -2,8 +2,8 @@
   "id": 1796621361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.826567,
     "geom:bbox":"-61.133518,3.3724,-58.83866,5.599609",
     "geom:latitude":4.624249,
@@ -14,7 +14,7 @@
     "mps:latitude":4.721284,
     "mps:longitude":-59.890207,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#56B105",
     "nativeland:description":"https://native-land.ca/maps/territories/patamona-ingariko/",
     "nativeland:id":33711,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621361,
-    "wof:lastmodified":1668546129,
+    "wof:lastmodified":1668985073,
     "wof:name":"Patamona/Ingarik\u00f3",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

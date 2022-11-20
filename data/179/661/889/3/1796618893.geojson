@@ -2,8 +2,8 @@
   "id": 1796618893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.334359,
     "geom:bbox":"139.938354,-27.737022,141.954345,-25.923466",
     "geom:latitude":-26.922099,
@@ -14,7 +14,7 @@
     "mps:latitude":-26.922579,
     "mps:longitude":140.847767,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#80F5DD",
     "nativeland:description":"https://native-land.ca/maps/territories/yawarawarka/",
     "nativeland:id":36509,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618893,
-    "wof:lastmodified":1668546075,
+    "wof:lastmodified":1668985016,
     "wof:name":"Yawarawarka",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

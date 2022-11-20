@@ -2,8 +2,8 @@
   "id": 1796619899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.204948,
     "geom:bbox":"-120.333065,34.50667,-119.402809,34.900331",
     "geom:latitude":34.69035,
@@ -14,7 +14,7 @@
     "mps:latitude":34.705138,
     "mps:longitude":-119.958825,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E6AB42",
     "nativeland:description":"https://native-land.ca/maps/territories/ineseno/",
     "nativeland:id":36057,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619899,
-    "wof:lastmodified":1668546103,
+    "wof:lastmodified":1668985045,
     "wof:name":"Inese\u00f1o",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

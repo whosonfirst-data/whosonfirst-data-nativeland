@@ -2,8 +2,8 @@
   "id": 1796620209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.004524,
     "geom:bbox":"-101.114044,19.719525,-101.007614,19.782857",
     "geom:latitude":19.752202,
@@ -14,7 +14,7 @@
     "mps:latitude":19.749524,
     "mps:longitude":-101.056201,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#FD2898",
     "nativeland:description":"https://native-land.ca/maps/territories/matlatzinco-matlatzinteca/",
     "nativeland:id":35917,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620209,
-    "wof:lastmodified":1668546135,
+    "wof:lastmodified":1668985078,
     "wof:name":"Matlatzinco/matlatzinteca",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

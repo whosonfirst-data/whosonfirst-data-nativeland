@@ -2,8 +2,8 @@
   "id": 1796618467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.112432,
     "geom:bbox":"142.016238,-10.405984,142.537175,-10.045835",
     "geom:latitude":-10.235475,
@@ -14,7 +14,7 @@
     "mps:latitude":-10.240388,
     "mps:longitude":142.27112,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/territories/mualgal/",
     "nativeland:id":37566,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618467,
-    "wof:lastmodified":1668546093,
+    "wof:lastmodified":1668985036,
     "wof:name":"Mualgal",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

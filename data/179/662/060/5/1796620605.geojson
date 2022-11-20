@@ -2,8 +2,8 @@
   "id": 1796620605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.560962,
     "geom:bbox":"-71.368652,43.457152,-70.279334,44.320376",
     "geom:latitude":43.911594,
@@ -14,7 +14,7 @@
     "mps:latitude":43.963618,
     "mps:longitude":-70.921351,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#412552",
     "nativeland:description":"https://native-land.ca/maps/territories/pequawket/",
     "nativeland:id":34059,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620605,
-    "wof:lastmodified":1668546145,
+    "wof:lastmodified":1668985089,
     "wof:name":"Pequawket",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

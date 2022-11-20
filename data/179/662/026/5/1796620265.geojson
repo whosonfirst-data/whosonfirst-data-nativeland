@@ -2,8 +2,8 @@
   "id": 1796620265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.974792,
     "geom:bbox":"-145.999775,62.92415,-141.925088,64.647663",
     "geom:latitude":63.772104,
@@ -14,7 +14,7 @@
     "mps:latitude":63.77653,
     "mps:longitude":-143.84768,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#37DEE1",
     "nativeland:description":"https://native-land.ca/maps/territories/tanacross/",
     "nativeland:id":35893,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620265,
-    "wof:lastmodified":1668546139,
+    "wof:lastmodified":1668985083,
     "wof:name":"Tanacross",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

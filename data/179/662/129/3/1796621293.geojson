@@ -2,8 +2,8 @@
   "id": 1796621293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.927014,
     "geom:bbox":"-86.098259,14.972651,-84.693317,15.904556",
     "geom:latitude":15.452773,
@@ -14,7 +14,7 @@
     "mps:latitude":15.384842,
     "mps:longitude":-85.465329,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B96CE4",
     "nativeland:description":"https://native-land.ca/maps/territories/pech/",
     "nativeland:id":33737,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621293,
-    "wof:lastmodified":1668546124,
+    "wof:lastmodified":1668985068,
     "wof:name":"Pech",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796620135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.171614,
     "geom:bbox":"-124.143599,44.21127,-123.422754,44.555464",
     "geom:latitude":44.388465,
@@ -14,7 +14,7 @@
     "mps:latitude":44.397278,
     "mps:longitude":-123.833841,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#1A088B",
     "nativeland:description":"https://native-land.ca/maps/territories/alsea/",
     "nativeland:id":35952,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620135,
-    "wof:lastmodified":1668546114,
+    "wof:lastmodified":1668985057,
     "wof:name":"\u00c4ls\u00e9 (Alsea)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

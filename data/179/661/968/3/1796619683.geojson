@@ -2,8 +2,8 @@
   "id": 1796619683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":74.834808,
     "geom:bbox":"-120.457767,48.983151,-106.400599,55.079639",
     "geom:latitude":51.94468,
@@ -14,7 +14,7 @@
     "mps:latitude":51.987603,
     "mps:longitude":-112.817147,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#110071",
     "nativeland:description":"https://native-land.ca/maps/territories/stoney/",
     "nativeland:id":36154,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619683,
-    "wof:lastmodified":1668546088,
+    "wof:lastmodified":1668985031,
     "wof:name":"\u0128y\u00e3\u0127\u00e9 Nak\u00f3n ma\u0328ko\u0301ce (Stoney)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

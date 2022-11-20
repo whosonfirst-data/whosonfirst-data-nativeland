@@ -2,8 +2,8 @@
   "id": 1796621269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.06141,
     "geom:bbox":"-119.96148,33.928333,-119.479351,34.093738",
     "geom:latitude":34.012198,
@@ -14,7 +14,7 @@
     "mps:latitude":34.002838,
     "mps:longitude":-119.73378,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#855B83",
     "nativeland:description":"https://native-land.ca/maps/territories/limuw/",
     "nativeland:id":33750,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621269,
-    "wof:lastmodified":1668546127,
+    "wof:lastmodified":1668985071,
     "wof:name":"Limuw",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

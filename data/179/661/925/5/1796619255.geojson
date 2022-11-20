@@ -2,8 +2,8 @@
   "id": 1796619255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":10.71306,
     "geom:bbox":"147.38222,-32.463884,151.919564,-28.533878",
     "geom:latitude":-30.393292,
@@ -14,7 +14,7 @@
     "mps:latitude":-30.365696,
     "mps:longitude":149.682569,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D42E27",
     "nativeland:description":"https://native-land.ca/maps/territories/kamilaroi/",
     "nativeland:id":36343,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619255,
-    "wof:lastmodified":1668546087,
+    "wof:lastmodified":1668985030,
     "wof:name":"Kamilaroi",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

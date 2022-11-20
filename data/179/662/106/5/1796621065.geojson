@@ -2,8 +2,8 @@
   "id": 1796621065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.338711,
     "geom:bbox":"-102.831955,43.087535,-99.321247,45.127232",
     "geom:latitude":44.067522,
@@ -14,7 +14,7 @@
     "mps:latitude":44.105165,
     "mps:longitude":-101.086611,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#2CCD3C",
     "nativeland:description":"https://native-land.ca/maps/territories/mnicoujou/",
     "nativeland:id":33845,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621065,
-    "wof:lastmodified":1668546132,
+    "wof:lastmodified":1668985075,
     "wof:name":"Mnicoujou",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.60022,
     "geom:bbox":"137.471923,-20.396123,140.064697,-18.437924",
     "geom:latitude":-19.494857,
@@ -14,7 +14,7 @@
     "mps:latitude":-19.416768,
     "mps:longitude":138.600983,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#2EEFAA",
     "nativeland:description":"https://native-land.ca/maps/territories/wakabunga/",
     "nativeland:id":36269,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619423,
-    "wof:lastmodified":1668546103,
+    "wof:lastmodified":1668985046,
     "wof:name":"Wakabunga",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

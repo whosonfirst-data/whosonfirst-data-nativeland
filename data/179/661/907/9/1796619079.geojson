@@ -2,8 +2,8 @@
   "id": 1796619079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.179618,
     "geom:bbox":"-72.938232,41.213788,-72.498779,41.701627",
     "geom:latitude":41.447745,
@@ -14,7 +14,7 @@
     "mps:latitude":41.448041,
     "mps:longitude":-72.742382,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#2B66D2",
     "nativeland:description":"https://native-land.ca/maps/territories/quinnipiac/",
     "nativeland:id":36426,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619079,
-    "wof:lastmodified":1668546069,
+    "wof:lastmodified":1668985009,
     "wof:name":"Quinnipiac",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

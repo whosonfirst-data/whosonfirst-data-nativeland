@@ -2,8 +2,8 @@
   "id": 1796618793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.746871,
     "geom:bbox":"-96.154949,16.725738,-94.881603,17.610823",
     "geom:latitude":17.141237,
@@ -14,7 +14,7 @@
     "mps:latitude":17.186019,
     "mps:longitude":-95.512116,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#71E40A",
     "nativeland:description":"https://native-land.ca/maps/territories/mixe/",
     "nativeland:id":36553,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618793,
-    "wof:lastmodified":1668546094,
+    "wof:lastmodified":1668985037,
     "wof:name":"Ayuukj\u00e4&#8217;\u00e4y (Mixe)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

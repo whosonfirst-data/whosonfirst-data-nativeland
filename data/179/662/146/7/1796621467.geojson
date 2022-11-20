@@ -2,8 +2,8 @@
   "id": 1796621467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.386487,
     "geom:bbox":"-72.716025,-4.014347,-70.03511,-1.612541",
     "geom:latitude":-2.819882,
@@ -14,7 +14,7 @@
     "mps:latitude":-2.614822,
     "mps:longitude":-71.409559,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D192BF",
     "nativeland:description":"https://native-land.ca/maps/territories/dyoxaiya-o-ivotsa-okaina/",
     "nativeland:id":33665,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621467,
-    "wof:lastmodified":1668546147,
+    "wof:lastmodified":1668985091,
     "wof:name":"Dyo&#8217;xaiya-o-Ivo&#8217;tsa (Okaina)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

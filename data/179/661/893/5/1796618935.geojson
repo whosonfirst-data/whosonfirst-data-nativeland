@@ -2,8 +2,8 @@
   "id": 1796618935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.028578,
     "geom:bbox":"134.686889,-13.739385,137.158813,-10.946585",
     "geom:latitude":-12.420725,
@@ -14,7 +14,7 @@
     "mps:latitude":-12.532808,
     "mps:longitude":136.007283,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#23C3B2",
     "nativeland:description":"https://native-land.ca/maps/territories/yolngu/",
     "nativeland:id":36488,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618935,
-    "wof:lastmodified":1668546081,
+    "wof:lastmodified":1668985023,
     "wof:name":"Yolngu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

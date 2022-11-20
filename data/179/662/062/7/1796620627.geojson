@@ -2,8 +2,8 @@
   "id": 1796620627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.398283,
     "geom:bbox":"-122.696947,46.789522,-121.374619,47.418981",
     "geom:latitude":47.09265,
@@ -14,7 +14,7 @@
     "mps:latitude":46.980054,
     "mps:longitude":-121.836755,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#BD61B6",
     "nativeland:description":"https://native-land.ca/maps/territories/puyallup/",
     "nativeland:id":34048,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620627,
-    "wof:lastmodified":1668546118,
+    "wof:lastmodified":1668985061,
     "wof:name":"Puyallup",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

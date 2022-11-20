@@ -2,8 +2,8 @@
   "id": 1796621635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.076428,
     "geom:bbox":"-174.53174,64.526463,-173.993953,64.720461",
     "geom:latitude":64.630837,
@@ -14,7 +14,7 @@
     "mps:latitude":64.628007,
     "mps:longitude":-174.234265,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#54F745",
     "nativeland:description":"https://native-land.ca/maps/territories/siginygmit-sireniki-yupik/",
     "nativeland:id":33559,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621635,
-    "wof:lastmodified":1668546131,
+    "wof:lastmodified":1668985074,
     "wof:name":"Siginygmit (Sireniki) Yupik",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.243793,
     "geom:bbox":"-95.004734,16.540626,-92.703655,17.912666",
     "geom:latitude":17.088528,
@@ -14,7 +14,7 @@
     "mps:latitude":17.103311,
     "mps:longitude":-93.235445,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B9A17E",
     "nativeland:description":"https://native-land.ca/maps/territories/zoque-4/",
     "nativeland:id":36012,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619999,
-    "wof:lastmodified":1668546074,
+    "wof:lastmodified":1668985015,
     "wof:name":"O\u2019 de p\u00fct/Angp\u00f8n (Zoque)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

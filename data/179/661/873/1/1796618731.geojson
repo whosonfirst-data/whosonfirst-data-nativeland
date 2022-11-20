@@ -2,8 +2,8 @@
   "id": 1796618731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.37663,
     "geom:bbox":"138.933105,-33.678639,143.530883,-31.353636",
     "geom:latitude":-32.600087,
@@ -14,7 +14,7 @@
     "mps:latitude":-32.951097,
     "mps:longitude":140.867373,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#5F99F6",
     "nativeland:description":"https://native-land.ca/maps/territories/danggali/",
     "nativeland:id":36579,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618731,
-    "wof:lastmodified":1668546076,
+    "wof:lastmodified":1668985017,
     "wof:name":"Danggali",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

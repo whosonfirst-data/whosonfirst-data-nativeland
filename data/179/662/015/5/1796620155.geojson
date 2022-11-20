@@ -2,8 +2,8 @@
   "id": 1796620155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.067779,
     "geom:bbox":"123.09082,-16.667767,123.42453,-16.27005",
     "geom:latitude":-16.444657,
@@ -14,7 +14,7 @@
     "mps:latitude":-16.407761,
     "mps:longitude":123.263141,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#1E66C2",
     "nativeland:description":"https://native-land.ca/maps/territories/djawi/",
     "nativeland:id":35943,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620155,
-    "wof:lastmodified":1668546112,
+    "wof:lastmodified":1668985055,
     "wof:name":"Djawi",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

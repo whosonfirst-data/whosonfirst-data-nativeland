@@ -2,8 +2,8 @@
   "id": 1796618589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.651897,
     "geom:bbox":"139.899902,-20.220965,141.185302,-18.072756",
     "geom:latitude":-19.100521,
@@ -14,7 +14,7 @@
     "mps:latitude":-19.079489,
     "mps:longitude":140.529117,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#50EAEA",
     "nativeland:description":"https://native-land.ca/maps/territories/mayi-yapi/",
     "nativeland:id":36646,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618589,
-    "wof:lastmodified":1668546081,
+    "wof:lastmodified":1668985023,
     "wof:name":"Mayi-Yapi",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

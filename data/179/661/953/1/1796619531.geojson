@@ -2,8 +2,8 @@
   "id": 1796619531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.010032,
     "geom:bbox":"-94.877586,36.879702,-94.618214,36.920361",
     "geom:latitude":36.899571,
@@ -14,7 +14,7 @@
     "mps:latitude":36.898651,
     "mps:longitude":-94.749409,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#1BECAD",
     "nativeland:description":"https://native-land.ca/maps/territories/peoria-oklahoma/",
     "nativeland:id":36224,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619531,
-    "wof:lastmodified":1668546070,
+    "wof:lastmodified":1668985011,
     "wof:name":"Peoria (Oklahoma)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

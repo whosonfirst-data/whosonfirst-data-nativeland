@@ -2,8 +2,8 @@
   "id": 1796621005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.940266,
     "geom:bbox":"-73.993096,40.756852,-72.328741,41.764288",
     "geom:latitude":41.339349,
@@ -14,7 +14,7 @@
     "mps:latitude":41.380721,
     "mps:longitude":-73.232852,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C6FFC8",
     "nativeland:description":"https://native-land.ca/maps/territories/wappinger-2/",
     "nativeland:id":33878,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621005,
-    "wof:lastmodified":1668546130,
+    "wof:lastmodified":1668985074,
     "wof:name":"Wappinger",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

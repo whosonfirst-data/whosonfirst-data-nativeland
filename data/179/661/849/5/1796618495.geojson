@@ -2,8 +2,8 @@
   "id": 1796618495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.073745,
     "geom:bbox":"6.077729,6.010608,6.39272,6.384447",
     "geom:latitude":6.205864,
@@ -14,7 +14,7 @@
     "mps:latitude":6.187738,
     "mps:longitude":6.252464,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/territories/ika-2/",
     "nativeland:id":37042,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618495,
-    "wof:lastmodified":1668546096,
+    "wof:lastmodified":1668985039,
     "wof:name":"Ika",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

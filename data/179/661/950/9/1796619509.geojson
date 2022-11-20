@@ -2,8 +2,8 @@
   "id": 1796619509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.770744,
     "geom:bbox":"150.831298,-27.332735,152.929687,-25.020906",
     "geom:latitude":-26.178097,
@@ -14,7 +14,7 @@
     "mps:latitude":-25.697713,
     "mps:longitude":151.452189,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0BCE6D",
     "nativeland:description":"https://native-land.ca/maps/territories/waka-waka/",
     "nativeland:id":36233,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619509,
-    "wof:lastmodified":1668546088,
+    "wof:lastmodified":1668985030,
     "wof:name":"Waka Waka",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

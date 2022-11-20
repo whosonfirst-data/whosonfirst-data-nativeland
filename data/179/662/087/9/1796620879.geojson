@@ -2,8 +2,8 @@
   "id": 1796620879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.223995,
     "geom:bbox":"176.413655,-39.022426,176.879625,-38.326013",
     "geom:latitude":-38.666994,
@@ -14,7 +14,7 @@
     "mps:latitude":-38.724807,
     "mps:longitude":176.667098,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C308EA",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-whare/",
     "nativeland:id":33931,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620879,
-    "wof:lastmodified":1668546134,
+    "wof:lastmodified":1668985077,
     "wof:name":"Ng\u0101ti Whare",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

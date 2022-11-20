@@ -2,8 +2,8 @@
   "id": 1796620219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.062397,
     "geom:bbox":"-100.063477,18.31281,-99.685477,18.600046",
     "geom:latitude":18.457064,
@@ -14,7 +14,7 @@
     "mps:latitude":18.4482,
     "mps:longitude":-99.868031,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#F4C660",
     "nativeland:description":"https://native-land.ca/maps/territories/chontal-de-guerrero-tuxteco/",
     "nativeland:id":35916,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620219,
-    "wof:lastmodified":1668546139,
+    "wof:lastmodified":1668985083,
     "wof:name":"Chontal de Guerrero &#8211; Tuxteco",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

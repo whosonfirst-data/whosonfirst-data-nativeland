@@ -2,8 +2,8 @@
   "id": 1796620625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.906967,
     "geom:bbox":"-120.654936,46.783922,-117.922192,47.886236",
     "geom:latitude":47.271626,
@@ -14,7 +14,7 @@
     "mps:latitude":47.22408,
     "mps:longitude":-119.240481,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#40FFE0",
     "nativeland:description":"https://native-land.ca/maps/territories/moses-columbia/",
     "nativeland:id":34052,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620625,
-    "wof:lastmodified":1668546118,
+    "wof:lastmodified":1668985061,
     "wof:name":"s\u030ckwa\u0301xc\u030c\u0259n\u0259x\u02b7 (Moses-Columbia)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

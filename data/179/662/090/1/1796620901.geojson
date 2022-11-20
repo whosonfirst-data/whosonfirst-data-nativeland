@@ -2,8 +2,8 @@
   "id": 1796620901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":9.377749,
     "geom:bbox":"-105.798493,34.447373,-102.846348,38.25299",
     "geom:latitude":36.322456,
@@ -14,7 +14,7 @@
     "mps:latitude":36.355279,
     "mps:longitude":-104.256427,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B29AF1",
     "nativeland:description":"https://native-land.ca/maps/territories/jicarilla-apache/",
     "nativeland:id":33920,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620901,
-    "wof:lastmodified":1668546121,
+    "wof:lastmodified":1668985065,
     "wof:name":"Jicarilla Apache",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

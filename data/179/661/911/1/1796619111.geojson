@@ -2,8 +2,8 @@
   "id": 1796619111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.237607,
     "geom:bbox":"-105.436225,22.36505,-104.461087,22.765574",
     "geom:latitude":22.566132,
@@ -14,7 +14,7 @@
     "mps:latitude":22.558533,
     "mps:longitude":-104.97031,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#ECD581",
     "nativeland:description":"https://native-land.ca/maps/territories/mexicanero-nahuatl/",
     "nativeland:id":36407,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619111,
-    "wof:lastmodified":1668546100,
+    "wof:lastmodified":1668985043,
     "wof:name":"Mexicanero (Nahuas)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

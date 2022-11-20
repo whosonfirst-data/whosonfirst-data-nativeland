@@ -2,8 +2,8 @@
   "id": 1796618945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.104011,
     "geom:bbox":"-117.869568,54.977614,-117.119751,55.160043",
     "geom:latitude":55.069666,
@@ -14,7 +14,7 @@
     "mps:latitude":55.069104,
     "mps:longitude":-117.463757,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B28ED2",
     "nativeland:description":"https://native-land.ca/maps/territories/sturgeon-lake-cree/",
     "nativeland:id":36486,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618945,
-    "wof:lastmodified":1668546081,
+    "wof:lastmodified":1668985022,
     "wof:name":"Sturgeon Lake Cree",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

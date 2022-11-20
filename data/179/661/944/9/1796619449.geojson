@@ -2,8 +2,8 @@
   "id": 1796619449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.034621,
     "geom:bbox":"-73.839111,40.568067,-73.549347,40.752459",
     "geom:latitude":40.649519,
@@ -14,7 +14,7 @@
     "mps:latitude":40.650199,
     "mps:longitude":-73.711174,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B072CF",
     "nativeland:description":"https://native-land.ca/maps/territories/rockaway/",
     "nativeland:id":36258,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619449,
-    "wof:lastmodified":1668546105,
+    "wof:lastmodified":1668985047,
     "wof:name":"Lekawe (Rockaway)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

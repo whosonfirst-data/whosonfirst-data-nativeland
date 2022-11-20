@@ -2,8 +2,8 @@
   "id": 1796619749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.602418,
     "geom:bbox":"-118.806152,35.514343,-117.949219,36.75649",
     "geom:latitude":36.120676,
@@ -14,7 +14,7 @@
     "mps:latitude":35.969533,
     "mps:longitude":-118.296627,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#096D9C",
     "nativeland:description":"https://native-land.ca/maps/territories/tubatulabal/",
     "nativeland:id":36126,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619749,
-    "wof:lastmodified":1668546102,
+    "wof:lastmodified":1668985045,
     "wof:name":"T\u00fcbatulabal",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

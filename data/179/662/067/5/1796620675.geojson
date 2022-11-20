@@ -2,8 +2,8 @@
   "id": 1796620675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.074788,
     "geom:bbox":"177.67604,-38.996554,177.992101,-38.590066",
     "geom:latitude":-38.798623,
@@ -14,7 +14,7 @@
     "mps:latitude":-38.795265,
     "mps:longitude":177.823826,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#79E953",
     "nativeland:description":"https://native-land.ca/maps/territories/ngai-tamanuhiri/",
     "nativeland:id":34026,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620675,
-    "wof:lastmodified":1668546144,
+    "wof:lastmodified":1668985088,
     "wof:name":"Ng\u0101i T\u0101manuhiri",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

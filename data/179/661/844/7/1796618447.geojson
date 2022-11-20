@@ -2,8 +2,8 @@
   "id": 1796618447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.018752,
     "geom:bbox":"142.578647,-9.444491,142.815964,-9.346334",
     "geom:latitude":-9.394055,
@@ -14,7 +14,7 @@
     "mps:latitude":-9.395188,
     "mps:longitude":142.694169,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/territories/moegibuway/",
     "nativeland:id":37741,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618447,
-    "wof:lastmodified":1668546078,
+    "wof:lastmodified":1668985019,
     "wof:name":"Moegibuway",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

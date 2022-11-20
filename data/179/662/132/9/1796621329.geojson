@@ -2,8 +2,8 @@
   "id": 1796621329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.051146,
     "geom:bbox":"-85.240563,9.40861,-83.654677,10.642294",
     "geom:latitude":10.054713,
@@ -14,7 +14,7 @@
     "mps:latitude":10.017781,
     "mps:longitude":-84.402852,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#BEE7B9",
     "nativeland:description":"https://native-land.ca/maps/territories/huetar/",
     "nativeland:id":33726,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621329,
-    "wof:lastmodified":1668546107,
+    "wof:lastmodified":1668985049,
     "wof:name":"Huetar",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

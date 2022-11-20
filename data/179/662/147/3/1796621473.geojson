@@ -2,8 +2,8 @@
   "id": 1796621473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.98406,
     "geom:bbox":"-73.485562,-1.06296,-72.005921,-0.211798",
     "geom:latitude":-0.642629,
@@ -14,7 +14,7 @@
     "mps:latitude":-0.652434,
     "mps:longitude":-72.769724,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#335981",
     "nativeland:description":"https://native-land.ca/maps/territories/p%CA%8C%CA%8Csi%CA%8Ch%CA%8C-andoque-paasiaja/",
     "nativeland:id":33661,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621473,
-    "wof:lastmodified":1668546148,
+    "wof:lastmodified":1668985092,
     "wof:name":"p\u028c\u028cs\u00ed\u028ch\u028c (Andoque/Paasiaja)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

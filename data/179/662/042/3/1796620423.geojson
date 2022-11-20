@@ -2,8 +2,8 @@
   "id": 1796620423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.409061,
     "geom:bbox":"-111.576971,33.855411,-107.463752,35.686409",
     "geom:latitude":34.8202,
@@ -14,7 +14,7 @@
     "mps:latitude":34.730604,
     "mps:longitude":-108.7285,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#702A5B",
     "nativeland:description":"https://native-land.ca/maps/territories/zuni/",
     "nativeland:id":35827,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620423,
-    "wof:lastmodified":1668546133,
+    "wof:lastmodified":1668985077,
     "wof:name":"Shiwinna (Zuni)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

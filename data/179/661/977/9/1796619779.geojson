@@ -2,8 +2,8 @@
   "id": 1796619779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":8.792646,
     "geom:bbox":"-126.382715,50.607895,-121.151436,53.424688",
     "geom:latitude":52.134468,
@@ -14,7 +14,7 @@
     "mps:latitude":52.19248,
     "mps:longitude":-123.652906,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#2A5C6C",
     "nativeland:description":"https://native-land.ca/maps/territories/tsilqotin/",
     "nativeland:id":36109,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619779,
-    "wof:lastmodified":1668546082,
+    "wof:lastmodified":1668985024,
     "wof:name":"Ts\u0302ilhqot\u2019in Nen",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

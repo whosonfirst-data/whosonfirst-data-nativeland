@@ -2,8 +2,8 @@
   "id": 1796619685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.194256,
     "geom:bbox":"116.982422,-24.031414,118.575439,-22.720457",
     "geom:latitude":-23.430378,
@@ -14,7 +14,7 @@
     "mps:latitude":-23.490402,
     "mps:longitude":117.651183,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#FB5769",
     "nativeland:description":"https://native-land.ca/maps/territories/yinhawangka/",
     "nativeland:id":36155,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619685,
-    "wof:lastmodified":1668546088,
+    "wof:lastmodified":1668985031,
     "wof:name":"Yinhawangka",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796621219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.914449,
     "geom:bbox":"-81.414015,32.249243,-79.560281,33.038918",
     "geom:latitude":32.684016,
@@ -14,7 +14,7 @@
     "mps:latitude":32.629356,
     "mps:longitude":-80.569631,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#555418",
     "nativeland:description":"https://native-land.ca/maps/territories/kusso/",
     "nativeland:id":33774,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621219,
-    "wof:lastmodified":1668546127,
+    "wof:lastmodified":1668985070,
     "wof:name":"Kusso",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

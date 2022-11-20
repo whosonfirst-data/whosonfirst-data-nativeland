@@ -2,8 +2,8 @@
   "id": 1796619743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.798887,
     "geom:bbox":"-81.472168,34.415816,-78.369954,36.870272",
     "geom:latitude":35.89087,
@@ -14,7 +14,7 @@
     "mps:latitude":35.909852,
     "mps:longitude":-80.279796,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#1F117D",
     "nativeland:description":"https://native-land.ca/maps/territories/cheraw/",
     "nativeland:id":36129,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619743,
-    "wof:lastmodified":1668546102,
+    "wof:lastmodified":1668985045,
     "wof:name":"Cheraw",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

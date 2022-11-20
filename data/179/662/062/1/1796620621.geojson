@@ -2,8 +2,8 @@
   "id": 1796620621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.275696,
     "geom:bbox":"-119.379473,47.614552,-118.792796,48.56271",
     "geom:latitude":48.116566,
@@ -14,7 +14,7 @@
     "mps:latitude":48.135366,
     "mps:longitude":-119.02163,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E3DF6F",
     "nativeland:description":"https://native-land.ca/maps/territories/nespelem/",
     "nativeland:id":34050,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620621,
-    "wof:lastmodified":1668546118,
+    "wof:lastmodified":1668985061,
     "wof:name":"nspil\u0259m (Nespelem)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

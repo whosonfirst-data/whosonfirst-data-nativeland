@@ -2,8 +2,8 @@
   "id": 1796620243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.692399,
     "geom:bbox":"119.718018,-33.128351,122.618408,-30.883369",
     "geom:latitude":-32.021462,
@@ -14,7 +14,7 @@
     "mps:latitude":-32.067231,
     "mps:longitude":121.366887,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#83B690",
     "nativeland:description":"https://native-land.ca/maps/territories/malpa/",
     "nativeland:id":35904,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620243,
-    "wof:lastmodified":1668546111,
+    "wof:lastmodified":1668985054,
     "wof:name":"Malpa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

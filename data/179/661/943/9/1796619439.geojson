@@ -2,8 +2,8 @@
   "id": 1796619439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.1908,
     "geom:bbox":"143.127136,-13.394963,143.594055,-12.795731",
     "geom:latitude":-13.085207,
@@ -14,7 +14,7 @@
     "mps:latitude":-13.083131,
     "mps:longitude":143.401567,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D31B80",
     "nativeland:description":"https://native-land.ca/maps/territories/uutaalnganu/",
     "nativeland:id":36260,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619439,
-    "wof:lastmodified":1668546105,
+    "wof:lastmodified":1668985048,
     "wof:name":"Uutaalnganu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.555624,
     "geom:bbox":"141.179809,-16.977994,141.948852,-15.860957",
     "geom:latitude":-16.382136,
@@ -14,7 +14,7 @@
     "mps:latitude":-16.420093,
     "mps:longitude":141.514345,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#98E036",
     "nativeland:description":"https://native-land.ca/maps/territories/koknar/",
     "nativeland:id":36375,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619183,
-    "wof:lastmodified":1668546102,
+    "wof:lastmodified":1668985045,
     "wof:name":"Koknar",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

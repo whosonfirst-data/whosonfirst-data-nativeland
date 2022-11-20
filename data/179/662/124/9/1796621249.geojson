@@ -2,8 +2,8 @@
   "id": 1796621249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.013458,
     "geom:bbox":"-122.887695,39.036419,-122.72155,39.154344",
     "geom:latitude":39.093424,
@@ -14,7 +14,7 @@
     "mps:latitude":39.094794,
     "mps:longitude":-122.804302,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#9C362A",
     "nativeland:description":"https://native-land.ca/maps/territories/shigom/",
     "nativeland:id":33758,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621249,
-    "wof:lastmodified":1668546146,
+    "wof:lastmodified":1668985090,
     "wof:name":"Shigom",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

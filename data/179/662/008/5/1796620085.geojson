@@ -2,8 +2,8 @@
   "id": 1796620085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":5.053122,
     "geom:bbox":"-130.037682,54.691826,-126.128297,57.30136",
     "geom:latitude":56.183885,
@@ -14,7 +14,7 @@
     "mps:latitude":56.162947,
     "mps:longitude":-127.599767,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#5D3B23",
     "nativeland:description":"https://native-land.ca/maps/territories/gitxsan/",
     "nativeland:id":35975,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620085,
-    "wof:lastmodified":1668546122,
+    "wof:lastmodified":1668985065,
     "wof:name":"Gitx\u0331san Lax\u0331yip",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

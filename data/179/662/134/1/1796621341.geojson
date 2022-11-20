@@ -2,8 +2,8 @@
   "id": 1796621341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.081684,
     "geom:bbox":"-125.737712,48.887618,-124.817306,49.242382",
     "geom:latitude":49.052002,
@@ -14,7 +14,7 @@
     "mps:latitude":49.088012,
     "mps:longitude":-125.184166,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#801A6F",
     "nativeland:description":"https://native-land.ca/maps/territories/ucluelet/",
     "nativeland:id":33720,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621341,
-    "wof:lastmodified":1668546110,
+    "wof:lastmodified":1668985053,
     "wof:name":"Yuu\u0142u\u0294i\u0142\u0294at\u1e25",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

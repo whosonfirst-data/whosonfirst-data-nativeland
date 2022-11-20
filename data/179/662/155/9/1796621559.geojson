@@ -2,8 +2,8 @@
   "id": 1796621559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.222648,
     "geom:bbox":"-98.625224,18.772926,-98.007922,19.272308",
     "geom:latitude":19.002083,
@@ -14,7 +14,7 @@
     "mps:latitude":18.991121,
     "mps:longitude":-98.337461,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#765233",
     "nativeland:description":"https://native-land.ca/maps/territories/cholulteca/",
     "nativeland:id":33619,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621559,
-    "wof:lastmodified":1668546131,
+    "wof:lastmodified":1668985075,
     "wof:name":"Cholulteca",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.708306,
     "geom:bbox":"125.628662,-14.695194,126.765747,-13.784736",
     "geom:latitude":-14.213751,
@@ -14,7 +14,7 @@
     "mps:latitude":-14.229088,
     "mps:longitude":126.214352,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#4AAA85",
     "nativeland:description":"https://native-land.ca/maps/territories/gamberre/",
     "nativeland:id":36378,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619175,
-    "wof:lastmodified":1668546104,
+    "wof:lastmodified":1668985047,
     "wof:name":"Gamberre",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

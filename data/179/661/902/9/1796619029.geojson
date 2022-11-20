@@ -2,8 +2,8 @@
   "id": 1796619029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.466481,
     "geom:bbox":"142.531127,-38.754083,143.448486,-37.688167",
     "geom:latitude":-38.275108,
@@ -14,7 +14,7 @@
     "mps:latitude":-38.281389,
     "mps:longitude":142.804004,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#76AB09",
     "nativeland:description":"https://native-land.ca/maps/territories/giraiwurung/",
     "nativeland:id":36446,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619029,
-    "wof:lastmodified":1668546093,
+    "wof:lastmodified":1668985035,
     "wof:name":"Giraiwurung",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

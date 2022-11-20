@@ -2,8 +2,8 @@
   "id": 1796619839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.693084,
     "geom:bbox":"141.470947,-34.939985,142.965087,-34.079962",
     "geom:latitude":-34.522562,
@@ -14,7 +14,7 @@
     "mps:latitude":-34.441018,
     "mps:longitude":142.051735,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#2FE9BF",
     "nativeland:description":"https://native-land.ca/maps/territories/latje-latje/",
     "nativeland:id":36085,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619839,
-    "wof:lastmodified":1668546082,
+    "wof:lastmodified":1668985024,
     "wof:name":"Latje Latje",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

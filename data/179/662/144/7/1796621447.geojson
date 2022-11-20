@@ -2,8 +2,8 @@
   "id": 1796621447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.417041,
     "geom:bbox":"-77.605134,0.925587,-76.471412,1.619749",
     "geom:latitude":1.25164,
@@ -14,7 +14,7 @@
     "mps:latitude":1.146289,
     "mps:longitude":-76.823836,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#62A45B",
     "nativeland:description":"https://native-land.ca/maps/territories/inga/",
     "nativeland:id":33669,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621447,
-    "wof:lastmodified":1668546126,
+    "wof:lastmodified":1668985069,
     "wof:name":"Inga",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

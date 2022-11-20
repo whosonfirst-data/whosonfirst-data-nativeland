@@ -2,8 +2,8 @@
   "id": 1796619533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.282462,
     "geom:bbox":"-119.726412,36.383692,-118.323448,38.439635",
     "geom:latitude":37.499727,
@@ -14,7 +14,7 @@
     "mps:latitude":37.955859,
     "mps:longitude":-119.004047,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#1F509C",
     "nativeland:description":"https://native-land.ca/maps/territories/southern-mono-monache/",
     "nativeland:id":36218,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619533,
-    "wof:lastmodified":1668546070,
+    "wof:lastmodified":1668985011,
     "wof:name":"Western Mono/Monache",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

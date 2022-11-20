@@ -2,8 +2,8 @@
   "id": 1796621379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.071231,
     "geom:bbox":"-70.106862,3.57601,-65.868891,6.430786",
     "geom:latitude":4.771048,
@@ -14,7 +14,7 @@
     "mps:latitude":4.802367,
     "mps:longitude":-67.197911,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0F0BE7",
     "nativeland:description":"https://native-land.ca/maps/territories/uwottuja/",
     "nativeland:id":33701,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621379,
-    "wof:lastmodified":1668546132,
+    "wof:lastmodified":1668985076,
     "wof:name":"Huott\u0173j\u0105 (Piaroa)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

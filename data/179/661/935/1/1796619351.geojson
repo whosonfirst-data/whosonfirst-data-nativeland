@@ -2,8 +2,8 @@
   "id": 1796619351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.824869,
     "geom:bbox":"141.866455,-34.714524,143.349609,-33.706062",
     "geom:latitude":-34.227035,
@@ -14,7 +14,7 @@
     "mps:latitude":-34.225873,
     "mps:longitude":142.574998,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E4A00C",
     "nativeland:description":"https://native-land.ca/maps/territories/kureinji/",
     "nativeland:id":36301,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619351,
-    "wof:lastmodified":1668546090,
+    "wof:lastmodified":1668985032,
     "wof:name":"Kureinji",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

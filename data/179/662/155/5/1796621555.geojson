@@ -2,8 +2,8 @@
   "id": 1796621555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":20.254267,
     "geom:bbox":"-132.817373,65.703976,-120.57743,68.433261",
     "geom:latitude":67.30615,
@@ -14,7 +14,7 @@
     "mps:latitude":67.201238,
     "mps:longitude":-128.450708,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C38DA4",
     "nativeland:description":"https://native-land.ca/maps/territories/kasho-gotine/",
     "nativeland:id":33623,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621555,
-    "wof:lastmodified":1668546131,
+    "wof:lastmodified":1668985075,
     "wof:name":"K\u2019asho Got\u2019ine",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

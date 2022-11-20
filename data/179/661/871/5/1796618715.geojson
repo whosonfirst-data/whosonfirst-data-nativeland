@@ -2,8 +2,8 @@
   "id": 1796618715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.491263,
     "geom:bbox":"-100.541381,19.14717,-99.640131,20.024075",
     "geom:latitude":19.54559,
@@ -14,7 +14,7 @@
     "mps:latitude":19.544078,
     "mps:longitude":-99.987123,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#68F0F6",
     "nativeland:description":"https://native-land.ca/maps/territories/mazahua/",
     "nativeland:id":36590,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618715,
-    "wof:lastmodified":1668546096,
+    "wof:lastmodified":1668985039,
     "wof:name":"j\u00f1atjo/ j\u00f1atrjo (Mazahua)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

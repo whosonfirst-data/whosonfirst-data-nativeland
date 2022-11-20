@@ -2,8 +2,8 @@
   "id": 1796620045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":8.163558,
     "geom:bbox":"-114.74287,38.064696,-111.669274,41.897733",
     "geom:latitude":39.946498,
@@ -14,7 +14,7 @@
     "mps:latitude":40.002495,
     "mps:longitude":-113.48353,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#4F4BF2",
     "nativeland:description":"https://native-land.ca/maps/territories/goshute/",
     "nativeland:id":35990,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620045,
-    "wof:lastmodified":1668546140,
+    "wof:lastmodified":1668985084,
     "wof:name":"Goshute",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

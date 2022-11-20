@@ -2,8 +2,8 @@
   "id": 1796620713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.247488,
     "geom:bbox":"177.298319,-38.747929,178.068872,-38.020904",
     "geom:latitude":-38.436074,
@@ -14,7 +14,7 @@
     "mps:latitude":-38.447446,
     "mps:longitude":177.668043,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#754FFD",
     "nativeland:description":"https://native-land.ca/maps/territories/te-aitanga-a-mahaki/",
     "nativeland:id":34006,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620713,
-    "wof:lastmodified":1668546115,
+    "wof:lastmodified":1668985058,
     "wof:name":"Te Aitanga \u0101 M\u0101haki",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

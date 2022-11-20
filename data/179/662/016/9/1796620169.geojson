@@ -2,8 +2,8 @@
   "id": 1796620169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.154282,
     "geom:bbox":"-123.387451,40.963308,-122.783203,41.47566",
     "geom:latitude":41.185299,
@@ -14,7 +14,7 @@
     "mps:latitude":41.14451,
     "mps:longitude":-122.963031,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#935826",
     "nativeland:description":"https://native-land.ca/maps/territories/new-river-shasta/",
     "nativeland:id":35937,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620169,
-    "wof:lastmodified":1668546136,
+    "wof:lastmodified":1668985080,
     "wof:name":"New River Shasta",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

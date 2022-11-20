@@ -2,8 +2,8 @@
   "id": 1796621317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.175775,
     "geom:bbox":"-85.578406,10.3014,-83.373428,12.065378",
     "geom:latitude":10.995537,
@@ -14,7 +14,7 @@
     "mps:latitude":10.962605,
     "mps:longitude":-84.425534,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#F4E34B",
     "nativeland:description":"https://native-land.ca/maps/territories/rama/",
     "nativeland:id":33728,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621317,
-    "wof:lastmodified":1668546129,
+    "wof:lastmodified":1668985073,
     "wof:name":"Rama",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

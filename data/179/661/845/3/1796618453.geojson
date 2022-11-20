@@ -2,8 +2,8 @@
   "id": 1796618453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.023691,
     "geom:bbox":"142.105306,-9.333211,142.326448,-9.188898",
     "geom:latitude":-9.261762,
@@ -14,7 +14,7 @@
     "mps:latitude":-9.261582,
     "mps:longitude":142.208811,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/territories/malu-kiai/",
     "nativeland:id":37693,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618453,
-    "wof:lastmodified":1668546075,
+    "wof:lastmodified":1668985016,
     "wof:name":"Malu Ki&#8217;ai",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

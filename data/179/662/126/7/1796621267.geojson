@@ -2,8 +2,8 @@
   "id": 1796621267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.005045,
     "geom:bbox":"-119.460858,33.987148,-119.336369,34.034811",
     "geom:latitude":34.011703,
@@ -14,7 +14,7 @@
     "mps:latitude":34.011306,
     "mps:longitude":-119.397328,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#F13C13",
     "nativeland:description":"https://native-land.ca/maps/territories/anyapax/",
     "nativeland:id":33749,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621267,
-    "wof:lastmodified":1668546127,
+    "wof:lastmodified":1668985071,
     "wof:name":"&#8216;Anyapax",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

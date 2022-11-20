@@ -2,8 +2,8 @@
   "id": 1796621365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":5.004447,
     "geom:bbox":"-55.802601,-0.065936,-53.785179,3.686924",
     "geom:latitude":1.927343,
@@ -14,7 +14,7 @@
     "mps:latitude":2.889164,
     "mps:longitude":-54.985919,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#6C6097",
     "nativeland:description":"https://native-land.ca/maps/territories/wayana/",
     "nativeland:id":33707,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621365,
-    "wof:lastmodified":1668546130,
+    "wof:lastmodified":1668985073,
     "wof:name":"Wayana",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

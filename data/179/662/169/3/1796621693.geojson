@@ -2,8 +2,8 @@
   "id": 1796621693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":7.343264,
     "geom:bbox":"-58.740886,-8.262245,-54.694656,-2.782135",
     "geom:latitude":-5.823385,
@@ -14,7 +14,7 @@
     "mps:latitude":-6.773813,
     "mps:longitude":-57.803154,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#2A5727",
     "nativeland:description":"https://native-land.ca/maps/territories/mundurukania-wuy-jugu/",
     "nativeland:id":33514,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621693,
-    "wof:lastmodified":1668546111,
+    "wof:lastmodified":1668985054,
     "wof:name":"Munduruk\u00e2nia (Wuy jugu)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.423872,
     "geom:bbox":"132.637937,-13.370915,133.670654,-12.768946",
     "geom:latitude":-13.077351,
@@ -14,7 +14,7 @@
     "mps:latitude":-13.046327,
     "mps:longitude":133.196305,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#357EB8",
     "nativeland:description":"https://native-land.ca/maps/territories/wuningangk/",
     "nativeland:id":36281,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619395,
-    "wof:lastmodified":1668546072,
+    "wof:lastmodified":1668985013,
     "wof:name":"Wuningangk",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

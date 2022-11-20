@@ -2,8 +2,8 @@
   "id": 1796620577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":49.253858,
     "geom:bbox":"-95.789934,36.315314,-80.442719,42.003871",
     "geom:latitude":39.389078,
@@ -14,7 +14,7 @@
     "mps:latitude":39.742594,
     "mps:longitude":-87.978525,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#1D0B30",
     "nativeland:description":"https://native-land.ca/maps/territories/kaskaskia/",
     "nativeland:id":34078,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620577,
-    "wof:lastmodified":1668546142,
+    "wof:lastmodified":1668985086,
     "wof:name":"Kaskaskia",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

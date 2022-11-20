@@ -2,8 +2,8 @@
   "id": 1796621207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.57502,
     "geom:bbox":"-85.230931,41.588416,-82.90414,42.438531",
     "geom:latitude":42.029428,
@@ -14,7 +14,7 @@
     "mps:latitude":42.020228,
     "mps:longitude":-84.14138,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#57E115",
     "nativeland:description":"https://native-land.ca/maps/territories/meskwahkiasahina-fox/",
     "nativeland:id":33781,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621207,
-    "wof:lastmodified":1668546126,
+    "wof:lastmodified":1668985069,
     "wof:name":"Me\u0161kwahki\u00b7a\u0161a\u00b7hina (Fox)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

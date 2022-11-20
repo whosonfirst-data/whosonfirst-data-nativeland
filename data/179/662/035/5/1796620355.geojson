@@ -2,8 +2,8 @@
   "id": 1796620355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":17.965504,
     "geom:bbox":"-96.429337,31.172214,-92.456043,36.928668",
     "geom:latitude":34.106637,
@@ -14,7 +14,7 @@
     "mps:latitude":34.124873,
     "mps:longitude":-94.397237,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#3EF38C",
     "nativeland:description":"https://native-land.ca/maps/territories/caddo/",
     "nativeland:id":35855,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620355,
-    "wof:lastmodified":1668546140,
+    "wof:lastmodified":1668985084,
     "wof:name":"Caddo",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

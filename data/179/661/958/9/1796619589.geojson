@@ -2,8 +2,8 @@
   "id": 1796619589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.198091,
     "geom:bbox":"132.39624,-12.785017,132.731323,-12.060809",
     "geom:latitude":-12.435658,
@@ -14,7 +14,7 @@
     "mps:latitude":-12.419581,
     "mps:longitude":132.551633,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#A52858",
     "nativeland:description":"https://native-land.ca/maps/territories/gagudju/",
     "nativeland:id":36195,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619589,
-    "wof:lastmodified":1668546091,
+    "wof:lastmodified":1668985034,
     "wof:name":"Gagudju",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796621115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.827563,
     "geom:bbox":"-80.039976,35.837924,-77.209283,37.294123",
     "geom:latitude":36.598717,
@@ -14,7 +14,7 @@
     "mps:latitude":36.671096,
     "mps:longitude":-78.763453,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#34A00A",
     "nativeland:description":"https://native-land.ca/maps/territories/saponi/",
     "nativeland:id":33820,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621115,
-    "wof:lastmodified":1668546125,
+    "wof:lastmodified":1668985068,
     "wof:name":"Saponi",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796620849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.537809,
     "geom:bbox":"174.613219,-39.651056,175.904298,-38.881315",
     "geom:latitude":-39.289773,
@@ -14,7 +14,7 @@
     "mps:latitude":-39.298869,
     "mps:longitude":175.217176,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#A3A416",
     "nativeland:description":"https://native-land.ca/maps/territories/te-korowai-o-wainuiarua-central-whanganui/",
     "nativeland:id":33947,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620849,
-    "wof:lastmodified":1668546114,
+    "wof:lastmodified":1668985057,
     "wof:name":"Te Korowai o Wainui\u0101rua (Central Whanganui)",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.478732,
     "geom:bbox":"-100.09725,19.956246,-97.184848,24.466873",
     "geom:latitude":22.174928,
@@ -14,7 +14,7 @@
     "mps:latitude":22.301081,
     "mps:longitude":-98.586844,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#DE61C8",
     "nativeland:description":"https://native-land.ca/maps/territories/huasteco-teenek/",
     "nativeland:id":36020,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619977,
-    "wof:lastmodified":1668546073,
+    "wof:lastmodified":1668985014,
     "wof:name":"T\u00e9nek",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

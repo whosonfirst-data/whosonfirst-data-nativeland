@@ -2,8 +2,8 @@
   "id": 1796619983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.13763,
     "geom:bbox":"-122.270085,41.820455,-120.585938,44.0638",
     "geom:latitude":42.878281,
@@ -14,7 +14,7 @@
     "mps:latitude":42.764796,
     "mps:longitude":-121.62905,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#FA738D",
     "nativeland:description":"https://native-land.ca/maps/territories/klamath/",
     "nativeland:id":36017,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619983,
-    "wof:lastmodified":1668546070,
+    "wof:lastmodified":1668985011,
     "wof:name":"Klamath",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

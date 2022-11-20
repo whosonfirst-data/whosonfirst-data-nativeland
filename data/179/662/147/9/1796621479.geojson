@@ -2,8 +2,8 @@
   "id": 1796621479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":13.279937,
     "geom:bbox":"-75.773334,-6.120721,-63.948047,-1.970349",
     "geom:latitude":-3.666646,
@@ -14,7 +14,7 @@
     "mps:latitude":-3.633837,
     "mps:longitude":-69.541811,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#A4021F",
     "nativeland:description":"https://native-land.ca/maps/territories/inikana-kukama-kukamiria-kokama/",
     "nativeland:id":33656,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621479,
-    "wof:lastmodified":1668546148,
+    "wof:lastmodified":1668985092,
     "wof:name":"Inikana/Kukama Kukamiria/Kokama",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

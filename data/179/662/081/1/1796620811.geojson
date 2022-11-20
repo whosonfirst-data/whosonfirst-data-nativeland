@@ -2,8 +2,8 @@
   "id": 1796620811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.145465,
     "geom:bbox":"-177.969688,-35.185256,173.304753,-29.239776",
     "geom:latitude":-34.635187,
@@ -14,7 +14,7 @@
     "mps:latitude":-34.53498,
     "mps:longitude":172.900324,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#04E804",
     "nativeland:description":"https://native-land.ca/maps/territories/te-aupouri/",
     "nativeland:id":33962,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620811,
-    "wof:lastmodified":1668546136,
+    "wof:lastmodified":1668985080,
     "wof:name":"Te Aup\u014duri",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

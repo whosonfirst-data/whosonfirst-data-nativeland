@@ -2,8 +2,8 @@
   "id": 1796620515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":14.69829,
     "geom:bbox":"-72.154401,2.672547,-66.920943,7.326741",
     "geom:latitude":5.070172,
@@ -14,7 +14,7 @@
     "mps:latitude":4.576294,
     "mps:longitude":-69.647034,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#408878",
     "nativeland:description":"https://native-land.ca/maps/territories/sikuani-guajibo/",
     "nativeland:id":34113,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620515,
-    "wof:lastmodified":1668546144,
+    "wof:lastmodified":1668985088,
     "wof:name":"Guahibo/Hiwi",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

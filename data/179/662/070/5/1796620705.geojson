@@ -2,8 +2,8 @@
   "id": 1796620705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.082756,
     "geom:bbox":"173.518473,-35.18451,173.977629,-34.906413",
     "geom:latitude":-35.048835,
@@ -14,7 +14,7 @@
     "mps:latitude":-35.060008,
     "mps:longitude":173.745906,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#788FEE",
     "nativeland:description":"https://native-land.ca/maps/territories/ngapuhi-ngati-kahu-ki-whaingaroa/",
     "nativeland:id":34009,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620705,
-    "wof:lastmodified":1668546114,
+    "wof:lastmodified":1668985057,
     "wof:name":"Ng\u0101puhi / Ng\u0101ti Kahu ki Whaingaroa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796621433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":7.702034,
     "geom:bbox":"-77.10402,4.009902,-73.86334,8.848613",
     "geom:latitude":6.535197,
@@ -14,7 +14,7 @@
     "mps:latitude":6.534766,
     "mps:longitude":-75.362641,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#73EED2",
     "nativeland:description":"https://native-land.ca/maps/territories/embera-chami/",
     "nativeland:id":33676,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621433,
-    "wof:lastmodified":1668546126,
+    "wof:lastmodified":1668985069,
     "wof:name":"Ember\u00e1 Cham\u00ed",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

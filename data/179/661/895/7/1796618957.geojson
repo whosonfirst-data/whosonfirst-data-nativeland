@@ -2,8 +2,8 @@
   "id": 1796618957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.851849,
     "geom:bbox":"-103.922068,25.197005,-101.318145,27.068421",
     "geom:latitude":26.049637,
@@ -14,7 +14,7 @@
     "mps:latitude":26.047438,
     "mps:longitude":-102.527499,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#4FFE2C",
     "nativeland:description":"https://native-land.ca/maps/territories/irritilas-lagunero/",
     "nativeland:id":36476,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618957,
-    "wof:lastmodified":1668546079,
+    "wof:lastmodified":1668985020,
     "wof:name":"Irritilas/Lagunero",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

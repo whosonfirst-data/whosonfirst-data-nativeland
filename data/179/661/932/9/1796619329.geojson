@@ -2,8 +2,8 @@
   "id": 1796619329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.561092,
     "geom:bbox":"122.739257,-20.679044,125.112304,-18.20848",
     "geom:latitude":-19.422772,
@@ -14,7 +14,7 @@
     "mps:latitude":-19.510856,
     "mps:longitude":124.141607,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#61F2BE",
     "nativeland:description":"https://native-land.ca/maps/territories/mangala/",
     "nativeland:id":36309,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619329,
-    "wof:lastmodified":1668546090,
+    "wof:lastmodified":1668985032,
     "wof:name":"Mangala",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

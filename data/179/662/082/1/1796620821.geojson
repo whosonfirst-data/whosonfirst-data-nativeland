@@ -2,8 +2,8 @@
   "id": 1796620821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.335154,
     "geom:bbox":"174.537805,-37.612766,175.627111,-36.3347",
     "geom:latitude":-36.970058,
@@ -14,7 +14,7 @@
     "mps:latitude":-37.056901,
     "mps:longitude":175.176705,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#333243",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-paoa/",
     "nativeland:id":33958,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620821,
-    "wof:lastmodified":1668546116,
+    "wof:lastmodified":1668985059,
     "wof:name":"Ng\u0101ti Paoa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

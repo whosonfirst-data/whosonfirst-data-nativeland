@@ -2,8 +2,8 @@
   "id": 1796621691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.193074,
     "geom:bbox":"-106.843408,31.553182,-105.337682,36.650253",
     "geom:latitude":35.078771,
@@ -14,7 +14,7 @@
     "mps:latitude":34.816799,
     "mps:longitude":-106.489916,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D06D0B",
     "nativeland:description":"https://native-land.ca/maps/territories/tigua/",
     "nativeland:id":33518,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621691,
-    "wof:lastmodified":1668546111,
+    "wof:lastmodified":1668985054,
     "wof:name":"Tigua (Tiwa)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

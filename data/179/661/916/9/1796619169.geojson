@@ -2,8 +2,8 @@
   "id": 1796619169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.327303,
     "geom:bbox":"-128.737793,51.261915,-125.749512,52.018698",
     "geom:latitude":51.630918,
@@ -14,7 +14,7 @@
     "mps:latitude":51.750919,
     "mps:longitude":-126.972626,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#130C87",
     "nativeland:description":"https://native-land.ca/maps/territories/wuikinuxv-oweekeno/",
     "nativeland:id":36385,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619169,
-    "wof:lastmodified":1668546100,
+    "wof:lastmodified":1668985043,
     "wof:name":"Wuikinuxv (Oweekeno)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

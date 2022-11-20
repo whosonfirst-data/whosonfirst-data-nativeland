@@ -2,8 +2,8 @@
   "id": 1796620055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.763936,
     "geom:bbox":"-100.294224,17.121613,-98.406533,18.757934",
     "geom:latitude":17.911451,
@@ -14,7 +14,7 @@
     "mps:latitude":17.883323,
     "mps:longitude":-99.292744,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#4E62BC",
     "nativeland:description":"https://native-land.ca/maps/territories/nahuatl-6/",
     "nativeland:id":35989,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620055,
-    "wof:lastmodified":1668546143,
+    "wof:lastmodified":1668985087,
     "wof:name":"Nahua (Guerrero)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

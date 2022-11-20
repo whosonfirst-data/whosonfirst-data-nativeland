@@ -2,8 +2,8 @@
   "id": 1796619621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":5.774496,
     "geom:bbox":"128.80371,-27.527758,131.121826,-24.427145",
     "geom:latitude":-25.959404,
@@ -14,7 +14,7 @@
     "mps:latitude":-25.960902,
     "mps:longitude":129.909826,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#94E89A",
     "nativeland:description":"https://native-land.ca/maps/territories/pitjantjatjara/",
     "nativeland:id":36181,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619621,
-    "wof:lastmodified":1668546071,
+    "wof:lastmodified":1668985012,
     "wof:name":"Pitjantjatjara",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

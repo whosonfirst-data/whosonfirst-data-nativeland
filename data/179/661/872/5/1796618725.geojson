@@ -2,8 +2,8 @@
   "id": 1796618725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.467659,
     "geom:bbox":"150.507202,-24.181836,151.473999,-23.372513",
     "geom:latitude":-23.757587,
@@ -14,7 +14,7 @@
     "mps:latitude":-23.760602,
     "mps:longitude":150.965161,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#4C8E79",
     "nativeland:description":"https://native-land.ca/maps/territories/bayali/",
     "nativeland:id":36583,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618725,
-    "wof:lastmodified":1668546076,
+    "wof:lastmodified":1668985017,
     "wof:name":"Bayali",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

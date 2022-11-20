@@ -2,8 +2,8 @@
   "id": 1796618761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.061067,
     "geom:bbox":"127.39746,-30.230594,131.440429,-28.256005",
     "geom:latitude":-29.195514,
@@ -14,7 +14,7 @@
     "mps:latitude":-29.179119,
     "mps:longitude":129.040699,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#302AEA",
     "nativeland:description":"https://native-land.ca/maps/territories/ngalea/",
     "nativeland:id":36563,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618761,
-    "wof:lastmodified":1668546096,
+    "wof:lastmodified":1668985039,
     "wof:name":"Ngalea",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

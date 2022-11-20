@@ -2,8 +2,8 @@
   "id": 1796619301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.891182,
     "geom:bbox":"123.288574,-22.411028,126.452636,-20.179723",
     "geom:latitude":-21.219999,
@@ -14,7 +14,7 @@
     "mps:latitude":-21.242648,
     "mps:longitude":124.911824,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#F191DB",
     "nativeland:description":"https://native-land.ca/maps/territories/yulparitja/",
     "nativeland:id":36324,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619301,
-    "wof:lastmodified":1668546072,
+    "wof:lastmodified":1668985013,
     "wof:name":"Yulparitja",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

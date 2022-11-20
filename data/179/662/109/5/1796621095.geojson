@@ -2,8 +2,8 @@
   "id": 1796621095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.0454,
     "geom:bbox":"-77.553082,37.268604,-77.218248,37.457088",
     "geom:latitude":37.363608,
@@ -14,7 +14,7 @@
     "mps:latitude":37.357512,
     "mps:longitude":-77.383131,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#17D151",
     "nativeland:description":"https://native-land.ca/maps/territories/arrohatec/",
     "nativeland:id":33835,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621095,
-    "wof:lastmodified":1668546130,
+    "wof:lastmodified":1668985073,
     "wof:name":"Arrohateck",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

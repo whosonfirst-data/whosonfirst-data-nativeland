@@ -2,8 +2,8 @@
   "id": 1796618867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.118484,
     "geom:bbox":"-93.263428,30.830327,-89.424509,32.510441",
     "geom:latitude":31.629267,
@@ -14,7 +14,7 @@
     "mps:latitude":31.796386,
     "mps:longitude":-90.997435,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#8A3FF1",
     "nativeland:description":"https://native-land.ca/maps/territories/natchez/",
     "nativeland:id":36517,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618867,
-    "wof:lastmodified":1668546076,
+    "wof:lastmodified":1668985017,
     "wof:name":"Natchez",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

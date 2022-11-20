@@ -2,8 +2,8 @@
   "id": 1796618575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.126137,
     "geom:bbox":"-122.095396,40.915439,-120.248242,41.865546",
     "geom:latitude":41.328149,
@@ -14,7 +14,7 @@
     "mps:latitude":41.379028,
     "mps:longitude":-120.774427,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#24F1C4",
     "nativeland:description":"https://native-land.ca/maps/territories/achumawi/",
     "nativeland:id":36652,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618575,
-    "wof:lastmodified":1668546080,
+    "wof:lastmodified":1668985021,
     "wof:name":"Achumawi",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

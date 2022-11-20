@@ -2,8 +2,8 @@
   "id": 1796621039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.04511,
     "geom:bbox":"-76.720195,37.746116,-76.394387,37.937131",
     "geom:latitude":37.837493,
@@ -14,7 +14,7 @@
     "mps:latitude":37.843198,
     "mps:longitude":-76.55689,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#AC4EAD",
     "nativeland:description":"https://native-land.ca/maps/territories/moraughtacund/",
     "nativeland:id":33861,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621039,
-    "wof:lastmodified":1668546107,
+    "wof:lastmodified":1668985050,
     "wof:name":"Moraughtacund",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

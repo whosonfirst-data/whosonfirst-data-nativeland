@@ -2,8 +2,8 @@
   "id": 1796620291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.769803,
     "geom:bbox":"-122.156982,34.813803,-118.428632,37.996163",
     "geom:latitude":36.426131,
@@ -14,7 +14,7 @@
     "mps:latitude":36.041736,
     "mps:longitude":-119.54419,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#788DCD",
     "nativeland:description":"https://native-land.ca/maps/territories/yokuts/",
     "nativeland:id":35881,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620291,
-    "wof:lastmodified":1668546136,
+    "wof:lastmodified":1668985080,
     "wof:name":"Yokuts",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

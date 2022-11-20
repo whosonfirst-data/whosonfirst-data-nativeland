@@ -2,8 +2,8 @@
   "id": 1796618663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.068318,
     "geom:bbox":"-130.48733,54.511036,-127.783952,57.171529",
     "geom:latitude":55.94062,
@@ -14,7 +14,7 @@
     "mps:latitude":56.008666,
     "mps:longitude":-129.268147,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E0C366",
     "nativeland:description":"https://native-land.ca/maps/territories/nisgaa/",
     "nativeland:id":36613,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618663,
-    "wof:lastmodified":1668546078,
+    "wof:lastmodified":1668985019,
     "wof:name":"Nisg\u0331a&#8217;a",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

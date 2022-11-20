@@ -2,8 +2,8 @@
   "id": 1796619889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.439691,
     "geom:bbox":"-108.951776,29.798304,-104.03878,31.808147",
     "geom:latitude":30.723732,
@@ -14,7 +14,7 @@
     "mps:latitude":31.002985,
     "mps:longitude":-106.316016,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#5DD2E5",
     "nativeland:description":"https://native-land.ca/maps/territories/sumas/",
     "nativeland:id":36059,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619889,
-    "wof:lastmodified":1668546105,
+    "wof:lastmodified":1668985048,
     "wof:name":"Sumas",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

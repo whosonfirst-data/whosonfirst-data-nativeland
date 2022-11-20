@@ -2,8 +2,8 @@
   "id": 1796620359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":26.727387,
     "geom:bbox":"-142.15976,54.664864,-129.962903,60.583161",
     "geom:latitude":57.802062,
@@ -14,7 +14,7 @@
     "mps:latitude":57.188361,
     "mps:longitude":-134.532998,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B2B72C",
     "nativeland:description":"https://native-land.ca/maps/territories/tlingit/",
     "nativeland:id":35851,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620359,
-    "wof:lastmodified":1668546140,
+    "wof:lastmodified":1668985084,
     "wof:name":"Ling\u00edt Aan\u00ed (Tlingit)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

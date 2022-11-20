@@ -2,8 +2,8 @@
   "id": 1796619745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":12.321307,
     "geom:bbox":"-82.55127,33.100745,-77.321777,36.791691",
     "geom:latitude":35.074291,
@@ -14,7 +14,7 @@
     "mps:latitude":35.173785,
     "mps:longitude":-79.702432,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#CF65BC",
     "nativeland:description":"https://native-land.ca/maps/territories/catawba/",
     "nativeland:id":36124,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619745,
-    "wof:lastmodified":1668546102,
+    "wof:lastmodified":1668985045,
     "wof:name":"M\u00e1nu: Y\u012f \u012esuw\u0105 (Catawba)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

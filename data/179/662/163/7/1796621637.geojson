@@ -2,8 +2,8 @@
   "id": 1796621637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.70383,
     "geom:bbox":"-174.095943,64.187449,-172.152996,64.675098",
     "geom:latitude":64.45068,
@@ -14,7 +14,7 @@
     "mps:latitude":64.432153,
     "mps:longitude":-173.085054,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#CA4C3F",
     "nativeland:description":"https://native-land.ca/maps/territories/ungazigmit-chaplino-yupik/",
     "nativeland:id":33560,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621637,
-    "wof:lastmodified":1668546131,
+    "wof:lastmodified":1668985074,
     "wof:name":"Ungazigmit (Chaplino) Yupik",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

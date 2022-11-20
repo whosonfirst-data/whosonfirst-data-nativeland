@@ -2,8 +2,8 @@
   "id": 1796618687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":17.847912,
     "geom:bbox":"-151.064528,60.489566,-140.841096,63.743932",
     "geom:latitude":62.194615,
@@ -14,7 +14,7 @@
     "mps:latitude":62.038379,
     "mps:longitude":-144.82158,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D63701",
     "nativeland:description":"https://native-land.ca/maps/territories/ahtna/",
     "nativeland:id":36602,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618687,
-    "wof:lastmodified":1668546079,
+    "wof:lastmodified":1668985020,
     "wof:name":"Ahtna Nenn\u2019",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

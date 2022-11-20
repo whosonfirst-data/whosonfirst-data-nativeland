@@ -2,8 +2,8 @@
   "id": 1796619601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.64117,
     "geom:bbox":"-104.742959,21.11886,-101.574066,25.405192",
     "geom:latitude":23.52848,
@@ -14,7 +14,7 @@
     "mps:latitude":23.721466,
     "mps:longitude":-103.407075,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0F0506",
     "nativeland:description":"https://native-land.ca/maps/territories/zacateco/",
     "nativeland:id":36188,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619601,
-    "wof:lastmodified":1668546091,
+    "wof:lastmodified":1668985034,
     "wof:name":"Zacateco\u00a0",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

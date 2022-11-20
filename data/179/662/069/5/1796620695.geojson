@@ -2,8 +2,8 @@
   "id": 1796620695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.15501,
     "geom:bbox":"176.841643,-38.967744,177.515645,-38.619591",
     "geom:latitude":-38.796209,
@@ -14,7 +14,7 @@
     "mps:latitude":-38.782261,
     "mps:longitude":177.168777,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#BB0314",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-ruapani-mai-waikaremoana/",
     "nativeland:id":34019,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620695,
-    "wof:lastmodified":1668546144,
+    "wof:lastmodified":1668985088,
     "wof:name":"Ng\u0101ti Ruapani mai Waikaremoana",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796621331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":160.692493,
     "geom:bbox":"7.631913,60.738615,41.802413,71.56374",
     "geom:latitude":66.847445,
@@ -14,7 +14,7 @@
     "mps:latitude":66.573736,
     "mps:longitude":18.554405,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#5FCB17",
     "nativeland:description":"https://native-land.ca/maps/territories/sapmi-sami/",
     "nativeland:id":33721,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621331,
-    "wof:lastmodified":1668546109,
+    "wof:lastmodified":1668985052,
     "wof:name":"S\u00e1pmi (S\u00e1mi)",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

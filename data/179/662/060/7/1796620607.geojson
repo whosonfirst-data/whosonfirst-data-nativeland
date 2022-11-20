@@ -2,8 +2,8 @@
   "id": 1796620607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.569299,
     "geom:bbox":"-72.817682,42.525628,-70.525373,43.450201",
     "geom:latitude":43.022964,
@@ -14,7 +14,7 @@
     "mps:latitude":43.013077,
     "mps:longitude":-71.714302,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#AB8A35",
     "nativeland:description":"https://native-land.ca/maps/territories/pennacook-2/",
     "nativeland:id":34060,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620607,
-    "wof:lastmodified":1668546145,
+    "wof:lastmodified":1668985089,
     "wof:name":"Pennacook",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

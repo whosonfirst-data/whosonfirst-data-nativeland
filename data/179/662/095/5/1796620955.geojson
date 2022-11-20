@@ -2,8 +2,8 @@
   "id": 1796620955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.000184,
     "geom:bbox":"-80.221085,26.031863,-80.204226,26.054128",
     "geom:latitude":26.041957,
@@ -14,7 +14,7 @@
     "mps:latitude":26.039529,
     "mps:longitude":-80.21031,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B7FE4F",
     "nativeland:description":"https://native-land.ca/maps/territories/seminole-tribe-of-florida-hollywood-reservation/",
     "nativeland:id":33898,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620955,
-    "wof:lastmodified":1668546141,
+    "wof:lastmodified":1668985084,
     "wof:name":"Seminole Tribe of Florida (Hollywood Reservation)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

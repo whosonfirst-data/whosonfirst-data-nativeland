@@ -2,8 +2,8 @@
   "id": 1796620645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.743798,
     "geom:bbox":"-124.31781,48.623505,-121.344764,49.602683",
     "geom:latitude":49.02099,
@@ -14,7 +14,7 @@
     "mps:latitude":48.984644,
     "mps:longitude":-123.202703,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#46286A",
     "nativeland:description":"https://native-land.ca/maps/territories/stzuminus/",
     "nativeland:id":34040,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620645,
-    "wof:lastmodified":1668546122,
+    "wof:lastmodified":1668985065,
     "wof:name":"Stz&#8217;uminus",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

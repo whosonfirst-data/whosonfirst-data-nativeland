@@ -2,8 +2,8 @@
   "id": 1796619617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":7.679908,
     "geom:bbox":"-103.998667,17.877413,-100.044766,20.765782",
     "geom:latitude":19.5748,
@@ -14,7 +14,7 @@
     "mps:latitude":19.664698,
     "mps:longitude":-101.885754,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#42965A",
     "nativeland:description":"https://native-land.ca/maps/territories/purhepecha/",
     "nativeland:id":36183,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619617,
-    "wof:lastmodified":1668546089,
+    "wof:lastmodified":1668985031,
     "wof:name":"Ir\u00e9chikwa Ts\u2019ints\u00fantsani (P\u2019urh\u00e9pecha Kingdom)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

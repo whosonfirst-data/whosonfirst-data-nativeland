@@ -2,8 +2,8 @@
   "id": 1796621051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.003733,
     "geom:bbox":"-97.918509,47.241446,-93.055821,48.770572",
     "geom:latitude":47.948379,
@@ -14,7 +14,7 @@
     "mps:latitude":47.906525,
     "mps:longitude":-95.582553,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#FF304D",
     "nativeland:description":"https://native-land.ca/maps/territories/sisseton/",
     "nativeland:id":33853,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621051,
-    "wof:lastmodified":1668546109,
+    "wof:lastmodified":1668985052,
     "wof:name":"Sisseton",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

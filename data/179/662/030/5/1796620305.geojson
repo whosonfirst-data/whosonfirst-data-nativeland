@@ -2,8 +2,8 @@
   "id": 1796620305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.163773,
     "geom:bbox":"-124.911801,48.07234,-124.320893,48.487486",
     "geom:latitude":48.283973,
@@ -14,7 +14,7 @@
     "mps:latitude":48.299297,
     "mps:longitude":-124.662716,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E537EA",
     "nativeland:description":"https://native-land.ca/maps/territories/makah/",
     "nativeland:id":35879,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620305,
-    "wof:lastmodified":1668546122,
+    "wof:lastmodified":1668985065,
     "wof:name":"Q\u02b7idi\u010d\u010da\u0294a\u2022tx\u030c (Makah)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796621543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":37.680434,
     "geom:bbox":"-134.068442,60.788157,-123.715142,67.436325",
     "geom:latitude":64.201169,
@@ -14,7 +14,7 @@
     "mps:latitude":63.842871,
     "mps:longitude":-128.32679,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#76EF20",
     "nativeland:description":"https://native-land.ca/maps/territories/shita-gotine/",
     "nativeland:id":33624,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621543,
-    "wof:lastmodified":1668546128,
+    "wof:lastmodified":1668985072,
     "wof:name":"Shita Got\u2019ine",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

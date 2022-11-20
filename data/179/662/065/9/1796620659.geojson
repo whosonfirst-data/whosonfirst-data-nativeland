@@ -2,8 +2,8 @@
   "id": 1796620659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.102397,
     "geom:bbox":"-77.415593,37.355957,-76.879964,37.635042",
     "geom:latitude":37.492676,
@@ -14,7 +14,7 @@
     "mps:latitude":37.490136,
     "mps:longitude":-77.160768,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#F505D4",
     "nativeland:description":"https://native-land.ca/maps/territories/chickahominy/",
     "nativeland:id":34035,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620659,
-    "wof:lastmodified":1668546117,
+    "wof:lastmodified":1668985060,
     "wof:name":"Chickahominy",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

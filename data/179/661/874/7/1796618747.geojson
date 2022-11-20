@@ -2,8 +2,8 @@
   "id": 1796618747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.75586,
     "geom:bbox":"146.376772,-27.870102,148.552459,-24.672255",
     "geom:latitude":-26.445737,
@@ -14,7 +14,7 @@
     "mps:latitude":-26.515921,
     "mps:longitude":147.647434,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#06BA23",
     "nativeland:description":"https://native-land.ca/maps/territories/gunggari/",
     "nativeland:id":36572,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618747,
-    "wof:lastmodified":1668546075,
+    "wof:lastmodified":1668985016,
     "wof:name":"Gunggari",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

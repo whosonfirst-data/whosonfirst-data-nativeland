@@ -2,8 +2,8 @@
   "id": 1796621101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.100141,
     "geom:bbox":"-76.807568,37.231215,-76.259732,37.574009",
     "geom:latitude":37.402215,
@@ -14,7 +14,7 @@
     "mps:latitude":37.388839,
     "mps:longitude":-76.523075,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#3D7044",
     "nativeland:description":"https://native-land.ca/maps/territories/werowocomoco/",
     "nativeland:id":33829,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621101,
-    "wof:lastmodified":1668546128,
+    "wof:lastmodified":1668985071,
     "wof:name":"Werowocomoco",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

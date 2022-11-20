@@ -2,8 +2,8 @@
   "id": 1796618649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":23.29985,
     "geom:bbox":"-156.640799,59.002594,-147.878578,63.407701",
     "geom:latitude":61.128926,
@@ -14,7 +14,7 @@
     "mps:latitude":61.065999,
     "mps:longitude":-151.739968,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#39EC6C",
     "nativeland:description":"https://native-land.ca/maps/territories/denaina/",
     "nativeland:id":36617,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618649,
-    "wof:lastmodified":1668546099,
+    "wof:lastmodified":1668985042,
     "wof:name":"Dena&#8217;ina E\u0142nena",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

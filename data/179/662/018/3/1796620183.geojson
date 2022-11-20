@@ -2,8 +2,8 @@
   "id": 1796620183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":7.22733,
     "geom:bbox":"-131.718155,52.184135,-127.553803,55.95764",
     "geom:latitude":53.957196,
@@ -14,7 +14,7 @@
     "mps:latitude":53.930141,
     "mps:longitude":-129.872486,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#5E27BE",
     "nativeland:description":"https://native-land.ca/maps/territories/tsimshian/",
     "nativeland:id":35930,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620183,
-    "wof:lastmodified":1668546135,
+    "wof:lastmodified":1668985079,
     "wof:name":"La\u0331xyuubm Ts&#8217;msyen (Tsimshian)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

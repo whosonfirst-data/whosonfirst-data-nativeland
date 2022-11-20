@@ -2,8 +2,8 @@
   "id": 1796618719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.458558,
     "geom:bbox":"-119.455692,33.998027,-118.596787,34.829268",
     "geom:latitude":34.381695,
@@ -14,7 +14,7 @@
     "mps:latitude":34.396238,
     "mps:longitude":-119.07095,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#BDF06F",
     "nativeland:description":"https://native-land.ca/maps/territories/ventureno/",
     "nativeland:id":36586,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618719,
-    "wof:lastmodified":1668546096,
+    "wof:lastmodified":1668985039,
     "wof:name":"Micqanaqa\u2019n",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

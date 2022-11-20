@@ -2,8 +2,8 @@
   "id": 1796619523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":12.594092,
     "geom:bbox":"-91.228491,17.554462,-86.715087,21.691255",
     "geom:latitude":19.737696,
@@ -14,7 +14,7 @@
     "mps:latitude":19.793785,
     "mps:longitude":-89.01832,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#FA995B",
     "nativeland:description":"https://native-land.ca/maps/territories/maya-yucateco/",
     "nativeland:id":36226,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619523,
-    "wof:lastmodified":1668546074,
+    "wof:lastmodified":1668985015,
     "wof:name":"Maya (Yucateco)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

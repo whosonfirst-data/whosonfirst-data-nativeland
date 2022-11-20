@@ -2,8 +2,8 @@
   "id": 1796621071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.201042,
     "geom:bbox":"-104.121217,46.440156,-100.834737,47.616244",
     "geom:latitude":46.978392,
@@ -14,7 +14,7 @@
     "mps:latitude":47.002254,
     "mps:longitude":-102.517781,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#182C7B",
     "nativeland:description":"https://native-land.ca/maps/territories/hunkpapa/",
     "nativeland:id":33847,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621071,
-    "wof:lastmodified":1668546130,
+    "wof:lastmodified":1668985074,
     "wof:name":"Hunkpapa",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

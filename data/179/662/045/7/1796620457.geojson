@@ -2,8 +2,8 @@
   "id": 1796620457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.189267,
     "geom:bbox":"-120.531649,34.318056,-119.378728,34.625966",
     "geom:latitude":34.491155,
@@ -14,7 +14,7 @@
     "mps:latitude":34.489963,
     "mps:longitude":-119.90804,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#392ED6",
     "nativeland:description":"https://native-land.ca/maps/territories/barbareno/",
     "nativeland:id":35812,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620457,
-    "wof:lastmodified":1668546133,
+    "wof:lastmodified":1668985077,
     "wof:name":"Shmuwich (Barbare\u00f1o)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

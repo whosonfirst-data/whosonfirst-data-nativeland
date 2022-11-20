@@ -2,8 +2,8 @@
   "id": 1796621173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.487295,
     "geom:bbox":"-79.999146,35.835286,-78.803011,36.316457",
     "geom:latitude":36.077175,
@@ -14,7 +14,7 @@
     "mps:latitude":36.076909,
     "mps:longitude":-79.400644,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#79A90F",
     "nativeland:description":"https://native-land.ca/maps/territories/shakori/",
     "nativeland:id":33797,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621173,
-    "wof:lastmodified":1668546128,
+    "wof:lastmodified":1668985071,
     "wof:name":"Shakori",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":5.165392,
     "geom:bbox":"144.217529,-33.008663,147.266235,-29.945415",
     "geom:latitude":-31.435383,
@@ -14,7 +14,7 @@
     "mps:latitude":-31.239257,
     "mps:longitude":145.950824,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#2FB9A3",
     "nativeland:description":"https://native-land.ca/maps/territories/wongaibon/",
     "nativeland:id":36370,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619203,
-    "wof:lastmodified":1668546101,
+    "wof:lastmodified":1668985044,
     "wof:name":"Wongaibon",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796620079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.713079,
     "geom:bbox":"-113.312988,35.178298,-111.309846,36.403097",
     "geom:latitude":35.721791,
@@ -14,7 +14,7 @@
     "mps:latitude":35.695191,
     "mps:longitude":-112.32639,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D95F6A",
     "nativeland:description":"https://native-land.ca/maps/territories/havasupai/",
     "nativeland:id":35977,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620079,
-    "wof:lastmodified":1668546119,
+    "wof:lastmodified":1668985062,
     "wof:name":"Havasu Baaja (Havasupai)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

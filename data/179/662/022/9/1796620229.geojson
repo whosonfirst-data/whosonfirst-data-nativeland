@@ -2,8 +2,8 @@
   "id": 1796620229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":9.087502,
     "geom:bbox":"-99.427907,17.437729,-94.091008,22.440189",
     "geom:latitude":19.692008,
@@ -14,7 +14,7 @@
     "mps:latitude":19.976538,
     "mps:longitude":-97.529938,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#DC2168",
     "nativeland:description":"https://native-land.ca/maps/territories/nahuatl-7/",
     "nativeland:id":35908,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620229,
-    "wof:lastmodified":1668546115,
+    "wof:lastmodified":1668985057,
     "wof:name":"Nahua ( Morelos, Puebla, Tlaxcala, Veracruz, Hidalgo, San Luis Potosi, Oaxaca)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

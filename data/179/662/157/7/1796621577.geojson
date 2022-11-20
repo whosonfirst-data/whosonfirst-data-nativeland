@@ -2,8 +2,8 @@
   "id": 1796621577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":85.110938,
     "geom:bbox":"47.197182,58.339799,65.171141,67.584626",
     "geom:latitude":63.673056,
@@ -14,7 +14,7 @@
     "mps:latitude":63.17294,
     "mps:longitude":52.245262,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C8F71E",
     "nativeland:description":"https://native-land.ca/maps/territories/komi-voitor/",
     "nativeland:id":33609,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621577,
-    "wof:lastmodified":1668546108,
+    "wof:lastmodified":1668985050,
     "wof:name":"komi voit\u00f5r",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

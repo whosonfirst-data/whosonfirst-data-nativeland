@@ -2,8 +2,8 @@
   "id": 1796620177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":4.721742,
     "geom:bbox":"-97.602135,15.580711,-93.999982,17.627007",
     "geom:latitude":16.597561,
@@ -14,7 +14,7 @@
     "mps:latitude":16.618445,
     "mps:longitude":-96.205363,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0AF1CE",
     "nativeland:description":"https://native-land.ca/maps/territories/didxazon/",
     "nativeland:id":35934,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620177,
-    "wof:lastmodified":1668546138,
+    "wof:lastmodified":1668985082,
     "wof:name":"Ben &#8216;Zaa/Binniz\u00e1/M\u00e9n Diiste/Bene Xhon (Zapoteco)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

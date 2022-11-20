@@ -2,8 +2,8 @@
   "id": 1796619527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.986895,
     "geom:bbox":"140.94635,-38.462191,142.709655,-37.594647",
     "geom:latitude":-38.074847,
@@ -14,7 +14,7 @@
     "mps:latitude":-38.03952,
     "mps:longitude":141.891559,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#EC6564",
     "nativeland:description":"https://native-land.ca/maps/territories/gunditjmara/",
     "nativeland:id":36222,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619527,
-    "wof:lastmodified":1668546074,
+    "wof:lastmodified":1668985015,
     "wof:name":"Gunditjmara",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

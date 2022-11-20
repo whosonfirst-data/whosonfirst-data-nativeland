@@ -2,8 +2,8 @@
   "id": 1796620619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.266927,
     "geom:bbox":"-121.180439,47.571827,-120.037885,48.406026",
     "geom:latitude":47.950966,
@@ -14,7 +14,7 @@
     "mps:latitude":47.832369,
     "mps:longitude":-120.494943,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#CEE414",
     "nativeland:description":"https://native-land.ca/maps/territories/entiat/",
     "nativeland:id":34055,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620619,
-    "wof:lastmodified":1668546141,
+    "wof:lastmodified":1668985084,
     "wof:name":"s\u030cntiya\u0301tk\u02b7\u0259x\u02b7 (Entiat)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796618753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.080322,
     "geom:bbox":"148.798828,-23.719982,150.996093,-21.886987",
     "geom:latitude":-22.909105,
@@ -14,7 +14,7 @@
     "mps:latitude":-23.116943,
     "mps:longitude":150.512645,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#3FC29F",
     "nativeland:description":"https://native-land.ca/maps/territories/darumbal/",
     "nativeland:id":36569,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618753,
-    "wof:lastmodified":1668546077,
+    "wof:lastmodified":1668985018,
     "wof:name":"Darumbal",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796620559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.170422,
     "geom:bbox":"-123.828318,40.673085,-123.341598,41.18594",
     "geom:latitude":40.948224,
@@ -14,7 +14,7 @@
     "mps:latitude":40.954962,
     "mps:longitude":-123.616791,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#CACA3A",
     "nativeland:description":"https://native-land.ca/maps/territories/hoopa-3/",
     "nativeland:id":34091,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620559,
-    "wof:lastmodified":1668546121,
+    "wof:lastmodified":1668985064,
     "wof:name":"Hupa",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

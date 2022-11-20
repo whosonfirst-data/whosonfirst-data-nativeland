@@ -2,8 +2,8 @@
   "id": 1796621053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.001004,
     "geom:bbox":"-83.22584,42.075357,-83.181531,42.102123",
     "geom:latitude":42.08866,
@@ -14,7 +14,7 @@
     "mps:latitude":42.088746,
     "mps:longitude":-83.204035,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#96F1EC",
     "nativeland:description":"https://native-land.ca/maps/territories/wyandot-anderdon/",
     "nativeland:id":33854,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621053,
-    "wof:lastmodified":1668546109,
+    "wof:lastmodified":1668985052,
     "wof:name":"Wyandot (Anderdon)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

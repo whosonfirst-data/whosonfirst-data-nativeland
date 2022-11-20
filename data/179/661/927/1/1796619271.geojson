@@ -2,8 +2,8 @@
   "id": 1796619271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.495289,
     "geom:bbox":"125.310058,-18.156291,126.3208,-17.413546",
     "geom:latitude":-17.763287,
@@ -14,7 +14,7 @@
     "mps:latitude":-17.761232,
     "mps:longitude":125.80139,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#17169F",
     "nativeland:description":"https://native-land.ca/maps/territories/punuba/",
     "nativeland:id":36338,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619271,
-    "wof:lastmodified":1668546101,
+    "wof:lastmodified":1668985044,
     "wof:name":"Bunuba",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

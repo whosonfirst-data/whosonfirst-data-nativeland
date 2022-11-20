@@ -2,8 +2,8 @@
   "id": 1796619769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.874771,
     "geom:bbox":"-98.013717,33.686718,-96.100458,35.372864",
     "geom:latitude":34.46631,
@@ -14,7 +14,7 @@
     "mps:latitude":34.419524,
     "mps:longitude":-97.349169,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#04967C",
     "nativeland:description":"https://native-land.ca/maps/territories/chickasaw-oklahoma/",
     "nativeland:id":36117,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619769,
-    "wof:lastmodified":1668546086,
+    "wof:lastmodified":1668985029,
     "wof:name":"Chickasaw (Oklahoma)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

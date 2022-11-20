@@ -2,8 +2,8 @@
   "id": 1796620215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":13.677197,
     "geom:bbox":"-80.77412,43.429665,-68.426371,48.44589",
     "geom:latitude":45.934189,
@@ -14,7 +14,7 @@
     "mps:latitude":47.392882,
     "mps:longitude":-71.433696,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E6EABB",
     "nativeland:description":"https://native-land.ca/maps/territories/huron-wendat/",
     "nativeland:id":35914,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620215,
-    "wof:lastmodified":1668546139,
+    "wof:lastmodified":1668985083,
     "wof:name":"Wendake-Nionwents\u00efo",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

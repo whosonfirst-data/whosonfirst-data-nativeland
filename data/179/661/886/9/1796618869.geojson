@@ -2,8 +2,8 @@
   "id": 1796618869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.691611,
     "geom:bbox":"142.77832,-14.285677,143.42102,-12.918906",
     "geom:latitude":-13.62314,
@@ -14,7 +14,7 @@
     "mps:latitude":-13.633467,
     "mps:longitude":143.091363,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#96BA66",
     "nativeland:description":"https://native-land.ca/maps/territories/kaantju/",
     "nativeland:id":36518,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618869,
-    "wof:lastmodified":1668546076,
+    "wof:lastmodified":1668985017,
     "wof:name":"Kaantju",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

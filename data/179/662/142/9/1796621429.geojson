@@ -2,8 +2,8 @@
   "id": 1796621429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.120884,
     "geom:bbox":"-76.483759,2.36469,-75.948295,2.765886",
     "geom:latitude":2.573969,
@@ -14,7 +14,7 @@
     "mps:latitude":2.561336,
     "mps:longitude":-76.219107,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#6430F1",
     "nativeland:description":"https://native-land.ca/maps/territories/tontotuna-totoro/",
     "nativeland:id":33680,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621429,
-    "wof:lastmodified":1668546124,
+    "wof:lastmodified":1668985067,
     "wof:name":"Tontotuna (Totor\u00f3)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

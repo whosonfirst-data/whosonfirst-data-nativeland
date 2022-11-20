@@ -2,8 +2,8 @@
   "id": 1796621131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.130651,
     "geom:bbox":"-76.564178,36.088219,-76.029098,36.493307",
     "geom:latitude":36.275367,
@@ -14,7 +14,7 @@
     "mps:latitude":36.271857,
     "mps:longitude":-76.328752,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E1A6B7",
     "nativeland:description":"https://native-land.ca/maps/territories/pasquotank/",
     "nativeland:id":33814,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621131,
-    "wof:lastmodified":1668546148,
+    "wof:lastmodified":1668985092,
     "wof:name":"Pasquotank",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.017662,
     "geom:bbox":"-98.144989,19.744731,-97.929382,19.904927",
     "geom:latitude":19.823121,
@@ -14,7 +14,7 @@
     "mps:latitude":19.818892,
     "mps:longitude":-98.046586,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B2FEF1",
     "nativeland:description":"https://native-land.ca/maps/territories/totonac/",
     "nativeland:id":36156,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619673,
-    "wof:lastmodified":1668546091,
+    "wof:lastmodified":1668985034,
     "wof:name":"Totonac",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

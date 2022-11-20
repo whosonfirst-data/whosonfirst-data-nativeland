@@ -2,8 +2,8 @@
   "id": 1796621695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.972996,
     "geom:bbox":"-129.890784,55.140689,-127.894583,56.386961",
     "geom:latitude":55.752791,
@@ -14,7 +14,7 @@
     "mps:latitude":56.003688,
     "mps:longitude":-129.300691,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#386348",
     "nativeland:description":"https://native-land.ca/maps/territories/gitanyow-laxyip/",
     "nativeland:id":33515,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621695,
-    "wof:lastmodified":1668546111,
+    "wof:lastmodified":1668985054,
     "wof:name":"Gitanyow Lax\u2019yip",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

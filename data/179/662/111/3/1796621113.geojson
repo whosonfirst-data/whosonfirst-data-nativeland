@@ -2,8 +2,8 @@
   "id": 1796621113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.089444,
     "geom:bbox":"-77.04329,37.528862,-76.567271,37.838977",
     "geom:latitude":37.70024,
@@ -14,7 +14,7 @@
     "mps:latitude":37.676086,
     "mps:longitude":-76.728864,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#8DBFBD",
     "nativeland:description":"https://native-land.ca/maps/territories/opiscopank/",
     "nativeland:id":33827,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621113,
-    "wof:lastmodified":1668546125,
+    "wof:lastmodified":1668985068,
     "wof:name":"Opiscopank",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

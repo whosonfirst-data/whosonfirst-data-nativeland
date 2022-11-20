@@ -2,8 +2,8 @@
   "id": 1796618551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.032768,
     "geom:bbox":"-122.816162,38.950865,-122.585449,39.147103",
     "geom:latitude":39.032201,
@@ -14,7 +14,7 @@
     "mps:latitude":39.029017,
     "mps:longitude":-122.719216,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#F75505",
     "nativeland:description":"https://native-land.ca/maps/territories/southeastern-pomo/",
     "nativeland:id":36659,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618551,
-    "wof:lastmodified":1668546099,
+    "wof:lastmodified":1668985042,
     "wof:name":"Southeastern Pomo",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

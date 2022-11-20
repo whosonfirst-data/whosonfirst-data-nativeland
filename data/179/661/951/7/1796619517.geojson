@@ -2,8 +2,8 @@
   "id": 1796619517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.467422,
     "geom:bbox":"143.464965,-28.091366,145.338134,-26.465655",
     "geom:latitude":-27.293063,
@@ -14,7 +14,7 @@
     "mps:latitude":-27.295897,
     "mps:longitude":144.400965,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D36844",
     "nativeland:description":"https://native-land.ca/maps/territories/margany/",
     "nativeland:id":36229,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619517,
-    "wof:lastmodified":1668546092,
+    "wof:lastmodified":1668985035,
     "wof:name":"Margany",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

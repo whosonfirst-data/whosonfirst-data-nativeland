@@ -2,8 +2,8 @@
   "id": 1796619253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.103036,
     "geom:bbox":"-73.517975,41.108819,-73.068857,41.433324",
     "geom:latitude":41.285063,
@@ -14,7 +14,7 @@
     "mps:latitude":41.283308,
     "mps:longitude":-73.274353,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E2AAF2",
     "nativeland:description":"https://native-land.ca/maps/territories/poquonock/",
     "nativeland:id":36348,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619253,
-    "wof:lastmodified":1668546087,
+    "wof:lastmodified":1668985030,
     "wof:name":"Pequonnock",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":9.583113,
     "geom:bbox":"-144.008789,63.680377,-136.373291,65.901652",
     "geom:latitude":64.716542,
@@ -14,7 +14,7 @@
     "mps:latitude":64.824556,
     "mps:longitude":-141.201957,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B2241C",
     "nativeland:description":"https://native-land.ca/maps/territories/han/",
     "nativeland:id":36165,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619653,
-    "wof:lastmodified":1668546071,
+    "wof:lastmodified":1668985011,
     "wof:name":"H\u00e4n",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

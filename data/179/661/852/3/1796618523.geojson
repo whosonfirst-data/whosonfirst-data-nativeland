@@ -2,8 +2,8 @@
   "id": 1796618523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":65.892902,
     "geom:bbox":"-79.750461,-27.889251,-63.921501,-5.69566",
     "geom:latitude":-16.20579,
@@ -14,7 +14,7 @@
     "mps:latitude":-14.155501,
     "mps:longitude":-73.031631,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C891B0",
     "nativeland:description":"https://native-land.ca/maps/territories/quechua/",
     "nativeland:id":36672,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618523,
-    "wof:lastmodified":1668546099,
+    "wof:lastmodified":1668985042,
     "wof:name":"Quechua",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

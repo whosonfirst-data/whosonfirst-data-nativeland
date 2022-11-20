@@ -2,8 +2,8 @@
   "id": 1796621675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.269042,
     "geom:bbox":"-92.160823,15.497456,-91.345675,16.084658",
     "geom:latitude":15.793513,
@@ -14,7 +14,7 @@
     "mps:latitude":15.895967,
     "mps:longitude":-91.622153,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#95E673",
     "nativeland:description":"https://native-land.ca/maps/territories/popti/",
     "nativeland:id":33527,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621675,
-    "wof:lastmodified":1668546110,
+    "wof:lastmodified":1668985053,
     "wof:name":"Popti&#8217;",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

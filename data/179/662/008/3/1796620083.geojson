@@ -2,8 +2,8 @@
   "id": 1796620083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.508015,
     "geom:bbox":"113.57666,-22.872379,116.015625,-21.728886",
     "geom:latitude":-22.398491,
@@ -14,7 +14,7 @@
     "mps:latitude":-22.227315,
     "mps:longitude":114.211069,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#BC7D22",
     "nativeland:description":"https://native-land.ca/maps/territories/thalanyji/",
     "nativeland:id":35974,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620083,
-    "wof:lastmodified":1668546122,
+    "wof:lastmodified":1668985065,
     "wof:name":"Thalanyji",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

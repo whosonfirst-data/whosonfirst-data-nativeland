@@ -2,8 +2,8 @@
   "id": 1796620547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.570744,
     "geom:bbox":"-97.825675,27.515005,-93.698413,30.068628",
     "geom:latitude":28.912734,
@@ -14,7 +14,7 @@
     "mps:latitude":28.88993,
     "mps:longitude":-96.135832,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#76BBE9",
     "nativeland:description":"https://native-land.ca/maps/territories/karankawa-2/",
     "nativeland:id":34097,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620547,
-    "wof:lastmodified":1668546118,
+    "wof:lastmodified":1668985062,
     "wof:name":"Karankawa",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

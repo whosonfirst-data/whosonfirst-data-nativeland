@@ -2,8 +2,8 @@
   "id": 1796619023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.994275,
     "geom:bbox":"-118.707275,33.847667,-114.884033,35.43382",
     "geom:latitude":34.574552,
@@ -14,7 +14,7 @@
     "mps:latitude":34.608587,
     "mps:longitude":-116.666511,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B429D7",
     "nativeland:description":"https://native-land.ca/maps/territories/yuhaviatam-serrano/",
     "nativeland:id":36449,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619023,
-    "wof:lastmodified":1668546093,
+    "wof:lastmodified":1668985036,
     "wof:name":"Yuhaaviatam/Maarenga&#8217;yam (Serrano)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796618863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.028153,
     "geom:bbox":"-73.429871,40.801336,-73.162079,40.973677",
     "geom:latitude":40.872993,
@@ -14,7 +14,7 @@
     "mps:latitude":40.880814,
     "mps:longitude":-73.271347,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#FC69D4",
     "nativeland:description":"https://native-land.ca/maps/territories/nissaquogue/",
     "nativeland:id":36521,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618863,
-    "wof:lastmodified":1668546076,
+    "wof:lastmodified":1668985018,
     "wof:name":"Nissaquogue",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

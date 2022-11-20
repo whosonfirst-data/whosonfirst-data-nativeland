@@ -2,8 +2,8 @@
   "id": 1796621091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.065742,
     "geom:bbox":"-77.362503,37.162612,-76.97612,37.414198",
     "geom:latitude":37.287777,
@@ -14,7 +14,7 @@
     "mps:latitude":37.288769,
     "mps:longitude":-77.159197,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#4BB969",
     "nativeland:description":"https://native-land.ca/maps/territories/weyanock/",
     "nativeland:id":33833,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621091,
-    "wof:lastmodified":1668546130,
+    "wof:lastmodified":1668985073,
     "wof:name":"Weyanock",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

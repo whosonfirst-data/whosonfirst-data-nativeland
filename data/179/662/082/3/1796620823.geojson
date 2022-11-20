@@ -2,8 +2,8 @@
   "id": 1796620823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.103352,
     "geom:bbox":"176.28718,-38.140549,176.705141,-37.738372",
     "geom:latitude":-37.937866,
@@ -14,7 +14,7 @@
     "mps:latitude":-37.934264,
     "mps:longitude":176.51432,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#5E5B94",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-pikiao/",
     "nativeland:id":33959,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620823,
-    "wof:lastmodified":1668546116,
+    "wof:lastmodified":1668985059,
     "wof:name":"Ng\u0101ti Pikiao",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

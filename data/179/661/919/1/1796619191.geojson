@@ -2,8 +2,8 @@
   "id": 1796619191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":27.849694,
     "geom:bbox":"-117.070313,40.896906,-108.69873,46.041867",
     "geom:latitude":43.249021,
@@ -14,7 +14,7 @@
     "mps:latitude":43.911528,
     "mps:longitude":-112.92639,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0AA2AC",
     "nativeland:description":"https://native-land.ca/maps/territories/shoshone-bannock/",
     "nativeland:id":36374,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619191,
-    "wof:lastmodified":1668546104,
+    "wof:lastmodified":1668985046,
     "wof:name":"Shoshone-Bannock",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

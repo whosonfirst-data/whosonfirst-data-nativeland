@@ -2,8 +2,8 @@
   "id": 1796620863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.809447,
     "geom:bbox":"173.393069,-37.049407,174.957919,-35.541688",
     "geom:latitude":-36.225296,
@@ -14,7 +14,7 @@
     "mps:latitude":-36.202243,
     "mps:longitude":174.416887,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#593C0E",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-whatua/",
     "nativeland:id":33938,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620863,
-    "wof:lastmodified":1668546137,
+    "wof:lastmodified":1668985081,
     "wof:name":"Ng\u0101ti Wh\u0101tua",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

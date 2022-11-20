@@ -2,8 +2,8 @@
   "id": 1796620151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":21.313277,
     "geom:bbox":"-73.806152,42.600552,-66.56531,47.040182",
     "geom:latitude":44.977789,
@@ -14,7 +14,7 @@
     "mps:latitude":45.235362,
     "mps:longitude":-70.557259,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#221D7E",
     "nativeland:description":"https://native-land.ca/maps/territories/abenaki-abenaquis/",
     "nativeland:id":35947,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620151,
-    "wof:lastmodified":1668546112,
+    "wof:lastmodified":1668985055,
     "wof:name":"N\u2019dakina (Abenaki / Ab\u00e9naquis)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.92412,
     "geom:bbox":"-105.435791,44.260937,-100.811553,48.191726",
     "geom:latitude":46.747017,
@@ -14,7 +14,7 @@
     "mps:latitude":46.91695,
     "mps:longitude":-103.948842,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#83136C",
     "nativeland:description":"https://native-land.ca/maps/territories/mandan-hidatsa-and-arikara/",
     "nativeland:id":36404,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619119,
-    "wof:lastmodified":1668546100,
+    "wof:lastmodified":1668985043,
     "wof:name":"Mandan, Hidatsa, and Arikara",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

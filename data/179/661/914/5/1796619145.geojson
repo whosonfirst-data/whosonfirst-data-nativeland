@@ -2,8 +2,8 @@
   "id": 1796619145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":5.969988,
     "geom:bbox":"-104.293213,44.229457,-100.041504,46.437857",
     "geom:latitude":45.331642,
@@ -14,7 +14,7 @@
     "mps:latitude":45.202117,
     "mps:longitude":-101.872285,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#4F0DCF",
     "nativeland:description":"https://native-land.ca/maps/territories/sihapsa/",
     "nativeland:id":36397,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619145,
-    "wof:lastmodified":1668546088,
+    "wof:lastmodified":1668985030,
     "wof:name":"Sih\u00e1sapa",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

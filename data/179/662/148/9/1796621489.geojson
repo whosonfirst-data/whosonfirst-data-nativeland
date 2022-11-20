@@ -2,8 +2,8 @@
   "id": 1796621489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.08441,
     "geom:bbox":"-70.227707,-1.157115,-69.966031,-0.723591",
     "geom:latitude":-0.948862,
@@ -14,7 +14,7 @@
     "mps:latitude":-0.966991,
     "mps:longitude":-70.106245,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D9FF96",
     "nativeland:description":"https://native-land.ca/maps/territories/cabiyari-kawiyari/",
     "nativeland:id":33655,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621489,
-    "wof:lastmodified":1668546146,
+    "wof:lastmodified":1668985090,
     "wof:name":"Cabiyari/Kawiyar\u00ed",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

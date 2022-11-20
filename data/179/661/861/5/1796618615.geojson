@@ -2,8 +2,8 @@
   "id": 1796618615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.088357,
     "geom:bbox":"150.883483,-34.011688,151.358642,-33.728908",
     "geom:latitude":-33.869568,
@@ -14,7 +14,7 @@
     "mps:latitude":-33.872085,
     "mps:longitude":151.135062,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#68B0F1",
     "nativeland:description":"https://native-land.ca/maps/territories/eora/",
     "nativeland:id":36631,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618615,
-    "wof:lastmodified":1668546079,
+    "wof:lastmodified":1668985020,
     "wof:name":"Eora",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.619431,
     "geom:bbox":"144.60205,-15.977172,145.497436,-14.843921",
     "geom:latitude":-15.415303,
@@ -14,7 +14,7 @@
     "mps:latitude":-15.433829,
     "mps:longitude":145.055552,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B976EC",
     "nativeland:description":"https://native-land.ca/maps/territories/guugu-yimidhirr/",
     "nativeland:id":36081,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619841,
-    "wof:lastmodified":1668546083,
+    "wof:lastmodified":1668985024,
     "wof:name":"Guugu-Yimidhirr",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

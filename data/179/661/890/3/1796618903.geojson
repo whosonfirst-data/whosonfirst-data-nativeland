@@ -2,8 +2,8 @@
   "id": 1796618903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.381747,
     "geom:bbox":"-108.348835,23.70702,-106.438771,25.931578",
     "geom:latitude":24.792393,
@@ -14,7 +14,7 @@
     "mps:latitude":25.386835,
     "mps:longitude":-107.799147,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#6C2CE8",
     "nativeland:description":"https://native-land.ca/maps/territories/tahues/",
     "nativeland:id":36504,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618903,
-    "wof:lastmodified":1668546099,
+    "wof:lastmodified":1668985042,
     "wof:name":"Tahues",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

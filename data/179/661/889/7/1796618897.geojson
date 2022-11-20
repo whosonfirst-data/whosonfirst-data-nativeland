@@ -2,8 +2,8 @@
   "id": 1796618897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.903002,
     "geom:bbox":"131.715087,-11.904978,133.173521,-10.906133",
     "geom:latitude":-11.345433,
@@ -14,7 +14,7 @@
     "mps:latitude":-11.288618,
     "mps:longitude":132.570198,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0B67BB",
     "nativeland:description":"https://native-land.ca/maps/territories/iwaidja/",
     "nativeland:id":36505,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618897,
-    "wof:lastmodified":1668546075,
+    "wof:lastmodified":1668985016,
     "wof:name":"Iwaidja",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

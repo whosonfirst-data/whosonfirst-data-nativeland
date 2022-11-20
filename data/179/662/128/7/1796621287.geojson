@@ -2,8 +2,8 @@
   "id": 1796621287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.143068,
     "geom:bbox":"-123.714901,46.142323,-123.104538,46.470234",
     "geom:latitude":46.319369,
@@ -14,7 +14,7 @@
     "mps:latitude":46.301944,
     "mps:longitude":-123.306659,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#312B08",
     "nativeland:description":"https://native-land.ca/maps/territories/wahkiakum/",
     "nativeland:id":33745,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621287,
-    "wof:lastmodified":1668546128,
+    "wof:lastmodified":1668985071,
     "wof:name":"Wahkiakum",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

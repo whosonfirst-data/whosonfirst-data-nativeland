@@ -2,8 +2,8 @@
   "id": 1796618703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":7.080532,
     "geom:bbox":"-139.951308,62.073005,-131.941486,63.614932",
     "geom:latitude":62.859688,
@@ -14,7 +14,7 @@
     "mps:latitude":62.841096,
     "mps:longitude":-137.393549,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#18F4BA",
     "nativeland:description":"https://native-land.ca/maps/territories/selkirk/",
     "nativeland:id":36591,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618703,
-    "wof:lastmodified":1668546094,
+    "wof:lastmodified":1668985037,
     "wof:name":"Selkirk",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

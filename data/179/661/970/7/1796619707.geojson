@@ -2,8 +2,8 @@
   "id": 1796619707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":18.889297,
     "geom:bbox":"-141.020508,64.820907,-135.0,68.568414",
     "geom:latitude":66.592645,
@@ -14,7 +14,7 @@
     "mps:latitude":66.632623,
     "mps:longitude":-138.3546,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#F26A33",
     "nativeland:description":"https://native-land.ca/maps/territories/vuntut-gwitchin/",
     "nativeland:id":36141,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619707,
-    "wof:lastmodified":1668546083,
+    "wof:lastmodified":1668985024,
     "wof:name":"Vuntut Gwich&#8217;in",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

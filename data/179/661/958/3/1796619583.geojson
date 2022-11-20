@@ -2,8 +2,8 @@
   "id": 1796619583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.203969,
     "geom:bbox":"115.19165,-22.87744,117.822876,-21.309846",
     "geom:latitude":-22.117566,
@@ -14,7 +14,7 @@
     "mps:latitude":-22.044983,
     "mps:longitude":116.784038,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C970F7",
     "nativeland:description":"https://native-land.ca/maps/territories/kurrama/",
     "nativeland:id":36198,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619583,
-    "wof:lastmodified":1668546091,
+    "wof:lastmodified":1668985034,
     "wof:name":"Kurrama",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

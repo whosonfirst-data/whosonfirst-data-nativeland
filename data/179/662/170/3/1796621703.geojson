@@ -2,8 +2,8 @@
   "id": 1796621703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":9.424203,
     "geom:bbox":"-58.070019,-12.406185,-52.697212,-7.759095",
     "geom:latitude":-10.670613,
@@ -14,7 +14,7 @@
     "mps:latitude":-10.916784,
     "mps:longitude":-56.157903,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#08BB5C",
     "nativeland:description":"https://native-land.ca/maps/territories/kaiabi/",
     "nativeland:id":33513,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621703,
-    "wof:lastmodified":1668546146,
+    "wof:lastmodified":1668985090,
     "wof:name":"Kaiabi",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

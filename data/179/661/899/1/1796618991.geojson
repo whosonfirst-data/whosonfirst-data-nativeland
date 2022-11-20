@@ -2,8 +2,8 @@
   "id": 1796618991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":18.753923,
     "geom:bbox":"-111.886243,34.212188,-105.295477,39.206934",
     "geom:latitude":36.710381,
@@ -14,7 +14,7 @@
     "mps:latitude":37.171652,
     "mps:longitude":-108.670126,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E0A548",
     "nativeland:description":"https://native-land.ca/maps/territories/navajo/",
     "nativeland:id":36463,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618991,
-    "wof:lastmodified":1668546099,
+    "wof:lastmodified":1668985042,
     "wof:name":"Din\u00e9 Bik\u00e9yah",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

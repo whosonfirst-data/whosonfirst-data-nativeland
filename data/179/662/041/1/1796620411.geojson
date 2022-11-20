@@ -2,8 +2,8 @@
   "id": 1796620411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":5.428172,
     "geom:bbox":"134.923095,-33.961586,138.839721,-31.161109",
     "geom:latitude":-32.479432,
@@ -14,7 +14,7 @@
     "mps:latitude":-32.63884,
     "mps:longitude":136.697715,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E39EB5",
     "nativeland:description":"https://native-land.ca/maps/territories/banggarla/",
     "nativeland:id":35829,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620411,
-    "wof:lastmodified":1668546113,
+    "wof:lastmodified":1668985056,
     "wof:name":"Banggarla",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

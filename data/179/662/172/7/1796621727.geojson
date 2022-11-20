@@ -2,8 +2,8 @@
   "id": 1796621727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.711749,
     "geom:bbox":"-62.686357,-12.82574,-61.533536,-11.795661",
     "geom:latitude":-12.318999,
@@ -14,7 +14,7 @@
     "mps:latitude":-12.337574,
     "mps:longitude":-62.144446,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#B39E63",
     "nativeland:description":"https://native-land.ca/maps/territories/makurap/",
     "nativeland:id":33499,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621727,
-    "wof:lastmodified":1668546126,
+    "wof:lastmodified":1668985070,
     "wof:name":"Makurap",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

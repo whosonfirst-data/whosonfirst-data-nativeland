@@ -2,8 +2,8 @@
   "id": 1796621523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.249731,
     "geom:bbox":"-70.375396,-1.360296,-69.203225,0.147763",
     "geom:latitude":-0.524326,
@@ -14,7 +14,7 @@
     "mps:latitude":-0.561518,
     "mps:longitude":-69.837206,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E1741B",
     "nativeland:description":"https://native-land.ca/maps/territories/juhup-yuju-yuhupdeh/",
     "nativeland:id":33639,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621523,
-    "wof:lastmodified":1668546131,
+    "wof:lastmodified":1668985075,
     "wof:name":"Juhup-Yuju/Yuhupd\u00ebh",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

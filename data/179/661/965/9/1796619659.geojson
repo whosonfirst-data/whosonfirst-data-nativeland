@@ -2,8 +2,8 @@
   "id": 1796619659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":13.685628,
     "geom:bbox":"-91.658158,29.071077,-87.42943,34.454026",
     "geom:latitude":31.948867,
@@ -14,7 +14,7 @@
     "mps:latitude":31.7618,
     "mps:longitude":-89.596029,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#BD725E",
     "nativeland:description":"https://native-land.ca/maps/territories/chahta-choctaw/",
     "nativeland:id":36162,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619659,
-    "wof:lastmodified":1668546071,
+    "wof:lastmodified":1668985011,
     "wof:name":"Chahta Yakni (Choctaw)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

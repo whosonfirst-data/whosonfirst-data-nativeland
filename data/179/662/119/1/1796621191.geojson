@@ -2,8 +2,8 @@
   "id": 1796621191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.104626,
     "geom:bbox":"-123.718051,44.531263,-123.073449,44.833767",
     "geom:latitude":44.665951,
@@ -14,7 +14,7 @@
     "mps:latitude":44.640775,
     "mps:longitude":-123.422957,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D3ACD3",
     "nativeland:description":"https://native-land.ca/maps/territories/chepenefa/",
     "nativeland:id":33791,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621191,
-    "wof:lastmodified":1668546127,
+    "wof:lastmodified":1668985070,
     "wof:name":"Chepenefa",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

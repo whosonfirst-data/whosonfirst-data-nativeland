@@ -2,8 +2,8 @@
   "id": 1796620267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.145649,
     "geom:bbox":"-121.000664,35.127244,-120.387742,35.479022",
     "geom:latitude":35.282107,
@@ -14,7 +14,7 @@
     "mps:latitude":35.279484,
     "mps:longitude":-120.726945,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#F543E6",
     "nativeland:description":"https://native-land.ca/maps/territories/obispeno/",
     "nativeland:id":35894,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620267,
-    "wof:lastmodified":1668546139,
+    "wof:lastmodified":1668985083,
     "wof:name":"Obispe\u00f1o",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

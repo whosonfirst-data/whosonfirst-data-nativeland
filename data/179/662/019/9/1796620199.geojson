@@ -2,8 +2,8 @@
   "id": 1796620199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.4811,
     "geom:bbox":"-92.782119,14.180006,-91.466743,15.89219",
     "geom:latitude":15.148486,
@@ -14,7 +14,7 @@
     "mps:latitude":15.177371,
     "mps:longitude":-92.088941,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#7879A5",
     "nativeland:description":"https://native-land.ca/maps/territories/mam/",
     "nativeland:id":35926,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620199,
-    "wof:lastmodified":1668546139,
+    "wof:lastmodified":1668985083,
     "wof:name":"Winaq Qo\u2019 (Mam)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

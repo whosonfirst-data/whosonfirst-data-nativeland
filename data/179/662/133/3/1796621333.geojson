@@ -2,8 +2,8 @@
   "id": 1796621333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.738572,
     "geom:bbox":"-83.67569,8.653276,-82.515341,9.474825",
     "geom:latitude":9.097627,
@@ -14,7 +14,7 @@
     "mps:latitude":9.04033,
     "mps:longitude":-83.148936,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#BE315E",
     "nativeland:description":"https://native-land.ca/maps/territories/tjer-di-teribe-broram/",
     "nativeland:id":33722,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621333,
-    "wof:lastmodified":1668546109,
+    "wof:lastmodified":1668985052,
     "wof:name":"Tjer-di/Teribe Broram",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

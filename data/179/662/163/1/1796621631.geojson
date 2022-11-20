@@ -2,8 +2,8 @@
   "id": 1796621631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.091819,
     "geom:bbox":"174.522938,-37.382279,174.993018,-37.025561",
     "geom:latitude":-37.194254,
@@ -14,7 +14,7 @@
     "mps:latitude":-37.22027,
     "mps:longitude":174.732794,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#6EE1D8",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-te-ata/",
     "nativeland:id":33563,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621631,
-    "wof:lastmodified":1668546131,
+    "wof:lastmodified":1668985074,
     "wof:name":"Ng\u0101ti Te Ata",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

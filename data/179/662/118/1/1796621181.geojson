@@ -2,8 +2,8 @@
   "id": 1796621181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.170506,
     "geom:bbox":"-123.579251,43.961608,-122.925609,44.489675",
     "geom:latitude":44.188753,
@@ -14,7 +14,7 @@
     "mps:latitude":44.205244,
     "mps:longitude":-123.334301,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#41A4AA",
     "nativeland:description":"https://native-land.ca/maps/territories/long-tom/",
     "nativeland:id":33793,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621181,
-    "wof:lastmodified":1668546125,
+    "wof:lastmodified":1668985068,
     "wof:name":"Chelamela",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

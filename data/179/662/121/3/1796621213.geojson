@@ -2,8 +2,8 @@
   "id": 1796621213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.544418,
     "geom:bbox":"-80.916829,33.171549,-79.520505,33.84643",
     "geom:latitude":33.480407,
@@ -14,7 +14,7 @@
     "mps:latitude":33.500065,
     "mps:longitude":-80.300439,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#9C1BA7",
     "nativeland:description":"https://native-land.ca/maps/territories/santee-2/",
     "nativeland:id":33778,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621213,
-    "wof:lastmodified":1668546127,
+    "wof:lastmodified":1668985070,
     "wof:name":"Santee",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

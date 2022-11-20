@@ -2,8 +2,8 @@
   "id": 1796619995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.899188,
     "geom:bbox":"-107.95166,29.045926,-103.618086,32.393808",
     "geom:latitude":31.035503,
@@ -14,7 +14,7 @@
     "mps:latitude":31.939958,
     "mps:longitude":-107.199123,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#99602B",
     "nativeland:description":"https://native-land.ca/maps/territories/pescado/",
     "nativeland:id":36016,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619995,
-    "wof:lastmodified":1668546074,
+    "wof:lastmodified":1668985015,
     "wof:name":"Pescado",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.675241,
     "geom:bbox":"134.329833,-13.939398,135.373535,-13.058074",
     "geom:latitude":-13.498482,
@@ -14,7 +14,7 @@
     "mps:latitude":-13.478716,
     "mps:longitude":134.834451,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C75DB3",
     "nativeland:description":"https://native-land.ca/maps/territories/ngalkbun/",
     "nativeland:id":36320,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619315,
-    "wof:lastmodified":1668546069,
+    "wof:lastmodified":1668985008,
     "wof:name":"Ngalkbun",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

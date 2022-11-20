@@ -2,8 +2,8 @@
   "id": 1796618483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.45771,
     "geom:bbox":"-76.215181,-3.961962,-75.242915,-3.354375",
     "geom:latitude":-3.67085,
@@ -14,7 +14,7 @@
     "mps:latitude":-3.656115,
     "mps:longitude":-75.743931,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/itechi-taushiro/",
     "nativeland:id":37372,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618483,
-    "wof:lastmodified":1668546095,
+    "wof:lastmodified":1668985038,
     "wof:name":"Ite&#8217;chi (Taushiro)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.741504,
     "geom:bbox":"134.077148,-35.110921,136.801757,-32.333557",
     "geom:latitude":-33.791621,
@@ -14,7 +14,7 @@
     "mps:latitude":-33.871917,
     "mps:longitude":135.542641,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#7C53AE",
     "nativeland:description":"https://native-land.ca/maps/territories/nawu/",
     "nativeland:id":36242,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619489,
-    "wof:lastmodified":1668546082,
+    "wof:lastmodified":1668985023,
     "wof:name":"Nawu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796618831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.509849,
     "geom:bbox":"-82.232666,35.871247,-79.650879,38.85682",
     "geom:latitude":37.646935,
@@ -14,7 +14,7 @@
     "mps:latitude":37.927689,
     "mps:longitude":-80.983377,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#2B4221",
     "nativeland:description":"https://native-land.ca/maps/territories/moneton/",
     "nativeland:id":36536,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618831,
-    "wof:lastmodified":1668546095,
+    "wof:lastmodified":1668985038,
     "wof:name":"Moneton",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

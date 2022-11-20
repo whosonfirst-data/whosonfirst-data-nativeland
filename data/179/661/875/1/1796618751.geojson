@@ -2,8 +2,8 @@
   "id": 1796618751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.251414,
     "geom:bbox":"145.464477,-17.468572,146.145629,-16.825574",
     "geom:latitude":-17.16594,
@@ -14,7 +14,7 @@
     "mps:latitude":-17.170063,
     "mps:longitude":145.811051,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C2F915",
     "nativeland:description":"https://native-land.ca/maps/territories/yidinjdji/",
     "nativeland:id":36568,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618751,
-    "wof:lastmodified":1668546077,
+    "wof:lastmodified":1668985018,
     "wof:name":"Yidinjdji",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

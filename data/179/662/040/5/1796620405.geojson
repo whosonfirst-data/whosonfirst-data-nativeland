@@ -2,8 +2,8 @@
   "id": 1796620405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.07046,
     "geom:bbox":"129.457394,-15.52779,131.116333,-14.716447",
     "geom:latitude":-15.084063,
@@ -14,7 +14,7 @@
     "mps:latitude":-15.105392,
     "mps:longitude":130.347524,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#06BBB1",
     "nativeland:description":"https://native-land.ca/maps/territories/jaminjung/",
     "nativeland:id":35831,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620405,
-    "wof:lastmodified":1668546116,
+    "wof:lastmodified":1668985059,
     "wof:name":"Jaminjung",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

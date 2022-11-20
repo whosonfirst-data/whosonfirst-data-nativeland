@@ -2,8 +2,8 @@
   "id": 1796621629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.980842,
     "geom:bbox":"-126.810988,53.57826,-124.438903,54.540717",
     "geom:latitude":54.047613,
@@ -14,7 +14,7 @@
     "mps:latitude":54.017744,
     "mps:longitude":-125.380682,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#BA3A9C",
     "nativeland:description":"https://native-land.ca/maps/territories/stellaten/",
     "nativeland:id":33567,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621629,
-    "wof:lastmodified":1668546129,
+    "wof:lastmodified":1668985072,
     "wof:name":"Stellat&#8217;en",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

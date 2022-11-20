@@ -2,8 +2,8 @@
   "id": 1796621279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.029688,
     "geom:bbox":"-118.958681,34.828564,-118.681094,35.082484",
     "geom:latitude":34.962678,
@@ -14,7 +14,7 @@
     "mps:latitude":34.947556,
     "mps:longitude":-118.808363,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#705598",
     "nativeland:description":"https://native-land.ca/maps/territories/kashtik/",
     "nativeland:id":33742,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621279,
-    "wof:lastmodified":1668546125,
+    "wof:lastmodified":1668985068,
     "wof:name":"Kashtik",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

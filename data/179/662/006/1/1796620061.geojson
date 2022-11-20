@@ -2,8 +2,8 @@
   "id": 1796620061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":34.469702,
     "geom:bbox":"-113.985069,33.067134,-104.117911,38.388975",
     "geom:latitude":35.832593,
@@ -14,7 +14,7 @@
     "mps:latitude":35.689392,
     "mps:longitude":-109.059876,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E4F6C4",
     "nativeland:description":"https://native-land.ca/maps/territories/pueblos/",
     "nativeland:id":35986,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620061,
-    "wof:lastmodified":1668546123,
+    "wof:lastmodified":1668985066,
     "wof:name":"Pueblos",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.224192,
     "geom:bbox":"133.483886,-17.214264,135.439453,-14.72176",
     "geom:latitude":-15.915236,
@@ -14,7 +14,7 @@
     "mps:latitude":-15.949363,
     "mps:longitude":134.478928,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#FE3E8C",
     "nativeland:description":"https://native-land.ca/maps/territories/alawa/",
     "nativeland:id":36367,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619209,
-    "wof:lastmodified":1668546101,
+    "wof:lastmodified":1668985044,
     "wof:name":"Alawa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

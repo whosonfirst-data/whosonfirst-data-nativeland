@@ -2,8 +2,8 @@
   "id": 1796620933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.06037,
     "geom:bbox":"-124.094619,46.222599,-123.687313,46.432826",
     "geom:latitude":46.323808,
@@ -14,7 +14,7 @@
     "mps:latitude":46.330046,
     "mps:longitude":-123.904385,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#26BA07",
     "nativeland:description":"https://native-land.ca/maps/territories/lower-chinook-2/",
     "nativeland:id":33910,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620933,
-    "wof:lastmodified":1668546144,
+    "wof:lastmodified":1668985088,
     "wof:name":"Lower Chinook",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

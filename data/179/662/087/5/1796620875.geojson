@@ -2,8 +2,8 @@
   "id": 1796620875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.920867,
     "geom:bbox":"172.2204,-42.106819,173.59731,-40.485138",
     "geom:latitude":-41.272447,
@@ -14,7 +14,7 @@
     "mps:latitude":-41.458071,
     "mps:longitude":172.859782,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#DFEE8F",
     "nativeland:description":"https://native-land.ca/maps/territories/ngati-tama-ki-te-tau-ihu/",
     "nativeland:id":33936,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620875,
-    "wof:lastmodified":1668546134,
+    "wof:lastmodified":1668985077,
     "wof:name":"Ng\u0101ti Tama ki Te Tau Ihu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

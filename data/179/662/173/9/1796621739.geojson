@@ -2,8 +2,8 @@
   "id": 1796621739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.435127,
     "geom:bbox":"-64.358178,-9.481617,-63.167395,-8.946411",
     "geom:latitude":-9.245699,
@@ -14,7 +14,7 @@
     "mps:latitude":-9.24147,
     "mps:longitude":-63.759092,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#05EC62",
     "nativeland:description":"https://native-land.ca/maps/territories/yjxa/",
     "nativeland:id":33496,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621739,
-    "wof:lastmodified":1668546124,
+    "wof:lastmodified":1668985067,
     "wof:name":"Yjxa",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

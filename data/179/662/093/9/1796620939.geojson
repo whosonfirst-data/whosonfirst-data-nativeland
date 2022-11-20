@@ -2,8 +2,8 @@
   "id": 1796620939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.843598,
     "geom:bbox":"-78.503314,17.583271,-76.061048,18.610813",
     "geom:latitude":18.087232,
@@ -14,7 +14,7 @@
     "mps:latitude":18.075072,
     "mps:longitude":-77.327731,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#4C1EF7",
     "nativeland:description":"https://native-land.ca/maps/territories/yamayeka-yamaye/",
     "nativeland:id":33903,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620939,
-    "wof:lastmodified":1668546144,
+    "wof:lastmodified":1668985088,
     "wof:name":"Yamayeka (Yamaye)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

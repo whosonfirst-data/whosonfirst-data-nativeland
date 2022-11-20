@@ -2,8 +2,8 @@
   "id": 1796619081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":148.79432,
     "geom:bbox":"-85.223809,9.711501,-59.582524,27.303818",
     "geom:latitude":19.103776,
@@ -14,7 +14,7 @@
     "mps:latitude":22.388074,
     "mps:longitude":-77.537012,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E74DD9",
     "nativeland:description":"https://native-land.ca/maps/territories/taino/",
     "nativeland:id":36422,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619081,
-    "wof:lastmodified":1668546072,
+    "wof:lastmodified":1668985013,
     "wof:name":"Ta\u00edno",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

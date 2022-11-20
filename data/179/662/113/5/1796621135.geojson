@@ -2,8 +2,8 @@
   "id": 1796621135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.120145,
     "geom:bbox":"-76.821322,35.998411,-76.292151,36.459119",
     "geom:latitude":36.200306,
@@ -14,7 +14,7 @@
     "mps:latitude":36.140197,
     "mps:longitude":-76.58967,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C62C4A",
     "nativeland:description":"https://native-land.ca/maps/territories/yeopim/",
     "nativeland:id":33816,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621135,
-    "wof:lastmodified":1668546148,
+    "wof:lastmodified":1668985092,
     "wof:name":"Yeopim",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

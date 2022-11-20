@@ -2,8 +2,8 @@
   "id": 1796621349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.355161,
     "geom:bbox":"-63.931887,1.880583,-60.998763,5.556662",
     "geom:latitude":3.738939,
@@ -14,7 +14,7 @@
     "mps:latitude":3.973964,
     "mps:longitude":-62.915803,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#AC64E2",
     "nativeland:description":"https://native-land.ca/maps/territories/yanam-ninam/",
     "nativeland:id":33712,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621349,
-    "wof:lastmodified":1668546110,
+    "wof:lastmodified":1668985052,
     "wof:name":"Yanam (Ninam)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

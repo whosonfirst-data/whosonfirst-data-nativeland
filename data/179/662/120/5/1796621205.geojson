@@ -2,8 +2,8 @@
   "id": 1796621205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.08173,
     "geom:bbox":"-122.972289,44.054688,-122.572691,44.361511",
     "geom:latitude":44.195955,
@@ -14,7 +14,7 @@
     "mps:latitude":44.203686,
     "mps:longitude":-122.786771,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#593E9F",
     "nativeland:description":"https://native-land.ca/maps/territories/mohawk-4/",
     "nativeland:id":33784,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621205,
-    "wof:lastmodified":1668546126,
+    "wof:lastmodified":1668985069,
     "wof:name":"Kalapuya (Mohawk)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

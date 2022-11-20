@@ -2,8 +2,8 @@
   "id": 1796619633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.787686,
     "geom:bbox":"127.243652,-15.273587,128.111572,-13.891411",
     "geom:latitude":-14.604451,
@@ -14,7 +14,7 @@
     "mps:latitude":-14.592667,
     "mps:longitude":127.673552,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#637B29",
     "nativeland:description":"https://native-land.ca/maps/territories/kwini/",
     "nativeland:id":36178,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619633,
-    "wof:lastmodified":1668546073,
+    "wof:lastmodified":1668985014,
     "wof:name":"Kwini",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

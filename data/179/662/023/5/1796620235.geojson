@@ -2,8 +2,8 @@
   "id": 1796620235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.682648,
     "geom:bbox":"151.495971,-32.847288,152.627563,-32.012732",
     "geom:latitude":-32.439306,
@@ -14,7 +14,7 @@
     "mps:latitude":-32.476631,
     "mps:longitude":152.008513,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#C091B9",
     "nativeland:description":"https://native-land.ca/maps/territories/worimi/",
     "nativeland:id":35906,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620235,
-    "wof:lastmodified":1668546112,
+    "wof:lastmodified":1668985055,
     "wof:name":"Worimi",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

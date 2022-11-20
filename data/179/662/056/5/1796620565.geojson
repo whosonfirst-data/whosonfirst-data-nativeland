@@ -2,8 +2,8 @@
   "id": 1796620565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.315115,
     "geom:bbox":"-98.234052,28.866325,-94.995334,31.394892",
     "geom:latitude":30.018643,
@@ -14,7 +14,7 @@
     "mps:latitude":30.079212,
     "mps:longitude":-96.473241,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#166CFC",
     "nativeland:description":"https://native-land.ca/maps/territories/sanan/",
     "nativeland:id":34089,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620565,
-    "wof:lastmodified":1668546143,
+    "wof:lastmodified":1668985087,
     "wof:name":"Sana",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

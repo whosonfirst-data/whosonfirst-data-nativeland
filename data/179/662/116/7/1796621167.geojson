@@ -2,8 +2,8 @@
   "id": 1796621167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.739339,
     "geom:bbox":"-81.271339,34.412513,-80.042566,35.251009",
     "geom:latitude":34.799659,
@@ -14,7 +14,7 @@
     "mps:latitude":34.83009,
     "mps:longitude":-80.639067,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0BE704",
     "nativeland:description":"https://native-land.ca/maps/territories/waxhaw/",
     "nativeland:id":33800,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621167,
-    "wof:lastmodified":1668546125,
+    "wof:lastmodified":1668985068,
     "wof:name":"Waxhaw",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

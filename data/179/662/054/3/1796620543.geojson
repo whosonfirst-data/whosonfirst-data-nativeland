@@ -2,8 +2,8 @@
   "id": 1796620543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.400697,
     "geom:bbox":"-76.730829,35.984979,-75.775613,36.565444",
     "geom:latitude":36.27722,
@@ -14,7 +14,7 @@
     "mps:latitude":36.297419,
     "mps:longitude":-76.314045,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#732445",
     "nativeland:description":"https://native-land.ca/maps/territories/wiyapemiak-weapemeoc-yeopim/",
     "nativeland:id":34096,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620543,
-    "wof:lastmodified":1668546118,
+    "wof:lastmodified":1668985062,
     "wof:name":"WiYaPeMiAk (Weapemeoc-Yeopim)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

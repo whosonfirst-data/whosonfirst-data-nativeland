@@ -2,8 +2,8 @@
   "id": 1796620191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.403082,
     "geom:bbox":"-73.67981,41.083492,-72.894287,41.785649",
     "geom:latitude":41.447323,
@@ -14,7 +14,7 @@
     "mps:latitude":41.428064,
     "mps:longitude":-73.207676,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#ADD929",
     "nativeland:description":"https://native-land.ca/maps/territories/paugussett/",
     "nativeland:id":35929,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620191,
-    "wof:lastmodified":1668546139,
+    "wof:lastmodified":1668985083,
     "wof:name":"Paugussett",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

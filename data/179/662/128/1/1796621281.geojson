@@ -2,8 +2,8 @@
   "id": 1796621281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.161568,
     "geom:bbox":"-119.575148,34.775208,-118.820499,35.137062",
     "geom:latitude":34.974657,
@@ -14,7 +14,7 @@
     "mps:latitude":35.002345,
     "mps:longitude":-119.166816,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#6CF61B",
     "nativeland:description":"https://native-land.ca/maps/territories/hul-kuhku/",
     "nativeland:id":33743,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621281,
-    "wof:lastmodified":1668546128,
+    "wof:lastmodified":1668985071,
     "wof:name":"Hul Kuhk\u2019u",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

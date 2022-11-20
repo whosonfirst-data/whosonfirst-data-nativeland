@@ -2,8 +2,8 @@
   "id": 1796619985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.58732,
     "geom:bbox":"139.119873,-20.190035,140.119628,-17.905568",
     "geom:latitude":-18.986882,
@@ -14,7 +14,7 @@
     "mps:latitude":-19.100955,
     "mps:longitude":139.680895,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#179F00",
     "nativeland:description":"https://native-land.ca/maps/territories/mayi-kutuna/",
     "nativeland:id":36018,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619985,
-    "wof:lastmodified":1668546070,
+    "wof:lastmodified":1668985011,
     "wof:name":"Mayi-Kutuna",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":13.673943,
     "geom:bbox":"-114.490587,29.59496,-109.395572,33.928789",
     "geom:latitude":31.698965,
@@ -14,7 +14,7 @@
     "mps:latitude":31.313939,
     "mps:longitude":-111.539422,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#4F508D",
     "nativeland:description":"https://native-land.ca/maps/territories/tohono-oodham/",
     "nativeland:id":36387,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619161,
-    "wof:lastmodified":1668546100,
+    "wof:lastmodified":1668985044,
     "wof:name":"O&#8217;odham Jewe\u1e0d",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

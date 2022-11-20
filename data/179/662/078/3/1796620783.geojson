@@ -2,8 +2,8 @@
   "id": 1796620783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.383841,
     "geom:bbox":"174.321284,-37.418542,175.28064,-36.510407",
     "geom:latitude":-36.955949,
@@ -14,7 +14,7 @@
     "mps:latitude":-37.076545,
     "mps:longitude":174.901328,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#BDB291",
     "nativeland:description":"https://native-land.ca/maps/territories/te-akitai-waiohua/",
     "nativeland:id":33977,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620783,
-    "wof:lastmodified":1668546117,
+    "wof:lastmodified":1668985059,
     "wof:name":"Te \u0100kitai Waiohua",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

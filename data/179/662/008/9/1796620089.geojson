@@ -2,8 +2,8 @@
   "id": 1796620089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.783802,
     "geom:bbox":"152.600097,-26.056782,153.435058,-24.617057",
     "geom:latitude":-25.344037,
@@ -14,7 +14,7 @@
     "mps:latitude":-25.402532,
     "mps:longitude":153.032633,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#1E3850",
     "nativeland:description":"https://native-land.ca/maps/territories/badtjala/",
     "nativeland:id":35972,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620089,
-    "wof:lastmodified":1668546122,
+    "wof:lastmodified":1668985065,
     "wof:name":"Badtjala",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

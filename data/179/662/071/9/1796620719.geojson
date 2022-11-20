@@ -2,8 +2,8 @@
   "id": 1796620719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.126857,
     "geom:bbox":"173.751567,-39.548701,174.248928,-39.05834",
     "geom:latitude":-39.291586,
@@ -14,7 +14,7 @@
     "mps:latitude":-39.291873,
     "mps:longitude":173.914929,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#044D2E",
     "nativeland:description":"https://native-land.ca/maps/territories/taranaki/",
     "nativeland:id":34004,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620719,
-    "wof:lastmodified":1668546115,
+    "wof:lastmodified":1668985058,
     "wof:name":"Taranaki",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

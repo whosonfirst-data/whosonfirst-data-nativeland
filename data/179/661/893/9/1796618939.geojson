@@ -2,8 +2,8 @@
   "id": 1796618939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.97327,
     "geom:bbox":"-123.977966,49.794895,-121.964722,50.967076",
     "geom:latitude":50.386325,
@@ -14,7 +14,7 @@
     "mps:latitude":50.294819,
     "mps:longitude":-122.987462,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#3CD9C8",
     "nativeland:description":"https://native-land.ca/maps/territories/lilwat/",
     "nativeland:id":36484,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618939,
-    "wof:lastmodified":1668546081,
+    "wof:lastmodified":1668985023,
     "wof:name":"Lil&#8217;wat",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

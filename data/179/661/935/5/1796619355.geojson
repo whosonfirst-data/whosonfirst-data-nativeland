@@ -2,8 +2,8 @@
   "id": 1796619355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.254147,
     "geom:bbox":"142.662963,-12.326585,143.297424,-11.727545",
     "geom:latitude":-12.025256,
@@ -14,7 +14,7 @@
     "mps:latitude":-12.060616,
     "mps:longitude":142.938603,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#D5A781",
     "nativeland:description":"https://native-land.ca/maps/territories/wuthathi/",
     "nativeland:id":36298,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619355,
-    "wof:lastmodified":1668546090,
+    "wof:lastmodified":1668985033,
     "wof:name":"Wuthathi",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

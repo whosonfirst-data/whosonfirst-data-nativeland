@@ -2,8 +2,8 @@
   "id": 1796620069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":1.251204,
     "geom:bbox":"-96.623829,34.905105,-95.307287,36.163517",
     "geom:latitude":35.654602,
@@ -14,7 +14,7 @@
     "mps:latitude":35.64785,
     "mps:longitude":-96.018713,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E47030",
     "nativeland:description":"https://native-land.ca/maps/territories/muscogee-oklahoma/",
     "nativeland:id":35981,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620069,
-    "wof:lastmodified":1668546123,
+    "wof:lastmodified":1668985066,
     "wof:name":"Muscogee (Oklahoma)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

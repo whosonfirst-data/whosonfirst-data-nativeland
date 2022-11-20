@@ -2,8 +2,8 @@
   "id": 1796620479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":15.761114,
     "geom:bbox":"-66.482873,-0.244306,-61.324394,6.014547",
     "geom:latitude":2.745922,
@@ -14,7 +14,7 @@
     "mps:latitude":2.667551,
     "mps:longitude":-63.773993,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#E0DC31",
     "nativeland:description":"https://native-land.ca/maps/territories/yanomami/",
     "nativeland:id":34124,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620479,
-    "wof:lastmodified":1668546117,
+    "wof:lastmodified":1668985060,
     "wof:name":"Yanomami",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796619153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.047989,
     "geom:bbox":"-102.45985,20.174468,-100.618899,21.841298",
     "geom:latitude":21.004133,
@@ -14,7 +14,7 @@
     "mps:latitude":20.960018,
     "mps:longitude":-101.432293,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#08FC9D",
     "nativeland:description":"https://native-land.ca/maps/territories/guamares/",
     "nativeland:id":36389,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619153,
-    "wof:lastmodified":1668546084,
+    "wof:lastmodified":1668985026,
     "wof:name":"Guamares",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

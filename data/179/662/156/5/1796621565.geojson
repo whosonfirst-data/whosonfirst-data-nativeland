@@ -2,8 +2,8 @@
   "id": 1796621565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":45.356698,
     "geom:bbox":"29.170987,56.474893,38.48414,67.060575",
     "geom:latitude":62.121204,
@@ -14,7 +14,7 @@
     "mps:latitude":64.144191,
     "mps:longitude":32.160672,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#FCC998",
     "nativeland:description":"https://native-land.ca/maps/territories/karjalaiset-karelian/",
     "nativeland:id":33616,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621565,
-    "wof:lastmodified":1668546111,
+    "wof:lastmodified":1668985054,
     "wof:name":"Karjalaiset (Karelian)",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

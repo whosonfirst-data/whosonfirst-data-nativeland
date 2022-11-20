@@ -2,8 +2,8 @@
   "id": 1796618955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.193615,
     "geom:bbox":"-96.929771,35.312294,-96.619569,36.092608",
     "geom:latitude":35.711775,
@@ -14,7 +14,7 @@
     "mps:latitude":35.714478,
     "mps:longitude":-96.769178,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#A943D0",
     "nativeland:description":"https://native-land.ca/maps/territories/sac-and-fox-oklahoma/",
     "nativeland:id":36480,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618955,
-    "wof:lastmodified":1668546079,
+    "wof:lastmodified":1668985020,
     "wof:name":"Sac and Fox (Oklahoma)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796621699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":5.625353,
     "geom:bbox":"-58.841846,-11.179068,-56.523258,-7.369309",
     "geom:latitude":-9.419653,
@@ -14,7 +14,7 @@
     "mps:latitude":-9.420393,
     "mps:longitude":-57.411305,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#DC691C",
     "nativeland:description":"https://native-land.ca/maps/territories/apiaka/",
     "nativeland:id":33511,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621699,
-    "wof:lastmodified":1668546111,
+    "wof:lastmodified":1668985054,
     "wof:name":"Apiak\u00e1",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

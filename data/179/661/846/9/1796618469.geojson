@@ -2,8 +2,8 @@
   "id": 1796618469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.773807,
     "geom:bbox":"142.562374,-10.584668,143.595323,-9.553422",
     "geom:latitude":-10.043064,
@@ -14,7 +14,7 @@
     "mps:latitude":-10.077319,
     "mps:longitude":143.101379,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#0e1b82",
     "nativeland:description":"https://native-land.ca/maps/territories/kulkalgal/",
     "nativeland:id":37550,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796618469,
-    "wof:lastmodified":1668546093,
+    "wof:lastmodified":1668985036,
     "wof:name":"Kulkalgal",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

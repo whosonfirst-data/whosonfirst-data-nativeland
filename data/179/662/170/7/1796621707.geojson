@@ -2,8 +2,8 @@
   "id": 1796621707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.139057,
     "geom:bbox":"-62.394898,-8.175951,-62.085217,-7.504968",
     "geom:latitude":-7.83273,
@@ -14,7 +14,7 @@
     "mps:latitude":-7.857541,
     "mps:longitude":-62.251052,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#EC6A1F",
     "nativeland:description":"https://native-land.ca/maps/territories/kagwahiva-jiahui/",
     "nativeland:id":33508,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621707,
-    "wof:lastmodified":1668546146,
+    "wof:lastmodified":1668985090,
     "wof:name":"Kawahib (Jiahui)",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

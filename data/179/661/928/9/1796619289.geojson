@@ -2,8 +2,8 @@
   "id": 1796619289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":2.151895,
     "geom:bbox":"-123.860331,45.427504,-121.385204,47.17955",
     "geom:latitude":46.243236,
@@ -14,7 +14,7 @@
     "mps:latitude":46.099661,
     "mps:longitude":-122.481435,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#EFD5E9",
     "nativeland:description":"https://native-land.ca/maps/territories/cowlitz/",
     "nativeland:id":36329,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619289,
-    "wof:lastmodified":1668546104,
+    "wof:lastmodified":1668985047,
     "wof:name":"Stl&#8217;pulmsh (Cowlitz)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

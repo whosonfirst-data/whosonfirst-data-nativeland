@@ -2,8 +2,8 @@
   "id": 1796621393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":6.565845,
     "geom:bbox":"-71.020551,2.558184,-66.999059,6.455394",
     "geom:latitude":4.258544,
@@ -14,7 +14,7 @@
     "mps:latitude":4.163999,
     "mps:longitude":-68.805962,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#1C0008",
     "nativeland:description":"https://native-land.ca/maps/territories/tsase-piapoco/",
     "nativeland:id":33695,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621393,
-    "wof:lastmodified":1668546132,
+    "wof:lastmodified":1668985075,
     "wof:name":"Tsase/Piapoco",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

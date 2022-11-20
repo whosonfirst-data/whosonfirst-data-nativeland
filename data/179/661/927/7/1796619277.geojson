@@ -2,8 +2,8 @@
   "id": 1796619277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":0.133802,
     "geom:bbox":"-98.306334,20.36366,-97.739944,20.853824",
     "geom:latitude":20.595573,
@@ -14,7 +14,7 @@
     "mps:latitude":20.611409,
     "mps:longitude":-98.033456,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#FCC610",
     "nativeland:description":"https://native-land.ca/maps/territories/tepehua/",
     "nativeland:id":36335,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619277,
-    "wof:lastmodified":1668546101,
+    "wof:lastmodified":1668985044,
     "wof:name":"Tepehua",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796620109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.994698,
     "geom:bbox":"-94.106651,15.674687,-90.334436,17.997979",
     "geom:latitude":16.778806,
@@ -14,7 +14,7 @@
     "mps:latitude":16.894048,
     "mps:longitude":-92.0722,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#CEB9C5",
     "nativeland:description":"https://native-land.ca/maps/territories/tzeltal/",
     "nativeland:id":35963,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796620109,
-    "wof:lastmodified":1668546138,
+    "wof:lastmodified":1668985082,
     "wof:name":"Winik Atel (Tzeltal)",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

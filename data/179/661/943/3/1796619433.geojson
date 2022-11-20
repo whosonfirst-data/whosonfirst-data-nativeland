@@ -2,8 +2,8 @@
   "id": 1796619433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":42.16961,
     "geom:bbox":"-135.109863,56.788845,-123.288574,63.626745",
     "geom:latitude":60.368547,
@@ -14,7 +14,7 @@
     "mps:latitude":60.346966,
     "mps:longitude":-128.399627,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#2DB230",
     "nativeland:description":"https://native-land.ca/maps/territories/kaska-dena/",
     "nativeland:id":36263,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796619433,
-    "wof:lastmodified":1668546105,
+    "wof:lastmodified":1668985048,
     "wof:name":"Kaska Dena Kayeh",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -2,8 +2,8 @@
   "id": 1796621305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:cessation":"",
+    "edtf:inception":"",
     "geom:area":3.755972,
     "geom:bbox":"-88.993115,12.401358,-83.592384,17.724143",
     "geom:latitude":16.31995,
@@ -14,7 +14,7 @@
     "mps:latitude":16.323804,
     "mps:longitude":-88.085466,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":-1,
     "nativeland:color":"#52B95C",
     "nativeland:description":"https://native-land.ca/maps/territories/garifuna/",
     "nativeland:id":33736,
@@ -38,7 +38,7 @@
         }
     ],
     "wof:id":1796621305,
-    "wof:lastmodified":1668546133,
+    "wof:lastmodified":1668985076,
     "wof:name":"Gar\u00ednagu",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
