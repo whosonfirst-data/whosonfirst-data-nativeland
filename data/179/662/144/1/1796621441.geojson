@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191577,
-            "country_id":1796621441
+            "nation_id":1796621441
         }
     ],
     "wof:id":1796621441,
-    "wof:lastmodified":1668985069,
+    "wof:lastmodified":1669734076,
     "wof:name":"\u00c9pera",
     "wof:parent_id":102191577,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

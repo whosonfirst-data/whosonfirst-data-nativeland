@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":1796618837
+            "nation_id":1796618837
         }
     ],
     "wof:id":1796618837,
-    "wof:lastmodified":1668985038,
+    "wof:lastmodified":1669734047,
     "wof:name":"Manissean",
     "wof:parent_id":102191575,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

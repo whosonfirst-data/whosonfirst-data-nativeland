@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191577,
-            "country_id":1796621457
+            "nation_id":1796621457
         }
     ],
     "wof:id":1796621457,
-    "wof:lastmodified":1668985067,
+    "wof:lastmodified":1669734074,
     "wof:name":"Kam\u00ebnts\u00e1",
     "wof:parent_id":102191577,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

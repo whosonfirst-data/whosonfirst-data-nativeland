@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":1796619779
+            "nation_id":1796619779
         }
     ],
     "wof:id":1796619779,
-    "wof:lastmodified":1668985024,
+    "wof:lastmodified":1669734034,
     "wof:name":"Ts\u0302ilhqot\u2019in Nen",
     "wof:parent_id":102191575,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

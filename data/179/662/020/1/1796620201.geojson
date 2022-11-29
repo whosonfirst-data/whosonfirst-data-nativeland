@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":1796620201
+            "nation_id":1796620201
         }
     ],
     "wof:id":1796620201,
-    "wof:lastmodified":1668985078,
+    "wof:lastmodified":1669734084,
     "wof:name":"sq\u0313\u0259c\u0313iy\u0313a\u0241\u026c t\u0259m\u0259x\u02b7 (Katzie)",
     "wof:parent_id":102191575,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

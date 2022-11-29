@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191577,
-            "country_id":1796621395
+            "nation_id":1796621395
         }
     ],
     "wof:id":1796621395,
-    "wof:lastmodified":1668985075,
+    "wof:lastmodified":1669734082,
     "wof:name":"Walimanai (Baniwa)",
     "wof:parent_id":102191577,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

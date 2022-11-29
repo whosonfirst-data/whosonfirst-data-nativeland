@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191577,
-            "country_id":1796621413
+            "nation_id":1796621413
         }
     ],
     "wof:id":1796621413,
-    "wof:lastmodified":1668985091,
+    "wof:lastmodified":1669734095,
     "wof:name":"Guane",
     "wof:parent_id":102191577,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

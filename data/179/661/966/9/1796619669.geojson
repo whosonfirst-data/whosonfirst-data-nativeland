@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":1796619669
+            "nation_id":1796619669
         }
     ],
     "wof:id":1796619669,
-    "wof:lastmodified":1668985031,
+    "wof:lastmodified":1669734041,
     "wof:name":"J\u00edwere\u2013\u00d1\u00fat\u2019achi M\u00e1ya\u207f (Otoe-Missouria [Oklahoma])",
     "wof:parent_id":102191575,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191577,
-            "country_id":1796621371
+            "nation_id":1796621371
         }
     ],
     "wof:id":1796621371,
-    "wof:lastmodified":1668985076,
+    "wof:lastmodified":1669734082,
     "wof:name":"Yukpa",
     "wof:parent_id":102191577,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

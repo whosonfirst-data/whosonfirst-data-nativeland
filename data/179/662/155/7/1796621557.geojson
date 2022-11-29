@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":1796621557
+            "nation_id":1796621557
         }
     ],
     "wof:id":1796621557,
-    "wof:lastmodified":1668985075,
+    "wof:lastmodified":1669734081,
     "wof:name":"N\u2019eney N\u2019enet\u2019s\u2019 (Nenets)",
     "wof:parent_id":102191581,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

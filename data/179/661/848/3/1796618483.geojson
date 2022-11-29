@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191577,
-            "country_id":1796618483
+            "nation_id":1796618483
         }
     ],
     "wof:id":1796618483,
-    "wof:lastmodified":1668985038,
+    "wof:lastmodified":1669734047,
     "wof:name":"Ite&#8217;chi (Taushiro)",
     "wof:parent_id":102191577,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

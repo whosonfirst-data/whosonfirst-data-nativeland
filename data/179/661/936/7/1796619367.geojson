@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":1796619367
+            "nation_id":1796619367
         }
     ],
     "wof:id":1796619367,
-    "wof:lastmodified":1668985008,
+    "wof:lastmodified":1669734020,
     "wof:name":"N\u0289m\u0289n\u0289\u0289 Sookobit\u0289 (Comanche)",
     "wof:parent_id":102191575,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":1796621119
+            "nation_id":1796621119
         }
     ],
     "wof:id":1796621119,
-    "wof:lastmodified":1668985068,
+    "wof:lastmodified":1669734075,
     "wof:name":"Manahoac",
     "wof:parent_id":102191575,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

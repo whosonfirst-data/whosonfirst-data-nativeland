@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":1796620907
+            "nation_id":1796620907
         }
     ],
     "wof:id":1796620907,
-    "wof:lastmodified":1668985065,
+    "wof:lastmodified":1669734072,
     "wof:name":"H\u00f1\u00e4h\u00f1u (Otom\u00ed)",
     "wof:parent_id":102191575,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

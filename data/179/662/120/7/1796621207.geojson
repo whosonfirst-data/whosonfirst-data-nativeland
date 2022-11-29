@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":1796621207
+            "nation_id":1796621207
         }
     ],
     "wof:id":1796621207,
-    "wof:lastmodified":1668985069,
+    "wof:lastmodified":1669734076,
     "wof:name":"Me\u0161kwahki\u00b7a\u0161a\u00b7hina (Fox)",
     "wof:parent_id":102191575,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

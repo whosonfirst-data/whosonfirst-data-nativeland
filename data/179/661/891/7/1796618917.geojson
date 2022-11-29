@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":1796618917
+            "nation_id":1796618917
         }
     ],
     "wof:id":1796618917,
-    "wof:lastmodified":1668985040,
+    "wof:lastmodified":1669734049,
     "wof:name":"Dake\u0142 Keyoh (\u1455\u15f8\u14a1 \u15f2\u160f\u144b)",
     "wof:parent_id":102191575,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

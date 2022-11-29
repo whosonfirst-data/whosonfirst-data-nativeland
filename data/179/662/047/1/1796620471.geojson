@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191577,
-            "country_id":1796620471
+            "nation_id":1796620471
         }
     ],
     "wof:id":1796620471,
-    "wof:lastmodified":1668985060,
+    "wof:lastmodified":1669734068,
     "wof:name":"Waorani",
     "wof:parent_id":102191577,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

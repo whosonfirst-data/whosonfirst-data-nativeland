@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":1796618679
+            "nation_id":1796618679
         }
     ],
     "wof:id":1796618679,
-    "wof:lastmodified":1668985023,
+    "wof:lastmodified":1669734033,
     "wof:name":"\u13e3\u13b3\u13ab\u13ea\u13d8\u13f1 Tsalaguwetiyi (Cherokee, East)",
     "wof:parent_id":102191575,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

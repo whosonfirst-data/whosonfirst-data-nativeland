@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191573,
-            "country_id":1796618491
+            "nation_id":1796618491
         }
     ],
     "wof:id":1796618491,
-    "wof:lastmodified":1668985039,
+    "wof:lastmodified":1669734048,
     "wof:name":"Ibibio",
     "wof:parent_id":102191573,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

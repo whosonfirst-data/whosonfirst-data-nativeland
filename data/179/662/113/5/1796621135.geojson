@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":1796621135
+            "nation_id":1796621135
         }
     ],
     "wof:id":1796621135,
-    "wof:lastmodified":1668985092,
+    "wof:lastmodified":1669734096,
     "wof:name":"Yeopim",
     "wof:parent_id":102191575,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

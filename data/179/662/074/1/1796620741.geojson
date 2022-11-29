@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191583,
-            "country_id":1796620741
+            "nation_id":1796620741
         }
     ],
     "wof:id":1796620741,
-    "wof:lastmodified":1668985078,
+    "wof:lastmodified":1669734084,
     "wof:name":"Ng\u0101ti Kahu",
     "wof:parent_id":102191583,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

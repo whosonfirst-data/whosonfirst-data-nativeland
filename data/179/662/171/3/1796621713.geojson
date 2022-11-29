@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191577,
-            "country_id":1796621713
+            "nation_id":1796621713
         }
     ],
     "wof:id":1796621713,
-    "wof:lastmodified":1668985093,
+    "wof:lastmodified":1669734097,
     "wof:name":"Juma (Kawahib)",
     "wof:parent_id":102191577,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],

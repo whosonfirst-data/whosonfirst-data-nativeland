@@ -34,14 +34,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191583,
-            "country_id":1796619383
+            "nation_id":1796619383
         }
     ],
     "wof:id":1796619383,
-    "wof:lastmodified":1668985009,
+    "wof:lastmodified":1669734020,
     "wof:name":"Yilba",
     "wof:parent_id":102191583,
-    "wof:placetype":"country",
+    "wof:placetype":"nation",
     "wof:repo":"whosonfirst-data-nativeland",
     "wof:superseded_by":[],
     "wof:supersedes":[],
