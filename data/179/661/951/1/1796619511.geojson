@@ -1,0 +1,57 @@
+{
+  "id": 1796619511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.019979,
+    "geom:bbox":"141.778564,-12.116536,141.928939,-11.93857",
+    "geom:latitude":-12.034603,
+    "geom:longitude":141.865096,
+    "iso:country":"XY",
+    "lbl:latitude":-12.037058,
+    "lbl:longitude":141.863663,
+    "mps:latitude":-12.037058,
+    "mps:longitude":141.863663,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#72FD5D",
+    "nativeland:description":"https://native-land.ca/maps/territories/tjungundji/",
+    "nativeland:id":36230,
+    "nativeland:name":"Tjungundji",
+    "nativeland:slug":"tjungundji",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36230
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"8bcc52bafb8ea4e4e9eca1142a1c14a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619511
+        }
+    ],
+    "wof:id":1796619511,
+    "wof:lastmodified":1669734044,
+    "wof:name":"Tjungundji",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.778564,
+    -12.116536,
+    141.928939,
+    -11.93857
+],
+  "geometry": {"coordinates":[[[141.865081,-11.93857],[141.90010000000001,-11.93857],[141.92138600000001,-11.954692],[141.92481900000001,-11.978874],[141.92893900000001,-12.017158],[141.92825300000001,-12.064166],[141.92413300000001,-12.116536],[141.89804000000001,-12.113851],[141.847915,-12.105795],[141.77856399999999,-12.101766],[141.77856399999999,-12.08431],[141.79366999999999,-12.046035],[141.81358299999999,-11.990965],[141.865081,-11.93857]]],"type":"Polygon"}
+}

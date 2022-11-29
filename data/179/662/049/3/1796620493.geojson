@@ -1,0 +1,57 @@
+{
+  "id": 1796620493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.000685,
+    "geom:bbox":"-111.097109,32.104612,-111.051514,32.133345",
+    "geom:latitude":32.114485,
+    "geom:longitude":-111.075,
+    "iso:country":"XY",
+    "lbl:latitude":32.111762,
+    "lbl:longitude":-111.075,
+    "mps:latitude":32.111762,
+    "mps:longitude":-111.075,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#66D0EF",
+    "nativeland:description":"https://native-land.ca/maps/territories/pascua-yaqui/",
+    "nativeland:id":34117,
+    "nativeland:name":"Pascua Yaqui",
+    "nativeland:slug":"pascua-yaqui",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34117
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"a5fdc5420bcfbb7f1f3e828fb1dd4929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620493
+        }
+    ],
+    "wof:id":1796620493,
+    "wof:lastmodified":1669734066,
+    "wof:name":"Pascua Yaqui",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.097109,
+    32.104612,
+    -111.051514,
+    32.133345
+],
+  "geometry": {"coordinates":[[[-111.072124,32.12604],[-111.063073,32.126409],[-111.063182,32.115234],[-111.05631200000001,32.115327],[-111.05653,32.111724],[-111.051732,32.111909],[-111.051514,32.104612],[-111.09695000000001,32.104631],[-111.097109,32.110833],[-111.090583,32.111237],[-111.09122000000001,32.115281],[-111.083262,32.115146],[-111.083421,32.117843],[-111.081598,32.117965],[-111.081338,32.119804],[-111.081433,32.121777],[-111.083337,32.121637],[-111.083668,32.122969],[-111.09053900000001,32.12318],[-111.090373,32.133345],[-111.08060500000001,32.133275],[-111.080439,32.118903],[-111.071747,32.118903],[-111.072124,32.12604]]],"type":"Polygon"}
+}

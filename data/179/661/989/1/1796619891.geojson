@@ -1,0 +1,57 @@
+{
+  "id": 1796619891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.448875,
+    "geom:bbox":"135.249938,-14.546367,136.095886,-13.53653",
+    "geom:latitude":-13.9613,
+    "geom:longitude":135.681611,
+    "iso:country":"XY",
+    "lbl:latitude":-13.939111,
+    "lbl:longitude":135.716859,
+    "mps:latitude":-13.939111,
+    "mps:longitude":135.716859,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#D94FB4",
+    "nativeland:description":"https://native-land.ca/maps/territories/nunggubuyu/",
+    "nativeland:id":36060,
+    "nativeland:name":"Nunggubuyu",
+    "nativeland:slug":"nunggubuyu",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36060
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"a44447d5c290ece1a53892350d484aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619891
+        }
+    ],
+    "wof:id":1796619891,
+    "wof:lastmodified":1669734054,
+    "wof:name":"Nunggubuyu",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.249938,
+    -14.546367,
+    136.095886,
+    -13.53653
+],
+  "geometry": {"coordinates":[[[135.97778299999999,-13.629971],[136.05194,-13.611286],[136.07940600000001,-13.63531],[136.09588600000001,-13.672675],[136.07116600000001,-13.734049],[136.057434,-13.86208],[135.99700899999999,-13.995371],[135.92285100000001,-14.179186],[135.878906,-14.259059],[135.76354900000001,-14.394778],[135.692138,-14.463936],[135.62621999999999,-14.546367],[135.488891,-14.471915],[135.532836,-14.296323],[135.53009,-14.203151],[135.51361,-14.112603],[135.46417199999999,-14.035343],[135.39825400000001,-13.952726],[135.326843,-13.760728],[135.27465799999999,-13.70203],[135.24993799999999,-13.659331],[135.25817799999999,-13.603278],[135.29937699999999,-13.53653],[135.38452100000001,-13.5392],[135.45867899999999,-13.592599],[135.58502100000001,-13.632641],[135.74981600000001,-13.678013],[135.876159,-13.678013],[135.97778299999999,-13.629971]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796619083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":21.146,
+    "geom:bbox":"-99.890243,31.384844,-95.039433,38.615511",
+    "geom:latitude":34.835725,
+    "geom:longitude":-97.867149,
+    "iso:country":"XY",
+    "lbl:latitude":34.439315,
+    "lbl:longitude":-98.10969,
+    "mps:latitude":34.439315,
+    "mps:longitude":-98.10969,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#72C46D",
+    "nativeland:description":"https://native-land.ca/maps/territories/wichita/",
+    "nativeland:id":36423,
+    "nativeland:name":"Wichita",
+    "nativeland:slug":"wichita",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36423
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"260ace26cf527335ae2719405847b70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619083
+        }
+    ],
+    "wof:id":1796619083,
+    "wof:lastmodified":1669734023,
+    "wof:name":"Wichita",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.890243,
+    31.384844,
+    -95.039433,
+    38.615511
+],
+  "geometry": {"coordinates":[[[-99.30220199999999,37.880985],[-98.16070999999999,38.615511],[-96.79438,38.167559],[-96.707903,37.332576],[-97.122991,35.985573],[-95.71838700000001,34.340932],[-95.504378,33.521498],[-95.196624,33.276842],[-95.039433,32.862996],[-95.402576,32.39083],[-96.016656,32.171366],[-96.664292,32.487325],[-97.520476,32.17018],[-97.956256,31.400966],[-98.15635,31.384844],[-98.60737899999999,31.796328],[-99.320694,32.401578],[-99.682699,33.381004],[-99.821062,34.057474],[-99.890243,34.871744],[-99.75188,35.845255],[-99.45786,36.766091],[-99.30220199999999,37.880985]]],"type":"Polygon"}
+}

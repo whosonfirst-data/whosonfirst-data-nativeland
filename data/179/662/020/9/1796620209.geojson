@@ -1,0 +1,57 @@
+{
+  "id": 1796620209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.004524,
+    "geom:bbox":"-101.114044,19.719525,-101.007614,19.782857",
+    "geom:latitude":19.752202,
+    "geom:longitude":-101.055187,
+    "iso:country":"XY",
+    "lbl:latitude":19.749524,
+    "lbl:longitude":-101.056201,
+    "mps:latitude":19.749524,
+    "mps:longitude":-101.056201,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#FD2898",
+    "nativeland:description":"https://native-land.ca/maps/territories/matlatzinco-matlatzinteca/",
+    "nativeland:id":35917,
+    "nativeland:name":"Matlatzinco/matlatzinteca",
+    "nativeland:slug":"matlatzinco-matlatzinteca",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35917
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"15ef5f6d0d9985ff968bf2dfe8f6b710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620209
+        }
+    ],
+    "wof:id":1796620209,
+    "wof:lastmodified":1669734084,
+    "wof:name":"Matlatzinco/matlatzinteca",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.114044,
+    19.719525,
+    -101.007614,
+    19.782857
+],
+  "geometry": {"coordinates":[[[-101.11404400000001,19.782857],[-101.01654000000001,19.774457],[-101.007614,19.725988],[-101.072845,19.719525],[-101.11404400000001,19.782857]]],"type":"Polygon"}
+}

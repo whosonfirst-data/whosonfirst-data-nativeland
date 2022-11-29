@@ -1,0 +1,57 @@
+{
+  "id": 1796620939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.843598,
+    "geom:bbox":"-78.503314,17.583271,-76.061048,18.610813",
+    "geom:latitude":18.087232,
+    "geom:longitude":-77.327731,
+    "iso:country":"XY",
+    "lbl:latitude":18.075072,
+    "lbl:longitude":-77.327731,
+    "mps:latitude":18.075072,
+    "mps:longitude":-77.327731,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#4C1EF7",
+    "nativeland:description":"https://native-land.ca/maps/territories/yamayeka-yamaye/",
+    "nativeland:id":33903,
+    "nativeland:name":"Yamayeka (Yamaye)",
+    "nativeland:slug":"yamayeka-yamaye",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33903
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"fa4cba376ba880a2aeefc083a53ff9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620939
+        }
+    ],
+    "wof:id":1796620939,
+    "wof:lastmodified":1669734092,
+    "wof:name":"Yamayeka (Yamaye)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.503314,
+    17.583271,
+    -76.061048,
+    18.610813
+],
+  "geometry": {"coordinates":[[[-78.38424000000001,18.449762],[-78.241928,18.532483],[-77.948121,18.584707],[-77.76908299999999,18.610813],[-77.525774,18.589058],[-77.259512,18.554245],[-77.0338,18.503523],[-76.744585,18.455628],[-76.570137,18.342371],[-76.34060100000001,18.285715],[-76.161562,18.167984],[-76.061048,17.981067],[-76.08859200000001,17.815062],[-76.221723,17.745119],[-76.48798499999999,17.71451],[-76.74506599999999,17.662026],[-77.038872,17.583271],[-77.26840900000001,17.583271],[-77.54844300000001,17.600775],[-77.791751,17.653277],[-77.989153,17.723256],[-78.172782,17.806321],[-78.40231799999999,17.976701],[-78.503314,18.186173],[-78.44822499999999,18.334398],[-78.38424000000001,18.449762]]],"type":"Polygon"}
+}

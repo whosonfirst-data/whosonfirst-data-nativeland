@@ -1,0 +1,57 @@
+{
+  "id": 1796618865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.053416,
+    "geom:bbox":"134.116973,-12.325244,134.402618,-12.080952",
+    "geom:latitude":-12.203905,
+    "geom:longitude":134.266049,
+    "iso:country":"XY",
+    "lbl:latitude":-12.204092,
+    "lbl:longitude":134.266049,
+    "mps:latitude":-12.204092,
+    "mps:longitude":134.266049,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#F14CDB",
+    "nativeland:description":"https://native-land.ca/maps/territories/gungurugoni/",
+    "nativeland:id":36516,
+    "nativeland:name":"Gungurugoni",
+    "nativeland:slug":"gungurugoni",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36516
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"6ac57bfe01391a8e9104fc29c5556ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618865
+        }
+    ],
+    "wof:id":1796618865,
+    "wof:lastmodified":1669734027,
+    "wof:name":"Gungurugoni",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.116973,
+    -12.325244,
+    134.402618,
+    -12.080952
+],
+  "geometry": {"coordinates":[[[134.261169,-12.084981],[134.311981,-12.080952],[134.39025799999999,-12.111837],[134.40261799999999,-12.150773],[134.40124499999999,-12.22997],[134.35043300000001,-12.295726],[134.274902,-12.325244],[134.18151800000001,-12.307802],[134.116973,-12.289017],[134.12384,-12.242049],[134.14443900000001,-12.17628],[134.17053200000001,-12.11855],[134.21447499999999,-12.099752],[134.261169,-12.084981]]],"type":"Polygon"}
+}

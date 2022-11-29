@@ -1,0 +1,57 @@
+{
+  "id": 1796620281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.167826,
+    "geom:bbox":"139.295654,-17.978733,139.812011,-17.465952",
+    "geom:latitude":-17.742785,
+    "geom:longitude":139.566088,
+    "iso:country":"XY",
+    "lbl:latitude":-17.750341,
+    "lbl:longitude":139.571006,
+    "mps:latitude":-17.750341,
+    "mps:longitude":139.571006,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#84E174",
+    "nativeland:description":"https://native-land.ca/maps/territories/mingin/",
+    "nativeland:id":35887,
+    "nativeland:name":"Mingin",
+    "nativeland:slug":"mingin",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35887
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"bd2bab57a564275a7d379d9f1e69424e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620281
+        }
+    ],
+    "wof:id":1796620281,
+    "wof:lastmodified":1669734087,
+    "wof:name":"Mingin",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.295654,
+    -17.978733,
+    139.812011,
+    -17.465952
+],
+  "geometry": {"coordinates":[[[139.553833,-17.465952],[139.718627,-17.513105],[139.81201100000001,-17.534058],[139.762573,-17.649256],[139.7406,-17.790535],[139.718627,-17.936928],[139.63073700000001,-17.963057],[139.50988699999999,-17.978733],[139.29565400000001,-17.916022],[139.32861299999999,-17.811456],[139.44396900000001,-17.617846],[139.553833,-17.465952]]],"type":"Polygon"}
+}

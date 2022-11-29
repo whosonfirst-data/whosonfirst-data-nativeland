@@ -1,0 +1,57 @@
+{
+  "id": 1796621213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.544418,
+    "geom:bbox":"-80.916829,33.171549,-79.520505,33.84643",
+    "geom:latitude":33.480407,
+    "geom:longitude":-80.289861,
+    "iso:country":"XY",
+    "lbl:latitude":33.500065,
+    "lbl:longitude":-80.300439,
+    "mps:latitude":33.500065,
+    "mps:longitude":-80.300439,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#9C1BA7",
+    "nativeland:description":"https://native-land.ca/maps/territories/santee-2/",
+    "nativeland:id":33778,
+    "nativeland:name":"Santee",
+    "nativeland:slug":"santee-2",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33778
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"1ca716e4d56881e5da92288e4ed59f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621213
+        }
+    ],
+    "wof:id":1796621213,
+    "wof:lastmodified":1669734077,
+    "wof:name":"Santee",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.916829,
+    33.171549,
+    -79.520505,
+    33.84643
+],
+  "geometry": {"coordinates":[[[-80.77807,33.784136],[-80.657652,33.84643],[-80.56677000000001,33.845487],[-80.462256,33.799243],[-80.203243,33.70101],[-80.00672299999999,33.607867],[-79.85222400000001,33.528354],[-79.67046000000001,33.431706],[-79.54549799999999,33.366266],[-79.520505,33.327357],[-79.550042,33.234286],[-79.638651,33.219081],[-79.74543799999999,33.226684],[-79.861312,33.171549],[-80.096705,33.199118],[-80.270752,33.258979],[-80.39117,33.272283],[-80.79105,33.357724],[-80.89102,33.424121],[-80.91682900000001,33.571838],[-80.83958,33.71181],[-80.77807,33.784136]]],"type":"Polygon"}
+}

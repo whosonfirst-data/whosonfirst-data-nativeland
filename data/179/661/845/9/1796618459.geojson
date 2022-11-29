@@ -1,0 +1,57 @@
+{
+  "id": 1796618459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.184592,
+    "geom:bbox":"141.992766,-10.423006,142.558843,-9.880382",
+    "geom:latitude":-10.169903,
+    "geom:longitude":142.232994,
+    "iso:country":"XY",
+    "lbl:latitude":-10.154898,
+    "lbl:longitude":142.227603,
+    "mps:latitude":-10.154898,
+    "mps:longitude":142.227603,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/maluligal/",
+    "nativeland:id":37672,
+    "nativeland:name":"Maluligal",
+    "nativeland:slug":"maluligal",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37672
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"8f5c38d40894e35e180b32cfe1b47c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618459
+        }
+    ],
+    "wof:id":1796618459,
+    "wof:lastmodified":1669734025,
+    "wof:name":"Maluligal",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.992766,
+    -10.423006,
+    142.558843,
+    -9.880382
+],
+  "geometry": {"coordinates":[[[142.106525,-10.423006],[142.04220900000001,-10.410185],[141.99771000000001,-10.368789],[141.99276599999999,-10.245554],[142.04161099999999,-10.164662],[142.046423,-10.036552],[142.106325,-9.910472],[142.157645,-9.881685],[142.21111200000001,-9.880382],[142.263971,-9.919933],[142.29302200000001,-9.971211],[142.357191,-10.045967],[142.45976300000001,-10.096215],[142.53696199999999,-10.124],[142.558843,-10.216223],[142.49518900000001,-10.298484],[142.41428099999999,-10.299636],[142.34079199999999,-10.282539],[142.24999199999999,-10.377649],[142.106525,-10.423006]]],"type":"Polygon"}
+}

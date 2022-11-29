@@ -1,0 +1,57 @@
+{
+  "id": 1796621179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.046433,
+    "geom:bbox":"-123.558377,44.383641,-123.208411,44.570794",
+    "geom:latitude":44.482439,
+    "geom:longitude":-123.384332,
+    "iso:country":"XY",
+    "lbl:latitude":44.476899,
+    "lbl:longitude":-123.387665,
+    "mps:latitude":44.476899,
+    "mps:longitude":-123.387665,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#418947",
+    "nativeland:description":"https://native-land.ca/maps/territories/chemapho/",
+    "nativeland:id":33792,
+    "nativeland:name":"Chemapho",
+    "nativeland:slug":"chemapho",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33792
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"ec767988c6db5482af3b1e1d78ebb245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621179
+        }
+    ],
+    "wof:id":1796621179,
+    "wof:lastmodified":1669734078,
+    "wof:name":"Chemapho",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.558377,
+    44.383641,
+    -123.208411,
+    44.570794
+],
+  "geometry": {"coordinates":[[[-123.260244,44.570794],[-123.24225199999999,44.553257],[-123.24495899999999,44.523346],[-123.224655,44.51466],[-123.211118,44.488592],[-123.208411,44.448019],[-123.21788599999999,44.444154],[-123.26839,44.433685],[-123.34332999999999,44.40925],[-123.42478699999999,44.383641],[-123.483436,44.383641],[-123.498099,44.40925],[-123.512761,44.433685],[-123.527423,44.461598],[-123.542085,44.488335],[-123.55837699999999,44.520868],[-123.55511799999999,44.535966],[-123.499728,44.548739],[-123.43782,44.559187],[-123.35473399999999,44.558026],[-123.312377,44.561509],[-123.260244,44.570794]]],"type":"Polygon"}
+}

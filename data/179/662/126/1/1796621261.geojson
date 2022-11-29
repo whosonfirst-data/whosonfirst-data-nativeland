@@ -1,0 +1,57 @@
+{
+  "id": 1796621261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.171293,
+    "geom:bbox":"-93.376746,31.518848,-92.909389,32.017806",
+    "geom:latitude":31.745972,
+    "geom:longitude":-93.140813,
+    "iso:country":"XY",
+    "lbl:latitude":31.739049,
+    "lbl:longitude":-93.136362,
+    "mps:latitude":31.739049,
+    "mps:longitude":-93.136362,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#F15D60",
+    "nativeland:description":"https://native-land.ca/maps/territories/natchitoches/",
+    "nativeland:id":33753,
+    "nativeland:name":"Natchitoches",
+    "nativeland:slug":"natchitoches",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33753
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"32d53d43300081790a39b1130ea08f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621261
+        }
+    ],
+    "wof:id":1796621261,
+    "wof:lastmodified":1669734077,
+    "wof:name":"Natchitoches",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.376746,
+    31.518848,
+    -92.909389,
+    32.017806
+],
+  "geometry": {"coordinates":[[[-92.99869700000001,31.910084],[-92.988347,31.903867],[-92.965919,31.872128],[-92.937883,31.829793],[-92.929033,31.800766],[-92.909389,31.736092],[-92.915639,31.649996],[-92.934783,31.615402],[-92.979096,31.563679],[-93.05360400000001,31.525913],[-93.15074199999999,31.518848],[-93.243639,31.52263],[-93.33768000000001,31.593822],[-93.362906,31.642587],[-93.376746,31.695833],[-93.36407800000001,31.735523],[-93.358273,31.766039],[-93.32595999999999,31.810062],[-93.315021,31.857857],[-93.293143,31.908281],[-93.280642,31.944091],[-93.24782500000001,31.975911],[-93.218219,31.995315],[-93.167995,32.017806],[-93.13131300000001,32.010628],[-93.11381900000001,31.985263],[-93.077703,31.968988],[-93.03142800000001,31.958934],[-93.008855,31.934991],[-92.99869700000001,31.910084]]],"type":"Polygon"}
+}

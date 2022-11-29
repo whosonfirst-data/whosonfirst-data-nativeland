@@ -1,0 +1,57 @@
+{
+  "id": 1796621747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.065015,
+    "geom:bbox":"-62.287909,-11.878638,-61.901297,-11.655877",
+    "geom:latitude":-11.76161,
+    "geom:longitude":-62.101173,
+    "iso:country":"XY",
+    "lbl:latitude":-11.764836,
+    "lbl:longitude":-62.104856,
+    "mps:latitude":-11.764836,
+    "mps:longitude":-62.104856,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#EE57BE",
+    "nativeland:description":"https://native-land.ca/maps/territories/arikapu/",
+    "nativeland:id":33492,
+    "nativeland:name":"Arikap\u00fa",
+    "nativeland:slug":"arikapu",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33492
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"0a6afe372146c9ff6dfc3d326b7ded58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621747
+        }
+    ],
+    "wof:id":1796621747,
+    "wof:lastmodified":1669734074,
+    "wof:name":"Arikap\u00fa",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.287909,
+    -11.878638,
+    -61.901297,
+    -11.655877
+],
+  "geometry": {"coordinates":[[[-62.039824,-11.842555],[-62.088282,-11.865751],[-62.123573,-11.872452],[-62.174664,-11.878638],[-62.206794,-11.874514],[-62.232604,-11.862658],[-62.259466,-11.842554],[-62.273688,-11.82348],[-62.283695,-11.805435],[-62.287382,-11.779655],[-62.287909,-11.748716],[-62.282642,-11.727056],[-62.265787,-11.710553],[-62.238397,-11.696627],[-62.216275,-11.684764],[-62.177825,-11.676511],[-62.156229,-11.672384],[-62.10145,-11.660004],[-62.054046,-11.655877],[-61.981358,-11.659488],[-61.935007,-11.681669],[-61.922366,-11.68889],[-61.909725,-11.705395],[-61.901824,-11.72061],[-61.901297,-11.740981],[-61.907091,-11.76728],[-61.916045,-11.788936],[-61.950282,-11.811107],[-61.989786,-11.825027],[-62.039824,-11.842555]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796620145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":2.805007,
+    "geom:bbox":"139.51538,-28.931246,142.11914,-27.332735",
+    "geom:latitude":-28.22451,
+    "geom:longitude":140.729497,
+    "iso:country":"XY",
+    "lbl:latitude":-28.292792,
+    "lbl:longitude":140.7047,
+    "mps:latitude":-28.292792,
+    "mps:longitude":140.7047,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#433472",
+    "nativeland:description":"https://native-land.ca/maps/territories/yandruwandha/",
+    "nativeland:id":35945,
+    "nativeland:name":"Yandruwandha",
+    "nativeland:slug":"yandruwandha",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35945
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"d5d874f6d23a2d61d065a940f4397917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620145
+        }
+    ],
+    "wof:id":1796620145,
+    "wof:lastmodified":1669734065,
+    "wof:name":"Yandruwandha",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.51538,
+    -28.931246,
+    142.11914,
+    -27.332735
+],
+  "geometry": {"coordinates":[[[141.58081000000001,-27.332735],[141.668701,-27.60567],[141.77856399999999,-27.82936],[141.877441,-28.004101],[142.11913999999999,-28.352733],[141.76757799999999,-28.555576],[141.60278299999999,-28.623103],[141.35009700000001,-28.70986],[141.152343,-28.815799],[140.74584899999999,-28.931246],[140.53710899999999,-28.931246],[140.21850499999999,-28.921631],[139.83398399999999,-28.912014],[139.51537999999999,-28.912014],[139.570312,-28.623103],[139.61425700000001,-28.343064],[139.724121,-28.110748],[139.79003900000001,-27.800209],[139.910888,-27.479034],[140.29541,-27.527758],[140.52612300000001,-27.654338],[140.93261699999999,-27.654338],[141.37207000000001,-27.479034],[141.58081000000001,-27.332735]]],"type":"Polygon"}
+}

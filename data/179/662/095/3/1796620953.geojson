@@ -1,0 +1,57 @@
+{
+  "id": 1796620953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.012664,
+    "geom:bbox":"-81.130651,26.987339,-80.969209,27.162107",
+    "geom:latitude":27.080672,
+    "geom:longitude":-81.066807,
+    "iso:country":"XY",
+    "lbl:latitude":27.083266,
+    "lbl:longitude":-81.06803,
+    "mps:latitude":27.083266,
+    "mps:longitude":-81.06803,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#6CB411",
+    "nativeland:description":"https://native-land.ca/maps/territories/seminole-tribe-of-florida-brighton-reservation/",
+    "nativeland:id":33897,
+    "nativeland:name":"Seminole Tribe of Florida (Brighton Reservation)",
+    "nativeland:slug":"seminole-tribe-of-florida-brighton-reservation",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33897
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"3076723cb180aa68963e4855463a1970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620953
+        }
+    ],
+    "wof:id":1796620953,
+    "wof:lastmodified":1669734089,
+    "wof:name":"Seminole Tribe of Florida (Brighton Reservation)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.130651,
+    26.987339,
+    -80.969209,
+    27.162107
+],
+  "geometry": {"coordinates":[[[-81.059217,27.162076],[-81.03269299999999,27.162107],[-81.031868,27.137164],[-80.96920900000001,27.138264],[-80.970033,27.123589],[-80.989408,27.123222],[-80.999302,27.112215],[-81.005771,27.093731],[-81.018699,27.09189],[-81.023352,27.078078],[-81.030592,27.063344],[-81.044037,27.054134],[-81.05282699999999,27.03433],[-81.066789,27.032948],[-81.067823,27.00669],[-81.09523,26.989643],[-81.111777,26.987339],[-81.111777,26.995633],[-81.122119,26.996093],[-81.122636,27.031566],[-81.11281099999999,27.032487],[-81.114362,27.075392],[-81.130392,27.075162],[-81.130651,27.085751],[-81.121343,27.085982],[-81.122636,27.122346],[-81.058207,27.123447],[-81.059217,27.162076]]],"type":"Polygon"}
+}

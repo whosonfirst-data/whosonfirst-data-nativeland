@@ -1,0 +1,57 @@
+{
+  "id": 1796620985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.036002,
+    "geom:bbox":"146.948155,-41.786941,148.403494,-40.690921",
+    "geom:latitude":-41.223027,
+    "geom:longitude":147.764754,
+    "iso:country":"XY",
+    "lbl:latitude":-41.220289,
+    "lbl:longitude":147.778614,
+    "mps:latitude":-41.220289,
+    "mps:longitude":147.778614,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#088B05",
+    "nativeland:description":"https://native-land.ca/maps/territories/pyemmairrener/",
+    "nativeland:id":33884,
+    "nativeland:name":"Pyemmairrener",
+    "nativeland:slug":"pyemmairrener",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33884
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"7eddbc7b777c5e9d8fef5175437a1684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620985
+        }
+    ],
+    "wof:id":1796620985,
+    "wof:lastmodified":1669734069,
+    "wof:name":"Pyemmairrener",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.948155,
+    -41.786941,
+    148.403494,
+    -40.690921
+],
+  "geometry": {"coordinates":[[[148.03179600000001,-40.702231],[148.103869,-40.690921],[148.178775,-40.713636],[148.31360599999999,-40.800638],[148.39850000000001,-40.951673],[148.38851299999999,-41.106127],[148.40349399999999,-41.290243],[148.367378,-41.480889],[148.28747899999999,-41.499592],[148.21756600000001,-41.510812],[148.037792,-41.581823],[147.85302300000001,-41.704972],[147.61332400000001,-41.786941],[147.433549,-41.772045],[147.308706,-41.607965],[147.23879299999999,-41.462181],[147.18885599999999,-41.334818],[147.05901900000001,-41.162108],[146.94815500000001,-41.011943],[146.99809200000001,-40.96671],[147.17786699999999,-41.000638],[147.21282299999999,-40.925219],[147.407579,-40.936537],[147.47749099999999,-40.902576],[147.63229699999999,-40.766559],[147.737166,-40.796809],[147.87199699999999,-40.785467],[148.03179600000001,-40.702231]]],"type":"Polygon"}
+}

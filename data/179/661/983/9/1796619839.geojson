@@ -1,0 +1,57 @@
+{
+  "id": 1796619839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.693084,
+    "geom:bbox":"141.470947,-34.939985,142.965087,-34.079962",
+    "geom:latitude":-34.522562,
+    "geom:longitude":142.12531,
+    "iso:country":"XY",
+    "lbl:latitude":-34.441018,
+    "lbl:longitude":142.051735,
+    "mps:latitude":-34.441018,
+    "mps:longitude":142.051735,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#2FE9BF",
+    "nativeland:description":"https://native-land.ca/maps/territories/latje-latje/",
+    "nativeland:id":36085,
+    "nativeland:name":"Latje Latje",
+    "nativeland:slug":"latje-latje",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36085
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"ed1ca897ebda6f996eacf2687860bf3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619839
+        }
+    ],
+    "wof:id":1796619839,
+    "wof:lastmodified":1669734034,
+    "wof:name":"Latje Latje",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.470947,
+    -34.939985,
+    142.965087,
+    -34.079962
+],
+  "geometry": {"coordinates":[[[141.657714,-34.098159],[141.73461900000001,-34.079962],[141.94335899999999,-34.079962],[142.15209899999999,-34.134541],[142.33886699999999,-34.243594],[142.382812,-34.434097],[142.48168899999999,-34.633207],[142.60253900000001,-34.696461],[142.734375,-34.696461],[142.75634700000001,-34.578952],[142.877197,-34.597041],[142.96508700000001,-34.669358],[142.96508700000001,-34.831841],[142.95410100000001,-34.939985],[142.78930600000001,-34.912962],[142.47070299999999,-34.894942],[142.360839,-34.849875],[142.03125,-34.768691],[141.80053699999999,-34.696461],[141.514892,-34.696461],[141.470947,-34.606084],[141.470947,-34.506556],[141.53686500000001,-34.343436],[141.657714,-34.098159]]],"type":"Polygon"}
+}

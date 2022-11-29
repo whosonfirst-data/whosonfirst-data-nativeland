@@ -1,0 +1,57 @@
+{
+  "id": 1796620899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.078738,
+    "geom:bbox":"-80.380953,26.716677,-80.023637,26.991042",
+    "geom:latitude":26.849963,
+    "geom:longitude":-80.196855,
+    "iso:country":"XY",
+    "lbl:latitude":26.849171,
+    "lbl:longitude":-80.196883,
+    "mps:latitude":26.849171,
+    "mps:longitude":-80.196883,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#283333",
+    "nativeland:description":"https://native-land.ca/maps/territories/jeaga/",
+    "nativeland:id":33925,
+    "nativeland:name":"Jeaga",
+    "nativeland:slug":"jeaga",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33925
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"dc6cfe22a944398829a0d12514e5b3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620899
+        }
+    ],
+    "wof:id":1796620899,
+    "wof:lastmodified":1669734082,
+    "wof:name":"Jeaga",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.380953,
+    26.716677,
+    -80.023637,
+    26.991042
+],
+  "geometry": {"coordinates":[[[-80.077629,26.960426],[-80.076459,26.959971],[-80.076453,26.958929],[-80.055218,26.903614],[-80.039427,26.854295],[-80.02995300000001,26.821185],[-80.02363699999999,26.794408],[-80.028374,26.774673],[-80.02995300000001,26.74154],[-80.03195100000001,26.724808],[-80.09263799999999,26.720743],[-80.17001500000001,26.716677],[-80.200952,26.717161],[-80.241102,26.718807],[-80.326769,26.721082],[-80.32752600000001,26.760569],[-80.333431,26.808407],[-80.348061,26.861255],[-80.35597199999999,26.905428],[-80.368815,26.931204],[-80.38095300000001,26.947772],[-80.374505,26.962697],[-80.354023,26.970423],[-80.339555,26.98404],[-80.319508,26.985876],[-80.303253,26.986358],[-80.28060600000001,26.991042],[-80.244519,26.979357],[-80.17624600000001,26.982061],[-80.124662,26.980709],[-80.077629,26.960426]]],"type":"Polygon"}
+}

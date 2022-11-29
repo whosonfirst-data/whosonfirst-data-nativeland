@@ -1,0 +1,57 @@
+{
+  "id": 1796620483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":5.191548,
+    "geom:bbox":"-69.964177,0.958648,-66.732021,3.853228",
+    "geom:latitude":2.181454,
+    "geom:longitude":-67.977882,
+    "iso:country":"XY",
+    "lbl:latitude":2.07654,
+    "lbl:longitude":-67.733021,
+    "mps:latitude":2.07654,
+    "mps:longitude":-67.733021,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#21E04C",
+    "nativeland:description":"https://native-land.ca/maps/territories/kurripako/",
+    "nativeland:id":34126,
+    "nativeland:name":"Wakuenai/Walimanai (Kuripako)",
+    "nativeland:slug":"kurripako",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34126
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"c4091b162ad4a3508547c669a7bbeb51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796620483
+        }
+    ],
+    "wof:id":1796620483,
+    "wof:lastmodified":1669734064,
+    "wof:name":"Wakuenai/Walimanai (Kuripako)",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.964177,
+    0.958648,
+    -66.732021,
+    3.853228
+],
+  "geometry": {"coordinates":[[[-69.727143,1.386301],[-69.88413300000001,1.551994],[-69.96417700000001,1.660803],[-69.92821600000001,1.801929],[-69.815804,1.914342],[-69.711957,1.958261],[-69.486673,1.979982],[-69.26139000000001,2.001703],[-68.935086,2.124716],[-68.711973,2.280373],[-68.51455799999999,2.461687],[-68.383922,2.698145],[-68.25328500000001,2.930279],[-68.023499,3.353994],[-67.918843,3.579334],[-67.80562,3.736239],[-67.693574,3.804548],[-67.535533,3.818974],[-67.4024,3.851162],[-67.318971,3.853228],[-67.154274,3.788682],[-66.86452300000001,3.530571],[-66.732021,3.185068],[-66.863895,2.839151],[-66.79764400000001,2.443646],[-66.84383099999999,1.750696],[-66.913949,1.625152],[-67.105351,1.449754],[-67.228865,1.317257],[-67.342606,1.074692],[-67.491135,0.971239],[-67.724749,0.958648],[-68.099147,1.03098],[-68.750412,1.092212],[-69.041498,1.14089],[-69.277641,1.178029],[-69.445199,1.221108],[-69.63027200000001,1.288064],[-69.727143,1.386301]]],"type":"Polygon"}
+}

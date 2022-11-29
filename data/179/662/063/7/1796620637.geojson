@@ -1,0 +1,57 @@
+{
+  "id": 1796620637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.002546,
+    "geom:bbox":"-124.076877,46.708795,-123.996063,46.754768",
+    "geom:latitude":46.7325,
+    "geom:longitude":-124.03536,
+    "iso:country":"XY",
+    "lbl:latitude":46.733122,
+    "lbl:longitude":-124.03459,
+    "mps:latitude":46.733122,
+    "mps:longitude":-124.03459,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#F3B05B",
+    "nativeland:description":"https://native-land.ca/maps/territories/shoalwater-bay/",
+    "nativeland:id":34047,
+    "nativeland:name":"Shoalwater Bay",
+    "nativeland:slug":"shoalwater-bay",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34047
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"17ad706dcc79f11b4058e335e23511fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620637
+        }
+    ],
+    "wof:id":1796620637,
+    "wof:lastmodified":1669734071,
+    "wof:name":"Shoalwater Bay",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.076877,
+    46.708795,
+    -123.996063,
+    46.754768
+],
+  "geometry": {"coordinates":[[[-124.075332,46.738055],[-124.062527,46.752679],[-124.03021,46.754768],[-124.013136,46.745159],[-123.99606300000001,46.736383],[-124.005819,46.710885],[-124.025941,46.708795],[-124.050332,46.717156],[-124.072609,46.727847],[-124.076877,46.732027],[-124.075332,46.738055]]],"type":"Polygon"}
+}

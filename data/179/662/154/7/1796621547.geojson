@@ -1,0 +1,57 @@
+{
+  "id": 1796621547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":25.721528,
+    "geom:bbox":"-128.081032,63.730747,-116.850737,67.461298",
+    "geom:latitude":65.872932,
+    "geom:longitude":-122.155964,
+    "iso:country":"XY",
+    "lbl:latitude":65.605975,
+    "lbl:longitude":-121.701405,
+    "mps:latitude":65.605975,
+    "mps:longitude":-121.701405,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#14C00A",
+    "nativeland:description":"https://native-land.ca/maps/territories/sahtu-gotine/",
+    "nativeland:id":33626,
+    "nativeland:name":"Saht\u00fa Got\u2019ine",
+    "nativeland:slug":"sahtu-gotine",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33626
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"03fc1a6fba6ef6be51b0503138c8e5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621547
+        }
+    ],
+    "wof:id":1796621547,
+    "wof:lastmodified":1669734078,
+    "wof:name":"Saht\u00fa Got\u2019ine",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -128.081032,
+    63.730747,
+    -116.850737,
+    67.461298
+],
+  "geometry": {"coordinates":[[[-120.320295,63.989676],[-121.220034,63.730747],[-122.22958,63.882442],[-123.194751,64.303971],[-124.85883800000001,64.74298],[-126.372569,65.237696],[-127.703839,65.85324799999999],[-128.08103199999999,66.293992],[-127.703839,66.613062],[-126.350381,66.771106],[-125.573807,66.88460600000001],[-124.264725,67.101404],[-122.356572,67.36756099999999],[-120.86998699999999,67.461298],[-119.427778,67.461298],[-118.918333,67.413145],[-118.10606300000001,67.084745],[-117.29379299999999,66.91161700000001],[-116.850737,66.737253],[-116.850737,66.32555600000001],[-117.404557,65.937127],[-117.699928,65.67992099999999],[-118.733726,65.327825],[-119.66439,64.567583],[-119.90359100000001,64.25123499999999],[-120.320295,63.989676]]],"type":"Polygon"}
+}

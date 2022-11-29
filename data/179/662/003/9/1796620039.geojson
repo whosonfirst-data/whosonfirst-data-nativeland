@@ -1,0 +1,57 @@
+{
+  "id": 1796620039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.292107,
+    "geom:bbox":"141.47644,-15.218601,142.058715,-14.455958",
+    "geom:latitude":-14.753367,
+    "geom:longitude":141.757829,
+    "iso:country":"XY",
+    "lbl:latitude":-14.705128,
+    "lbl:longitude":141.763374,
+    "mps:latitude":-14.705128,
+    "mps:longitude":141.763374,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#EBFF08",
+    "nativeland:description":"https://native-land.ca/maps/territories/thaayorre/",
+    "nativeland:id":35994,
+    "nativeland:name":"Thaayorre",
+    "nativeland:slug":"thaayorre",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35994
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"9d48ffa9189f6042a0affbb08109b8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620039
+        }
+    ],
+    "wof:id":1796620039,
+    "wof:lastmodified":1669734088,
+    "wof:name":"Thaayorre",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.47644,
+    -15.218601,
+    142.058715,
+    -14.455958
+],
+  "geometry": {"coordinates":[[[141.647415,-15.048253],[141.57531700000001,-14.981933],[141.54785100000001,-14.85985],[141.47644,-14.482552],[141.652221,-14.461277],[141.855468,-14.455958],[142.05871500000001,-14.455958],[142.03125,-14.753635],[141.866455,-14.97132],[141.72500600000001,-15.218601],[141.641921,-15.213963],[141.58081000000001,-15.204686],[141.58287000000001,-15.183482],[141.58836299999999,-15.169565],[141.59797599999999,-15.151008],[141.61308199999999,-15.128473],[141.61170899999999,-15.099305],[141.62338199999999,-15.079416],[141.647415,-15.048253]]],"type":"Polygon"}
+}

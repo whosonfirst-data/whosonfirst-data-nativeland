@@ -1,0 +1,57 @@
+{
+  "id": 1796620753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.092938,
+    "geom:bbox":"176.337744,-38.060005,176.863208,-37.77425",
+    "geom:latitude":-37.932931,
+    "geom:longitude":176.578191,
+    "iso:country":"XY",
+    "lbl:latitude":-37.924117,
+    "lbl:longitude":176.52064,
+    "mps:latitude":-37.924117,
+    "mps:longitude":176.52064,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#699228",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngati-makino/",
+    "nativeland:id":33989,
+    "nativeland:name":"Ng\u0101ti M\u0101kino",
+    "nativeland:slug":"ngati-makino",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33989
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"96a7998b8d0c0c44ee834df7f852c614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620753
+        }
+    ],
+    "wof:id":1796620753,
+    "wof:lastmodified":1669734086,
+    "wof:name":"Ng\u0101ti M\u0101kino",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.337744,
+    -38.060005,
+    176.863208,
+    -37.77425
+],
+  "geometry": {"coordinates":[[[176.50809899999999,-37.776668],[176.62113199999999,-37.837628],[176.66520199999999,-37.855515],[176.75424100000001,-37.884444],[176.82682500000001,-37.895061],[176.85596200000001,-37.902964],[176.86320799999999,-37.924119],[176.841973,-37.942965],[176.80503999999999,-38.036507],[176.71937600000001,-38.021352],[176.663838,-38.053218],[176.61023299999999,-38.060005],[176.593975,-38.020893],[176.53277399999999,-38.033558],[176.48757599999999,-38.038092],[176.457628,-38.023776],[176.440406,-38.027679],[176.39034000000001,-38.012526],[176.36667,-38.032933],[176.34070800000001,-38.005388],[176.33774399999999,-37.96409],[176.366716,-37.907658],[176.35910699999999,-37.879352],[176.38889,-37.85712],[176.39969199999999,-37.8276],[176.45592600000001,-37.81118],[176.48020600000001,-37.77425],[176.50809899999999,-37.776668]]],"type":"Polygon"}
+}

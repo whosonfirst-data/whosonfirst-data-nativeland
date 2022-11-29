@@ -1,0 +1,57 @@
+{
+  "id": 1796621393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":6.565845,
+    "geom:bbox":"-71.020551,2.558184,-66.999059,6.455394",
+    "geom:latitude":4.258544,
+    "geom:longitude":-68.836428,
+    "iso:country":"XY",
+    "lbl:latitude":4.163999,
+    "lbl:longitude":-68.805962,
+    "mps:latitude":4.163999,
+    "mps:longitude":-68.805962,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#1C0008",
+    "nativeland:description":"https://native-land.ca/maps/territories/tsase-piapoco/",
+    "nativeland:id":33695,
+    "nativeland:name":"Tsase/Piapoco",
+    "nativeland:slug":"tsase-piapoco",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33695
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"34f5ede025f6c078e13eaf59deb8f0e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621393
+        }
+    ],
+    "wof:id":1796621393,
+    "wof:lastmodified":1669734082,
+    "wof:name":"Tsase/Piapoco",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.020551,
+    2.558184,
+    -66.999059,
+    6.455394
+],
+  "geometry": {"coordinates":[[[-67.59880699999999,6.281327],[-67.402429,6.349906],[-67.227282,6.455394],[-67.062749,6.418476],[-66.999059,6.170527],[-67.03090400000001,5.900249],[-67.174207,5.630936],[-67.338739,5.345645],[-67.31138,5.163203],[-67.317509,4.931196],[-67.280734,4.717433],[-67.27460499999999,4.466942],[-67.323639,4.112443],[-67.421706,3.929019],[-67.69139199999999,3.770018],[-68.09137200000001,3.653666],[-68.794375,3.302813],[-69.92344,2.834818],[-70.392109,2.590106],[-70.892732,2.558184],[-71.020551,2.81354],[-70.971704,3.176923],[-70.919421,3.402672],[-70.461404,3.976662],[-69.428203,4.656424],[-68.597382,5.155211],[-68.022198,5.833775],[-67.76656,6.193934],[-67.59880699999999,6.281327]]],"type":"Polygon"}
+}

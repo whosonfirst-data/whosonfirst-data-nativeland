@@ -1,0 +1,57 @@
+{
+  "id": 1796618451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.004807,
+    "geom:bbox":"142.490702,-9.450984,142.577929,-9.377297",
+    "geom:latitude":-9.415512,
+    "geom:longitude":142.534024,
+    "iso:country":"XY",
+    "lbl:latitude":-9.414942,
+    "lbl:longitude":142.534024,
+    "mps:latitude":-9.414942,
+    "mps:longitude":142.534024,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/dauanalgal/",
+    "nativeland:id":37709,
+    "nativeland:name":"Dauanalgal",
+    "nativeland:slug":"dauanalgal",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37709
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"7d5fceeefaa69213c3f73fcf70eeea0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618451
+        }
+    ],
+    "wof:id":1796618451,
+    "wof:lastmodified":1669734026,
+    "wof:name":"Dauanalgal",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.490702,
+    -9.450984,
+    142.577929,
+    -9.377297
+],
+  "geometry": {"coordinates":[[[142.518328,-9.450984],[142.49581800000001,-9.432816],[142.490702,-9.420703],[142.49786499999999,-9.404553],[142.50298100000001,-9.386382],[142.521398,-9.377297],[142.54723300000001,-9.380578],[142.56590700000001,-9.393954],[142.57792900000001,-9.411366],[142.572046,-9.433825],[142.55311699999999,-9.450984],[142.518328,-9.450984]]],"type":"Polygon"}
+}

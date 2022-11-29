@@ -1,0 +1,57 @@
+{
+  "id": 1796619277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.133802,
+    "geom:bbox":"-98.306334,20.36366,-97.739944,20.853824",
+    "geom:latitude":20.595573,
+    "geom:longitude":-98.029166,
+    "iso:country":"XY",
+    "lbl:latitude":20.611409,
+    "lbl:longitude":-98.033456,
+    "mps:latitude":20.611409,
+    "mps:longitude":-98.033456,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#FCC610",
+    "nativeland:description":"https://native-land.ca/maps/territories/tepehua/",
+    "nativeland:id":36335,
+    "nativeland:name":"Tepehua",
+    "nativeland:slug":"tepehua",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36335
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"6fe8d49bb740e714bfb3675a3fbe6611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619277
+        }
+    ],
+    "wof:id":1796619277,
+    "wof:lastmodified":1669734053,
+    "wof:name":"Tepehua",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.306334,
+    20.36366,
+    -97.739944,
+    20.853824
+],
+  "geometry": {"coordinates":[[[-98.213077,20.553269],[-98.238563,20.568205],[-98.265558,20.588618],[-98.29543200000001,20.632572],[-98.30633400000001,20.681901],[-98.25946999999999,20.691657],[-98.221476,20.691569],[-98.175083,20.708124],[-98.100893,20.736595],[-98.022454,20.76365],[-97.981111,20.795861],[-97.946659,20.828066],[-97.91909699999999,20.853824],[-97.88808899999999,20.831286],[-97.898425,20.750763],[-97.89498,20.708564],[-97.85708200000001,20.657303],[-97.805403,20.60894],[-97.76406,20.557334],[-97.73994399999999,20.508939],[-97.767506,20.479894],[-97.863973,20.483122],[-97.96044000000001,20.486349],[-98.001783,20.466984],[-98.03279000000001,20.437931],[-98.081024,20.386268],[-98.118921,20.36366],[-98.16370999999999,20.37335],[-98.18150300000001,20.395604],[-98.194717,20.442663],[-98.190319,20.49052],[-98.194435,20.527933],[-98.213077,20.553269]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796620697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.359795,
+    "geom:bbox":"176.088341,-38.630583,176.882341,-37.736795",
+    "geom:latitude":-38.230227,
+    "geom:longitude":176.50895,
+    "iso:country":"XY",
+    "lbl:latitude":-38.318142,
+    "lbl:longitude":176.536018,
+    "mps:latitude":-38.318142,
+    "mps:longitude":176.536018,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0BAC7E",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngati-rangitihi/",
+    "nativeland:id":34012,
+    "nativeland:name":"Ng\u0101ti Rangitihi",
+    "nativeland:slug":"ngati-rangitihi",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34012
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"8abb2f2ffc76b30e176bf10b925b8024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620697
+        }
+    ],
+    "wof:id":1796620697,
+    "wof:lastmodified":1669734092,
+    "wof:name":"Ng\u0101ti Rangitihi",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.088341,
+    -38.630583,
+    176.882341,
+    -37.736795
+],
+  "geometry": {"coordinates":[[[176.565856,-37.810046],[176.62113199999999,-37.837628],[176.69933900000001,-37.86721],[176.75424100000001,-37.884444],[176.82682500000001,-37.895061],[176.882341,-37.909281],[176.84205600000001,-37.942968],[176.832188,-37.982178],[176.81261599999999,-38.014622],[176.807796,-38.109294],[176.74143100000001,-38.364949],[176.70077699999999,-38.458668],[176.63036600000001,-38.535354],[176.47514699999999,-38.62647],[176.38780199999999,-38.630583],[176.22756100000001,-38.553005],[176.15476000000001,-38.489008],[176.14149499999999,-38.440548],[176.08834100000001,-38.405158],[176.12615400000001,-38.308975],[176.31630000000001,-38.22884],[176.41244599999999,-38.155194],[176.498682,-38.045751],[176.361029,-37.866072],[176.370777,-37.802863],[176.448477,-37.75997],[176.46811700000001,-37.736795],[176.51264699999999,-37.779488],[176.565856,-37.810046]]],"type":"Polygon"}
+}

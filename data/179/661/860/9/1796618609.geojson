@@ -1,0 +1,57 @@
+{
+  "id": 1796618609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.062186,
+    "geom:bbox":"-121.982645,39.486684,-121.697377,39.785825",
+    "geom:latitude":39.639766,
+    "geom:longitude":-121.843862,
+    "iso:country":"XY",
+    "lbl:latitude":39.640688,
+    "lbl:longitude":-121.841145,
+    "mps:latitude":39.640688,
+    "mps:longitude":-121.841145,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#630A4E",
+    "nativeland:description":"https://native-land.ca/maps/territories/mechoopda-maidu/",
+    "nativeland:id":36637,
+    "nativeland:name":"Mechoopda",
+    "nativeland:slug":"mechoopda-maidu",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36637
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"803b360470ac703efdb729bf91175b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796618609
+        }
+    ],
+    "wof:id":1796618609,
+    "wof:lastmodified":1669734032,
+    "wof:name":"Mechoopda",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.982645,
+    39.486684,
+    -121.697377,
+    39.785825
+],
+  "geometry": {"coordinates":[[[-121.93125000000001,39.746305],[-121.907685,39.759481],[-121.88840500000001,39.767714],[-121.858413,39.775947],[-121.824138,39.780063],[-121.782364,39.785825],[-121.748088,39.772654],[-121.722381,39.761951],[-121.704875,39.742366],[-121.697377,39.707766],[-121.710943,39.659623],[-121.737702,39.580347],[-121.76857699999999,39.540675],[-121.84267699999999,39.502568],[-121.890019,39.494627],[-121.937361,39.486684],[-121.97029499999999,39.499392],[-121.98264500000001,39.545437],[-121.980586,39.588279],[-121.947653,39.64853],[-121.945594,39.703978],[-121.945594,39.729311],[-121.93125000000001,39.746305]]],"type":"Polygon"}
+}

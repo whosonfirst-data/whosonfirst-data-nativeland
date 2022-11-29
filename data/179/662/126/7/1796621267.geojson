@@ -1,0 +1,57 @@
+{
+  "id": 1796621267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.005045,
+    "geom:bbox":"-119.460858,33.987148,-119.336369,34.034811",
+    "geom:latitude":34.011703,
+    "geom:longitude":-119.397328,
+    "iso:country":"XY",
+    "lbl:latitude":34.011306,
+    "lbl:longitude":-119.397328,
+    "mps:latitude":34.011306,
+    "mps:longitude":-119.397328,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#F13C13",
+    "nativeland:description":"https://native-land.ca/maps/territories/anyapax/",
+    "nativeland:id":33749,
+    "nativeland:name":"&#8216;Anyapax",
+    "nativeland:slug":"anyapax",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33749
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"a3f7b293084db901673d1bf9fb71b687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621267
+        }
+    ],
+    "wof:id":1796621267,
+    "wof:lastmodified":1669734077,
+    "wof:name":"&#8216;Anyapax",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.460858,
+    33.987148,
+    -119.336369,
+    34.034811
+],
+  "geometry": {"coordinates":[[[-119.454367,34.026524],[-119.441867,34.033153],[-119.423868,34.034811],[-119.399868,34.034811],[-119.371369,34.034811],[-119.360027,34.033265],[-119.349081,34.029752],[-119.341404,34.023825],[-119.336496,34.015604],[-119.336369,34.005387],[-119.34236900000001,33.99461],[-119.361369,33.988806],[-119.37836799999999,33.987148],[-119.41735799999999,33.98849],[-119.439858,33.992636],[-119.450858,33.998025],[-119.45635799999999,34.004657],[-119.460858,34.015018],[-119.45935799999999,34.022064],[-119.454367,34.026524]]],"type":"Polygon"}
+}

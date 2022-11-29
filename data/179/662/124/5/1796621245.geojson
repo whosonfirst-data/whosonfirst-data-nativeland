@@ -1,0 +1,57 @@
+{
+  "id": 1796621245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":15.979722,
+    "geom:bbox":"-76.180936,-47.229691,-72.197616,-41.724391",
+    "geom:latitude":-44.598507,
+    "geom:longitude":-73.945808,
+    "iso:country":"XY",
+    "lbl:latitude":-44.564256,
+    "lbl:longitude":-73.784578,
+    "mps:latitude":-44.564256,
+    "mps:longitude":-73.784578,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#7D5527",
+    "nativeland:description":"https://native-land.ca/maps/territories/chono/",
+    "nativeland:id":33767,
+    "nativeland:name":"Chono",
+    "nativeland:slug":"chono",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33767
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"685f770a614ae0173369111619ce2d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621245
+        }
+    ],
+    "wof:id":1796621245,
+    "wof:lastmodified":1669734094,
+    "wof:name":"Chono",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.180936,
+    -47.229691,
+    -72.197616,
+    -41.724391
+],
+  "geometry": {"coordinates":[[[-75.43406400000001,-47.106597],[-75.818816,-47.060233],[-76.158304,-46.905831],[-76.180936,-46.408746],[-75.773551,-45.670363],[-75.41143099999999,-44.536214],[-75.23037100000001,-43.789386],[-74.936149,-42.867451],[-74.528764,-41.847296],[-74.29491,-41.746976],[-74.009157,-41.74712],[-73.786295,-41.759845],[-73.27981699999999,-41.823311],[-72.872242,-41.811738],[-72.680306,-41.725304],[-72.56732100000001,-41.724391],[-72.477025,-41.757337],[-72.356043,-41.864153],[-72.265513,-42.384524],[-72.333411,-43.000012],[-72.197616,-43.789386],[-72.197616,-44.552481],[-72.242881,-45.034313],[-72.310778,-45.607201],[-72.831326,-46.362042],[-73.26134399999999,-46.921422],[-73.849789,-47.16818],[-74.596661,-47.229691],[-75.43406400000001,-47.106597]]],"type":"Polygon"}
+}

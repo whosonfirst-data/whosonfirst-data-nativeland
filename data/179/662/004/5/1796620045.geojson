@@ -1,0 +1,57 @@
+{
+  "id": 1796620045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":8.163558,
+    "geom:bbox":"-114.74287,38.064696,-111.669274,41.897733",
+    "geom:latitude":39.946498,
+    "geom:longitude":-113.454257,
+    "iso:country":"XY",
+    "lbl:latitude":40.002495,
+    "lbl:longitude":-113.48353,
+    "mps:latitude":40.002495,
+    "mps:longitude":-113.48353,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#4F4BF2",
+    "nativeland:description":"https://native-land.ca/maps/territories/goshute/",
+    "nativeland:id":35990,
+    "nativeland:name":"Goshute",
+    "nativeland:slug":"goshute",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35990
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"554d4bd83a52f2fc5963d27db275a195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620045
+        }
+    ],
+    "wof:id":1796620045,
+    "wof:lastmodified":1669734089,
+    "wof:name":"Goshute",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.74287,
+    38.064696,
+    -111.669274,
+    41.897733
+],
+  "geometry": {"coordinates":[[[-114.623471,38.202819],[-114.71989600000001,38.413852],[-114.74287,38.828451],[-114.73789499999999,39.200385],[-114.69139300000001,39.931652],[-114.510498,40.447515],[-114.47753899999999,40.947532],[-114.438445,41.262328],[-114.298162,41.544325],[-114.15416,41.74018],[-114.069991,41.865037],[-113.904579,41.897733],[-113.640907,41.831954],[-113.385347,41.702398],[-112.999364,41.602499],[-112.56489000000001,41.397905],[-112.22089099999999,41.237603],[-111.95046600000001,41.213856],[-111.804002,41.204801],[-111.695042,41.122336],[-111.669274,40.955263],[-111.68101,40.708207],[-111.819287,40.558305],[-111.99189200000001,40.36397],[-112.412109,39.910038],[-112.660364,38.835078],[-112.62312900000001,38.229172],[-112.82571900000001,38.186646],[-113.544881,38.066974],[-114.41328,38.064696],[-114.623471,38.202819]]],"type":"Polygon"}
+}

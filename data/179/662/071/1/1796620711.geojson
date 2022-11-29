@@ -1,0 +1,57 @@
+{
+  "id": 1796620711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.005794,
+    "geom:bbox":"176.285674,-38.108818,176.415286,-37.722286",
+    "geom:latitude":-37.972252,
+    "geom:longitude":176.357851,
+    "iso:country":"XY",
+    "lbl:latitude":-38.079061,
+    "lbl:longitude":176.349596,
+    "mps:latitude":-38.079061,
+    "mps:longitude":176.349596,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#05DB25",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngati-rangiteaorere/",
+    "nativeland:id":34011,
+    "nativeland:name":"Ng\u0101ti Rangiteaorere",
+    "nativeland:slug":"ngati-rangiteaorere",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34011
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"f528db7dc0fd626533b8a4eb99033726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620711
+        }
+    ],
+    "wof:id":1796620711,
+    "wof:lastmodified":1669734066,
+    "wof:name":"Ng\u0101ti Rangiteaorere",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.285674,
+    -38.108818,
+    176.415286,
+    -37.722286
+],
+  "geometry": {"coordinates":[[[[176.328845,-38.050446],[176.39183800000001,-38.070205],[176.40323100000001,-38.097073],[176.385313,-38.108818],[176.326356,-38.096188],[176.285674,-38.080886],[176.328845,-38.050446]]],[[[176.41528600000001,-37.747718],[176.39270400000001,-37.765897],[176.34394499999999,-37.766731],[176.357257,-37.722286],[176.41528600000001,-37.747718]]]],"type":"MultiPolygon"}
+}

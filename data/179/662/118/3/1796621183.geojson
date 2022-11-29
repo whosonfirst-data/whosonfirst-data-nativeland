@@ -1,0 +1,57 @@
+{
+  "id": 1796621183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.97784,
+    "geom:bbox":"-123.728206,43.262463,-121.957911,44.145408",
+    "geom:latitude":43.699929,
+    "geom:longitude":-122.788047,
+    "iso:country":"XY",
+    "lbl:latitude":43.722898,
+    "lbl:longitude":-122.788047,
+    "mps:latitude":43.722898,
+    "mps:longitude":-122.788047,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#74E8E4",
+    "nativeland:description":"https://native-land.ca/maps/territories/yoncalla/",
+    "nativeland:id":33794,
+    "nativeland:name":"Yoncalla",
+    "nativeland:slug":"yoncalla",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33794
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"d0ef8578c4d013be49544be9a4fba186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621183
+        }
+    ],
+    "wof:id":1796621183,
+    "wof:lastmodified":1669734075,
+    "wof:name":"Yoncalla",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.728206,
+    43.262463,
+    -121.957911,
+    44.145408
+],
+  "geometry": {"coordinates":[[[-123.728206,43.63983],[-123.71730100000001,43.684535],[-123.600977,43.721326],[-123.48465400000001,43.73446],[-123.288359,43.744966],[-123.164765,43.758095],[-123.12841400000001,43.834186],[-123.099333,43.925891],[-123.121144,44.012227],[-123.081158,44.030525],[-122.93938900000001,44.072326],[-122.695837,44.090605],[-122.361408,44.116708],[-122.0706,44.1428],[-122.01607300000001,44.145408],[-121.957911,44.082772],[-122.00153299999999,44.02007],[-121.990627,43.941598],[-122.034249,43.789592],[-122.07787,43.692421],[-122.16511199999999,43.574027],[-122.295976,43.481781],[-122.506812,43.381469],[-122.743093,43.3709],[-123.081158,43.304803],[-123.284724,43.286283],[-123.539181,43.262463],[-123.61551799999999,43.392036],[-123.626423,43.500241],[-123.626423,43.57666],[-123.728206,43.63983]]],"type":"Polygon"}
+}

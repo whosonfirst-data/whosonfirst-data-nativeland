@@ -1,0 +1,57 @@
+{
+  "id": 1796620791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.130843,
+    "geom:bbox":"176.082821,-38.471124,176.722654,-38.098866",
+    "geom:latitude":-38.275045,
+    "geom:longitude":176.360542,
+    "iso:country":"XY",
+    "lbl:latitude":-38.285337,
+    "lbl:longitude":176.338729,
+    "mps:latitude":-38.285337,
+    "mps:longitude":176.338729,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#078C97",
+    "nativeland:description":"https://native-land.ca/maps/territories/tuhourangi/",
+    "nativeland:id":33974,
+    "nativeland:name":"T\u016bhourangi",
+    "nativeland:slug":"tuhourangi",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33974
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"c7341ce642b9610d80373c1727862c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620791
+        }
+    ],
+    "wof:id":1796620791,
+    "wof:lastmodified":1669734063,
+    "wof:name":"T\u016bhourangi",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.082821,
+    -38.471124,
+    176.722654,
+    -38.098866
+],
+  "geometry": {"coordinates":[[[176.10474199999999,-38.308822],[176.11228700000001,-38.287169],[176.10260700000001,-38.249863],[176.13888399999999,-38.201483],[176.34934000000001,-38.132053],[176.37833000000001,-38.150689],[176.43706900000001,-38.149523],[176.49499900000001,-38.165998],[176.51299599999999,-38.143805],[176.59323499999999,-38.109161],[176.72265400000001,-38.098866],[176.607202,-38.264621],[176.58555100000001,-38.26618],[176.535831,-38.327069],[176.52338499999999,-38.349944],[176.311519,-38.447672],[176.22998999999999,-38.424355],[176.14766599999999,-38.471124],[176.11815799999999,-38.424719],[176.082821,-38.407836],[176.10203200000001,-38.360769],[176.10474199999999,-38.308822]]],"type":"Polygon"}
+}

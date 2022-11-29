@@ -1,0 +1,57 @@
+{
+  "id": 1796621585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.337668,
+    "geom:bbox":"29.744136,59.175783,31.431022,60.331127",
+    "geom:latitude":59.708926,
+    "geom:longitude":30.625161,
+    "iso:country":"XY",
+    "lbl:latitude":59.710736,
+    "lbl:longitude":30.641226,
+    "mps:latitude":59.710736,
+    "mps:longitude":30.641226,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#7523EF",
+    "nativeland:description":"https://native-land.ca/maps/territories/inkerilainen/",
+    "nativeland:id":33596,
+    "nativeland:name":"Inkeril\u00e4inen",
+    "nativeland:slug":"inkerilainen",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33596
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"881cc0a52d7a49e77d1610ac43699f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "nation_id":1796621585
+        }
+    ],
+    "wof:id":1796621585,
+    "wof:lastmodified":1669734061,
+    "wof:name":"Inkeril\u00e4inen",
+    "wof:parent_id":102191581,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.744136,
+    59.175783,
+    31.431022,
+    60.331127
+],
+  "geometry": {"coordinates":[[[29.779426,59.909187],[30.012343,59.870238],[30.139389,59.887948],[30.202912,59.997538],[30.202912,60.120833],[30.245261,60.243669],[30.428772,60.313654],[30.682863,60.331127],[30.873432,60.31715],[30.99342,60.222644],[31.071059,60.134895],[31.134582,60.036337],[31.120466,59.937485],[31.265157,59.87731],[31.325151,59.753115],[31.353383,59.639152],[31.431022,59.488981],[31.416906,59.388497],[31.296918,59.309336],[31.078117,59.208317],[30.929897,59.175783],[30.689921,59.179399],[30.534643,59.21193],[30.329958,59.244429],[30.118215,59.31654],[30.02646,59.34894],[29.899414,59.46389],[29.807658,59.58917],[29.744136,59.805145],[29.779426,59.909187]]],"type":"Polygon"}
+}

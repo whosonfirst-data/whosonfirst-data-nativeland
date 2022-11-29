@@ -1,0 +1,57 @@
+{
+  "id": 1796621119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":2.575307,
+    "geom:bbox":"-79.639133,37.788638,-77.178716,39.424369",
+    "geom:latitude":38.547558,
+    "geom:longitude":-78.235045,
+    "iso:country":"XY",
+    "lbl:latitude":38.481841,
+    "lbl:longitude":-78.235045,
+    "mps:latitude":38.481841,
+    "mps:longitude":-78.235045,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#82735C",
+    "nativeland:description":"https://native-land.ca/maps/territories/manahoac/",
+    "nativeland:id":33822,
+    "nativeland:name":"Manahoac",
+    "nativeland:slug":"manahoac",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33822
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"032152dc14ecb4c967bd17f3d6d769b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621119
+        }
+    ],
+    "wof:id":1796621119,
+    "wof:lastmodified":1669734075,
+    "wof:name":"Manahoac",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.639133,
+    37.788638,
+    -77.178716,
+    39.424369
+],
+  "geometry": {"coordinates":[[[-77.362244,39.246933],[-77.247539,39.18917],[-77.201657,39.109111],[-77.17871599999999,38.975477],[-77.264745,38.738774],[-77.37945000000001,38.505772],[-77.408126,38.308026],[-77.408126,37.992316],[-77.49988999999999,37.843007],[-77.666211,37.793171],[-77.952973,37.788638],[-78.36591,37.843007],[-78.73870100000001,37.919962],[-79.036933,38.051051],[-79.512958,38.244993],[-79.639133,38.429434],[-79.621928,38.537182],[-79.295019,38.653727],[-79.008257,38.832657],[-78.75017099999999,38.917491],[-78.451939,39.184724],[-78.348705,39.39335],[-78.251206,39.424369],[-77.99312,39.340143],[-77.79238700000001,39.309087],[-77.62033,39.322398],[-77.362244,39.246933]]],"type":"Polygon"}
+}

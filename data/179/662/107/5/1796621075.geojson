@@ -1,0 +1,57 @@
+{
+  "id": 1796621075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":19.879635,
+    "geom:bbox":"-85.6786,25.096872,-79.904516,36.250633",
+    "geom:latitude":30.281178,
+    "geom:longitude":-82.359521,
+    "iso:country":"XY",
+    "lbl:latitude":29.696829,
+    "lbl:longitude":-82.162677,
+    "mps:latitude":29.696829,
+    "mps:longitude":-82.162677,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#5BB0CA",
+    "nativeland:description":"https://native-land.ca/maps/territories/miccosukee/",
+    "nativeland:id":33842,
+    "nativeland:name":"Miccosukee",
+    "nativeland:slug":"miccosukee",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33842
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"46b04aa91c6854e91c07d514fa7fb542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621075
+        }
+    ],
+    "wof:id":1796621075,
+    "wof:lastmodified":1669734080,
+    "wof:name":"Miccosukee",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.6786,
+    25.096872,
+    -79.904516,
+    36.250633
+],
+  "geometry": {"coordinates":[[[-80.949988,25.096872],[-81.275193,25.123642],[-81.919691,26.15775],[-82.709075,27.020653],[-83.078898,28.326338],[-83.05214599999999,28.932537],[-83.804579,29.873659],[-84.27438100000001,30.708097],[-81.41269,30.928348],[-82.309934,32.489485],[-82.882727,33.482273],[-83.21606300000001,34.027671],[-85.454005,34.074784],[-85.6786,34.754669],[-85.441694,35.324393],[-84.131049,36.003222],[-82.82825699999999,36.250633],[-81.753091,35.156945],[-83.19684599999999,34.048354],[-81.330337,30.847743],[-79.904516,26.698604],[-80.00066099999999,25.65744],[-80.22854599999999,25.101132],[-80.949988,25.096872]]],"type":"Polygon"}
+}

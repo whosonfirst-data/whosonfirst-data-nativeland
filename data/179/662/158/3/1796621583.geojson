@@ -1,0 +1,57 @@
+{
+  "id": 1796621583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.727133,
+    "geom:bbox":"27.850912,59.326323,29.380648,59.953714",
+    "geom:latitude":59.652038,
+    "geom:longitude":28.633145,
+    "iso:country":"XY",
+    "lbl:latitude":59.642388,
+    "lbl:longitude":28.633145,
+    "mps:latitude":59.642388,
+    "mps:longitude":28.633145,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#3D8B3D",
+    "nativeland:description":"https://native-land.ca/maps/territories/maavaki-izhorian/",
+    "nativeland:id":33601,
+    "nativeland:name":"Maav\u00e4ki (Izhorian)",
+    "nativeland:slug":"maavaki-izhorian",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33601
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"7535c21412d18688fdac9fe46bc918bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "nation_id":1796621583
+        }
+    ],
+    "wof:id":1796621583,
+    "wof:lastmodified":1669734061,
+    "wof:name":"Maav\u00e4ki (Izhorian)",
+    "wof:parent_id":102191581,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.850912,
+    59.326323,
+    29.380648,
+    59.953714
+],
+  "geometry": {"coordinates":[[[27.872655,59.813065],[27.976301,59.862556],[28.264693,59.916024],[28.496661,59.947436],[28.747438,59.953714],[29.010753,59.925451],[29.180027,59.868851],[29.35557,59.70796],[29.380648,59.597095],[29.305415,59.501776],[29.085986,59.377457],[28.860287,59.345507],[28.484123,59.326323],[28.333657,59.367875],[28.233346,59.425326],[28.076611,59.489046],[27.988839,59.543114],[27.901068,59.644653],[27.850912,59.742727],[27.872655,59.813065]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796620413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":8.294929,
+    "geom:bbox":"-126.914063,59.265881,-121.333008,61.206798",
+    "geom:latitude":60.265827,
+    "geom:longitude":-124.211782,
+    "iso:country":"XY",
+    "lbl:latitude":60.278778,
+    "lbl:longitude":-124.716735,
+    "mps:latitude":60.278778,
+    "mps:longitude":-124.716735,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#815E8D",
+    "nativeland:description":"https://native-land.ca/maps/territories/acho-dene-koe/",
+    "nativeland:id":35830,
+    "nativeland:name":"Denendeh (Acho Dene Koe)",
+    "nativeland:slug":"acho-dene-koe",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35830
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"a767b5bd273cfe7d0372c36a3d6c2605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620413
+        }
+    ],
+    "wof:id":1796620413,
+    "wof:lastmodified":1669734064,
+    "wof:name":"Denendeh (Acho Dene Koe)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -126.914063,
+    59.265881,
+    -121.333008,
+    61.206798
+],
+  "geometry": {"coordinates":[[[-126.60644499999999,60.020952],[-126.914063,60.305185],[-126.60644499999999,61.015725],[-126.210938,61.164437],[-125.244141,61.206798],[-124.628906,61.185625],[-124.14550800000001,61.037012],[-123.574219,61.037012],[-122.695313,61.015725],[-122.03613300000001,60.973107],[-121.640625,60.780619],[-121.59668000000001,60.586967],[-121.68456999999999,60.435542],[-121.68456999999999,60.217991],[-121.33300800000001,60.086763],[-121.42089799999999,59.756395],[-121.640625,59.556592],[-122.519531,59.467408],[-123.486328,59.489726],[-124.32128899999999,59.489726],[-124.980469,59.288332],[-125.683594,59.265881],[-125.947266,59.467408],[-126.43066399999999,59.667741],[-126.60644499999999,60.020952]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796620587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":2.499448,
+    "geom:bbox":"-172.250306,62.724552,-168.43962,63.861222",
+    "geom:latitude":63.311828,
+    "geom:longitude":-170.363151,
+    "iso:country":"XY",
+    "lbl:latitude":63.305316,
+    "lbl:longitude":-170.175504,
+    "mps:latitude":63.305316,
+    "mps:longitude":-170.175504,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#FCD591",
+    "nativeland:description":"https://native-land.ca/maps/territories/sivuqaq-st-lawrence-island-yupik/",
+    "nativeland:id":34071,
+    "nativeland:name":"Sivuqaq (St. Lawrence Island) Yupik",
+    "nativeland:slug":"sivuqaq-st-lawrence-island-yupik",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34071
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"9c941e3e6d122f9aad0cabdb243eb96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620587
+        }
+    ],
+    "wof:id":1796620587,
+    "wof:lastmodified":1669734093,
+    "wof:name":"Sivuqaq (St. Lawrence Island) Yupik",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.250306,
+    62.724552,
+    -168.43962,
+    63.861222
+],
+  "geometry": {"coordinates":[[[-171.888948,63.687018],[-171.77396999999999,63.861222],[-171.42903799999999,63.810524],[-171.199082,63.687018],[-170.870575,63.701576],[-170.49279100000001,63.781512],[-170.00003000000001,63.73067],[-169.67152300000001,63.526383],[-168.91595599999999,63.49708],[-168.45604499999999,63.379563],[-168.43961999999999,63.172747],[-168.85025400000001,62.942037],[-169.26088799999999,62.837245],[-169.737224,62.724552],[-170.31211200000001,62.904654],[-170.574918,63.046455],[-171.00197800000001,63.128236],[-171.708269,63.083657],[-172.25030599999999,63.172747],[-172.233881,63.51906],[-172.053202,63.599512],[-171.888948,63.687018]]],"type":"Polygon"}
+}

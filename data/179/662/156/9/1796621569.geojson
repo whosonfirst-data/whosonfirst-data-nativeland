@@ -1,0 +1,57 @@
+{
+  "id": 1796621569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.767304,
+    "geom:bbox":"-89.524251,15.980069,-88.324418,16.876383",
+    "geom:latitude":16.467115,
+    "geom:longitude":-88.958591,
+    "iso:country":"XY",
+    "lbl:latitude":16.471602,
+    "lbl:longitude":-89.007156,
+    "mps:latitude":16.471602,
+    "mps:longitude":-89.007156,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#2620DB",
+    "nativeland:description":"https://native-land.ca/maps/territories/mopan/",
+    "nativeland:id":33611,
+    "nativeland:name":"Mopan",
+    "nativeland:slug":"mopan",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33611
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"26fc6cf8791bb7d49877d879cbded852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621569
+        }
+    ],
+    "wof:id":1796621569,
+    "wof:lastmodified":1669734062,
+    "wof:name":"Mopan",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.524251,
+    15.980069,
+    -88.324418,
+    16.876383
+],
+  "geometry": {"coordinates":[[[-88.945863,15.980069],[-88.967422,16.043758],[-89.03039699999999,16.085163],[-89.139774,16.094717],[-89.272352,16.088348],[-89.398301,16.091533],[-89.467905,16.136112],[-89.50105000000001,16.241152],[-89.52425100000001,16.387478],[-89.510993,16.543226],[-89.471219,16.657573],[-89.371786,16.749472],[-89.199434,16.828801],[-88.993938,16.876383],[-88.828215,16.863696],[-88.63266299999999,16.841491],[-88.49345599999999,16.771687],[-88.360877,16.641531],[-88.32441799999999,16.571654],[-88.357563,16.435004],[-88.42101599999999,16.348355],[-88.49008000000001,16.266287],[-88.618343,16.206292],[-88.70714099999999,16.177867],[-88.756472,16.108367],[-88.825537,16.057805],[-88.868291,16.007231],[-88.945863,15.980069]]],"type":"Polygon"}
+}

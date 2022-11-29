@@ -1,0 +1,57 @@
+{
+  "id": 1796621395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":13.507829,
+    "geom:bbox":"-71.077853,0.420875,-66.733392,4.621249",
+    "geom:latitude":2.448158,
+    "geom:longitude":-68.861556,
+    "iso:country":"XY",
+    "lbl:latitude":2.408667,
+    "lbl:longitude":-68.861556,
+    "mps:latitude":2.408667,
+    "mps:longitude":-68.861556,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#37A5CE",
+    "nativeland:description":"https://native-land.ca/maps/territories/walimanai-baniwa/",
+    "nativeland:id":33696,
+    "nativeland:name":"Walimanai (Baniwa)",
+    "nativeland:slug":"walimanai-baniwa",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33696
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"a6bf71750a88ff89c3fdc6a6c7eb8139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621395
+        }
+    ],
+    "wof:id":1796621395,
+    "wof:lastmodified":1669734082,
+    "wof:name":"Walimanai (Baniwa)",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.077853,
+    0.420875,
+    -66.733392,
+    4.621249
+],
+  "geometry": {"coordinates":[[[-70.303845,0.473343],[-70.752543,0.649078],[-71.025384,1.163211],[-71.077853,1.845074],[-70.951927,2.79922],[-70.290813,3.522191],[-69.409328,3.920116],[-68.496362,4.474797],[-68.034632,4.621249],[-67.39450600000001,4.527105],[-67.00623299999999,4.349244],[-66.73339199999999,3.846828],[-66.75438,2.93547],[-66.84882500000001,2.306499],[-67.00623299999999,1.845074],[-67.42598700000001,1.362546],[-67.67784,1.110752],[-68.171052,0.869429],[-68.695745,0.596612],[-69.600756,0.420875],[-70.303845,0.473343]]],"type":"Polygon"}
+}

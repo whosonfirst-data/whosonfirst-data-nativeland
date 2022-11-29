@@ -1,0 +1,57 @@
+{
+  "id": 1796618479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.033094,
+    "geom:bbox":"142.80181,-10.086608,143.178013,-9.958164",
+    "geom:latitude":-10.031232,
+    "geom:longitude":143.00369,
+    "iso:country":"XY",
+    "lbl:latitude":-10.033003,
+    "lbl:longitude":143.007273,
+    "mps:latitude":-10.033003,
+    "mps:longitude":143.007273,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/porumalgal/",
+    "nativeland:id":37469,
+    "nativeland:name":"Porumalgal",
+    "nativeland:slug":"porumalgal",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37469
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"d7565848a3be5b56991ed77fe60c109d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618479
+        }
+    ],
+    "wof:id":1796618479,
+    "wof:lastmodified":1669734048,
+    "wof:name":"Porumalgal",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.80181,
+    -10.086608,
+    143.178013,
+    -9.958164
+],
+  "geometry": {"coordinates":[[[143.10635099999999,-9.965157],[143.13038800000001,-9.958164],[143.15088399999999,-9.967442],[143.17329799999999,-9.987346],[143.17801299999999,-10.023519],[143.16985700000001,-10.048722],[143.15226100000001,-10.06463],[143.10093599999999,-10.07264],[143.06626199999999,-10.07996],[143.01823899999999,-10.080859],[142.938455,-10.084569],[142.87340499999999,-10.086608],[142.840349,-10.078332],[142.81191899999999,-10.057152],[142.80180999999999,-10.042308],[142.805578,-10.018354],[142.820885,-10.009562],[142.86471599999999,-10.004187],[142.93945400000001,-9.999835],[143.04500899999999,-9.976181],[143.10635099999999,-9.965157]]],"type":"Polygon"}
+}

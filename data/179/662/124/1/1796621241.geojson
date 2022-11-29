@@ -1,0 +1,57 @@
+{
+  "id": 1796621241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":13.065029,
+    "geom:bbox":"-86.432531,36.640788,-81.353917,39.977051",
+    "geom:latitude":38.393013,
+    "geom:longitude":-84.050067,
+    "iso:country":"XY",
+    "lbl:latitude":38.339648,
+    "lbl:longitude":-84.098435,
+    "mps:latitude":38.339648,
+    "mps:longitude":-84.098435,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#89C3C9",
+    "nativeland:description":"https://native-land.ca/maps/territories/adena/",
+    "nativeland:id":33765,
+    "nativeland:name":"Adena Culture",
+    "nativeland:slug":"adena",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33765
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"bb3a155454e726d9f80c4f35a8acf7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621241
+        }
+    ],
+    "wof:id":1796621241,
+    "wof:lastmodified":1669734094,
+    "wof:name":"Adena Culture",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.432531,
+    36.640788,
+    -81.353917,
+    39.977051
+],
+  "geometry": {"coordinates":[[[-81.353917,38.219528],[-81.395267,38.00081],[-81.869073,37.751101],[-82.654211,37.453023],[-83.38282700000001,36.895061],[-83.806076,36.766982],[-85.04043900000001,36.640788],[-85.426196,36.735685],[-85.839759,36.890197],[-86.253321,37.362814],[-86.432531,37.941272],[-86.404961,38.622994],[-86.087896,39.383588],[-85.45098400000001,39.766112],[-84.755101,39.899706],[-83.55996500000001,39.977051],[-82.706062,39.916075],[-82.327743,39.804914],[-81.972233,39.601731],[-81.591286,39.107628],[-81.364437,38.386743],[-81.353917,38.219528]]],"type":"Polygon"}
+}

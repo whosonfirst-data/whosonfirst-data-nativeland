@@ -1,0 +1,57 @@
+{
+  "id": 1796619655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.036418,
+    "geom:bbox":"147.897949,-23.569022,149.320678,-22.294179",
+    "geom:latitude":-22.910073,
+    "geom:longitude":148.610503,
+    "iso:country":"XY",
+    "lbl:latitude":-22.92169,
+    "lbl:longitude":148.621281,
+    "mps:latitude":-22.92169,
+    "mps:longitude":148.621281,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#A9B5C3",
+    "nativeland:description":"https://native-land.ca/maps/territories/gabalbara/",
+    "nativeland:id":36166,
+    "nativeland:name":"Gabalbara",
+    "nativeland:slug":"gabalbara",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36166
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"50386dd6585436fe86a1460a96c0b73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619655
+        }
+    ],
+    "wof:id":1796619655,
+    "wof:lastmodified":1669734022,
+    "wof:name":"Gabalbara",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.897949,
+    -23.569022,
+    149.320678,
+    -22.294179
+],
+  "geometry": {"coordinates":[[[148.66149899999999,-22.309425],[148.74938900000001,-22.294179],[148.853759,-22.329752],[148.91967700000001,-22.436417],[149.057006,-22.669778],[149.10644500000001,-22.887562],[149.25476,-23.145411],[149.32067799999999,-23.25144],[149.11743100000001,-23.281719],[148.99658199999999,-23.32208],[148.83727999999999,-23.427968],[148.524169,-23.569022],[148.45275799999999,-23.468285],[148.342895,-23.367471],[148.24401800000001,-23.216106],[148.11767499999999,-23.049407],[148.007812,-22.882501],[147.89794900000001,-22.745789],[147.90344200000001,-22.679915],[148.07922300000001,-22.598797],[148.28246999999999,-22.482106],[148.49670399999999,-22.344995],[148.66149899999999,-22.309425]]],"type":"Polygon"}
+}

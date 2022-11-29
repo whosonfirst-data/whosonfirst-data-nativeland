@@ -1,0 +1,57 @@
+{
+  "id": 1796621281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.161568,
+    "geom:bbox":"-119.575148,34.775208,-118.820499,35.137062",
+    "geom:latitude":34.974657,
+    "geom:longitude":-119.159629,
+    "iso:country":"XY",
+    "lbl:latitude":35.002345,
+    "lbl:longitude":-119.166816,
+    "mps:latitude":35.002345,
+    "mps:longitude":-119.166816,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#6CF61B",
+    "nativeland:description":"https://native-land.ca/maps/territories/hul-kuhku/",
+    "nativeland:id":33743,
+    "nativeland:name":"Hul Kuhk\u2019u",
+    "nativeland:slug":"hul-kuhku",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33743
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"3d902c3fad422c80e7f3a1590b0494ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621281
+        }
+    ],
+    "wof:id":1796621281,
+    "wof:lastmodified":1669734078,
+    "wof:name":"Hul Kuhk\u2019u",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.575148,
+    34.775208,
+    -118.820499,
+    35.137062
+],
+  "geometry": {"coordinates":[[[-119.127127,34.807955],[-119.147301,34.848673],[-119.172051,34.874623],[-119.222927,34.890415],[-119.326053,34.887031],[-119.381271,34.911525],[-119.43077099999999,34.937454],[-119.456897,34.97577],[-119.491272,35.017782],[-119.571023,35.113445],[-119.575148,35.137062],[-119.518772,35.137062],[-119.428021,35.11232],[-119.342247,35.104697],[-119.239418,35.131952],[-119.155553,35.136116],[-119.09970800000001,35.125333],[-118.98137,35.07621],[-118.93187500000001,35.06271],[-118.892,34.969241],[-118.857624,34.909501],[-118.823249,34.865513],[-118.820499,34.82263],[-118.86999900000001,34.80231],[-118.90575,34.778596],[-118.94012499999999,34.775208],[-118.956625,34.777467],[-119.032251,34.789889],[-119.094127,34.797793],[-119.127127,34.807955]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796621615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.828441,
+    "geom:bbox":"-120.344471,46.324942,-118.905903,47.056134",
+    "geom:latitude":46.686773,
+    "geom:longitude":-119.638953,
+    "iso:country":"XY",
+    "lbl:latitude":46.700373,
+    "lbl:longitude":-119.638953,
+    "mps:latitude":46.700373,
+    "mps:longitude":-119.638953,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0B6DD9",
+    "nativeland:description":"https://native-land.ca/maps/territories/wanapum/",
+    "nativeland:id":33572,
+    "nativeland:name":"Wanapum",
+    "nativeland:slug":"wanapum",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33572
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"c436adfdeddf8d5303c0e9945298c90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621615
+        }
+    ],
+    "wof:id":1796621615,
+    "wof:lastmodified":1669734060,
+    "wof:name":"Wanapum",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.344471,
+    46.324942,
+    -118.905903,
+    47.056134
+],
+  "geometry": {"coordinates":[[[-120.32226199999999,46.71989],[-120.28498999999999,46.816904],[-120.188081,46.918834],[-119.994263,46.99007],[-119.72590099999999,47.045975],[-119.48735600000001,47.056134],[-119.341993,47.023115],[-119.122084,46.969727],[-118.950631,46.867893],[-118.913358,46.745437],[-118.905903,46.632941],[-119.03263,46.499689],[-119.18917500000001,46.412385],[-119.330811,46.376396],[-119.64374599999999,46.350675],[-119.889745,46.324942],[-120.076108,46.35582],[-120.21029,46.396964],[-120.292289,46.458622],[-120.344471,46.545851],[-120.344471,46.622702],[-120.32226199999999,46.71989]]],"type":"Polygon"}
+}

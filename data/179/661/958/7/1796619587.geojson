@@ -1,0 +1,57 @@
+{
+  "id": 1796619587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.04045,
+    "geom:bbox":"-92.410535,15.238593,-92.162725,15.458801",
+    "geom:latitude":15.353876,
+    "geom:longitude":-92.290356,
+    "iso:country":"XY",
+    "lbl:latitude":15.358488,
+    "lbl:longitude":-92.287996,
+    "mps:latitude":15.358488,
+    "mps:longitude":-92.287996,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#6F5F01",
+    "nativeland:description":"https://native-land.ca/maps/territories/mocho/",
+    "nativeland:id":36194,
+    "nativeland:name":"Moch\u00f3",
+    "nativeland:slug":"mocho",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36194
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"3aaa7839a37d9f31d223a39488138966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619587
+        }
+    ],
+    "wof:id":1796619587,
+    "wof:lastmodified":1669734043,
+    "wof:name":"Moch\u00f3",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.410535,
+    15.238593,
+    -92.162725,
+    15.458801
+],
+  "geometry": {"coordinates":[[[-92.366421,15.423504],[-92.322699,15.44822],[-92.26869600000001,15.458065],[-92.228663,15.458801],[-92.19474700000001,15.450796],[-92.16778100000001,15.419343],[-92.16272499999999,15.37842],[-92.195892,15.310677],[-92.23349,15.278761],[-92.290108,15.247087],[-92.337597,15.238593],[-92.37150800000001,15.250102],[-92.403229,15.28013],[-92.410535,15.331794],[-92.40138899999999,15.377779],[-92.366421,15.423504]]],"type":"Polygon"}
+}

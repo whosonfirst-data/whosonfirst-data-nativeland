@@ -1,0 +1,57 @@
+{
+  "id": 1796620605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.560962,
+    "geom:bbox":"-71.368652,43.457152,-70.279334,44.320376",
+    "geom:latitude":43.911594,
+    "geom:longitude":-70.866885,
+    "iso:country":"XY",
+    "lbl:latitude":43.963618,
+    "lbl:longitude":-70.921351,
+    "mps:latitude":43.963618,
+    "mps:longitude":-70.921351,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#412552",
+    "nativeland:description":"https://native-land.ca/maps/territories/pequawket/",
+    "nativeland:id":34059,
+    "nativeland:name":"Pequawket",
+    "nativeland:slug":"pequawket",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34059
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"496960779a06a84fbf86d00d73bdd103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620605
+        }
+    ],
+    "wof:id":1796620605,
+    "wof:lastmodified":1669734093,
+    "wof:name":"Pequawket",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.368652,
+    43.457152,
+    -70.279334,
+    44.320376
+],
+  "geometry": {"coordinates":[[[-70.382271,43.457152],[-70.517061,43.499999],[-70.557061,43.555304],[-70.80723500000001,43.605519],[-70.98563300000001,43.615087],[-71.071321,43.635712],[-71.203468,43.688292],[-71.329007,43.821922],[-71.362044,43.94574],[-71.368652,44.0693],[-71.256327,44.168911],[-71.150609,44.277816],[-71.038284,44.320376],[-70.80702599999999,44.310921],[-70.707916,44.315649],[-70.64845,44.187866],[-70.595591,44.107267],[-70.47797300000001,43.931855],[-70.427179,43.735763],[-70.429214,43.684545],[-70.395065,43.651364],[-70.30089099999999,43.568609],[-70.28031,43.557111],[-70.27933400000001,43.544154],[-70.293437,43.527458],[-70.382271,43.457152]]],"type":"Polygon"}
+}

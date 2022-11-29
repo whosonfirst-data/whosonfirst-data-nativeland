@@ -1,0 +1,57 @@
+{
+  "id": 1796620249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.193701,
+    "geom:bbox":"122.514038,-17.038403,123.321533,-16.696708",
+    "geom:latitude":-16.8645,
+    "geom:longitude":122.888619,
+    "iso:country":"XY",
+    "lbl:latitude":-16.884921,
+    "lbl:longitude":122.888619,
+    "mps:latitude":-16.884921,
+    "mps:longitude":122.888619,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#48C662",
+    "nativeland:description":"https://native-land.ca/maps/territories/nyul-nyul/",
+    "nativeland:id":35900,
+    "nativeland:name":"Nyul Nyul",
+    "nativeland:slug":"nyul-nyul",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35900
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"c22dd82021d91ddd7e0ff9d23f3b7ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620249
+        }
+    ],
+    "wof:id":1796620249,
+    "wof:lastmodified":1669734062,
+    "wof:name":"Nyul Nyul",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.514038,
+    -17.038403,
+    123.321533,
+    -16.696708
+],
+  "geometry": {"coordinates":[[[122.568969,-16.736166],[122.615661,-16.736166],[122.6651,-16.736166],[122.72827100000001,-16.741427],[122.785949,-16.741427],[122.862854,-16.733536],[122.950744,-16.733536],[123.041381,-16.725645],[123.09631299999999,-16.715124],[123.134765,-16.696708],[123.19519,-16.696708],[123.206176,-16.730906],[123.321533,-16.854491],[123.208923,-16.912311],[123.129272,-16.949096],[123.049621,-16.996382],[122.980957,-17.027898],[122.8656,-17.038403],[122.796936,-17.027898],[122.714538,-17.027898],[122.623901,-16.999008],[122.55798299999999,-16.954351],[122.546997,-16.928077],[122.52777,-16.878146],[122.516784,-16.836089],[122.514038,-16.780875],[122.568969,-16.736166]]],"type":"Polygon"}
+}

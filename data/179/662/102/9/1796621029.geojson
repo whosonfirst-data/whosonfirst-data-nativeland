@@ -1,0 +1,57 @@
+{
+  "id": 1796621029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.075188,
+    "geom:bbox":"-77.279598,38.086671,-76.877706,38.40844",
+    "geom:latitude":38.249338,
+    "geom:longitude":-77.078079,
+    "iso:country":"XY",
+    "lbl:latitude":38.259619,
+    "lbl:longitude":-77.081123,
+    "mps:latitude":38.259619,
+    "mps:longitude":-77.081123,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0E9704",
+    "nativeland:description":"https://native-land.ca/maps/territories/cuttatawomen/",
+    "nativeland:id":33863,
+    "nativeland:name":"Cuttatawomen",
+    "nativeland:slug":"cuttatawomen",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33863
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"eaf4d33e3cbd650dff97d661f705d302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621029
+        }
+    ],
+    "wof:id":1796621029,
+    "wof:lastmodified":1669734060,
+    "wof:name":"Cuttatawomen",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.279598,
+    38.086671,
+    -76.877706,
+    38.40844
+],
+  "geometry": {"coordinates":[[[-77.27918,38.27926],[-77.267415,38.309268],[-77.235062,38.341572],[-77.18065,38.358871],[-77.136532,38.379625],[-77.07476699999999,38.407287],[-77.02623699999999,38.40844],[-77.00123600000001,38.378472],[-76.98653,38.317346],[-76.94535399999999,38.249238],[-76.90270599999999,38.212272],[-76.883588,38.19147],[-76.877706,38.163725],[-76.917412,38.118617],[-76.964181,38.086671],[-76.98981000000001,38.100582],[-77.027812,38.098495],[-77.04902199999999,38.117271],[-77.04902199999999,38.141602],[-77.05962700000001,38.151332],[-77.088791,38.151332],[-77.112652,38.152027],[-77.148128,38.170887],[-77.17375699999999,38.170192],[-77.202037,38.184781],[-77.21509,38.198085],[-77.235516,38.196329],[-77.252431,38.206111],[-77.274818,38.2406],[-77.27959799999999,38.26604],[-77.27918,38.27926]]],"type":"Polygon"}
+}

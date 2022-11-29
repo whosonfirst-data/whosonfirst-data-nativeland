@@ -1,0 +1,57 @@
+{
+  "id": 1796621351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":5.475485,
+    "geom:bbox":"-58.211194,1.268979,-54.976226,4.285941",
+    "geom:latitude":2.752221,
+    "geom:longitude":-56.517046,
+    "iso:country":"XY",
+    "lbl:latitude":2.694756,
+    "lbl:longitude":-56.492538,
+    "mps:latitude":2.694756,
+    "mps:longitude":-56.492538,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#376B4D",
+    "nativeland:description":"https://native-land.ca/maps/territories/trio/",
+    "nativeland:id":33713,
+    "nativeland:name":"Trio/W\u00fc tar\u00ebno",
+    "nativeland:slug":"trio",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33713
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"2360bdaafea9a35dce2136fa4066b6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621351
+        }
+    ],
+    "wof:id":1796621351,
+    "wof:lastmodified":1669734058,
+    "wof:name":"Trio/W\u00fc tar\u00ebno",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.211194,
+    1.268979,
+    -54.976226,
+    4.285941
+],
+  "geometry": {"coordinates":[[[-57.660444,2.540219],[-57.725065,2.794733],[-57.88824,3.119858],[-58.108692,3.680176],[-58.211194,3.992594],[-58.199172,4.123515],[-58.106161,4.24432],[-57.962277,4.285941],[-57.818393,4.236701],[-57.621737,4.178612],[-57.380279,4.062421],[-57.049018,3.845396],[-56.497098,3.542711],[-56.048579,3.424942],[-55.473914,3.382967],[-55.373595,3.371455],[-55.231092,3.25684],[-55.113526,3.083655],[-55.001887,2.827558],[-54.976226,2.527876],[-54.976427,2.331536],[-55.065183,2.044491],[-55.248847,1.778215],[-55.611255,1.457415],[-55.797655,1.329068],[-55.927546,1.268979],[-56.143656,1.299598],[-56.256165,1.349047],[-56.475941,1.539682],[-56.630748,1.672382],[-56.875015,1.899693],[-57.186667,2.034382],[-57.498319,2.286893],[-57.616241,2.429963],[-57.660444,2.540219]]],"type":"Polygon"}
+}

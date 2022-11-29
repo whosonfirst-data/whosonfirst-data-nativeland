@@ -1,0 +1,57 @@
+{
+  "id": 1796620601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.485517,
+    "geom:bbox":"-67.364473,17.781337,-65.159745,18.587007",
+    "geom:latitude":18.200763,
+    "geom:longitude":-66.31697,
+    "iso:country":"XY",
+    "lbl:latitude":18.187967,
+    "lbl:longitude":-66.31697,
+    "mps:latitude":18.187967,
+    "mps:longitude":-66.31697,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#BE6326",
+    "nativeland:description":"https://native-land.ca/maps/territories/boriken-taino/",
+    "nativeland:id":34063,
+    "nativeland:name":"Borik\u00e9n Ta\u00edno",
+    "nativeland:slug":"boriken-taino",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34063
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"0481654f2a949d48f9151e1b34d67fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620601
+        }
+    ],
+    "wof:id":1796620601,
+    "wof:lastmodified":1669734093,
+    "wof:name":"Borik\u00e9n Ta\u00edno",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.364473,
+    17.781337,
+    -65.159745,
+    18.587007
+],
+  "geometry": {"coordinates":[[[-67.22351999999999,17.896897],[-67.266429,17.917831],[-67.338078,17.994898],[-67.324881,18.139183],[-67.338078,18.233218],[-67.364473,18.336597],[-67.334779,18.458694],[-67.219303,18.568193],[-67.06423599999999,18.577576],[-66.988197,18.587007],[-66.202432,18.583783],[-65.68191299999999,18.519347],[-65.395259,18.471473],[-65.25193299999999,18.438143],[-65.174592,18.360973],[-65.159745,18.237241],[-65.177891,18.08206],[-65.31115,17.992806],[-65.629169,17.890949],[-66.08044700000001,17.781337],[-66.71212800000001,17.808965],[-66.979371,17.837233],[-67.22351999999999,17.896897]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796619931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":6.430116,
+    "geom:bbox":"-85.198295,21.125497,-81.818012,23.605085",
+    "geom:latitude":22.314701,
+    "geom:longitude":-83.363711,
+    "iso:country":"XY",
+    "lbl:latitude":22.301475,
+    "lbl:longitude":-83.331518,
+    "mps:latitude":22.301475,
+    "mps:longitude":-83.331518,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#FA9683",
+    "nativeland:description":"https://native-land.ca/maps/territories/guanahatabey/",
+    "nativeland:id":36042,
+    "nativeland:name":"Guanahatabey",
+    "nativeland:slug":"guanahatabey",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36042
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"7526164edbc1cad43cbba07433620cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619931
+        }
+    ],
+    "wof:id":1796619931,
+    "wof:lastmodified":1669734043,
+    "wof:name":"Guanahatabey",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.198295,
+    21.125497,
+    -81.818012,
+    23.605085
+],
+  "geometry": {"coordinates":[[[-84.982934,22.44603],[-84.29047300000001,23.142333],[-83.458876,23.452649],[-82.67616200000001,23.605085],[-82.113748,23.598022],[-81.82674299999999,23.509444],[-81.818012,23.101288],[-81.87011699999999,22.43134],[-82.048975,21.984324],[-82.254352,21.480025],[-82.529296,21.125497],[-83.80371,21.125497],[-84.74782,21.33801],[-85.089004,21.679545],[-85.198295,22.074053],[-84.982934,22.44603]]],"type":"Polygon"}
+}

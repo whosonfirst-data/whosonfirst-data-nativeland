@@ -1,0 +1,57 @@
+{
+  "id": 1796619965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.020465,
+    "geom:bbox":"-94.790873,36.625289,-94.617741,36.769711",
+    "geom:latitude":36.695718,
+    "geom:longitude":-94.690273,
+    "iso:country":"XY",
+    "lbl:latitude":36.692983,
+    "lbl:longitude":-94.679968,
+    "mps:latitude":36.692983,
+    "mps:longitude":-94.679968,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#549441",
+    "nativeland:description":"https://native-land.ca/maps/territories/seneca-cayuga-oklahoma/",
+    "nativeland:id":36027,
+    "nativeland:name":"Seneca-Cayuga (Oklahoma)",
+    "nativeland:slug":"seneca-cayuga-oklahoma",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36027
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"6bd911374c047b3941a96affc5d1e75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619965
+        }
+    ],
+    "wof:id":1796619965,
+    "wof:lastmodified":1669734022,
+    "wof:name":"Seneca-Cayuga (Oklahoma)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.790873,
+    36.625289,
+    -94.617741,
+    36.769711
+],
+  "geometry": {"coordinates":[[[-94.617741,36.625289],[-94.790873,36.628906],[-94.769265,36.641294],[-94.77930600000001,36.667768],[-94.73928100000001,36.699354],[-94.769876,36.718991],[-94.734199,36.745419],[-94.782151,36.768535],[-94.618489,36.769711],[-94.617741,36.625289]]],"type":"Polygon"}
+}

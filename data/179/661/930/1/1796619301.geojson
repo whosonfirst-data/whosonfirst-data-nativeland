@@ -1,0 +1,57 @@
+{
+  "id": 1796619301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":4.891182,
+    "geom:bbox":"123.288574,-22.411028,126.452636,-20.179723",
+    "geom:latitude":-21.219999,
+    "geom:longitude":124.88169,
+    "iso:country":"XY",
+    "lbl:latitude":-21.242648,
+    "lbl:longitude":124.911824,
+    "mps:latitude":-21.242648,
+    "mps:longitude":124.911824,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#F191DB",
+    "nativeland:description":"https://native-land.ca/maps/territories/yulparitja/",
+    "nativeland:id":36324,
+    "nativeland:name":"Yulparitja",
+    "nativeland:slug":"yulparitja",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36324
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"b43aba196c3a6926c0b4e216996ed7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619301
+        }
+    ],
+    "wof:id":1796619301,
+    "wof:lastmodified":1669734023,
+    "wof:name":"Yulparitja",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.288574,
+    -22.411028,
+    126.452636,
+    -20.179723
+],
+  "geometry": {"coordinates":[[[124.255371,-20.529933],[124.716796,-20.220965],[125.11230399999999,-20.179723],[125.419921,-20.200346],[126.07910099999999,-20.282808],[126.452636,-20.365227],[126.452636,-20.632784],[126.276855,-21.022982],[126.035156,-21.575718],[125.81542899999999,-21.841104],[125.529785,-22.065278],[125.288085,-22.167057],[124.958496,-22.268764],[124.541015,-22.411028],[123.925781,-22.411028],[123.925781,-22.207749],[123.83789,-21.820707],[123.662109,-21.616579],[123.288574,-21.514406],[123.288574,-21.289374],[123.50830000000001,-20.838277],[123.815917,-20.529933],[124.255371,-20.529933]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796621635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.076428,
+    "geom:bbox":"-174.53174,64.526463,-173.993953,64.720461",
+    "geom:latitude":64.630837,
+    "geom:longitude":-174.234265,
+    "iso:country":"XY",
+    "lbl:latitude":64.628007,
+    "lbl:longitude":-174.234265,
+    "mps:latitude":64.628007,
+    "mps:longitude":-174.234265,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#54F745",
+    "nativeland:description":"https://native-land.ca/maps/territories/siginygmit-sireniki-yupik/",
+    "nativeland:id":33559,
+    "nativeland:name":"Siginygmit (Sireniki) Yupik",
+    "nativeland:slug":"siginygmit-sireniki-yupik",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33559
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"9263443edbd984605a7c05c44a3b50da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621635
+        }
+    ],
+    "wof:id":1796621635,
+    "wof:lastmodified":1669734081,
+    "wof:name":"Siginygmit (Sireniki) Yupik",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.53174,
+    64.526463,
+    -173.993953,
+    64.720461
+],
+  "geometry": {"coordinates":[[[-174.51677900000001,64.66222],[-174.47375600000001,64.69442100000001],[-174.359028,64.70974200000001],[-174.23712900000001,64.720461],[-174.11523099999999,64.717399],[-174.01484400000001,64.69288899999999],[-174.00112300000001,64.674093],[-173.993953,64.644938],[-174.00829400000001,64.612678],[-174.02263500000001,64.583457],[-174.040561,64.54650100000001],[-174.07282799999999,64.531088],[-174.151704,64.52646300000001],[-174.262846,64.538796],[-174.33096599999999,64.55728499999999],[-174.438524,64.59422600000001],[-174.50305800000001,64.624972],[-174.53174000000001,64.638797],[-174.51677900000001,64.66222]]],"type":"Polygon"}
+}

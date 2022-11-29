@@ -1,0 +1,57 @@
+{
+  "id": 1796620325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.754912,
+    "geom:bbox":"-92.256384,15.907926,-91.09942,16.979665",
+    "geom:latitude":16.387333,
+    "geom:longitude":-91.77498,
+    "iso:country":"XY",
+    "lbl:latitude":16.408208,
+    "lbl:longitude":-91.82181,
+    "mps:latitude":16.408208,
+    "mps:longitude":-91.82181,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#F00D77",
+    "nativeland:description":"https://native-land.ca/maps/territories/tojolabal/",
+    "nativeland:id":35864,
+    "nativeland:name":"Tojolwinik\u2019otik (Tojolabal)",
+    "nativeland:slug":"tojolabal",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35864
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"c8bad0c0225e9fd2ef7365aa1406b07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620325
+        }
+    ],
+    "wof:id":1796620325,
+    "wof:lastmodified":1669734089,
+    "wof:name":"Tojolwinik\u2019otik (Tojolabal)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.256384,
+    15.907926,
+    -91.09942,
+    16.979665
+],
+  "geometry": {"coordinates":[[[-92.256384,16.384659],[-92.19905900000001,16.52777],[-92.141734,16.670774],[-92.137608,16.831121],[-92.147023,16.903844],[-92.134297,16.976539],[-92.092472,16.979665],[-91.996004,16.959152],[-91.879857,16.898266],[-91.782895,16.826677],[-91.638216,16.735999],[-91.49868499999999,16.672151],[-91.359154,16.592591],[-91.30932900000001,16.535429],[-91.302451,16.414477],[-91.282194,16.367461],[-91.24408,16.345256],[-91.171525,16.295897],[-91.121405,16.155416],[-91.09941999999999,16.101684],[-91.106955,16.059757],[-91.157315,16.053053],[-91.21751500000001,16.060533],[-91.343199,16.053442],[-91.42877900000001,16.041223],[-91.518069,16.052193],[-91.61023400000001,16.071763],[-91.770819,16.055454],[-91.95596500000001,15.952573],[-92.081754,15.925434],[-92.167163,15.907926],[-92.232105,15.914038],[-92.21872999999999,16.103583],[-92.23810400000001,16.289019],[-92.256384,16.384659]]],"type":"Polygon"}
+}

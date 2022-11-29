@@ -1,0 +1,57 @@
+{
+  "id": 1796620669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.063497,
+    "geom:bbox":"176.070417,-38.018423,176.479484,-37.709923",
+    "geom:latitude":-37.872995,
+    "geom:longitude":176.282174,
+    "iso:country":"XY",
+    "lbl:latitude":-37.879066,
+    "lbl:longitude":176.285273,
+    "mps:latitude":-37.879066,
+    "mps:longitude":176.285273,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#7ADB9F",
+    "nativeland:description":"https://native-land.ca/maps/territories/tapuika/",
+    "nativeland:id":34024,
+    "nativeland:name":"Tapuika",
+    "nativeland:slug":"tapuika",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34024
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"b1f6b455c11a1c042403b6afb3a7ac86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620669
+        }
+    ],
+    "wof:id":1796620669,
+    "wof:lastmodified":1669734090,
+    "wof:name":"Tapuika",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.070417,
+    -38.018423,
+    176.479484,
+    -37.709923
+],
+  "geometry": {"coordinates":[[[176.36272099999999,-37.724948],[176.43614199999999,-37.747522],[176.47948400000001,-37.746845],[176.46347600000001,-37.800853],[176.44294600000001,-37.813385],[176.41804500000001,-37.834431],[176.40194099999999,-37.868462],[176.393034,-37.881985],[176.38753299999999,-37.931113],[176.33749700000001,-37.956409],[176.301761,-37.988568],[176.29268099999999,-38.006416],[176.26159200000001,-38.018423],[176.08340200000001,-37.979844],[176.07041699999999,-37.952276],[176.10563500000001,-37.922132],[176.32563500000001,-37.709923],[176.34339700000001,-37.715999],[176.36272099999999,-37.724948]]],"type":"Polygon"}
+}

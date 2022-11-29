@@ -1,0 +1,57 @@
+{
+  "id": 1796620705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.082756,
+    "geom:bbox":"173.518473,-35.18451,173.977629,-34.906413",
+    "geom:latitude":-35.048835,
+    "geom:longitude":173.750278,
+    "iso:country":"XY",
+    "lbl:latitude":-35.060008,
+    "lbl:longitude":173.745906,
+    "mps:latitude":-35.060008,
+    "mps:longitude":173.745906,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#788FEE",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngapuhi-ngati-kahu-ki-whaingaroa/",
+    "nativeland:id":34009,
+    "nativeland:name":"Ng\u0101puhi / Ng\u0101ti Kahu ki Whaingaroa",
+    "nativeland:slug":"ngapuhi-ngati-kahu-ki-whaingaroa",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34009
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"1ce4c0e5b11d06443f34453479f8777c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620705
+        }
+    ],
+    "wof:id":1796620705,
+    "wof:lastmodified":1669734065,
+    "wof:name":"Ng\u0101puhi / Ng\u0101ti Kahu ki Whaingaroa",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.518473,
+    -35.18451,
+    173.977629,
+    -34.906413
+],
+  "geometry": {"coordinates":[[[173.52575300000001,-34.94851],[173.52576099999999,-34.94862],[173.518473,-34.920032],[173.52711500000001,-34.906413],[173.56812199999999,-34.907536],[173.600391,-34.932793],[173.63440700000001,-34.933376],[173.71585899999999,-34.949667],[173.772595,-34.944049],[173.80910800000001,-34.972698],[173.83101600000001,-34.973822],[173.86696699999999,-34.961463],[173.89898600000001,-34.982809],[173.92426399999999,-34.984495],[173.964709,-34.963149],[173.97762900000001,-34.998538],[173.96920299999999,-35.038983],[173.94003599999999,-35.096932],[173.91374300000001,-35.171196],[173.857608,-35.172362],[173.806208,-35.18451],[173.70818499999999,-35.166327],[173.63041200000001,-35.125244],[173.60244700000001,-35.129132],[173.58027999999999,-35.101321],[173.558584,-35.018302],[173.53329400000001,-34.981686],[173.52576099999999,-34.94862],[173.52575300000001,-34.94851]]],"type":"Polygon"}
+}

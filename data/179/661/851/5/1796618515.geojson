@@ -1,0 +1,57 @@
+{
+  "id": 1796618515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.973893,
+    "geom:bbox":"140.05371,-20.910134,141.339111,-19.35261",
+    "geom:latitude":-20.060575,
+    "geom:longitude":140.665638,
+    "iso:country":"XY",
+    "lbl:latitude":-20.035359,
+    "lbl:longitude":140.6559,
+    "mps:latitude":-20.035359,
+    "mps:longitude":140.6559,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0026EB",
+    "nativeland:description":"https://native-land.ca/maps/territories/mayi-thakurti/",
+    "nativeland:id":36679,
+    "nativeland:name":"Mayi-Thakurti",
+    "nativeland:slug":"mayi-thakurti",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36679
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"e4520143ad323260dce533f628c473f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618515
+        }
+    ],
+    "wof:id":1796618515,
+    "wof:lastmodified":1669734032,
+    "wof:name":"Mayi-Thakurti",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.05371,
+    -20.910134,
+    141.339111,
+    -19.35261
+],
+  "geometry": {"coordinates":[[[141.04248000000001,-19.362976],[141.130371,-19.35261],[141.21826100000001,-19.735683],[141.339111,-20.035289],[140.976562,-20.220965],[140.778808,-20.396123],[140.53710899999999,-20.601936],[140.36132799999999,-20.910134],[140.251464,-20.735565],[140.097656,-20.499064],[140.05371,-20.169411],[140.33935500000001,-19.859727],[140.614013,-19.601194],[140.87768500000001,-19.40443],[141.04248000000001,-19.362976]]],"type":"Polygon"}
+}

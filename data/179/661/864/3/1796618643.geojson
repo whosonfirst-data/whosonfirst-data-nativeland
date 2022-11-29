@@ -1,0 +1,57 @@
+{
+  "id": 1796618643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":3.901961,
+    "geom:bbox":"-82.820434,24.438431,-80.601196,27.741884",
+    "geom:latitude":26.487509,
+    "geom:longitude":-81.541983,
+    "iso:country":"XY",
+    "lbl:latitude":26.823525,
+    "lbl:longitude":-81.541983,
+    "mps:latitude":26.823525,
+    "mps:longitude":-81.541983,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#8E19DE",
+    "nativeland:description":"https://native-land.ca/maps/territories/calusa/",
+    "nativeland:id":36619,
+    "nativeland:name":"Calusa",
+    "nativeland:slug":"calusa",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36619
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"aea9f821dc7e9af14b4100a53a76ea35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796618643
+        }
+    ],
+    "wof:id":1796618643,
+    "wof:lastmodified":1669734051,
+    "wof:name":"Calusa",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.820434,
+    24.438431,
+    -80.601196,
+    27.741884
+],
+  "geometry": {"coordinates":[[[-80.71655199999999,25.214881],[-80.787963,25.140311],[-81.320424,24.595345],[-81.844245,24.49474],[-82.07087900000001,24.438431],[-82.146517,24.515838],[-82.19358800000001,24.554226],[-82.167202,24.611155],[-81.61647499999999,24.785738],[-81.253604,25.233341],[-81.33842799999999,25.490887],[-81.557924,25.733177],[-82.02392500000001,26.051847],[-82.276611,26.35742],[-82.545776,26.828972],[-82.776489,27.152032],[-82.82043400000001,27.479034],[-82.677612,27.561851],[-82.369995,27.581329],[-81.85912999999999,27.702983],[-81.397705,27.741884],[-81.095581,27.69812],[-80.969238,27.479034],[-80.831909,27.337614],[-80.61767500000001,27.142256],[-80.601196,26.931865],[-80.705566,26.613085],[-80.760498,26.313112],[-80.848388,25.918526],[-80.771484,25.636574],[-80.72204499999999,25.353954],[-80.71655199999999,25.214881]]],"type":"Polygon"}
+}

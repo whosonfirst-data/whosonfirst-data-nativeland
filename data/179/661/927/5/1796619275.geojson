@@ -1,0 +1,57 @@
+{
+  "id": 1796619275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":2.809407,
+    "geom:bbox":"-98.393555,41.14557,-95.734863,42.85986",
+    "geom:latitude":42.034545,
+    "geom:longitude":-96.938213,
+    "iso:country":"XY",
+    "lbl:latitude":42.07205,
+    "lbl:longitude":-96.912892,
+    "mps:latitude":42.07205,
+    "mps:longitude":-96.912892,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#36447A",
+    "nativeland:description":"https://native-land.ca/maps/territories/omaha/",
+    "nativeland:id":36334,
+    "nativeland:name":"Umo\u207fho\u207f (Omaha)",
+    "nativeland:slug":"omaha",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36334
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"331f485b709d08e2f1a76fdf06cce3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619275
+        }
+    ],
+    "wof:id":1796619275,
+    "wof:lastmodified":1669734053,
+    "wof:name":"Umo\u207fho\u207f (Omaha)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.393555,
+    41.14557,
+    -95.734863,
+    42.85986
+],
+  "geometry": {"coordinates":[[[-97.668457,42.843751],[-97.207031,42.85986],[-96.943359,42.843751],[-96.679688,42.779275],[-96.262207,42.569264],[-96.174316,42.374778],[-95.95459,41.853196],[-95.822754,41.640078],[-95.734863,41.508577],[-95.84472700000001,41.178654],[-96.174316,41.14557],[-96.437988,41.14557],[-96.745605,41.211722],[-97.119141,41.426253],[-97.558594,41.656497],[-97.888184,41.918629],[-98.30566399999999,42.130821],[-98.39355500000001,42.163403],[-97.756348,42.779275],[-97.668457,42.843751]]],"type":"Polygon"}
+}

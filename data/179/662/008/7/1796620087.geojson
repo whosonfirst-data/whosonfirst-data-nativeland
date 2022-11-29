@@ -1,0 +1,57 @@
+{
+  "id": 1796620087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.312492,
+    "geom:bbox":"130.355527,-15.739388,131.429442,-15.305379",
+    "geom:latitude":-15.552727,
+    "geom:longitude":130.914123,
+    "iso:country":"XY",
+    "lbl:latitude":-15.557082,
+    "lbl:longitude":130.914123,
+    "mps:latitude":-15.557082,
+    "mps:longitude":130.914123,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#38CF78",
+    "nativeland:description":"https://native-land.ca/maps/territories/nungali/",
+    "nativeland:id":35971,
+    "nativeland:name":"Nungali",
+    "nativeland:slug":"nungali",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35971
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"73272f5495abd1dd7a05aff76ca8a2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620087
+        }
+    ],
+    "wof:id":1796620087,
+    "wof:lastmodified":1669734072,
+    "wof:name":"Nungali",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.355527,
+    -15.739388,
+    131.429442,
+    -15.305379
+],
+  "geometry": {"coordinates":[[[131.00646900000001,-15.334518],[131.01196200000001,-15.321273],[131.058652,-15.305379],[131.119079,-15.318624],[131.24816799999999,-15.361004],[131.38824099999999,-15.496032],[131.42944199999999,-15.60452],[131.41845499999999,-15.683865],[131.29486,-15.686509],[131.05590599999999,-15.69973],[130.83618100000001,-15.72617],[130.64117400000001,-15.739388],[130.42694,-15.705018],[130.413208,-15.644196],[130.38024799999999,-15.564836],[130.355527,-15.480151],[130.49835200000001,-15.464269],[130.68237300000001,-15.429853],[130.913085,-15.398079],[131.00646900000001,-15.334518]]],"type":"Polygon"}
+}

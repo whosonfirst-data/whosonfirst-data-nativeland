@@ -1,0 +1,57 @@
+{
+  "id": 1796619475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.950115,
+    "geom:bbox":"145.557861,-22.482106,146.843261,-21.534847",
+    "geom:latitude":-21.98183,
+    "geom:longitude":146.227933,
+    "iso:country":"XY",
+    "lbl:latitude":-21.998336,
+    "lbl:longitude":146.227933,
+    "mps:latitude":-21.998336,
+    "mps:longitude":146.227933,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#C99BA3",
+    "nativeland:description":"https://native-land.ca/maps/territories/miyan/",
+    "nativeland:id":36248,
+    "nativeland:name":"Miyan",
+    "nativeland:slug":"miyan",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36248
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"1d93ff00b0e5603c7f1607b9bf42e2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619475
+        }
+    ],
+    "wof:id":1796619475,
+    "wof:lastmodified":1669734038,
+    "wof:name":"Miyan",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.557861,
+    -22.482106,
+    146.843261,
+    -21.534847
+],
+  "geometry": {"coordinates":[[[145.557861,-21.749295],[145.711669,-21.575718],[145.99731399999999,-21.534847],[146.590576,-21.534847],[146.623535,-21.606365],[146.73339799999999,-21.759499],[146.82128900000001,-21.922663],[146.84326100000001,-22.156883],[146.755371,-22.390713],[146.50268500000001,-22.390713],[146.30493100000001,-22.441494],[146.15112300000001,-22.482106],[145.92041,-22.482106],[145.81054599999999,-22.329752],[145.76660100000001,-22.075459],[145.59082000000001,-21.902277],[145.557861,-21.749295]]],"type":"Polygon"}
+}

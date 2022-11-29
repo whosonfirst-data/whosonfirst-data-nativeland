@@ -1,0 +1,57 @@
+{
+  "id": 1796619707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":18.889297,
+    "geom:bbox":"-141.020508,64.820907,-135.0,68.568414",
+    "geom:latitude":66.592645,
+    "geom:longitude":-138.3546,
+    "iso:country":"XY",
+    "lbl:latitude":66.632623,
+    "lbl:longitude":-138.3546,
+    "mps:latitude":66.632623,
+    "mps:longitude":-138.3546,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#F26A33",
+    "nativeland:description":"https://native-land.ca/maps/territories/vuntut-gwitchin/",
+    "nativeland:id":36141,
+    "nativeland:name":"Vuntut Gwich&#8217;in",
+    "nativeland:slug":"vuntut-gwitchin",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36141
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"bbc37aeabe0952cdcae05da4635eb431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619707
+        }
+    ],
+    "wof:id":1796619707,
+    "wof:lastmodified":1669734035,
+    "wof:name":"Vuntut Gwich&#8217;in",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -141.020508,
+    64.820907,
+    -135.0,
+    68.568414
+],
+  "geometry": {"coordinates":[[[-141.02050800000001,68.49603999999999],[-140.822754,68.51214299999999],[-140.51513700000001,68.544315],[-139.921875,68.568414],[-139.30664100000001,68.536276],[-138.64746099999999,68.439589],[-137.85644500000001,68.318146],[-136.054688,67.92514],[-136.054688,67.69277099999999],[-135.725098,67.50016100000001],[-135.549316,67.28053],[-135.48339799999999,67.067432],[-135.549316,66.843807],[-135.28564499999999,66.731223],[-135.0,65.585719],[-136.09863300000001,65.531171],[-135.32959,65.311829],[-136.032715,65.109148],[-136.054688,64.914227],[-140.976563,64.82090700000001],[-140.976563,65.485626],[-141.02050800000001,68.49603999999999]]],"type":"Polygon"}
+}

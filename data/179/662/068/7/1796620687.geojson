@@ -1,0 +1,57 @@
+{
+  "id": 1796620687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.032567,
+    "geom:bbox":"175.927004,-38.286616,176.247449,-38.086761",
+    "geom:latitude":-38.1799,
+    "geom:longitude":176.092734,
+    "iso:country":"XY",
+    "lbl:latitude":-38.183902,
+    "lbl:longitude":176.095161,
+    "mps:latitude":-38.183902,
+    "mps:longitude":176.095161,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#3CCE3C",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngati-kea-ngati-tuara/",
+    "nativeland:id":34016,
+    "nativeland:name":"Ng\u0101ti Kea / Ng\u0101ti Tuar\u0101",
+    "nativeland:slug":"ngati-kea-ngati-tuara",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34016
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"0d40b5f5867fb2b8233336e2b60b5bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620687
+        }
+    ],
+    "wof:id":1796620687,
+    "wof:lastmodified":1669734091,
+    "wof:name":"Ng\u0101ti Kea / Ng\u0101ti Tuar\u0101",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.927004,
+    -38.286616,
+    176.247449,
+    -38.086761
+],
+  "geometry": {"coordinates":[[[176.21625499999999,-38.086761],[176.230919,-38.153269],[176.24744899999999,-38.174051],[176.17484200000001,-38.19642],[176.15962500000001,-38.208139],[176.121939,-38.26932],[176.12539200000001,-38.276151],[176.05172899999999,-38.286616],[176.06277499999999,-38.260154],[176.04161199999999,-38.235532],[175.955263,-38.222778],[175.92700400000001,-38.200989],[175.95338699999999,-38.171722],[175.95381800000001,-38.154992],[175.989318,-38.142474],[176.21625499999999,-38.086761]]],"type":"Polygon"}
+}

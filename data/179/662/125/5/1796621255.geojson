@@ -1,0 +1,57 @@
+{
+  "id": 1796621255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":4.715626,
+    "geom:bbox":"-104.708768,27.803671,-101.854217,30.007517",
+    "geom:latitude":28.875481,
+    "geom:longitude":-103.213382,
+    "iso:country":"XY",
+    "lbl:latitude":28.842156,
+    "lbl:longitude":-103.09784,
+    "mps:latitude":28.842156,
+    "mps:longitude":-103.09784,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#501FE4",
+    "nativeland:description":"https://native-land.ca/maps/territories/chiso/",
+    "nativeland:id":33757,
+    "nativeland:name":"Chiso",
+    "nativeland:slug":"chiso",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33757
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"3eca291857deac7d5124f9fc5f9ebae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621255
+        }
+    ],
+    "wof:id":1796621255,
+    "wof:lastmodified":1669734096,
+    "wof:name":"Chiso",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.708768,
+    27.803671,
+    -101.854217,
+    30.007517
+],
+  "geometry": {"coordinates":[[[-104.42247,29.642241],[-103.91724000000001,29.656894],[-103.57621,29.64226],[-103.218338,29.803136],[-102.561539,30.007517],[-102.24156000000001,29.832359],[-101.988945,29.539747],[-101.85421700000001,29.297702],[-101.871058,28.959346],[-102.031047,28.605098],[-102.005786,28.405305],[-102.140514,28.286732],[-102.140514,28.093768],[-102.401549,27.826014],[-102.822575,27.803671],[-103.437271,27.893014],[-103.84987599999999,27.922779],[-104.186696,28.012016],[-104.38878800000001,28.405305],[-104.599301,28.821111],[-104.70876800000001,29.079001],[-104.675085,29.365606],[-104.565619,29.658723],[-104.42247,29.642241]]],"type":"Polygon"}
+}

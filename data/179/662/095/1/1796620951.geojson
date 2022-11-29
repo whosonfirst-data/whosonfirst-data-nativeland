@@ -1,0 +1,57 @@
+{
+  "id": 1796620951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.000017,
+    "geom:bbox":"-82.373044,27.990394,-82.368715,27.996149",
+    "geom:latitude":27.993906,
+    "geom:longitude":-82.371256,
+    "iso:country":"XY",
+    "lbl:latitude":27.99404,
+    "lbl:longitude":-82.371215,
+    "mps:latitude":27.99404,
+    "mps:longitude":-82.371215,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#2642F8",
+    "nativeland:description":"https://native-land.ca/maps/territories/seminole-tribe-of-florida-tampa-reservation/",
+    "nativeland:id":33896,
+    "nativeland:name":"Seminole Tribe of Florida (Tampa Reservation)",
+    "nativeland:slug":"seminole-tribe-of-florida-tampa-reservation",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33896
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"e7f18a1e7219966dbf3cefa0b62f1c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620951
+        }
+    ],
+    "wof:id":1796620951,
+    "wof:lastmodified":1669734089,
+    "wof:name":"Seminole Tribe of Florida (Tampa Reservation)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.373044,
+    27.990394,
+    -82.368715,
+    27.996149
+],
+  "geometry": {"coordinates":[[[-82.37304399999999,27.996107],[-82.369209,27.996149],[-82.369044,27.994487],[-82.36871499999999,27.993676],[-82.372879,27.990394],[-82.37302099999999,27.992243],[-82.37304399999999,27.996107]]],"type":"Polygon"}
+}

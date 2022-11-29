@@ -1,0 +1,57 @@
+{
+  "id": 1796621101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.100141,
+    "geom:bbox":"-76.807568,37.231215,-76.259732,37.574009",
+    "geom:latitude":37.402215,
+    "geom:longitude":-76.523075,
+    "iso:country":"XY",
+    "lbl:latitude":37.388839,
+    "lbl:longitude":-76.523075,
+    "mps:latitude":37.388839,
+    "mps:longitude":-76.523075,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#3D7044",
+    "nativeland:description":"https://native-land.ca/maps/territories/werowocomoco/",
+    "nativeland:id":33829,
+    "nativeland:name":"Werowocomoco",
+    "nativeland:slug":"werowocomoco",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33829
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"bbc47964cca43dee0f17eb3a752dcbb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621101
+        }
+    ],
+    "wof:id":1796621101,
+    "wof:lastmodified":1669734077,
+    "wof:name":"Werowocomoco",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.807568,
+    37.231215,
+    -76.259732,
+    37.574009
+],
+  "geometry": {"coordinates":[[[-76.464935,37.231215],[-76.49728500000001,37.241816],[-76.53009400000001,37.262529],[-76.59457999999999,37.308435],[-76.64549100000001,37.363306],[-76.703484,37.417854],[-76.740819,37.45738],[-76.760051,37.483419],[-76.795123,37.501372],[-76.807568,37.525602],[-76.807568,37.540853],[-76.75109,37.564733],[-76.687117,37.574009],[-76.64551899999999,37.572553],[-76.614538,37.565548],[-76.568849,37.54419],[-76.499944,37.507144],[-76.412222,37.455718],[-76.32185800000001,37.410871],[-76.291736,37.371982],[-76.259732,37.327085],[-76.28608800000001,37.264184],[-76.365157,37.246203],[-76.464935,37.231215]]],"type":"Polygon"}
+}

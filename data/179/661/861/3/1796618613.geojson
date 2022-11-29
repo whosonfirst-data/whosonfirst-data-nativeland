@@ -1,0 +1,57 @@
+{
+  "id": 1796618613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.355508,
+    "geom:bbox":"-108.37847,24.237723,-107.349937,25.37616",
+    "geom:latitude":24.791791,
+    "geom:longitude":-107.914521,
+    "iso:country":"XY",
+    "lbl:latitude":24.808527,
+    "lbl:longitude":-107.949585,
+    "mps:latitude":24.808527,
+    "mps:longitude":-107.949585,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#A43181",
+    "nativeland:description":"https://native-land.ca/maps/territories/achires/",
+    "nativeland:id":36634,
+    "nativeland:name":"Achires",
+    "nativeland:slug":"achires",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36634
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"48d598e76d9f1ee3711794318f6eaf0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796618613
+        }
+    ],
+    "wof:id":1796618613,
+    "wof:lastmodified":1669734030,
+    "wof:name":"Achires",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.37847,
+    24.237723,
+    -107.349937,
+    25.37616
+],
+  "geometry": {"coordinates":[[[-108.167151,24.858876],[-108.320943,25.04939],[-108.365619,25.151998],[-108.37846999999999,25.294809],[-108.312476,25.37616],[-108.22080099999999,25.298054],[-108.00566600000001,25.119324],[-107.71132900000001,24.76289],[-107.487972,24.508032],[-107.407826,24.395612],[-107.365506,24.301132],[-107.349937,24.249274],[-107.388092,24.237723],[-107.439622,24.242433],[-107.702151,24.412786],[-107.924823,24.545143],[-108.023071,24.626475],[-108.116885,24.762502],[-108.167151,24.858876]]],"type":"Polygon"}
+}

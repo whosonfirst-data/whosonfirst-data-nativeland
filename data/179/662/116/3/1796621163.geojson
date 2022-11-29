@@ -1,0 +1,57 @@
+{
+  "id": 1796621163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.289821,
+    "geom:bbox":"-77.810123,34.362552,-77.01172,34.926556",
+    "geom:latitude":34.667328,
+    "geom:longitude":-77.423952,
+    "iso:country":"XY",
+    "lbl:latitude":34.672505,
+    "lbl:longitude":-77.431556,
+    "mps:latitude":34.672505,
+    "mps:longitude":-77.431556,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#9C083C",
+    "nativeland:description":"https://native-land.ca/maps/territories/coree/",
+    "nativeland:id":33805,
+    "nativeland:name":"Coree",
+    "nativeland:slug":"coree",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33805
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"262fab9a1e421cdce21824e42a861f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621163
+        }
+    ],
+    "wof:id":1796621163,
+    "wof:lastmodified":1669734075,
+    "wof:name":"Coree",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.810123,
+    34.362552,
+    -77.01172,
+    34.926556
+],
+  "geometry": {"coordinates":[[[-77.01172,34.659045],[-77.067127,34.618313],[-77.24384000000001,34.507855],[-77.58869900000001,34.362552],[-77.671733,34.425799],[-77.810123,34.590717],[-77.77605800000001,34.690562],[-77.671733,34.799028],[-77.575925,34.888143],[-77.469471,34.91259],[-77.32469399999999,34.926556],[-77.203337,34.898621],[-77.10327100000001,34.833987],[-77.02875299999999,34.75181],[-77.01172,34.659045]]],"type":"Polygon"}
+}

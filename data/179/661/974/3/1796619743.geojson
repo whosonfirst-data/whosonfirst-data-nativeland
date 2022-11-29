@@ -1,0 +1,57 @@
+{
+  "id": 1796619743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":4.798887,
+    "geom:bbox":"-81.472168,34.415816,-78.369954,36.870272",
+    "geom:latitude":35.89087,
+    "geom:longitude":-80.09514,
+    "iso:country":"XY",
+    "lbl:latitude":35.909852,
+    "lbl:longitude":-80.279796,
+    "mps:latitude":35.909852,
+    "mps:longitude":-80.279796,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#1F117D",
+    "nativeland:description":"https://native-land.ca/maps/territories/cheraw/",
+    "nativeland:id":36129,
+    "nativeland:name":"Cheraw",
+    "nativeland:slug":"cheraw",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36129
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"0a8deb33ab5c6a80d1399f4422ccc497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619743
+        }
+    ],
+    "wof:id":1796619743,
+    "wof:lastmodified":1669734054,
+    "wof:name":"Cheraw",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.472168,
+    34.415816,
+    -78.369954,
+    36.870272
+],
+  "geometry": {"coordinates":[[[-81.415972,35.97665],[-81.472168,36.666106],[-80.936865,36.806961],[-80.270371,36.870272],[-79.27636,36.812969],[-78.42734900000001,36.655959],[-78.36995400000001,36.092552],[-79.00643100000001,35.864199],[-79.555302,35.37859],[-79.635049,34.950204],[-79.751794,34.702983],[-79.86163500000001,34.477792],[-80.269158,34.415816],[-80.607634,34.501868],[-80.712968,34.626009],[-80.75720800000001,34.754886],[-80.83094,34.941767],[-81.154528,35.387736],[-81.415972,35.97665]]],"type":"Polygon"}
+}

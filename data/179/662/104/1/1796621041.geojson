@@ -1,0 +1,57 @@
+{
+  "id": 1796621041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.030413,
+    "geom:bbox":"-76.440185,37.766463,-76.212494,37.951943",
+    "geom:latitude":37.862854,
+    "geom:longitude":-76.328886,
+    "iso:country":"XY",
+    "lbl:latitude":37.863248,
+    "lbl:longitude":-76.328886,
+    "mps:latitude":37.863248,
+    "mps:longitude":-76.328886,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#C3F0D2",
+    "nativeland:description":"https://native-land.ca/maps/territories/wicocomico/",
+    "nativeland:id":33862,
+    "nativeland:name":"Wicocomico",
+    "nativeland:slug":"wicocomico",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33862
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"f10f8c5307ae7735cdec6962c546caf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621041
+        }
+    ],
+    "wof:id":1796621041,
+    "wof:lastmodified":1669734058,
+    "wof:name":"Wicocomico",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.440185,
+    37.766463,
+    -76.212494,
+    37.951943
+],
+  "geometry": {"coordinates":[[[-76.21249400000001,37.865762],[-76.219979,37.845328],[-76.235017,37.819312],[-76.26258799999999,37.776086],[-76.296961,37.766463],[-76.343513,37.781751],[-76.401516,37.804951],[-76.439469,37.845677],[-76.440185,37.881858],[-76.42586300000001,37.920281],[-76.407961,37.935532],[-76.38146500000001,37.949086],[-76.335645,37.951943],[-76.28317199999999,37.933363],[-76.23177,37.905485],[-76.21249400000001,37.865762]]],"type":"Polygon"}
+}

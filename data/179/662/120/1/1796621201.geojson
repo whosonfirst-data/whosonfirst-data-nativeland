@@ -1,0 +1,57 @@
+{
+  "id": 1796621201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":2.470158,
+    "geom:bbox":"-84.755036,42.664663,-82.43985,44.089138",
+    "geom:latitude":43.257016,
+    "geom:longitude":-83.545296,
+    "iso:country":"XY",
+    "lbl:latitude":43.248155,
+    "lbl:longitude":-83.523247,
+    "mps:latitude":43.248155,
+    "mps:longitude":-83.523247,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#9F33D1",
+    "nativeland:description":"https://native-land.ca/maps/territories/o%CE%B8aakiiwakihinaki-sauk/",
+    "nativeland:id":33782,
+    "nativeland:name":"o\u03b8aakiiwaki\u2027hina\u2027ki (Sauk)",
+    "nativeland:slug":"o%ce%b8aakiiwaki%e2%80%a7hina%e2%80%a7ki-sauk",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33782
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"2c686ce39f78d33743f3940a2e7f4963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621201
+        }
+    ],
+    "wof:id":1796621201,
+    "wof:lastmodified":1669734076,
+    "wof:name":"o\u03b8aakiiwaki\u2027hina\u2027ki (Sauk)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.755036,
+    42.664663,
+    -82.43985,
+    44.089138
+],
+  "geometry": {"coordinates":[[[-82.666887,43.848108],[-82.43985000000001,42.986831],[-82.54977,42.697933],[-84.021665,42.664663],[-84.540921,42.725664],[-84.755036,42.780279],[-84.74358599999999,43.123956],[-84.69549600000001,43.375886],[-84.629086,43.620133],[-84.34125400000001,43.705024],[-83.870221,43.670628],[-83.51387800000001,43.824425],[-83.297206,43.990009],[-82.936086,44.089138],[-82.680019,44.00418],[-82.666887,43.848108]]],"type":"Polygon"}
+}

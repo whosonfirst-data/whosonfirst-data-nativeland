@@ -1,0 +1,57 @@
+{
+  "id": 1796621231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.466115,
+    "geom:bbox":"-82.341679,32.894208,-81.470978,33.63778",
+    "geom:latitude":33.257641,
+    "geom:longitude":-81.884699,
+    "iso:country":"XY",
+    "lbl:latitude":33.252667,
+    "lbl:longitude":-81.876407,
+    "mps:latitude":33.252667,
+    "mps:longitude":-81.876407,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#271B16",
+    "nativeland:description":"https://native-land.ca/maps/territories/westo/",
+    "nativeland:id":33773,
+    "nativeland:name":"Westo",
+    "nativeland:slug":"westo",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33773
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"fc823a6ee6f4fff17a316cf77bcd92c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621231
+        }
+    ],
+    "wof:id":1796621231,
+    "wof:lastmodified":1669734094,
+    "wof:name":"Westo",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.341679,
+    32.894208,
+    -81.470978,
+    33.63778
+],
+  "geometry": {"coordinates":[[[-81.623537,33.050291],[-81.750049,32.934818],[-81.93237499999999,32.894208],[-82.151911,32.928573],[-82.300748,33.019098],[-82.341679,33.131345],[-82.300748,33.274564],[-82.137027,33.4486],[-82.003073,33.564945],[-81.869119,33.6006],[-81.73516499999999,33.63778],[-81.567722,33.616091],[-81.493303,33.507568],[-81.470978,33.38027],[-81.506327,33.215436],[-81.526792,33.146924],[-81.623537,33.050291]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796621727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.711749,
+    "geom:bbox":"-62.686357,-12.82574,-61.533536,-11.795661",
+    "geom:latitude":-12.318999,
+    "geom:longitude":-62.133466,
+    "iso:country":"XY",
+    "lbl:latitude":-12.337574,
+    "lbl:longitude":-62.144446,
+    "mps:latitude":-12.337574,
+    "mps:longitude":-62.144446,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#B39E63",
+    "nativeland:description":"https://native-land.ca/maps/territories/makurap/",
+    "nativeland:id":33499,
+    "nativeland:name":"Makurap",
+    "nativeland:slug":"makurap",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33499
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"59f1b24207f636f1b8eeb75f894a7f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621727
+        }
+    ],
+    "wof:id":1796621727,
+    "wof:lastmodified":1669734076,
+    "wof:name":"Makurap",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.686357,
+    -12.82574,
+    -61.533536,
+    -11.795661
+],
+  "geometry": {"coordinates":[[[-61.836506,-12.823661],[-61.937798,-12.808351],[-62.209554,-12.692526],[-62.332996,-12.595076],[-62.488254,-12.447387],[-62.613809,-12.251693],[-62.673233,-12.087386],[-62.686357,-11.959317],[-62.657494,-11.886225],[-62.623255,-11.834163],[-62.542042,-11.799817],[-62.353016,-11.795661],[-62.255811,-11.823589],[-62.155399,-11.876624],[-62.063243,-11.980725],[-61.934121,-12.102951],[-61.713401,-12.291765],[-61.611535,-12.413852],[-61.560701,-12.516819],[-61.533536,-12.606307],[-61.552212,-12.675887],[-61.57768,-12.707357],[-61.65238,-12.774703],[-61.730091,-12.812733],[-61.788556,-12.82574],[-61.836506,-12.823661]]],"type":"Polygon"}
+}

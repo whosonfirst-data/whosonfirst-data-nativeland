@@ -1,0 +1,57 @@
+{
+  "id": 1796621039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.04511,
+    "geom:bbox":"-76.720195,37.746116,-76.394387,37.937131",
+    "geom:latitude":37.837493,
+    "geom:longitude":-76.553787,
+    "iso:country":"XY",
+    "lbl:latitude":37.843198,
+    "lbl:longitude":-76.55689,
+    "mps:latitude":37.843198,
+    "mps:longitude":-76.55689,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#AC4EAD",
+    "nativeland:description":"https://native-land.ca/maps/territories/moraughtacund/",
+    "nativeland:id":33861,
+    "nativeland:name":"Moraughtacund",
+    "nativeland:slug":"moraughtacund",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33861
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"089f287f350700042ad1660b9b0d3581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621039
+        }
+    ],
+    "wof:id":1796621039,
+    "wof:lastmodified":1669734058,
+    "wof:name":"Moraughtacund",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.720195,
+    37.746116,
+    -76.394387,
+    37.937131
+],
+  "geometry": {"coordinates":[[[-76.63693600000001,37.78023],[-76.668329,37.784636],[-76.720195,37.810074],[-76.717512,37.851038],[-76.688002,37.890569],[-76.645973,37.921614],[-76.589637,37.937131],[-76.54671399999999,37.9329],[-76.49663700000001,37.908915],[-76.44745399999999,37.893392],[-76.414367,37.866571],[-76.39827099999999,37.831971],[-76.39438699999999,37.808451],[-76.407779,37.767292],[-76.476229,37.746116],[-76.58039100000001,37.754352],[-76.63693600000001,37.78023]]],"type":"Polygon"}
+}

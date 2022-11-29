@@ -1,0 +1,57 @@
+{
+  "id": 1796621725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.032168,
+    "geom:bbox":"-64.289357,-11.223593,-63.998829,-11.038948",
+    "geom:latitude":-11.140661,
+    "geom:longitude":-64.127089,
+    "iso:country":"XY",
+    "lbl:latitude":-11.129642,
+    "lbl:longitude":-64.100803,
+    "mps:latitude":-11.129642,
+    "mps:longitude":-64.100803,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#2AE9C3",
+    "nativeland:description":"https://native-land.ca/maps/territories/oro-win-oro-towati/",
+    "nativeland:id":33498,
+    "nativeland:name":"Oro Win/Oro Towati\u2019",
+    "nativeland:slug":"oro-win-oro-towati",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33498
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"df276a4109011baf98c4213b8fd33e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621725
+        }
+    ],
+    "wof:id":1796621725,
+    "wof:lastmodified":1669734077,
+    "wof:name":"Oro Win/Oro Towati\u2019",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.289357,
+    -11.223593,
+    -63.998829,
+    -11.038948
+],
+  "geometry": {"coordinates":[[[-64.289357,-11.189129],[-64.284616,-11.175177],[-64.265654,-11.159232],[-64.222312,-11.138634],[-64.190483,-11.114712],[-64.163394,-11.08946],[-64.143755,-11.064205],[-64.11802,-11.04493],[-64.086868,-11.038948],[-64.058425,-11.044265],[-64.03607700000001,-11.061546],[-64.014405,-11.081485],[-64.005263,-11.10109],[-63.998829,-11.126009],[-64.00106599999999,-11.145371],[-64.01143,-11.164732],[-64.01871,-11.180179],[-64.039534,-11.187653],[-64.056804,-11.193299],[-64.117076,-11.203929],[-64.16134599999999,-11.212571],[-64.182089,-11.214558],[-64.213435,-11.223593],[-64.232204,-11.223193],[-64.25388100000001,-11.220358],[-64.267419,-11.213893],[-64.280963,-11.200607],[-64.289357,-11.189129]]],"type":"Polygon"}
+}

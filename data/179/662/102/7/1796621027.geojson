@@ -1,0 +1,57 @@
+{
+  "id": 1796621027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.218297,
+    "geom:bbox":"-76.429974,36.526201,-75.860578,36.996108",
+    "geom:latitude":36.763523,
+    "geom:longitude":-76.135692,
+    "iso:country":"XY",
+    "lbl:latitude":36.761073,
+    "lbl:longitude":-76.135692,
+    "mps:latitude":36.761073,
+    "mps:longitude":-76.135692,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#9259BA",
+    "nativeland:description":"https://native-land.ca/maps/territories/chesapeake-2/",
+    "nativeland:id":33869,
+    "nativeland:name":"Chesapeake",
+    "nativeland:slug":"chesapeake-2",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33869
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"8c73cce091344b21c75904608b4b1a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621027
+        }
+    ],
+    "wof:id":1796621027,
+    "wof:lastmodified":1669734060,
+    "wof:name":"Chesapeake",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.429974,
+    36.526201,
+    -75.860578,
+    36.996108
+],
+  "geometry": {"coordinates":[[[-76.38473399999999,36.828971],[-76.390974,36.901359],[-76.333254,36.974924],[-76.269295,36.996108],[-76.146056,36.994862],[-76.08053700000001,36.991124],[-75.97913699999999,36.961214],[-75.87929800000001,36.907596],[-75.860578,36.772761],[-75.873058,36.667725],[-75.912058,36.553773],[-76.128896,36.526201],[-76.286455,36.565051],[-76.378494,36.617657],[-76.429974,36.696499],[-76.40501399999999,36.786505],[-76.38473399999999,36.828971]]],"type":"Polygon"}
+}

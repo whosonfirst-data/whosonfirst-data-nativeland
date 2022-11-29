@@ -1,0 +1,57 @@
+{
+  "id": 1796621285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.265214,
+    "geom:bbox":"-124.135984,46.409083,-123.347418,46.805019",
+    "geom:latitude":46.604208,
+    "geom:longitude":-123.772443,
+    "iso:country":"XY",
+    "lbl:latitude":46.605509,
+    "lbl:longitude":-123.772443,
+    "mps:latitude":46.605509,
+    "mps:longitude":-123.772443,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#CBD2E4",
+    "nativeland:description":"https://native-land.ca/maps/territories/willapa/",
+    "nativeland:id":33744,
+    "nativeland:name":"Willapa",
+    "nativeland:slug":"willapa",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33744
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"a7045e414c4ef2d57e459cec9e11b52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621285
+        }
+    ],
+    "wof:id":1796621285,
+    "wof:lastmodified":1669734078,
+    "wof:name":"Willapa",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.135984,
+    46.409083,
+    -123.347418,
+    46.805019
+],
+  "geometry": {"coordinates":[[[-124.101077,46.803583],[-124.052825,46.805019],[-123.90807100000001,46.800711],[-123.719261,46.789221],[-123.544695,46.757245],[-123.44520900000001,46.726631],[-123.375978,46.687703],[-123.353824,46.640934],[-123.347418,46.557296],[-123.382654,46.49338],[-123.421733,46.470103],[-123.458298,46.45155],[-123.55646299999999,46.435623],[-123.675815,46.421028],[-123.77976700000001,46.418374],[-123.843293,46.410411],[-123.897194,46.417047],[-123.94917,46.409083],[-124.01462100000001,46.410411],[-124.070447,46.410411],[-124.10715399999999,46.446325],[-124.126374,46.55437],[-124.13278099999999,46.6644],[-124.13598399999999,46.743482],[-124.13085599999999,46.786038],[-124.101077,46.803583]]],"type":"Polygon"}
+}

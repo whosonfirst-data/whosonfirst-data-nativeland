@@ -1,0 +1,57 @@
+{
+  "id": 1796619575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.560323,
+    "geom:bbox":"133.599243,-13.025965,134.752807,-12.10378",
+    "geom:latitude":-12.551724,
+    "geom:longitude":134.163526,
+    "iso:country":"XY",
+    "lbl:latitude":-12.531775,
+    "lbl:longitude":134.106721,
+    "mps:latitude":-12.531775,
+    "mps:longitude":134.106721,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0091FA",
+    "nativeland:description":"https://native-land.ca/maps/territories/dangbon/",
+    "nativeland:id":36200,
+    "nativeland:name":"Dangbon",
+    "nativeland:slug":"dangbon",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36200
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"08010261d80f73d6c3fa2020cc29b881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619575
+        }
+    ],
+    "wof:id":1796619575,
+    "wof:lastmodified":1669734040,
+    "wof:name":"Dangbon",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.599243,
+    -13.025965,
+    134.752807,
+    -12.10378
+],
+  "geometry": {"coordinates":[[[134.36828600000001,-12.168225],[134.55505299999999,-12.10378],[134.69238200000001,-12.114522],[134.74731399999999,-12.157485],[134.75280699999999,-12.350734],[134.68139600000001,-12.44194],[134.55505299999999,-12.554563],[134.500122,-12.613536],[134.307861,-12.688573],[134.23095699999999,-12.785017],[134.18701100000001,-12.849293],[134.07165499999999,-12.934968],[133.96179100000001,-13.025965],[133.747558,-13.015262],[133.599243,-12.902843],[133.62121500000001,-12.801088],[133.73107899999999,-12.661777],[133.753051,-12.576009],[133.85192499999999,-12.388293],[133.98376400000001,-12.270231],[134.07165499999999,-12.259495],[134.18701100000001,-12.259495],[134.35729900000001,-12.254127],[134.36828600000001,-12.168225]]],"type":"Polygon"}
+}

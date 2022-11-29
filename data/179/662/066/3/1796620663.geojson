@@ -1,0 +1,57 @@
+{
+  "id": 1796620663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.037094,
+    "geom:bbox":"177.416912,-38.173104,177.715164,-37.92996",
+    "geom:latitude":-38.052246,
+    "geom:longitude":177.562314,
+    "iso:country":"XY",
+    "lbl:latitude":-38.076302,
+    "lbl:longitude":177.589427,
+    "mps:latitude":-38.076302,
+    "mps:longitude":177.589427,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#8F115A",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngaitai-bay-of-plenty/",
+    "nativeland:id":34032,
+    "nativeland:name":"Ng\u0101itai (Bay Of Plenty)",
+    "nativeland:slug":"ngaitai-bay-of-plenty",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34032
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"2751effe98b4001d4ef82a42607e17e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620663
+        }
+    ],
+    "wof:id":1796620663,
+    "wof:lastmodified":1669734090,
+    "wof:name":"Ng\u0101itai (Bay Of Plenty)",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.416912,
+    -38.173104,
+    177.715164,
+    -37.92996
+],
+  "geometry": {"coordinates":[[[177.50547,-37.92996],[177.52601799999999,-37.93809],[177.652612,-38.028578],[177.68506199999999,-38.055319],[177.71516399999999,-38.089737],[177.65530000000001,-38.13582],[177.58693500000001,-38.170452],[177.549147,-38.173104],[177.520689,-38.126063],[177.512563,-38.081247],[177.47723999999999,-38.068986],[177.45746500000001,-38.044348],[177.417787,-37.978426],[177.416912,-37.968511],[177.48250300000001,-37.947549],[177.50547,-37.92996]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796618485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":2.345334,
+    "geom:bbox":"145.010924,-30.711233,147.700237,-29.538341",
+    "geom:latitude":-30.163496,
+    "geom:longitude":146.365325,
+    "iso:country":"XY",
+    "lbl:latitude":-30.082403,
+    "lbl:longitude":146.474177,
+    "mps:latitude":-30.082403,
+    "mps:longitude":146.474177,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/ngemba/",
+    "nativeland:id":37121,
+    "nativeland:name":"Ngemba",
+    "nativeland:slug":"ngemba",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37121
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"2f51136a2dcc87310ec6c4b20f4f5ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618485
+        }
+    ],
+    "wof:id":1796618485,
+    "wof:lastmodified":1669734047,
+    "wof:name":"Ngemba",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.010924,
+    -30.711233,
+    147.700237,
+    -29.538341
+],
+  "geometry": {"coordinates":[[[145.77743000000001,-30.711233],[145.34585999999999,-30.694514],[145.11424600000001,-30.54923],[145.01092399999999,-30.270163],[145.128908,-29.984725],[145.86488900000001,-29.708008],[146.57306500000001,-29.538341],[147.04400100000001,-29.551288],[147.45630800000001,-29.850165],[147.70023699999999,-30.142727],[147.503187,-30.510092],[147.13935000000001,-30.651459],[146.88711599999999,-30.677949],[146.360545,-30.582086],[145.77743000000001,-30.711233]]],"type":"Polygon"}
+}

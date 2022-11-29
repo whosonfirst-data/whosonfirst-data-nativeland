@@ -1,0 +1,57 @@
+{
+  "id": 1796618793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.746871,
+    "geom:bbox":"-96.154949,16.725738,-94.881603,17.610823",
+    "geom:latitude":17.141237,
+    "geom:longitude":-95.524243,
+    "iso:country":"XY",
+    "lbl:latitude":17.186019,
+    "lbl:longitude":-95.512116,
+    "mps:latitude":17.186019,
+    "mps:longitude":-95.512116,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#71E40A",
+    "nativeland:description":"https://native-land.ca/maps/territories/mixe/",
+    "nativeland:id":36553,
+    "nativeland:name":"Ayuukj\u00e4&#8217;\u00e4y (Mixe)",
+    "nativeland:slug":"mixe",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36553
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"4be128fabd38ab87f5948751ef8bdc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796618793
+        }
+    ],
+    "wof:id":1796618793,
+    "wof:lastmodified":1669734046,
+    "wof:name":"Ayuukj\u00e4&#8217;\u00e4y (Mixe)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.154949,
+    16.725738,
+    -94.881603,
+    17.610823
+],
+  "geometry": {"coordinates":[[[-95.93566300000001,17.404778],[-95.87062,17.362029],[-95.756835,17.37161],[-95.651769,17.44252],[-95.513192,17.506105],[-95.430904,17.572406],[-95.375968,17.610823],[-95.276178,17.595984],[-95.19149899999999,17.513506],[-95.10316,17.427493],[-95.000646,17.343625],[-94.931027,17.298193],[-94.881603,17.160038],[-94.910888,17.104042],[-94.951677,16.958422],[-95.076442,16.819672],[-95.21058499999999,16.808641],[-95.455805,16.878222],[-95.641069,16.834944],[-95.816895,16.766354],[-95.874224,16.738509],[-95.931552,16.725738],[-96.042058,16.814316],[-96.114778,16.917916],[-96.151588,17.003426],[-96.154949,17.125034],[-96.136574,17.201318],[-96.101009,17.261155],[-96.078185,17.317232],[-96.055361,17.349593],[-96.03975,17.386424],[-95.987707,17.413799],[-95.93566300000001,17.404778]]],"type":"Polygon"}
+}

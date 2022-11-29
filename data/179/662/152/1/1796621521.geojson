@@ -1,0 +1,57 @@
+{
+  "id": 1796621521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.732813,
+    "geom:bbox":"-70.534599,0.147614,-69.07013,1.237143",
+    "geom:latitude":0.673165,
+    "geom:longitude":-69.677639,
+    "iso:country":"XY",
+    "lbl:latitude":0.593698,
+    "lbl:longitude":-69.5556,
+    "mps:latitude":0.593698,
+    "mps:longitude":-69.5556,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#A5AA3C",
+    "nativeland:description":"https://native-land.ca/maps/territories/umukomasa-desana/",
+    "nativeland:id":33638,
+    "nativeland:name":"Umukomas\u00e3/Desana",
+    "nativeland:slug":"umukomasa-desana",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33638
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"bcf949c632f167bf2bc5fad3ef28f2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621521
+        }
+    ],
+    "wof:id":1796621521,
+    "wof:lastmodified":1669734081,
+    "wof:name":"Umukomas\u00e3/Desana",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.534599,
+    0.147614,
+    -69.07013,
+    1.237143
+],
+  "geometry": {"coordinates":[[[-69.58414,0.157736],[-69.652084,0.16906],[-69.703851,0.198179],[-69.731352,0.21921],[-69.77602400000001,0.303124],[-69.794443,0.358332],[-69.807385,0.426274],[-69.918086,0.588987],[-70.006691,0.678544],[-70.13981699999999,0.781672],[-70.29380999999999,0.872128],[-70.455502,0.981825],[-70.5287,1.054972],[-70.534599,1.095567],[-70.513453,1.136289],[-70.49388399999999,1.161244],[-70.440197,1.198894],[-70.358519,1.237143],[-70.29532399999999,1.226531],[-70.112173,1.104015],[-69.962247,1.006489],[-69.779203,0.932613],[-69.494379,0.88923],[-69.366238,0.890596],[-69.23960700000001,0.873725],[-69.128884,0.884139],[-69.090008,0.836043],[-69.07013000000001,0.715826],[-69.095305,0.472609],[-69.111172,0.417972],[-69.150395,0.319215],[-69.219036,0.238668],[-69.286276,0.189639],[-69.345112,0.168626],[-69.44177000000001,0.147614],[-69.58414,0.157736]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796621483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.653824,
+    "geom:bbox":"-75.256565,0.047248,-74.40173,1.002333",
+    "geom:latitude":0.522019,
+    "geom:longitude":-74.848364,
+    "iso:country":"XY",
+    "lbl:latitude":0.529583,
+    "lbl:longitude":-74.848364,
+    "mps:latitude":0.529583,
+    "mps:longitude":-74.848364,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#C227B8",
+    "nativeland:description":"https://native-land.ca/maps/territories/kore%CE%B2ah%CF%8E-korebaju-koreguaje/",
+    "nativeland:id":33652,
+    "nativeland:name":"k\u00f2r\u00e9\u03b2ah\u03ce (korebaju/Koreguaje)",
+    "nativeland:slug":"kore%ce%b2ah%cf%8e-korebaju-koreguaje",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33652
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"f4600dc7cb8a9c55cea9103a57afb53f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621483
+        }
+    ],
+    "wof:id":1796621483,
+    "wof:lastmodified":1669734095,
+    "wof:name":"k\u00f2r\u00e9\u03b2ah\u03ce (korebaju/Koreguaje)",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.256565,
+    0.047248,
+    -74.40173,
+    1.002333
+],
+  "geometry": {"coordinates":[[[-74.62056800000001,0.865577],[-74.58637400000001,0.829108],[-74.520267,0.749331],[-74.483794,0.690067],[-74.45188,0.63992],[-74.413128,0.578376],[-74.40173,0.530507],[-74.40401,0.450726],[-74.424526,0.33903],[-74.45188,0.238731],[-74.497472,0.156667],[-74.60233100000001,0.074603],[-74.700352,0.047248],[-74.800653,0.051807],[-74.896395,0.065485],[-74.998975,0.101958],[-75.108394,0.147549],[-75.16766200000001,0.188581],[-75.20185600000001,0.254687],[-75.22465099999999,0.368664],[-75.24060799999999,0.530507],[-75.25656499999999,0.626244],[-75.25656499999999,0.694626],[-75.24744699999999,0.756169],[-75.24744699999999,0.819991],[-75.23604899999999,0.881532],[-75.22465099999999,0.913442],[-75.19957599999999,0.943073],[-75.13346900000001,0.965865],[-75.037727,0.98182],[-74.955663,0.995495],[-74.864481,1.002333],[-74.76190099999999,0.990937],[-74.70491199999999,0.961307],[-74.65248200000001,0.904325],[-74.62056800000001,0.865577]]],"type":"Polygon"}
+}

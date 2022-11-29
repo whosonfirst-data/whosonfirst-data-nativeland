@@ -1,0 +1,57 @@
+{
+  "id": 1796619043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.269471,
+    "geom:bbox":"150.99884,-33.783713,151.627807,-33.121295",
+    "geom:latitude":-33.434742,
+    "geom:longitude":151.280928,
+    "iso:country":"XY",
+    "lbl:latitude":-33.440244,
+    "lbl:longitude":151.286918,
+    "mps:latitude":-33.440244,
+    "mps:longitude":151.286918,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#49A0CC",
+    "nativeland:description":"https://native-land.ca/maps/territories/kuring-gai/",
+    "nativeland:id":36440,
+    "nativeland:name":"Guringai",
+    "nativeland:slug":"kuring-gai",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36440
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"65195217a71a1d424f3faef766924c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619043
+        }
+    ],
+    "wof:id":1796619043,
+    "wof:lastmodified":1669734043,
+    "wof:name":"Guringai",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.99884,
+    -33.783713,
+    151.627807,
+    -33.121295
+],
+  "geometry": {"coordinates":[[[151.62780699999999,-33.23639],[151.59759500000001,-33.328232],[151.517944,-33.440609],[151.47125199999999,-33.536816],[151.37786800000001,-33.626055],[151.33961400000001,-33.689237],[151.324725,-33.745459],[151.313896,-33.773522],[151.191101,-33.783713],[151.10320999999999,-33.765448],[151.02630600000001,-33.742612],[150.99884,-33.731192],[150.99884,-33.646635],[151.03454500000001,-33.523078],[151.078767,-33.447188],[151.10148000000001,-33.343357],[151.10007200000001,-33.291261],[151.09725599999999,-33.250392],[151.091623,-33.185904],[151.10792499999999,-33.134737],[151.14437899999999,-33.121295],[151.25410099999999,-33.136832],[151.318646,-33.144378],[151.426748,-33.161625],[151.517685,-33.180664],[151.601416,-33.192415],[151.62780699999999,-33.23639]]],"type":"Polygon"}
+}

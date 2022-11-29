@@ -1,0 +1,57 @@
+{
+  "id": 1796621405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.238678,
+    "geom:bbox":"-77.199449,2.077107,-75.919669,3.470441",
+    "geom:latitude":2.708143,
+    "geom:longitude":-76.594338,
+    "iso:country":"XY",
+    "lbl:latitude":2.723753,
+    "lbl:longitude":-76.646138,
+    "mps:latitude":2.723753,
+    "mps:longitude":-76.646138,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#B5226C",
+    "nativeland:description":"https://native-land.ca/maps/territories/misak/",
+    "nativeland:id":33688,
+    "nativeland:name":"Misak",
+    "nativeland:slug":"misak",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33688
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"b57f725ea6890b780de9ac404fd4bbec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621405
+        }
+    ],
+    "wof:id":1796621405,
+    "wof:lastmodified":1669734097,
+    "wof:name":"Misak",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.199449,
+    2.077107,
+    -75.919669,
+    3.470441
+],
+  "geometry": {"coordinates":[[[-77.046482,3.19385],[-76.958634,3.369258],[-76.701848,3.470441],[-76.49236399999999,3.342274],[-76.25240100000001,3.046915],[-76.08185,2.829348],[-75.939941,2.586348],[-75.919669,2.363558],[-75.969577,2.299943],[-76.077697,2.117625],[-76.314211,2.077107],[-76.54396699999999,2.124378],[-76.773724,2.198658],[-76.989965,2.218915],[-77.118358,2.387717],[-77.17241799999999,2.644256],[-77.199449,2.860248],[-77.165661,3.035711],[-77.046482,3.19385]]],"type":"Polygon"}
+}

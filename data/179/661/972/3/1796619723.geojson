@@ -1,0 +1,57 @@
+{
+  "id": 1796619723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.974033,
+    "geom:bbox":"148.909823,-35.25459,150.985107,-33.775608",
+    "geom:latitude":-34.421329,
+    "geom:longitude":149.869332,
+    "iso:country":"XY",
+    "lbl:latitude":-34.476794,
+    "lbl:longitude":149.849568,
+    "mps:latitude":-34.476794,
+    "mps:longitude":149.849568,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#39541B",
+    "nativeland:description":"https://native-land.ca/maps/territories/gundungurra/",
+    "nativeland:id":36136,
+    "nativeland:name":"Gandangara /Gundungurra",
+    "nativeland:slug":"gundungurra",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36136
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"b7376fb51f42a5bea6cb0018dd0d3e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619723
+        }
+    ],
+    "wof:id":1796619723,
+    "wof:lastmodified":1669734057,
+    "wof:name":"Gandangara /Gundungurra",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.909823,
+    -35.25459,
+    150.985107,
+    -33.775608
+],
+  "geometry": {"coordinates":[[[150.940495,-33.989173],[150.611572,-34.438628],[150.56762599999999,-34.547287],[150.430297,-34.777715],[150.314941,-34.957995],[150.19958399999999,-34.998503],[149.946899,-35.110921],[149.767337,-35.157622],[149.66125400000001,-35.25459],[149.515007,-35.217591],[149.348725,-35.00684],[149.12841700000001,-34.917466],[149.11668499999999,-34.8905],[149.05300399999999,-34.838652],[148.985197,-34.789807],[148.931907,-34.718456],[148.90982299999999,-34.634479],[148.938557,-34.51402],[148.936576,-34.295896],[149.019949,-34.10482],[149.37632199999999,-34.034252],[149.553079,-33.859769],[149.72834800000001,-33.820004],[150.062342,-33.812697],[150.319571,-33.775608],[150.555699,-33.781552],[150.787451,-33.797524],[150.93892099999999,-33.843192],[150.985107,-33.904725],[150.940495,-33.989173]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796618503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.12899,
+    "geom:bbox":"-76.353574,38.356536,-75.779341,38.813751",
+    "geom:latitude":38.564649,
+    "geom:longitude":-76.064275,
+    "iso:country":"XY",
+    "lbl:latitude":38.50484,
+    "lbl:longitude":-76.188257,
+    "mps:latitude":38.50484,
+    "mps:longitude":-76.188257,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/choptico/",
+    "nativeland:id":36737,
+    "nativeland:name":"Choptico",
+    "nativeland:slug":"choptico",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36737
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"5b20dada4ccdd72e36b7668ce0ce0c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796618503
+        }
+    ],
+    "wof:id":1796618503,
+    "wof:lastmodified":1669734031,
+    "wof:name":"Choptico",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.353574,
+    38.356536,
+    -75.779341,
+    38.813751
+],
+  "geometry": {"coordinates":[[[-76.26163,38.356536],[-76.32097400000001,38.41016],[-76.35357399999999,38.52404],[-76.323482,38.610312],[-76.26831199999999,38.641658],[-76.162988,38.629905],[-76.05515699999999,38.598554],[-75.989589,38.602473],[-75.949466,38.667116],[-75.966084,38.689397],[-76.004255,38.729164],[-75.983085,38.757534],[-75.95622899999999,38.779256],[-75.89377,38.813751],[-75.83148300000001,38.799687],[-75.79822299999999,38.755634],[-75.790897,38.675575],[-75.814049,38.643617],[-75.81906499999999,38.604433],[-75.779341,38.561702],[-76.055685,38.42645],[-76.11572700000001,38.407312],[-76.16243799999999,38.387368],[-76.20065099999999,38.371957],[-76.222426,38.357414],[-76.26163,38.356536]]],"type":"Polygon"}
+}

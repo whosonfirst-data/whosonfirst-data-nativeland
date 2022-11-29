@@ -1,0 +1,57 @@
+{
+  "id": 1796621083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.084534,
+    "geom:bbox":"-77.46178,37.910076,-77.053179,38.244607",
+    "geom:latitude":38.089515,
+    "geom:longitude":-77.264139,
+    "iso:country":"XY",
+    "lbl:latitude":38.074243,
+    "lbl:longitude":-77.260257,
+    "mps:latitude":38.074243,
+    "mps:longitude":-77.260257,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#95E844",
+    "nativeland:description":"https://native-land.ca/maps/territories/nandtaughtacund/",
+    "nativeland:id":33838,
+    "nativeland:name":"Nandtaughtacund",
+    "nativeland:slug":"nandtaughtacund",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33838
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"ff319c35bc94ed5038d0c6821f7b0d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621083
+        }
+    ],
+    "wof:id":1796621083,
+    "wof:lastmodified":1669734082,
+    "wof:name":"Nandtaughtacund",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.46178,
+    37.910076,
+    -77.053179,
+    38.244607
+],
+  "geometry": {"coordinates":[[[-77.056905,38.108074],[-77.057849,38.105017],[-77.069911,38.07411],[-77.104601,38.015424],[-77.171412,37.970872],[-77.23308299999999,37.93136],[-77.271627,37.910076],[-77.319165,37.927307],[-77.37312799999999,37.976949],[-77.384691,38.040726],[-77.419381,38.101413],[-77.452786,38.116578],[-77.46178,38.146896],[-77.438653,38.194371],[-77.39239999999999,38.235759],[-77.361564,38.243832],[-77.33640800000001,38.244607],[-77.294714,38.239149],[-77.266918,38.237363],[-77.24761599999999,38.2222],[-77.228313,38.197326],[-77.20823799999999,38.189438],[-77.171177,38.167588],[-77.13874800000001,38.160303],[-77.11436500000001,38.162556],[-77.077572,38.159806],[-77.063265,38.16234],[-77.053179,38.149536],[-77.055361,38.1348],[-77.056905,38.108074]]],"type":"Polygon"}
+}

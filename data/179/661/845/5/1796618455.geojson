@@ -1,0 +1,57 @@
+{
+  "id": 1796618455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.374903,
+    "geom:bbox":"141.87951,-11.095875,142.856658,-10.32349",
+    "geom:latitude":-10.645612,
+    "geom:longitude":142.260827,
+    "iso:country":"XY",
+    "lbl:latitude":-10.621678,
+    "lbl:longitude":142.171995,
+    "mps:latitude":-10.621678,
+    "mps:longitude":142.171995,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/kaurareg/",
+    "nativeland:id":37676,
+    "nativeland:name":"Kaurareg",
+    "nativeland:slug":"kaurareg",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37676
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"53241d42f330a9932038eeedbfdb93de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618455
+        }
+    ],
+    "wof:id":1796618455,
+    "wof:lastmodified":1669734026,
+    "wof:name":"Kaurareg",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.87951,
+    -11.095875,
+    142.856658,
+    -10.32349
+],
+  "geometry": {"coordinates":[[[142.04931999999999,-10.332023],[142.10191699999999,-10.334404],[142.16741300000001,-10.32349],[142.496038,-10.425641],[142.64286100000001,-10.537925],[142.85665800000001,-10.648627],[142.844763,-10.732049],[142.80481900000001,-10.772164],[142.723929,-10.743166],[142.528603,-10.661796],[142.424149,-10.707908],[142.42147800000001,-10.750792],[142.423867,-10.79258],[142.430868,-10.821342],[142.40214,-10.89229],[142.325064,-10.922987],[142.221203,-10.906653],[142.170512,-10.918798],[142.12713500000001,-10.957323],[142.13221999999999,-11.001151],[142.08197000000001,-11.081687],[142.046379,-11.095875],[142.00711799999999,-11.052446],[141.99831599999999,-10.947571],[141.957021,-10.80768],[141.885085,-10.664393],[141.87951000000001,-10.561737],[141.978342,-10.430066],[141.99171899999999,-10.362919],[142.04931999999999,-10.332023]]],"type":"Polygon"}
+}

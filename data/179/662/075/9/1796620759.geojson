@@ -1,0 +1,57 @@
+{
+  "id": 1796620759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.095494,
+    "geom:bbox":"173.882759,-39.59869,174.30426,-39.23456",
+    "geom:latitude":-39.444439,
+    "geom:longitude":174.129531,
+    "iso:country":"XY",
+    "lbl:latitude":-39.454674,
+    "lbl:longitude":174.133546,
+    "mps:latitude":-39.454674,
+    "mps:longitude":174.133546,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#2B06FA",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngaruahine/",
+    "nativeland:id":33983,
+    "nativeland:name":"Ng\u0101ruahine",
+    "nativeland:slug":"ngaruahine",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33983
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"3aa5ea5fbd858b1e5c594f14ec1f77e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620759
+        }
+    ],
+    "wof:id":1796620759,
+    "wof:lastmodified":1669734085,
+    "wof:name":"Ng\u0101ruahine",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.882759,
+    -39.59869,
+    174.30426,
+    -39.23456
+],
+  "geometry": {"coordinates":[[[173.88275899999999,-39.488945],[173.917903,-39.471324],[173.97255999999999,-39.415976],[173.98348899999999,-39.395988],[174.020849,-39.368597],[174.065033,-39.296195],[174.115352,-39.292672],[174.17462,-39.282],[174.20178999999999,-39.27101],[174.24293,-39.23456],[174.28880000000001,-39.34957],[174.29731000000001,-39.36309],[174.30426,-39.41124],[174.29796999999999,-39.44326],[174.29995,-39.48879],[174.26114100000001,-39.523787],[174.25971999999999,-39.567217],[174.24996999999999,-39.59869],[174.17007599999999,-39.598043],[174.07674900000001,-39.59248],[173.98960199999999,-39.565904],[173.895657,-39.513986],[173.88275899999999,-39.488945]]],"type":"Polygon"}
+}

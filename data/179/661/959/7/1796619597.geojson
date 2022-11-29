@@ -1,0 +1,57 @@
+{
+  "id": 1796619597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.11471,
+    "geom:bbox":"133.725585,-12.286333,134.077148,-11.802834",
+    "geom:latitude":-12.017974,
+    "geom:longitude":133.913016,
+    "iso:country":"XY",
+    "lbl:latitude":-12.014999,
+    "lbl:longitude":133.89209,
+    "mps:latitude":-12.014999,
+    "mps:longitude":133.89209,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#213A0F",
+    "nativeland:description":"https://native-land.ca/maps/territories/gunbalang/",
+    "nativeland:id":36192,
+    "nativeland:name":"Gunbalang",
+    "nativeland:slug":"gunbalang",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36192
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"b66400c445ffc815970e378c4fb6c8dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619597
+        }
+    ],
+    "wof:id":1796619597,
+    "wof:lastmodified":1669734042,
+    "wof:name":"Gunbalang",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.725585,
+    -12.286333,
+    134.077148,
+    -11.802834
+],
+  "geometry": {"coordinates":[[[133.83544900000001,-11.829718],[134.00573700000001,-11.802834],[134.07714799999999,-11.845847],[134.05517399999999,-11.921103],[134.04418699999999,-12.050065],[134.03869299999999,-12.286333],[133.89587299999999,-12.21118],[133.84918200000001,-12.187019],[133.761291,-12.111837],[133.725585,-12.058123],[133.725585,-11.985591],[133.750305,-11.926477],[133.78601,-11.880789],[133.83544900000001,-11.829718]]],"type":"Polygon"}
+}

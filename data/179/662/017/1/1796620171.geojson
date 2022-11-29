@@ -1,0 +1,57 @@
+{
+  "id": 1796620171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.878671,
+    "geom:bbox":"-92.157329,16.035819,-90.598417,17.152987",
+    "geom:latitude":16.669571,
+    "geom:longitude":-91.208497,
+    "iso:country":"XY",
+    "lbl:latitude":16.766537,
+    "lbl:longitude":-91.196687,
+    "mps:latitude":16.766537,
+    "mps:longitude":-91.196687,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#3D04F6",
+    "nativeland:description":"https://native-land.ca/maps/territories/lacandon/",
+    "nativeland:id":35938,
+    "nativeland:name":"Hach Winik (Lacandon)",
+    "nativeland:slug":"lacandon",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35938
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"7daf8660d45b3dcfe0617e208a8ebccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620171
+        }
+    ],
+    "wof:id":1796620171,
+    "wof:lastmodified":1669734087,
+    "wof:name":"Hach Winik (Lacandon)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.157329,
+    16.035819,
+    -90.598417,
+    17.152987
+],
+  "geometry": {"coordinates":[[[-91.266616,17.110616],[-91.00036,16.996939],[-90.791015,16.867633],[-90.698455,16.796339],[-90.62622,16.678293],[-90.598417,16.551613],[-90.60237100000001,16.403759],[-90.615878,16.280445],[-90.62275699999999,16.164989],[-90.65462100000001,16.079477],[-90.703315,16.062894],[-90.79736,16.044553],[-90.92818,16.035819],[-91.054332,16.051101],[-91.10320299999999,16.066618],[-91.138426,16.095248],[-91.143049,16.180301],[-91.116964,16.307893],[-91.141299,16.402155],[-91.216705,16.470443],[-91.442173,16.592146],[-91.69832100000001,16.67365],[-92.023565,16.798261],[-92.157329,16.89209],[-92.108188,16.966459],[-91.883731,17.056151],[-91.572169,17.137938],[-91.40136699999999,17.152987],[-91.266616,17.110616]]],"type":"Polygon"}
+}

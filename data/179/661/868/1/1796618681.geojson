@@ -1,0 +1,57 @@
+{
+  "id": 1796618681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.569928,
+    "geom:bbox":"140.075683,-36.923547,141.130371,-36.244273",
+    "geom:latitude":-36.548919,
+    "geom:longitude":140.579075,
+    "iso:country":"XY",
+    "lbl:latitude":-36.585551,
+    "lbl:longitude":140.579075,
+    "mps:latitude":-36.585551,
+    "mps:longitude":140.579075,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#E46646",
+    "nativeland:description":"https://native-land.ca/maps/territories/bindjali/",
+    "nativeland:id":36604,
+    "nativeland:name":"Bindjali",
+    "nativeland:slug":"bindjali",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36604
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"6ec384094435c1fa175eb6a9d6df7799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618681
+        }
+    ],
+    "wof:id":1796618681,
+    "wof:lastmodified":1669734030,
+    "wof:name":"Bindjali",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.075683,
+    -36.923547,
+    141.130371,
+    -36.244273
+],
+  "geometry": {"coordinates":[[[140.097656,-36.368221],[140.075683,-36.284135],[140.18554599999999,-36.257562],[140.449218,-36.257562],[140.71838299999999,-36.248703],[140.943603,-36.244273],[141.124877,-36.279707],[141.130371,-36.323977],[141.06994599999999,-36.44338],[141.02600000000001,-36.641977],[141.02600000000001,-36.734481],[140.89965799999999,-36.782892],[140.789794,-36.857647],[140.65795800000001,-36.923547],[140.53710899999999,-36.914764],[140.29541,-36.87962],[140.18005299999999,-36.800488],[140.13061500000001,-36.712467],[140.097656,-36.536122],[140.097656,-36.368221]]],"type":"Polygon"}
+}

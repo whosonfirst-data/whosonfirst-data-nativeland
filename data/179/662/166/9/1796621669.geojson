@@ -1,0 +1,57 @@
+{
+  "id": 1796621669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.03419,
+    "geom:bbox":"-123.325084,46.047247,-122.968085,46.182932",
+    "geom:latitude":46.109593,
+    "geom:longitude":-123.147328,
+    "iso:country":"XY",
+    "lbl:latitude":46.118306,
+    "lbl:longitude":-123.147328,
+    "mps:latitude":46.118306,
+    "mps:longitude":-123.147328,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#E00485",
+    "nativeland:description":"https://native-land.ca/maps/territories/skilloot/",
+    "nativeland:id":33533,
+    "nativeland:name":"Skilloot",
+    "nativeland:slug":"skilloot",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33533
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"dbff6f00209f61690a19c84f29961d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621669
+        }
+    ],
+    "wof:id":1796621669,
+    "wof:lastmodified":1669734060,
+    "wof:name":"Skilloot",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.325084,
+    46.047247,
+    -122.968085,
+    46.182932
+],
+  "geometry": {"coordinates":[[[-123.300257,46.144692],[-123.260065,46.145958],[-123.230834,46.157348],[-123.21401400000001,46.166206],[-123.204133,46.173049],[-123.188762,46.181411],[-123.162413,46.182932],[-123.14265,46.179891],[-123.11739900000001,46.17761],[-123.092147,46.169247],[-123.05591699999999,46.153278],[-123.028469,46.141869],[-123.007609,46.137304],[-122.987847,46.125892],[-122.97577,46.112955],[-122.968085,46.106865],[-122.969183,46.089355],[-122.99075499999999,46.078938],[-123.001716,46.05739],[-123.03460099999999,46.047247],[-123.098544,46.049783],[-123.188064,46.061193],[-123.23921799999999,46.063729],[-123.30498799999999,46.068799],[-123.32143000000001,46.076403],[-123.325084,46.09541],[-123.323257,46.11821],[-123.319603,46.133404],[-123.300257,46.144692]]],"type":"Polygon"}
+}

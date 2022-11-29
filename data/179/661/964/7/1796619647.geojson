@@ -1,0 +1,57 @@
+{
+  "id": 1796619647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":9.3758,
+    "geom:bbox":"125.189209,-32.861131,131.209717,-30.467614",
+    "geom:latitude":-31.433938,
+    "geom:longitude":127.860255,
+    "iso:country":"XY",
+    "lbl:latitude":-31.408326,
+    "lbl:longitude":127.860255,
+    "mps:latitude":-31.408326,
+    "mps:longitude":127.860255,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#D7D65E",
+    "nativeland:description":"https://native-land.ca/maps/territories/mirning/",
+    "nativeland:id":36172,
+    "nativeland:name":"Mirning",
+    "nativeland:slug":"mirning",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36172
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"9680fc90ffede8f7cdc40bda882277ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619647
+        }
+    ],
+    "wof:id":1796619647,
+    "wof:lastmodified":1669734025,
+    "wof:name":"Mirning",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.189209,
+    -32.861131,
+    131.209717,
+    -30.467614
+],
+  "geometry": {"coordinates":[[[125.18920900000001,-32.861131],[125.36499000000001,-30.930501],[125.529785,-30.86451],[126.123047,-30.628459],[126.68335,-30.543339],[127.617188,-30.467614],[128.144531,-30.505484],[128.825684,-30.5528],[130.45166,-30.581179],[130.90209899999999,-30.666266],[131.18774400000001,-30.939924],[131.20971700000001,-31.184609],[131.18774400000001,-31.409912],[131.07787999999999,-31.559815],[130.880124,-31.644029],[130.67138700000001,-31.718822],[130.33081100000001,-31.718822],[129.84741099999999,-31.774878],[129.05639600000001,-31.924193],[128.671875,-32.10119],[128.26537999999999,-32.259265],[127.946777,-32.305706],[127.419434,-32.463426],[126.77124000000001,-32.537551],[126.276855,-32.537551],[125.82641599999999,-32.611615],[125.518799,-32.722599],[125.18920900000001,-32.861131]]],"type":"Polygon"}
+}

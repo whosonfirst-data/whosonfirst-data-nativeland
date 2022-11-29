@@ -1,0 +1,57 @@
+{
+  "id": 1796621033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.071823,
+    "geom:bbox":"-77.591565,38.216294,-77.239601,38.48906",
+    "geom:latitude":38.352837,
+    "geom:longitude":-77.409798,
+    "iso:country":"XY",
+    "lbl:latitude":38.355662,
+    "lbl:longitude":-77.409798,
+    "mps:latitude":38.355662,
+    "mps:longitude":-77.409798,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#C0DB22",
+    "nativeland:description":"https://native-land.ca/maps/territories/patawomeck/",
+    "nativeland:id":33864,
+    "nativeland:name":"Patawomeck",
+    "nativeland:slug":"patawomeck",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33864
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"f536caad79fcdda2c04bc457a7499f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621033
+        }
+    ],
+    "wof:id":1796621033,
+    "wof:lastmodified":1669734059,
+    "wof:name":"Patawomeck",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.591565,
+    38.216294,
+    -77.239601,
+    38.48906
+],
+  "geometry": {"coordinates":[[[-77.270543,38.272784],[-77.273895,38.258284],[-77.300237,38.230294],[-77.362993,38.216294],[-77.448218,38.228468],[-77.5598,38.284405],[-77.591565,38.354916],[-77.568359,38.421417],[-77.493583,38.472912],[-77.405914,38.48906],[-77.329848,38.473922],[-77.28601399999999,38.449693],[-77.249915,38.371906],[-77.23960099999999,38.303142],[-77.270543,38.272784]]],"type":"Polygon"}
+}

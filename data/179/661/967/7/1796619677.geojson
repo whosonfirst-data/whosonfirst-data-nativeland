@@ -1,0 +1,57 @@
+{
+  "id": 1796619677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":3.176797,
+    "geom:bbox":"136.801757,-29.659416,138.691406,-27.595934",
+    "geom:latitude":-28.612115,
+    "geom:longitude":137.711008,
+    "iso:country":"XY",
+    "lbl:latitude":-28.641963,
+    "lbl:longitude":137.729004,
+    "mps:latitude":-28.641963,
+    "mps:longitude":137.729004,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#4104B4",
+    "nativeland:description":"https://native-land.ca/maps/territories/dhirari/",
+    "nativeland:id":36158,
+    "nativeland:name":"Dhirari",
+    "nativeland:slug":"dhirari",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36158
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"4f1949766a5359e5a8564347068d0606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619677
+        }
+    ],
+    "wof:id":1796619677,
+    "wof:lastmodified":1669734043,
+    "wof:name":"Dhirari",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.801757,
+    -29.659416,
+    138.691406,
+    -27.595934
+],
+  "geometry": {"coordinates":[[[136.80175700000001,-27.741884],[136.933593,-27.664068],[137.263183,-27.644606],[137.801513,-27.595934],[138.12011699999999,-27.60567],[138.22998000000001,-27.771051],[138.26293899999999,-27.858503],[138.42773399999999,-28.130127],[138.691406,-28.478348],[138.658447,-28.700224],[138.658447,-28.883159],[138.60351499999999,-29.171348],[138.44970699999999,-29.602118],[138.12011699999999,-29.573457],[137.53784099999999,-29.573457],[137.17529200000001,-29.659416],[137.03246999999999,-29.276816],[136.933593,-29.00814],[136.83471599999999,-28.719496],[136.81274400000001,-28.459033],[136.82373000000001,-28.130127],[136.80175700000001,-27.741884]]],"type":"Polygon"}
+}

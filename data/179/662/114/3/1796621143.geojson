@@ -1,0 +1,57 @@
+{
+  "id": 1796621143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.251899,
+    "geom:bbox":"-75.813105,35.157208,-75.393603,35.958944",
+    "geom:latitude":35.573331,
+    "geom:longitude":-75.599668,
+    "iso:country":"XY",
+    "lbl:latitude":35.576234,
+    "lbl:longitude":-75.582688,
+    "mps:latitude":35.576234,
+    "mps:longitude":-75.582688,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#B132A2",
+    "nativeland:description":"https://native-land.ca/maps/territories/croatan/",
+    "nativeland:id":33812,
+    "nativeland:name":"Croatan",
+    "nativeland:slug":"croatan",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33812
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"8fd5f414e0cad3f8e2a33cee39526fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621143
+        }
+    ],
+    "wof:id":1796621143,
+    "wof:lastmodified":1669734096,
+    "wof:name":"Croatan",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.813105,
+    35.157208,
+    -75.393603,
+    35.958944
+],
+  "geometry": {"coordinates":[[[-75.748559,35.191925],[-75.770762,35.255606],[-75.713908,35.391741],[-75.752949,35.527549],[-75.76202600000001,35.660608],[-75.800501,35.814771],[-75.81310499999999,35.938391],[-75.743571,35.942988],[-75.71143600000001,35.950993],[-75.593659,35.958944],[-75.537434,35.934457],[-75.49959699999999,35.894322],[-75.393603,35.720761],[-75.41484,35.565437],[-75.417874,35.345497],[-75.472482,35.216715],[-75.627206,35.157208],[-75.748559,35.191925]]],"type":"Polygon"}
+}

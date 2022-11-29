@@ -1,0 +1,57 @@
+{
+  "id": 1796620467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.546583,
+    "geom:bbox":"-56.233485,3.688468,-55.299717,5.31638",
+    "geom:latitude":4.426855,
+    "geom:longitude":-55.774667,
+    "iso:country":"XY",
+    "lbl:latitude":4.499574,
+    "lbl:longitude":-55.703927,
+    "mps:latitude":4.499574,
+    "mps:longitude":-55.703927,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#E04A9F",
+    "nativeland:description":"https://native-land.ca/maps/territories/matawai/",
+    "nativeland:id":34132,
+    "nativeland:name":"Matawai",
+    "nativeland:slug":"matawai",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34132
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"e53ae7b625e51fd2f6f1e3863d1c82a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796620467
+        }
+    ],
+    "wof:id":1796620467,
+    "wof:lastmodified":1669734064,
+    "wof:name":"Matawai",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.233485,
+    3.688468,
+    -55.299717,
+    5.31638
+],
+  "geometry": {"coordinates":[[[-55.357956,5.31638],[-55.299717,5.267737],[-55.300669,5.172166],[-55.367978,5.046845],[-55.422948,4.832531],[-55.469931,4.647614],[-55.522669,4.448233],[-55.597784,4.299917],[-55.664589,4.279222],[-55.707741,4.302899],[-55.729316,4.198067],[-55.764477,4.038682],[-55.786932,3.924936],[-55.867881,3.801448],[-55.976173,3.727936],[-56.079064,3.691176],[-56.17708,3.688468],[-56.215032,3.745583],[-56.229133,3.822778],[-56.233485,3.943734],[-56.229927,4.154284],[-56.158124,4.199506],[-56.061949,4.254445],[-55.931653,4.27536],[-55.925524,4.36964],[-55.914981,4.492396],[-55.894927,4.564643],[-55.777659,4.707649],[-55.660531,4.827714],[-55.65315,4.907167],[-55.660392,4.991465],[-55.651187,5.057169],[-55.554241,5.195687],[-55.475519,5.294715],[-55.357956,5.31638]]],"type":"Polygon"}
+}

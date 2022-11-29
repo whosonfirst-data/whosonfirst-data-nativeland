@@ -1,0 +1,57 @@
+{
+  "id": 1796621503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.555131,
+    "geom:bbox":"-71.418664,0.023701,-70.455962,0.851636",
+    "geom:latitude":0.38017,
+    "geom:longitude":-70.880622,
+    "iso:country":"XY",
+    "lbl:latitude":0.359333,
+    "lbl:longitude":-70.841655,
+    "mps:latitude":0.359333,
+    "mps:longitude":-70.841655,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#3CBFB8",
+    "nativeland:description":"https://native-land.ca/maps/territories/eduria-taiwano/",
+    "nativeland:id":33645,
+    "nativeland:name":"Eduria (Taiwano)",
+    "nativeland:slug":"eduria-taiwano",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33645
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"cab319fdceb7d5edbe7c04d844a3b7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621503
+        }
+    ],
+    "wof:id":1796621503,
+    "wof:lastmodified":1669734059,
+    "wof:name":"Eduria (Taiwano)",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.418664,
+    0.023701,
+    -70.455962,
+    0.851636
+],
+  "geometry": {"coordinates":[[[-71.41866400000001,0.137849],[-71.418201,0.154552],[-71.416517,0.206758],[-71.365995,0.270751],[-71.298633,0.393686],[-71.264191,0.449743],[-71.20693300000001,0.506999],[-71.156412,0.535627],[-71.072209,0.626562],[-70.994743,0.690553],[-70.934117,0.747807],[-70.819602,0.816848],[-70.77256300000001,0.823009],[-70.696781,0.851636],[-70.634471,0.8449],[-70.59910600000001,0.817958],[-70.557005,0.774176],[-70.53006000000001,0.732078],[-70.516587,0.683243],[-70.482906,0.573785],[-70.471118,0.514845],[-70.46775,0.444117],[-70.455962,0.346443],[-70.462698,0.285818],[-70.50311499999999,0.193196],[-70.562057,0.129202],[-70.656364,0.056788],[-70.790419,0.023701],[-71.137428,0.033438],[-71.250259,0.040174],[-71.354671,0.077223],[-71.41866400000001,0.137849]]],"type":"Polygon"}
+}

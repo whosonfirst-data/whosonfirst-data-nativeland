@@ -1,0 +1,57 @@
+{
+  "id": 1796620931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.132076,
+    "geom:bbox":"-124.003485,45.649218,-123.266222,45.947593",
+    "geom:latitude":45.762598,
+    "geom:longitude":-123.69476,
+    "iso:country":"XY",
+    "lbl:latitude":45.766055,
+    "lbl:longitude":-123.775508,
+    "mps:latitude":45.766055,
+    "mps:longitude":-123.775508,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#84CC0F",
+    "nativeland:description":"https://native-land.ca/maps/territories/nehalem/",
+    "nativeland:id":33909,
+    "nativeland:name":"Nehalem",
+    "nativeland:slug":"nehalem",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33909
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"be886cdfaa5da6863f1df04d6ffa0bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620931
+        }
+    ],
+    "wof:id":1796620931,
+    "wof:lastmodified":1669734093,
+    "wof:name":"Nehalem",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.003485,
+    45.649218,
+    -123.266222,
+    45.947593
+],
+  "geometry": {"coordinates":[[[-123.98550299999999,45.947593],[-123.90638199999999,45.935089],[-123.845243,45.892552],[-123.749939,45.872523],[-123.681607,45.843719],[-123.58989800000001,45.827432],[-123.585238,45.850741],[-123.561127,45.865011],[-123.54854,45.873775],[-123.51166000000001,45.858255],[-123.496392,45.833697],[-123.45323500000001,45.801113],[-123.393894,45.769763],[-123.291397,45.730866],[-123.266222,45.691941],[-123.30218600000001,45.665557],[-123.370518,45.661787],[-123.46762099999999,45.663044],[-123.579109,45.652989],[-123.699589,45.649218],[-123.852436,45.659274],[-123.91897,45.659274],[-123.95853,45.659274],[-123.969319,45.710779],[-123.994494,45.753455],[-123.976512,45.84873],[-123.98909999999999,45.917577],[-124.003485,45.947593],[-123.98550299999999,45.947593]]],"type":"Polygon"}
+}

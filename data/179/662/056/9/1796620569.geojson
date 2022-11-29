@@ -1,0 +1,57 @@
+{
+  "id": 1796620569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":3.740686,
+    "geom:bbox":"-95.525428,29.092381,-91.883295,31.144761",
+    "geom:latitude":30.095194,
+    "geom:longitude":-93.689919,
+    "iso:country":"XY",
+    "lbl:latitude":30.156491,
+    "lbl:longitude":-93.717511,
+    "mps:latitude":30.156491,
+    "mps:longitude":-93.717511,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#1EE57D",
+    "nativeland:description":"https://native-land.ca/maps/territories/ishak/",
+    "nativeland:id":34087,
+    "nativeland:name":"Ishak (Atakapa)",
+    "nativeland:slug":"atakapa-2",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34087
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"7d12aafab886a9aa6245a6afde613fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620569
+        }
+    ],
+    "wof:id":1796620569,
+    "wof:lastmodified":1669734092,
+    "wof:name":"Ishak (Atakapa)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.525428,
+    29.092381,
+    -91.883295,
+    31.144761
+],
+  "geometry": {"coordinates":[[[-92.129385,29.765936],[-92.089184,29.656266],[-92.118971,29.526987],[-92.277039,29.509263],[-92.621565,29.552088],[-93.039918,29.659069],[-93.581316,29.723203],[-94.07349600000001,29.61629],[-94.610997,29.410003],[-95.02423,29.092381],[-95.13168400000001,29.144528],[-95.23012,29.31633],[-95.451601,29.594894],[-95.52542800000001,29.87269],[-95.47620999999999,30.107145],[-95.254729,30.27731],[-94.910203,30.425963],[-94.565676,30.5532],[-94.196541,30.574389],[-93.85201499999999,30.595575],[-93.51422599999999,30.655315],[-93.23679,30.634148],[-92.930346,30.667499],[-92.786404,30.809778],[-92.670783,30.955015],[-92.523129,31.144761],[-92.277039,31.018305],[-92.080167,30.891682],[-91.883295,30.76489],[-92.055558,30.595575],[-92.178603,30.319806],[-92.20321199999999,30.000643],[-92.129385,29.765936]]],"type":"Polygon"}
+}

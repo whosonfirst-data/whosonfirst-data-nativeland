@@ -1,0 +1,57 @@
+{
+  "id": 1796621515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.14446,
+    "geom:bbox":"-70.335477,0.185123,-69.962926,0.668734",
+    "geom:latitude":0.409988,
+    "geom:longitude":-70.145429,
+    "iso:country":"XY",
+    "lbl:latitude":0.405043,
+    "lbl:longitude":-70.148978,
+    "mps:latitude":0.405043,
+    "mps:longitude":-70.148978,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#28A8EA",
+    "nativeland:description":"https://native-land.ca/maps/territories/dokapuara-tuyuca/",
+    "nativeland:id":33643,
+    "nativeland:name":"Dokapuara (Tuyuca)",
+    "nativeland:slug":"dokapuara-tuyuca",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33643
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"526ba2c90594c1a32d9ea2c163ebd5e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621515
+        }
+    ],
+    "wof:id":1796621515,
+    "wof:lastmodified":1669734062,
+    "wof:name":"Dokapuara (Tuyuca)",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.335477,
+    0.185123,
+    -69.962926,
+    0.668734
+],
+  "geometry": {"coordinates":[[[-70.21164,0.630948],[-70.18853,0.651941],[-70.140221,0.668734],[-70.07852200000001,0.663625],[-70.05162300000001,0.640884],[-70.033124,0.633892],[-70.020471,0.608294],[-69.99820099999999,0.556453],[-69.983383,0.477893],[-69.97610899999999,0.428795],[-69.967472,0.413566],[-69.96610800000001,0.392881],[-69.967017,0.349694],[-69.962926,0.291503],[-69.971563,0.24786],[-70.002477,0.218765],[-70.05521299999999,0.198762],[-70.125224,0.187851],[-70.19898499999999,0.185123],[-70.26728900000001,0.206036],[-70.30297400000001,0.237399],[-70.320474,0.27058],[-70.335477,0.326043],[-70.334113,0.368777],[-70.335022,0.433384],[-70.318656,0.477026],[-70.295016,0.51794],[-70.26188399999999,0.590763],[-70.21164,0.630948]]],"type":"Polygon"}
+}

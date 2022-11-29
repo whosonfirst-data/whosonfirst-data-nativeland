@@ -1,0 +1,57 @@
+{
+  "id": 1796618999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.98428,
+    "geom:bbox":"-119.465332,46.164614,-116.71875,47.487513",
+    "geom:latitude":46.810485,
+    "geom:longitude":-118.048373,
+    "iso:country":"XY",
+    "lbl:latitude":46.906162,
+    "lbl:longitude":-117.70505,
+    "mps:latitude":46.906162,
+    "mps:longitude":-117.70505,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#AA400A",
+    "nativeland:description":"https://native-land.ca/maps/territories/palouse/",
+    "nativeland:id":36460,
+    "nativeland:name":"Palouse",
+    "nativeland:slug":"palouse",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36460
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"1d980550732f0006f2e60ef5c027ba71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796618999
+        }
+    ],
+    "wof:id":1796618999,
+    "wof:lastmodified":1669734051,
+    "wof:name":"Palouse",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.465332,
+    46.164614,
+    -116.71875,
+    47.487513
+],
+  "geometry": {"coordinates":[[[-117.751465,47.487513],[-117.29003899999999,47.309034],[-117.02636699999999,47.070122],[-116.784668,46.875213],[-116.71875,46.634351],[-117.004395,46.483265],[-117.421875,46.377254],[-117.79541,46.331758],[-118.25683600000001,46.589069],[-118.674316,46.483265],[-118.981934,46.225453],[-119.157715,46.164614],[-119.465332,46.709736],[-119.22363300000001,46.980252],[-118.60839799999999,47.085085],[-118.190918,47.249407],[-117.81738300000001,47.44295],[-117.751465,47.487513]]],"type":"Polygon"}
+}

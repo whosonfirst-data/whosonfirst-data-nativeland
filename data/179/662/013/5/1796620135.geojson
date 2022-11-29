@@ -1,0 +1,57 @@
+{
+  "id": 1796620135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.171614,
+    "geom:bbox":"-124.143599,44.21127,-123.422754,44.555464",
+    "geom:latitude":44.388465,
+    "geom:longitude":-123.804664,
+    "iso:country":"XY",
+    "lbl:latitude":44.397278,
+    "lbl:longitude":-123.833841,
+    "mps:latitude":44.397278,
+    "mps:longitude":-123.833841,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#1A088B",
+    "nativeland:description":"https://native-land.ca/maps/territories/alsea/",
+    "nativeland:id":35952,
+    "nativeland:name":"\u00c4ls\u00e9 (Alsea)",
+    "nativeland:slug":"alsea",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35952
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"9c4c9549e63153e9ba470cdf00a63d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620135
+        }
+    ],
+    "wof:id":1796620135,
+    "wof:lastmodified":1669734065,
+    "wof:name":"\u00c4ls\u00e9 (Alsea)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.143599,
+    44.21127,
+    -123.422754,
+    44.555464
+],
+  "geometry": {"coordinates":[[[-124.07081700000001,44.555464],[-123.94841,44.538017],[-123.844724,44.528778],[-123.717997,44.524671],[-123.561036,44.515822],[-123.540038,44.491721],[-123.51752399999999,44.463601],[-123.50778,44.434196],[-123.466482,44.376924],[-123.44461800000001,44.330023],[-123.422754,44.289172],[-123.48009500000001,44.275768],[-123.577957,44.272965],[-123.66994699999999,44.249136],[-123.722792,44.21127],[-123.812826,44.233712],[-123.83044099999999,44.265958],[-123.940046,44.271564],[-124.053566,44.272965],[-124.10641200000001,44.261753],[-124.14359899999999,44.267359],[-124.125984,44.330396],[-124.110326,44.445378],[-124.096626,44.506827],[-124.098583,44.537528],[-124.07081700000001,44.555464]]],"type":"Polygon"}
+}

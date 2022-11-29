@@ -1,0 +1,57 @@
+{
+  "id": 1796620219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.062397,
+    "geom:bbox":"-100.063477,18.31281,-99.685477,18.600046",
+    "geom:latitude":18.457064,
+    "geom:longitude":-99.870895,
+    "iso:country":"XY",
+    "lbl:latitude":18.4482,
+    "lbl:longitude":-99.868031,
+    "mps:latitude":18.4482,
+    "mps:longitude":-99.868031,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#F4C660",
+    "nativeland:description":"https://native-land.ca/maps/territories/chontal-de-guerrero-tuxteco/",
+    "nativeland:id":35916,
+    "nativeland:name":"Chontal de Guerrero &#8211; Tuxteco",
+    "nativeland:slug":"chontal-de-guerrero-tuxteco",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35916
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"3196b9293cdf4e9bc93aeebbdc5be10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620219
+        }
+    ],
+    "wof:id":1796620219,
+    "wof:lastmodified":1669734088,
+    "wof:name":"Chontal de Guerrero &#8211; Tuxteco",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.063477,
+    18.31281,
+    -99.685477,
+    18.600046
+],
+  "geometry": {"coordinates":[[[-99.87808200000001,18.31281],[-99.96322600000001,18.336276],[-100.06347700000001,18.415094],[-99.992422,18.494561],[-99.914474,18.559692],[-99.810104,18.600046],[-99.734573,18.575965],[-99.68547700000001,18.561968],[-99.7229,18.516725],[-99.771698,18.37569],[-99.87808200000001,18.31281]]],"type":"Polygon"}
+}

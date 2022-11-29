@@ -1,0 +1,57 @@
+{
+  "id": 1796620767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.108235,
+    "geom:bbox":"175.638807,-37.928178,176.108076,-37.565382",
+    "geom:latitude":-37.735347,
+    "geom:longitude":175.87957,
+    "iso:country":"XY",
+    "lbl:latitude":-37.718147,
+    "lbl:longitude":175.930966,
+    "mps:latitude":-37.718147,
+    "mps:longitude":175.930966,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#B54088",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngati-hinerangi/",
+    "nativeland:id":33986,
+    "nativeland:name":"Ng\u0101ti Hinerangi",
+    "nativeland:slug":"ngati-hinerangi",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33986
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"44b40894403dfd5fc742aff1f2be58ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620767
+        }
+    ],
+    "wof:id":1796620767,
+    "wof:lastmodified":1669734067,
+    "wof:name":"Ng\u0101ti Hinerangi",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.638807,
+    -37.928178,
+    176.108076,
+    -37.565382
+],
+  "geometry": {"coordinates":[[[175.95131000000001,-37.569382],[175.974707,-37.575384],[176.09526500000001,-37.639604],[176.10807600000001,-37.658972],[176.102723,-37.707386],[176.093118,-37.730094],[176.063559,-37.760075],[176.044814,-37.806122],[175.97914499999999,-37.839544],[175.95503500000001,-37.865536],[175.90559500000001,-37.90346],[175.854893,-37.924346],[175.832707,-37.928178],[175.76127600000001,-37.907025],[175.64946800000001,-37.854251],[175.63880700000001,-37.824232],[175.65133499999999,-37.81247],[175.75524899999999,-37.767673],[175.78483299999999,-37.750143],[175.802693,-37.724174],[175.65593200000001,-37.59805],[175.74394599999999,-37.587691],[175.77569600000001,-37.567468],[175.81051600000001,-37.565382],[175.826536,-37.573224],[175.92797300000001,-37.580543],[175.95131000000001,-37.569382]]],"type":"Polygon"}
+}

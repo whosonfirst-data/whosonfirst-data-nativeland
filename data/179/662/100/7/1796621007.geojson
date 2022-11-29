@@ -1,0 +1,57 @@
+{
+  "id": 1796621007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.109452,
+    "geom:bbox":"-77.163815,38.798612,-76.677803,39.085557",
+    "geom:latitude":38.93827,
+    "geom:longitude":-76.917966,
+    "iso:country":"XY",
+    "lbl:latitude":38.941726,
+    "lbl:longitude":-76.917966,
+    "mps:latitude":38.941726,
+    "mps:longitude":-76.917966,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#9B2E39",
+    "nativeland:description":"https://native-land.ca/maps/territories/nacotchtank-anacostan/",
+    "nativeland:id":33873,
+    "nativeland:name":"Nacotchtank (Anacostan)",
+    "nativeland:slug":"nacotchtank-anacostan",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33873
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"7a76026534b7b85b7db3c56318b5928d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621007
+        }
+    ],
+    "wof:id":1796621007,
+    "wof:lastmodified":1669734080,
+    "wof:name":"Nacotchtank (Anacostan)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.163815,
+    38.798612,
+    -76.677803,
+    39.085557
+],
+  "geometry": {"coordinates":[[[-77.025688,38.80916],[-77.05911500000001,38.828214],[-77.09792,38.853306],[-77.116224,38.891497],[-77.143314,38.934794],[-77.163815,38.97408],[-77.161618,39.003673],[-77.135992,39.036097],[-77.096456,39.058273],[-77.02177500000001,39.074758],[-76.944165,39.082147],[-76.909021,39.085557],[-76.84605500000001,39.073622],[-76.82628699999999,39.068506],[-76.808054,39.061217],[-76.756299,39.03107],[-76.73387099999999,39.008284],[-76.714894,38.992866],[-76.69591699999999,38.958666],[-76.688154,38.928476],[-76.677803,38.898273],[-76.68211599999999,38.886188],[-76.688154,38.864699],[-76.69678,38.849922],[-76.69678,38.834469],[-76.715729,38.821816],[-76.76581,38.805996],[-76.837547,38.798612],[-76.91605199999999,38.798612],[-76.99590999999999,38.804941],[-77.025688,38.80916]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796621169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.430703,
+    "geom:bbox":"-81.490848,34.850919,-80.63842,35.57891",
+    "geom:latitude":35.205196,
+    "geom:longitude":-81.049034,
+    "iso:country":"XY",
+    "lbl:latitude":35.194262,
+    "lbl:longitude":-81.040915,
+    "mps:latitude":35.194262,
+    "mps:longitude":-81.040915,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#921C9E",
+    "nativeland:description":"https://native-land.ca/maps/territories/sugaree/",
+    "nativeland:id":33801,
+    "nativeland:name":"Sugaree",
+    "nativeland:slug":"sugaree",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33801
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"d4a98bdaaddfbd5453cce9c4dd3c96f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621169
+        }
+    ],
+    "wof:id":1796621169,
+    "wof:lastmodified":1669734075,
+    "wof:name":"Sugaree",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.490848,
+    34.850919,
+    -80.63842,
+    35.57891
+],
+  "geometry": {"coordinates":[[[-80.88846599999999,35.567817],[-80.847549,35.57891],[-80.772535,35.553023],[-80.670244,35.512327],[-80.63842,35.434576],[-80.63842,35.351188],[-80.64978600000001,35.267714],[-80.67479,35.189727],[-80.765716,35.020499],[-80.85209500000001,34.972083],[-81.070317,34.893813],[-81.21579800000001,34.850919],[-81.40446900000001,34.875166],[-81.45220500000001,34.953454],[-81.481756,35.044696],[-81.490848,35.124685],[-81.424927,35.241731],[-81.270353,35.388265],[-81.008942,35.553028],[-80.88846599999999,35.567817]]],"type":"Polygon"}
+}

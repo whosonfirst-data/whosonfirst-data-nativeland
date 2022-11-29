@@ -1,0 +1,57 @@
+{
+  "id": 1796621127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.462924,
+    "geom:bbox":"-81.219573,38.164643,-79.632721,39.459205",
+    "geom:latitude":38.836096,
+    "geom:longitude":-80.380989,
+    "iso:country":"XY",
+    "lbl:latitude":38.843631,
+    "lbl:longitude":-80.380989,
+    "mps:latitude":38.843631,
+    "mps:longitude":-80.380989,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#AD1AA6",
+    "nativeland:description":"https://native-land.ca/maps/territories/calicuas/",
+    "nativeland:id":33818,
+    "nativeland:name":"Calicuas",
+    "nativeland:slug":"calicuas",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33818
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"987abc458cd07e010968d415aa1ca542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621127
+        }
+    ],
+    "wof:id":1796621127,
+    "wof:lastmodified":1669734094,
+    "wof:name":"Calicuas",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.219573,
+    38.164643,
+    -79.632721,
+    39.459205
+],
+  "geometry": {"coordinates":[[[-80.838385,39.311472],[-80.38258500000001,39.459205],[-80.007653,39.374013],[-79.713589,39.197619],[-79.632721,38.814865],[-79.684183,38.591116],[-79.912082,38.280154],[-80.22085,38.164643],[-80.728111,38.366666],[-81.08411599999999,38.556957],[-81.219573,38.998539],[-81.028432,39.203922],[-80.838385,39.311472]]],"type":"Polygon"}
+}

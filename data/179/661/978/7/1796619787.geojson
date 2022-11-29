@@ -1,0 +1,57 @@
+{
+  "id": 1796619787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.594962,
+    "geom:bbox":"148.513183,-22.400871,149.370117,-21.585935",
+    "geom:latitude":-22.015799,
+    "geom:longitude":148.942723,
+    "iso:country":"XY",
+    "lbl:latitude":-22.000777,
+    "lbl:longitude":148.942723,
+    "mps:latitude":-22.000777,
+    "mps:longitude":148.942723,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#AF4B93",
+    "nativeland:description":"https://native-land.ca/maps/territories/baradha/",
+    "nativeland:id":36106,
+    "nativeland:name":"Baradha",
+    "nativeland:slug":"baradha",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36106
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"a936bb409069eed033289419348a9254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619787
+        }
+    ],
+    "wof:id":1796619787,
+    "wof:lastmodified":1669734037,
+    "wof:name":"Baradha",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.513183,
+    -22.400871,
+    149.370117,
+    -21.585935
+],
+  "geometry": {"coordinates":[[[148.59008700000001,-21.647217],[148.63403299999999,-21.626792],[148.80981399999999,-21.616579],[149.12841700000001,-21.585935],[149.27124000000001,-21.759499],[149.35912999999999,-21.943045],[149.35912999999999,-22.105998],[149.37011699999999,-22.350075],[149.205322,-22.400871],[148.99658199999999,-22.400871],[148.82079999999999,-22.390713],[148.688964,-22.319589],[148.546142,-22.390713],[148.513183,-22.339914],[148.546142,-22.105998],[148.546142,-21.861498],[148.59008700000001,-21.647217]]],"type":"Polygon"}
+}

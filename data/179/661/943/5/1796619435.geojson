@@ -1,0 +1,57 @@
+{
+  "id": 1796619435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.699019,
+    "geom:bbox":"115.697021,-23.865745,117.822876,-22.619082",
+    "geom:latitude":-23.292291,
+    "geom:longitude":116.788222,
+    "iso:country":"XY",
+    "lbl:latitude":-23.285247,
+    "lbl:longitude":116.71575,
+    "mps:latitude":-23.285247,
+    "mps:longitude":116.71575,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#BA6BCB",
+    "nativeland:description":"https://native-land.ca/maps/territories/jiwarli/",
+    "nativeland:id":36264,
+    "nativeland:name":"Jiwarli",
+    "nativeland:slug":"jiwarli",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36264
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"0ba73706fcdd00b16dc5c0c58a603443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619435
+        }
+    ],
+    "wof:id":1796619435,
+    "wof:lastmodified":1669734057,
+    "wof:name":"Jiwarli",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.697021,
+    -23.865745,
+    117.822876,
+    -22.619082
+],
+  "geometry": {"coordinates":[[[115.88928199999999,-22.619082],[115.9552,-22.639363],[116.004639,-22.720457],[116.087036,-22.796439],[116.251831,-22.892623],[116.455078,-22.968509],[116.66931200000001,-23.089838],[116.85607899999999,-23.20601],[117.09777800000001,-23.306946],[117.333984,-23.372514],[117.72399900000001,-23.473324],[117.82287599999999,-23.579092],[117.778931,-23.755182],[117.658081,-23.865745],[117.564697,-23.825551],[117.355957,-23.745126],[116.883545,-23.528737],[116.553955,-23.377556],[116.213379,-23.200961],[115.86731,-22.998852],[115.69702100000001,-22.907803],[115.751953,-22.806567],[115.80688499999999,-22.740723],[115.88928199999999,-22.619082]]],"type":"Polygon"}
+}

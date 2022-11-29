@@ -1,0 +1,57 @@
+{
+  "id": 1796618483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.45771,
+    "geom:bbox":"-76.215181,-3.961962,-75.242915,-3.354375",
+    "geom:latitude":-3.67085,
+    "geom:longitude":-75.734672,
+    "iso:country":"XY",
+    "lbl:latitude":-3.656115,
+    "lbl:longitude":-75.743931,
+    "mps:latitude":-3.656115,
+    "mps:longitude":-75.743931,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/itechi-taushiro/",
+    "nativeland:id":37372,
+    "nativeland:name":"Ite&#8217;chi (Taushiro)",
+    "nativeland:slug":"itechi-taushiro",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37372
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"d346465d1100d64ba886ea62171000db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796618483
+        }
+    ],
+    "wof:id":1796618483,
+    "wof:lastmodified":1669734047,
+    "wof:name":"Ite&#8217;chi (Taushiro)",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.215181,
+    -3.961962,
+    -75.242915,
+    -3.354375
+],
+  "geometry": {"coordinates":[[[-76.213337,-3.573524],[-76.175974,-3.501381],[-76.129796,-3.438849],[-76.081091,-3.401679],[-76.01177800000001,-3.380965],[-75.94266,-3.365949],[-75.81715199999999,-3.354375],[-75.70424199999999,-3.363373],[-75.593661,-3.403514],[-75.51994000000001,-3.430274],[-75.40936000000001,-3.510549],[-75.308832,-3.617571],[-75.26552,-3.686546],[-75.246329,-3.746991],[-75.242915,-3.799833],[-75.25186600000001,-3.865012],[-75.28514199999999,-3.911316],[-75.376119,-3.95347],[-75.462975,-3.958619],[-75.62717000000001,-3.961962],[-75.72434699999999,-3.955276],[-75.86508600000001,-3.931875],[-75.992422,-3.881728],[-76.062791,-3.858325],[-76.16000699999999,-3.796531],[-76.198928,-3.71669],[-76.215181,-3.659469],[-76.213337,-3.573524]]],"type":"Polygon"}
+}

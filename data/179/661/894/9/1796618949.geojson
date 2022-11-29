@@ -1,0 +1,57 @@
+{
+  "id": 1796618949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.075564,
+    "geom:bbox":"-123.903809,39.528622,-123.495124,39.832616",
+    "geom:latitude":39.657901,
+    "geom:longitude":-123.722817,
+    "iso:country":"XY",
+    "lbl:latitude":39.650287,
+    "lbl:longitude":-123.739359,
+    "mps:latitude":39.650287,
+    "mps:longitude":-123.739359,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#9B1034",
+    "nativeland:description":"https://native-land.ca/maps/territories/coast-yuki/",
+    "nativeland:id":36483,
+    "nativeland:name":"Coast Yuki",
+    "nativeland:slug":"coast-yuki",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36483
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"23a520df9add66a5d8c42f5f55cf0aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796618949
+        }
+    ],
+    "wof:id":1796618949,
+    "wof:lastmodified":1669734032,
+    "wof:name":"Coast Yuki",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.903809,
+    39.528622,
+    -123.495124,
+    39.832616
+],
+  "geometry": {"coordinates":[[[-123.87085,39.825413],[-123.82726599999999,39.832616],[-123.795344,39.822617],[-123.77659800000001,39.812617],[-123.739014,39.791655],[-123.687443,39.758548],[-123.65445099999999,39.726532],[-123.60004600000001,39.683094],[-123.563241,39.666607],[-123.528083,39.637433],[-123.495133,39.584537],[-123.495124,39.554463],[-123.580022,39.540156],[-123.648449,39.541089],[-123.757132,39.530318],[-123.803828,39.528622],[-123.848877,39.529467],[-123.840374,39.575854],[-123.858225,39.650115],[-123.881017,39.747097],[-123.903809,39.783213],[-123.88732899999999,39.813839],[-123.87085,39.825413]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796618981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.566525,
+    "geom:bbox":"116.564941,-23.533773,117.850342,-22.700188",
+    "geom:latitude":-23.116895,
+    "geom:longitude":117.211535,
+    "iso:country":"XY",
+    "lbl:latitude":-23.054281,
+    "lbl:longitude":117.167714,
+    "mps:latitude":-23.054281,
+    "mps:longitude":117.167714,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#C0F5F8",
+    "nativeland:description":"https://native-land.ca/maps/territories/jurruru/",
+    "nativeland:id":36470,
+    "nativeland:name":"Jurruru",
+    "nativeland:slug":"jurruru",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36470
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"e113818d0eedbc46cc872794ad7606af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618981
+        }
+    ],
+    "wof:id":1796618981,
+    "wof:lastmodified":1669734050,
+    "wof:name":"Jurruru",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.564941,
+    -23.533773,
+    117.850342,
+    -22.700188
+],
+  "geometry": {"coordinates":[[[116.8396,-22.781246],[116.916504,-22.745789],[117.059326,-22.700188],[117.240601,-22.771117],[117.45483400000001,-22.907803],[117.625122,-23.104997],[117.74597199999999,-23.271627],[117.828369,-23.367471],[117.850342,-23.468285],[117.713013,-23.533773],[117.55920399999999,-23.488439],[117.075806,-23.337212],[116.76269499999999,-23.216107],[116.564941,-23.084785],[116.652832,-22.922982],[116.740723,-22.907803],[116.8396,-22.781246]]],"type":"Polygon"}
+}

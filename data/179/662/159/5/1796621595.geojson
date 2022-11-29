@@ -1,0 +1,57 @@
+{
+  "id": 1796621595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.475257,
+    "geom:bbox":"-79.030994,-2.395452,-78.368166,-1.427933",
+    "geom:latitude":-1.921593,
+    "geom:longitude":-78.705826,
+    "iso:country":"XY",
+    "lbl:latitude":-1.916722,
+    "lbl:longitude":-78.712139,
+    "mps:latitude":-1.916722,
+    "mps:longitude":-78.712139,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#851214",
+    "nativeland:description":"https://native-land.ca/maps/territories/puruwa/",
+    "nativeland:id":33592,
+    "nativeland:name":"Puruw\u00e1",
+    "nativeland:slug":"puruwa",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33592
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"753bb0adf5baea1245c786198b95b241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621595
+        }
+    ],
+    "wof:id":1796621595,
+    "wof:lastmodified":1669734060,
+    "wof:name":"Puruw\u00e1",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.030994,
+    -2.395452,
+    -78.368166,
+    -1.427933
+],
+  "geometry": {"coordinates":[[[-78.860833,-2.334481],[-78.92192900000001,-2.29733],[-78.977622,-2.216174],[-79.010109,-2.137333],[-79.03099400000001,-2.039936],[-79.026353,-1.94949],[-79.01475000000001,-1.847443],[-79.006164,-1.784366],[-78.96990599999999,-1.711851],[-78.925282,-1.639367],[-78.90157499999999,-1.594761],[-78.897391,-1.558517],[-78.88344600000001,-1.520878],[-78.88824,-1.474591],[-78.84823400000001,-1.444597],[-78.781558,-1.427933],[-78.728217,-1.464593],[-78.66820800000001,-1.517916],[-78.528189,-1.531246],[-78.391503,-1.591232],[-78.368166,-1.637887],[-78.378168,-1.717864],[-78.388169,-1.797838],[-78.400384,-1.879889],[-78.422574,-2.029586],[-78.439217,-2.112746],[-78.48914499999999,-2.262421],[-78.53352599999999,-2.334481],[-78.616739,-2.378824],[-78.733238,-2.395452],[-78.816452,-2.378824],[-78.860833,-2.334481]]],"type":"Polygon"}
+}

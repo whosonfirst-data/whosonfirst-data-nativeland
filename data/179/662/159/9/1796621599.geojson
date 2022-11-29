@@ -1,0 +1,57 @@
+{
+  "id": 1796621599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":2.145651,
+    "geom:bbox":"-61.231081,-25.504863,-58.679722,-23.727644",
+    "geom:latitude":-24.59314,
+    "geom:longitude":-59.871519,
+    "iso:country":"XY",
+    "lbl:latitude":-24.576462,
+    "lbl:longitude":-59.871519,
+    "mps:latitude":-24.576462,
+    "mps:longitude":-59.871519,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#723916",
+    "nativeland:description":"https://native-land.ca/maps/territories/pilagalek/",
+    "nativeland:id":33588,
+    "nativeland:name":"Pilagal&#8217;ek",
+    "nativeland:slug":"pilagalek",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33588
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"b79313f47130b725857018ff146485b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621599
+        }
+    ],
+    "wof:id":1796621599,
+    "wof:lastmodified":1669734059,
+    "wof:name":"Pilagal&#8217;ek",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.231081,
+    -25.504863,
+    -58.679722,
+    -23.727644
+],
+  "geometry": {"coordinates":[[[-58.706665,-24.955575],[-58.727025,-25.128857],[-58.778562,-25.318545],[-58.858051,-25.444774],[-58.910857,-25.473334],[-58.998639,-25.500373],[-59.076428,-25.504863],[-59.400874,-25.354601],[-59.63381,-25.219205],[-59.825149,-25.083658],[-59.983213,-24.955504],[-60.274382,-24.812115],[-60.532275,-24.653439],[-60.76521,-24.623192],[-61.139571,-24.320321],[-61.231081,-24.092692],[-61.206124,-23.887479],[-61.143534,-23.765718],[-61.010428,-23.727644],[-60.751642,-23.827021],[-60.551983,-23.925914],[-60.260814,-24.03233],[-60.077793,-24.024732],[-59.936368,-24.070314],[-59.653518,-24.229726],[-59.403486,-24.313147],[-59.178869,-24.366205],[-58.97921,-24.45711],[-58.79619,-24.646284],[-58.712999,-24.744541],[-58.679722,-24.835172],[-58.706665,-24.955575]]],"type":"Polygon"}
+}

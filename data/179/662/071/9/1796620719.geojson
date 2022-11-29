@@ -1,0 +1,57 @@
+{
+  "id": 1796620719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.126857,
+    "geom:bbox":"173.751567,-39.548701,174.248928,-39.05834",
+    "geom:latitude":-39.291586,
+    "geom:longitude":173.960144,
+    "iso:country":"XY",
+    "lbl:latitude":-39.291873,
+    "lbl:longitude":173.914929,
+    "mps:latitude":-39.291873,
+    "mps:longitude":173.914929,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#044D2E",
+    "nativeland:description":"https://native-land.ca/maps/territories/taranaki/",
+    "nativeland:id":34004,
+    "nativeland:name":"Taranaki",
+    "nativeland:slug":"taranaki",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34004
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"2fe13c24ea98feb7f5a153d3cc7f4528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620719
+        }
+    ],
+    "wof:id":1796620719,
+    "wof:lastmodified":1669734066,
+    "wof:name":"Taranaki",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.751567,
+    -39.548701,
+    174.248928,
+    -39.05834
+],
+  "geometry": {"coordinates":[[[173.779538,-39.386976],[173.75156699999999,-39.281186],[173.78974700000001,-39.182758],[173.81994399999999,-39.160326],[173.84588099999999,-39.154007],[173.91089500000001,-39.120122],[173.948139,-39.115198],[174.00582399999999,-39.08406],[174.02444399999999,-39.05834],[174.24892800000001,-39.249516],[174.196235,-39.28079],[174.153952,-39.292785],[174.090757,-39.29288],[174.066228,-39.310447],[174.05460199999999,-39.342656],[174.05967200000001,-39.353958],[174.0506,-39.389423],[174.022299,-39.420237],[174.02220399999999,-39.450715],[174.010188,-39.526294],[174.00210999999999,-39.54464],[173.979555,-39.548701],[173.92434,-39.537357],[173.88206400000001,-39.5132],[173.81994399999999,-39.451943],[173.779538,-39.386976]]],"type":"Polygon"}
+}

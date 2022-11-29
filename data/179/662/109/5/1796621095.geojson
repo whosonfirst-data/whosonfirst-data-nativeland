@@ -1,0 +1,57 @@
+{
+  "id": 1796621095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.0454,
+    "geom:bbox":"-77.553082,37.268604,-77.218248,37.457088",
+    "geom:latitude":37.363608,
+    "geom:longitude":-77.38313,
+    "iso:country":"XY",
+    "lbl:latitude":37.357512,
+    "lbl:longitude":-77.383131,
+    "mps:latitude":37.357512,
+    "mps:longitude":-77.383131,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#17D151",
+    "nativeland:description":"https://native-land.ca/maps/territories/arrohatec/",
+    "nativeland:id":33835,
+    "nativeland:name":"Arrohateck",
+    "nativeland:slug":"arrohatec",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33835
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"2dbca249ec5197a79527972fb3403cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621095
+        }
+    ],
+    "wof:id":1796621095,
+    "wof:lastmodified":1669734080,
+    "wof:name":"Arrohateck",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.553082,
+    37.268604,
+    -77.218248,
+    37.457088
+],
+  "geometry": {"coordinates":[[[-77.355343,37.286807],[-77.40467599999999,37.268604],[-77.449962,37.270775],[-77.50452300000001,37.28597],[-77.539987,37.3042],[-77.553082,37.337176],[-77.551991,37.355827],[-77.549808,37.368837],[-77.532895,37.396583],[-77.510597,37.410227],[-77.409818,37.430417],[-77.364422,37.444114],[-77.301776,37.457088],[-77.245486,37.454926],[-77.22551199999999,37.434743],[-77.218248,37.395081],[-77.228235,37.356842],[-77.244578,37.334467],[-77.279078,37.308474],[-77.315395,37.305586],[-77.355343,37.286807]]],"type":"Polygon"}
+}

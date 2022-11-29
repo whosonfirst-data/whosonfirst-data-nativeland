@@ -1,0 +1,57 @@
+{
+  "id": 1796621107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.18265,
+    "geom:bbox":"-76.101918,37.061881,-75.613427,37.647979",
+    "geom:latitude":37.359922,
+    "geom:longitude":-75.882191,
+    "iso:country":"XY",
+    "lbl:latitude":37.369895,
+    "lbl:longitude":-75.886843,
+    "mps:latitude":37.369895,
+    "mps:longitude":-75.886843,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#000185",
+    "nativeland:description":"https://native-land.ca/maps/territories/accomack/",
+    "nativeland:id":33824,
+    "nativeland:name":"Accomack",
+    "nativeland:slug":"accomack",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33824
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"270a847979d49e67d3d6ea09052b6f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621107
+        }
+    ],
+    "wof:id":1796621107,
+    "wof:lastmodified":1669734077,
+    "wof:name":"Accomack",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.101918,
+    37.061881,
+    -75.613427,
+    37.647979
+],
+  "geometry": {"coordinates":[[[-76.052887,37.129644],[-76.101918,37.186383],[-76.099476,37.258445],[-76.04192500000001,37.463199],[-76.012405,37.549869],[-75.951489,37.634847],[-75.91510599999999,37.647979],[-75.827384,37.615933],[-75.715581,37.558697],[-75.6634,37.538538],[-75.613427,37.482862],[-75.62179,37.432517],[-75.64584000000001,37.379872],[-75.729507,37.306416],[-75.79801999999999,37.149306],[-75.868499,37.078233],[-75.94326700000001,37.061881],[-76.01556600000001,37.085805],[-76.052887,37.129644]]],"type":"Polygon"}
+}

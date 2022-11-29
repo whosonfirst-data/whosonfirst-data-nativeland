@@ -1,0 +1,57 @@
+{
+  "id": 1796618905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.040736,
+    "geom:bbox":"-96.962736,36.767677,-96.750025,36.999164",
+    "geom:latitude":36.891727,
+    "geom:longitude":-96.842893,
+    "iso:country":"XY",
+    "lbl:latitude":36.897099,
+    "lbl:longitude":-96.842893,
+    "mps:latitude":36.897099,
+    "mps:longitude":-96.842893,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#CB9F2C",
+    "nativeland:description":"https://native-land.ca/maps/territories/kaw-oklahoma/",
+    "nativeland:id":36498,
+    "nativeland:name":"Kaw (Oklahoma)",
+    "nativeland:slug":"kaw-oklahoma",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36498
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"a9754a422ced75330aa5f9e0b631f926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796618905
+        }
+    ],
+    "wof:id":1796618905,
+    "wof:lastmodified":1669734051,
+    "wof:name":"Kaw (Oklahoma)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.962736,
+    36.767677,
+    -96.750025,
+    36.999164
+],
+  "geometry": {"coordinates":[[[-96.823131,36.767677],[-96.884029,36.777201],[-96.912479,36.803335],[-96.925065,36.855569],[-96.96273600000001,36.901396],[-96.94447,36.913511],[-96.953833,36.945543],[-96.92482800000001,36.999082],[-96.75002499999999,36.999164],[-96.752481,36.782065],[-96.823131,36.767677]]],"type":"Polygon"}
+}

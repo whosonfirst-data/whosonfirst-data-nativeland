@@ -1,0 +1,57 @@
+{
+  "id": 1796621167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.739339,
+    "geom:bbox":"-81.271339,34.412513,-80.042566,35.251009",
+    "geom:latitude":34.799659,
+    "geom:longitude":-80.65077,
+    "iso:country":"XY",
+    "lbl:latitude":34.83009,
+    "lbl:longitude":-80.639067,
+    "mps:latitude":34.83009,
+    "mps:longitude":-80.639067,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0BE704",
+    "nativeland:description":"https://native-land.ca/maps/territories/waxhaw/",
+    "nativeland:id":33800,
+    "nativeland:name":"Waxhaw",
+    "nativeland:slug":"waxhaw",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33800
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"0012f17889312cac571156195e434289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621167
+        }
+    ],
+    "wof:id":1796621167,
+    "wof:lastmodified":1669734075,
+    "wof:name":"Waxhaw",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.271339,
+    34.412513,
+    -80.042566,
+    35.251009
+],
+  "geometry": {"coordinates":[[[-80.930858,35.066086],[-80.79925900000001,35.173729],[-80.544286,35.251009],[-80.305763,35.153557],[-80.13303999999999,35.062722],[-80.04256599999999,34.847004],[-80.08369,34.667934],[-80.285201,34.525754],[-80.44062099999999,34.466779],[-80.79018000000001,34.415905],[-81.02047899999999,34.412513],[-81.22198899999999,34.534562],[-81.271339,34.74096],[-81.15619,34.943473],[-80.930858,35.066086]]],"type":"Polygon"}
+}

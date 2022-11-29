@@ -1,0 +1,57 @@
+{
+  "id": 1796621003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.876716,
+    "geom:bbox":"-81.202541,27.013156,-80.074346,28.595904",
+    "geom:latitude":27.868412,
+    "geom:longitude":-80.645269,
+    "iso:country":"XY",
+    "lbl:latitude":27.814506,
+    "lbl:longitude":-80.645269,
+    "mps:latitude":27.814506,
+    "mps:longitude":-80.645269,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#525C54",
+    "nativeland:description":"https://native-land.ca/maps/territories/ais-2/",
+    "nativeland:id":33877,
+    "nativeland:name":"Ais",
+    "nativeland:slug":"ais-2",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33877
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"65b0fea35b8e6d407b29e2b25bc45bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621003
+        }
+    ],
+    "wof:id":1796621003,
+    "wof:lastmodified":1669734080,
+    "wof:name":"Ais",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.202541,
+    27.013156,
+    -80.074346,
+    28.595904
+],
+  "geometry": {"coordinates":[[[-80.08525899999999,27.063027],[-80.13224200000001,27.037095],[-80.209761,27.023285],[-80.267642,27.013156],[-80.355497,27.014998],[-80.438183,27.068392],[-80.496064,27.1282],[-80.581852,27.231179],[-80.643081,27.336966],[-80.708438,27.4576],[-80.859099,27.646837],[-81.013648,27.895008],[-81.16247300000001,28.208207],[-81.202541,28.402233],[-81.176783,28.46012],[-80.979304,28.54312],[-80.781825,28.593391],[-80.633,28.595904],[-80.501347,28.548148],[-80.487037,28.377055],[-80.48473199999999,28.048803],[-80.360803,27.897525],[-80.249185,27.51745],[-80.18310200000001,27.351205],[-80.09724199999999,27.147653],[-80.07434600000001,27.101803],[-80.08525899999999,27.063027]]],"type":"Polygon"}
+}

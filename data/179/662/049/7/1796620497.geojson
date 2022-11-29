@@ -1,0 +1,57 @@
+{
+  "id": 1796620497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":21.803819,
+    "geom:bbox":"143.553575,12.765457,146.99169,20.680056",
+    "geom:latitude":16.612274,
+    "geom:longitude":145.231973,
+    "iso:country":"XY",
+    "lbl:latitude":16.539147,
+    "lbl:longitude":145.264717,
+    "mps:latitude":16.539147,
+    "mps:longitude":145.264717,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#D80BA9",
+    "nativeland:description":"https://native-land.ca/maps/territories/chamorro/",
+    "nativeland:id":34119,
+    "nativeland:name":"Chamorro/Chamoru",
+    "nativeland:slug":"chamorro",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34119
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"c1a23841f1b1f0353ce749efbd43a4e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "nation_id":1796620497
+        }
+    ],
+    "wof:id":1796620497,
+    "wof:lastmodified":1669734066,
+    "wof:name":"Chamorro/Chamoru",
+    "wof:parent_id":102191569,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.553575,
+    12.765457,
+    146.99169,
+    20.680056
+],
+  "geometry": {"coordinates":[[[144.868156,12.765457],[143.97404499999999,13.01429],[143.69750400000001,13.770814],[143.600245,14.864854],[143.553575,16.121824],[143.701358,17.26769],[143.864405,18.608804],[143.95829699999999,19.434288],[144.41184000000001,20.3887],[144.86670000000001,20.680056],[145.43126100000001,20.572611],[146.18489299999999,19.984319],[146.78657000000001,18.843452],[146.99169000000001,17.627315],[146.96584100000001,16.237145],[146.82032000000001,14.683187],[146.33818199999999,13.682402],[145.664883,12.969295],[144.868156,12.765457]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796620507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.006608,
+    "geom:bbox":"-76.458526,2.523308,-76.332635,2.606362",
+    "geom:latitude":2.566292,
+    "geom:longitude":-76.396998,
+    "iso:country":"XY",
+    "lbl:latitude":2.5725,
+    "lbl:longitude":-76.402094,
+    "mps:latitude":2.5725,
+    "mps:longitude":-76.402094,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#63DBC4",
+    "nativeland:description":"https://native-land.ca/maps/territories/ambalo/",
+    "nativeland:id":34110,
+    "nativeland:name":"Ambal\u00f3",
+    "nativeland:slug":"ambalo",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34110
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"cab82d7980438fc6f60e52b8d9e15350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796620507
+        }
+    ],
+    "wof:id":1796620507,
+    "wof:lastmodified":1669734090,
+    "wof:name":"Ambal\u00f3",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.458526,
+    2.523308,
+    -76.332635,
+    2.606362
+],
+  "geometry": {"coordinates":[[[-76.381134,2.60103],[-76.373723,2.595107],[-76.356914,2.580176],[-76.348399,2.56646],[-76.332635,2.560851],[-76.338356,2.5425],[-76.345635,2.531593],[-76.350441,2.526497],[-76.367113,2.523308],[-76.372304,2.525278],[-76.371729,2.536685],[-76.37988300000001,2.544216],[-76.385204,2.543862],[-76.39549100000001,2.528269],[-76.418063,2.540945],[-76.441784,2.543837],[-76.450277,2.560558],[-76.45852600000001,2.584792],[-76.449307,2.595456],[-76.426017,2.60103],[-76.404425,2.606362],[-76.381134,2.60103]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796621021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.075703,
+    "geom:bbox":"-76.639858,36.949082,-76.246228,37.236171",
+    "geom:latitude":37.102509,
+    "geom:longitude":-76.437941,
+    "iso:country":"XY",
+    "lbl:latitude":37.102115,
+    "lbl:longitude":-76.434192,
+    "mps:latitude":37.102115,
+    "mps:longitude":-76.434192,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#3A50FD",
+    "nativeland:description":"https://native-land.ca/maps/territories/kecoughtan/",
+    "nativeland:id":33866,
+    "nativeland:name":"Kecoughtan",
+    "nativeland:slug":"kecoughtan",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33866
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"ed2b69aacc0a71c9279a1c47efafb216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621021
+        }
+    ],
+    "wof:id":1796621021,
+    "wof:lastmodified":1669734060,
+    "wof:name":"Kecoughtan",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.639858,
+    36.949082,
+    -76.246228,
+    37.236171
+],
+  "geometry": {"coordinates":[[[-76.50373500000001,37.008655],[-76.53949,37.038054],[-76.567989,37.05635],[-76.616315,37.087987],[-76.634282,37.116708],[-76.639858,37.159183],[-76.62870599999999,37.182387],[-76.623717,37.192752],[-76.590881,37.205089],[-76.55061000000001,37.215945],[-76.50848000000001,37.227785],[-76.470067,37.228278],[-76.42360100000001,37.233211],[-76.38828599999999,37.236171],[-76.365982,37.224332],[-76.353426,37.206584],[-76.332452,37.185236],[-76.29866199999999,37.152739],[-76.266036,37.123944],[-76.246228,37.083984],[-76.259045,37.033773],[-76.30332199999999,36.992835],[-76.362747,36.968635],[-76.40585900000001,36.950945],[-76.446641,36.949082],[-76.50373500000001,37.008655]]],"type":"Polygon"}
+}

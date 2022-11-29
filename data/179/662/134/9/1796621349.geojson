@@ -1,0 +1,57 @@
+{
+  "id": 1796621349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":2.355161,
+    "geom:bbox":"-63.931887,1.880583,-60.998763,5.556662",
+    "geom:latitude":3.738939,
+    "geom:longitude":-62.571383,
+    "iso:country":"XY",
+    "lbl:latitude":3.973964,
+    "lbl:longitude":-62.915803,
+    "mps:latitude":3.973964,
+    "mps:longitude":-62.915803,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#AC64E2",
+    "nativeland:description":"https://native-land.ca/maps/territories/yanam-ninam/",
+    "nativeland:id":33712,
+    "nativeland:name":"Yanam (Ninam)",
+    "nativeland:slug":"yanam-ninam",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33712
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"739fdecd9fd6945f8af62f9b3445442e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621349
+        }
+    ],
+    "wof:id":1796621349,
+    "wof:lastmodified":1669734061,
+    "wof:name":"Yanam (Ninam)",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.931887,
+    1.880583,
+    -60.998763,
+    5.556662
+],
+  "geometry": {"coordinates":[[[-62.548412,4.059933],[-62.451604,3.981595],[-62.229737,3.799591],[-62.111407,3.62247],[-62.057173,3.455157],[-61.844659,2.938977],[-61.773509,2.954768],[-61.654925,3.025821],[-61.441475,3.010032],[-61.204308,2.875814],[-61.062007,2.638922],[-60.998763,2.346693],[-61.038291,2.204505],[-61.109441,2.030701],[-61.196402,1.920089],[-61.330797,1.880583],[-61.52053,1.935891],[-61.741886,2.267701],[-61.884267,2.473391],[-61.915889,2.741902],[-61.876361,2.915613],[-62.058267,3.436732],[-62.168945,3.342031],[-62.350773,3.334139],[-62.540507,3.397274],[-62.967408,3.602436],[-63.299442,3.823327],[-63.48127,4.115131],[-63.631476,4.446238],[-63.805398,4.832341],[-63.931887,5.202479],[-63.923982,5.422884],[-63.797493,5.556662],[-63.647287,5.540925],[-63.473364,5.312691],[-63.244103,4.974121],[-62.919974,4.643256],[-62.706524,4.320119],[-62.548412,4.059933]]],"type":"Polygon"}
+}

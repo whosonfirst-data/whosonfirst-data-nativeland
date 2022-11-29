@@ -1,0 +1,57 @@
+{
+  "id": 1796620845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.054638,
+    "geom:bbox":"175.548176,-38.550755,175.95444,-38.300784",
+    "geom:latitude":-38.443165,
+    "geom:longitude":175.733906,
+    "iso:country":"XY",
+    "lbl:latitude":-38.416066,
+    "lbl:longitude":175.666195,
+    "mps:latitude":-38.416066,
+    "mps:longitude":175.666195,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#730045",
+    "nativeland:description":"https://native-land.ca/maps/territories/pouakani/",
+    "nativeland:id":33945,
+    "nativeland:name":"Pou\u0101kani",
+    "nativeland:slug":"pouakani",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33945
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"bee0b05cac4fd9aa9dc0ab768964b5fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620845
+        }
+    ],
+    "wof:id":1796620845,
+    "wof:lastmodified":1669734065,
+    "wof:name":"Pou\u0101kani",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.548176,
+    -38.550755,
+    175.95444,
+    -38.300784
+],
+  "geometry": {"coordinates":[[[175.75955200000001,-38.398045],[175.79492400000001,-38.420965],[175.82835800000001,-38.435145],[175.86210299999999,-38.423437],[175.914749,-38.42033],[175.95055400000001,-38.431076],[175.95444000000001,-38.470608],[175.94395299999999,-38.492208],[175.944759,-38.522798],[175.93547899999999,-38.546389],[175.91753499999999,-38.547029],[175.720202,-38.490899],[175.62862000000001,-38.550755],[175.54817600000001,-38.460491],[175.60556500000001,-38.336519],[175.67640599999999,-38.300784],[175.70759000000001,-38.325815],[175.725145,-38.350238],[175.76313999999999,-38.360562],[175.77399,-38.371939],[175.75955200000001,-38.398045]]],"type":"Polygon"}
+}

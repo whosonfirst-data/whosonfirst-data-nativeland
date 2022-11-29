@@ -1,0 +1,57 @@
+{
+  "id": 1796619497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.053796,
+    "geom:bbox":"-77.136917,37.502829,-76.769655,37.717413",
+    "geom:latitude":37.608311,
+    "geom:longitude":-76.959283,
+    "iso:country":"XY",
+    "lbl:latitude":37.611581,
+    "lbl:longitude":-76.959283,
+    "mps:latitude":37.611581,
+    "mps:longitude":-76.959283,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0EF792",
+    "nativeland:description":"https://native-land.ca/maps/territories/pamunkey/",
+    "nativeland:id":36234,
+    "nativeland:name":"Pamunkey",
+    "nativeland:slug":"pamunkey",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36234
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"c4a235e1d507516a9536309276efee0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619497
+        }
+    ],
+    "wof:id":1796619497,
+    "wof:lastmodified":1669734038,
+    "wof:name":"Pamunkey",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.136917,
+    37.502829,
+    -76.769655,
+    37.717413
+],
+  "geometry": {"coordinates":[[[-76.797781,37.515023],[-76.81407299999999,37.506048],[-76.863271,37.502829],[-76.961161,37.51329],[-77.04687800000001,37.533001],[-77.102504,37.594811],[-77.121622,37.626616],[-77.136917,37.664462],[-77.092944,37.714388],[-76.98588100000001,37.717413],[-76.903671,37.694724],[-76.856629,37.655657],[-76.808719,37.597948],[-76.769655,37.560616],[-76.78459100000001,37.527822],[-76.797781,37.515023]]],"type":"Polygon"}
+}

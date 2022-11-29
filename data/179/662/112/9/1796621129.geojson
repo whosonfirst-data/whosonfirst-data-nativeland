@@ -1,0 +1,57 @@
+{
+  "id": 1796621129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":4.312307,
+    "geom:bbox":"-82.68377,35.842819,-79.571942,38.371281",
+    "geom:latitude":37.095388,
+    "geom:longitude":-81.002527,
+    "iso:country":"XY",
+    "lbl:latitude":36.728292,
+    "lbl:longitude":-80.613549,
+    "mps:latitude":36.728292,
+    "mps:longitude":-80.613549,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#EF613F",
+    "nativeland:description":"https://native-land.ca/maps/territories/yesan/",
+    "nativeland:id":33819,
+    "nativeland:name":"Yesan (Tutelo)",
+    "nativeland:slug":"yesan",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33819
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"e48fdb9dcdf8e7e31801f397d4784907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621129
+        }
+    ],
+    "wof:id":1796621129,
+    "wof:lastmodified":1669734094,
+    "wof:name":"Yesan (Tutelo)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.68377,
+    35.842819,
+    -79.571942,
+    38.371281
+],
+  "geometry": {"coordinates":[[[-80.72619400000001,37.616317],[-79.979292,37.433854],[-79.814413,37.395337],[-79.630135,37.179277],[-79.57194200000001,36.815212],[-79.688328,36.519588],[-79.83381,36.261943],[-79.942409,36.11167],[-80.11726400000001,35.979717],[-80.577715,35.871162],[-80.828339,35.847543],[-81.323761,35.842819],[-81.621014,35.880607],[-81.644328,36.050434],[-81.48112999999999,36.412446],[-81.424639,36.907282],[-81.608098,37.127295],[-82.026188,37.389281],[-82.47627900000001,37.838801],[-82.68377,38.151553],[-82.59145100000001,38.317289],[-82.131017,38.371281],[-81.64629499999999,38.368596],[-81.390815,38.309874],[-81.129186,38.18025],[-80.998283,38.077657],[-80.855238,37.811463],[-80.72619400000001,37.616317]]],"type":"Polygon"}
+}

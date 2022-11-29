@@ -1,0 +1,57 @@
+{
+  "id": 1796621509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.02365,
+    "geom:bbox":"-70.60999,0.981525,-70.425358,1.155897",
+    "geom:latitude":1.069028,
+    "geom:longitude":-70.518133,
+    "iso:country":"XY",
+    "lbl:latitude":1.067022,
+    "lbl:longitude":-70.516374,
+    "mps:latitude":1.067022,
+    "mps:longitude":-70.516374,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#A75184",
+    "nativeland:description":"https://native-land.ca/maps/territories/pisamira/",
+    "nativeland:id":33640,
+    "nativeland:name":"Pisamira",
+    "nativeland:slug":"pisamira",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33640
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"33da26c8fe6b004b5019aa4ad047fadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621509
+        }
+    ],
+    "wof:id":1796621509,
+    "wof:lastmodified":1669734059,
+    "wof:name":"Pisamira",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.60999,
+    0.981525,
+    -70.425358,
+    1.155897
+],
+  "geometry": {"coordinates":[[[-70.44705999999999,1.102684],[-70.428617,1.077095],[-70.425358,1.048859],[-70.432962,1.017364],[-70.45034099999999,0.988041],[-70.480754,0.981525],[-70.528547,0.989127],[-70.5698,1.015803],[-70.59804099999999,1.051642],[-70.60999,1.08748],[-70.60999,1.123318],[-70.576318,1.154811],[-70.54698999999999,1.155897],[-70.49919800000001,1.14178],[-70.464439,1.118974],[-70.457922,1.112458],[-70.44705999999999,1.102684]]],"type":"Polygon"}
+}

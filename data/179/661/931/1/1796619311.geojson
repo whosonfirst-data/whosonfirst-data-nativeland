@@ -1,0 +1,57 @@
+{
+  "id": 1796619311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.304643,
+    "geom:bbox":"-111.636568,25.574099,-110.987591,26.211761",
+    "geom:latitude":25.889062,
+    "geom:longitude":-111.281446,
+    "iso:country":"XY",
+    "lbl:latitude":25.896449,
+    "lbl:longitude":-111.275265,
+    "mps:latitude":25.896449,
+    "mps:longitude":-111.275265,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#EAEAF1",
+    "nativeland:description":"https://native-land.ca/maps/territories/monqui/",
+    "nativeland:id":36318,
+    "nativeland:name":"Monqui",
+    "nativeland:slug":"monqui",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36318
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"f9803ed6433171f78c9a8f209d7f1cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619311
+        }
+    ],
+    "wof:id":1796619311,
+    "wof:lastmodified":1669734020,
+    "wof:name":"Monqui",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.636568,
+    25.574099,
+    -110.987591,
+    26.211761
+],
+  "geometry": {"coordinates":[[[-111.636568,25.988959],[-111.616013,26.034411],[-111.373124,26.163327],[-111.305049,26.211761],[-111.186745,26.186319],[-111.10760999999999,26.148857],[-111.00017800000001,26.049658],[-110.98759099999999,25.893416],[-110.989232,25.654958],[-111.33229900000001,25.574099],[-111.376278,25.575208],[-111.479268,25.676239],[-111.56608799999999,25.804482],[-111.60537100000001,25.884028],[-111.636568,25.988959]]],"type":"Polygon"}
+}

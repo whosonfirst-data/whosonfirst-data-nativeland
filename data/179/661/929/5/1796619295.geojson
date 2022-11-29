@@ -1,0 +1,57 @@
+{
+  "id": 1796619295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.205024,
+    "geom:bbox":"141.377563,-15.924355,141.775817,-15.305379",
+    "geom:latitude":-15.625923,
+    "geom:longitude":141.570596,
+    "iso:country":"XY",
+    "lbl:latitude":-15.629104,
+    "lbl:longitude":141.566803,
+    "mps:latitude":-15.629104,
+    "mps:longitude":141.566803,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#63035E",
+    "nativeland:description":"https://native-land.ca/maps/territories/koko-bera/",
+    "nativeland:id":36327,
+    "nativeland:name":"Koko-bera",
+    "nativeland:slug":"koko-bera",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36327
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"1aac3436c3cfb3cd4c54a4fb1a4dd923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619295
+        }
+    ],
+    "wof:id":1796619295,
+    "wof:lastmodified":1669734053,
+    "wof:name":"Koko-bera",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.377563,
+    -15.924355,
+    141.775817,
+    -15.305379
+],
+  "geometry": {"coordinates":[[[141.470947,-15.305379],[141.506652,-15.310677],[141.60278299999999,-15.313326],[141.77581699999999,-15.347761],[141.76757799999999,-15.419262],[141.75109800000001,-15.485445],[141.74285800000001,-15.583356],[141.74011200000001,-15.662709],[141.72363200000001,-15.771109],[141.72363200000001,-15.924355],[141.62475499999999,-15.924355],[141.37756300000001,-15.919073],[141.37756300000001,-15.845104],[141.38305600000001,-15.718238],[141.39404200000001,-15.559544],[141.470947,-15.305379]]],"type":"Polygon"}
+}

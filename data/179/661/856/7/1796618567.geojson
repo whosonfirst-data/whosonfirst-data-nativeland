@@ -1,0 +1,57 @@
+{
+  "id": 1796618567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.079378,
+    "geom:bbox":"115.356445,-25.214881,116.553955,-23.825551",
+    "geom:latitude":-24.486714,
+    "geom:longitude":115.940988,
+    "iso:country":"XY",
+    "lbl:latitude":-24.470473,
+    "lbl:longitude":115.952393,
+    "mps:latitude":-24.470473,
+    "mps:longitude":115.952393,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#45D1EE",
+    "nativeland:description":"https://native-land.ca/maps/territories/warriyangga/",
+    "nativeland:id":36654,
+    "nativeland:name":"Warriyangga",
+    "nativeland:slug":"warriyangga",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36654
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"5b846927d0773c6fb355bee5dcb9f04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618567
+        }
+    ],
+    "wof:id":1796618567,
+    "wof:lastmodified":1669734032,
+    "wof:name":"Warriyangga",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.356445,
+    -25.214881,
+    116.553955,
+    -23.825551
+],
+  "geometry": {"coordinates":[[[115.70800800000001,-23.981234],[115.757446,-23.895883],[115.86731,-23.825551],[115.96069300000001,-23.825551],[116.251831,-23.84565],[116.444092,-23.895883],[116.553955,-24.076559],[116.48803700000001,-24.292034],[116.40564000000001,-24.487149],[116.295776,-24.696934],[116.14746100000001,-24.911349],[115.97717299999999,-25.180088],[115.74646,-25.214881],[115.63110399999999,-25.150257],[115.389404,-25.050769],[115.35644499999999,-24.931276],[115.515747,-24.427145],[115.70800800000001,-23.981234]]],"type":"Polygon"}
+}

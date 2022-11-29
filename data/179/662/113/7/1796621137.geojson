@@ -1,0 +1,57 @@
+{
+  "id": 1796621137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.249133,
+    "geom:bbox":"-76.589108,35.274705,-75.832007,35.717975",
+    "geom:latitude":35.500189,
+    "geom:longitude":-76.232557,
+    "iso:country":"XY",
+    "lbl:latitude":35.497017,
+    "lbl:longitude":-76.239768,
+    "mps:latitude":35.497017,
+    "mps:longitude":-76.239768,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#B0D3E5",
+    "nativeland:description":"https://native-land.ca/maps/territories/mattamuskeet/",
+    "nativeland:id":33810,
+    "nativeland:name":"Mattamuskeet",
+    "nativeland:slug":"mattamuskeet",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33810
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"8cddf4dc59cc2dfa59c5353cf93ebe72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621137
+        }
+    ],
+    "wof:id":1796621137,
+    "wof:lastmodified":1669734096,
+    "wof:name":"Mattamuskeet",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.589108,
+    35.274705,
+    -75.832007,
+    35.717975
+],
+  "geometry": {"coordinates":[[[-75.832007,35.56516],[-75.835672,35.535405],[-75.878985,35.463525],[-75.95061699999999,35.392939],[-76.007257,35.325009],[-76.19216900000001,35.274705],[-76.355886,35.286698],[-76.464168,35.31389],[-76.542464,35.399483],[-76.569118,35.448368],[-76.589108,35.501277],[-76.58244500000001,35.550085],[-76.54413,35.628658],[-76.507481,35.651673],[-76.450841,35.690919],[-76.370879,35.716622],[-76.315905,35.717975],[-76.219285,35.715269],[-76.17876200000001,35.70948],[-76.103222,35.676446],[-76.058673,35.668578],[-76.025745,35.659136],[-75.97340199999999,35.647049],[-75.892051,35.613989],[-75.832007,35.56516]]],"type":"Polygon"}
+}

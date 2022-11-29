@@ -1,0 +1,57 @@
+{
+  "id": 1796621489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.08441,
+    "geom:bbox":"-70.227707,-1.157115,-69.966031,-0.723591",
+    "geom:latitude":-0.948862,
+    "geom:longitude":-70.103753,
+    "iso:country":"XY",
+    "lbl:latitude":-0.966991,
+    "lbl:longitude":-70.106245,
+    "mps:latitude":-0.966991,
+    "mps:longitude":-70.106245,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#D9FF96",
+    "nativeland:description":"https://native-land.ca/maps/territories/cabiyari-kawiyari/",
+    "nativeland:id":33655,
+    "nativeland:name":"Cabiyari/Kawiyar\u00ed",
+    "nativeland:slug":"cabiyari-kawiyari",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33655
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"ec1ed0fdf2eabd20502c7647371ff870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621489
+        }
+    ],
+    "wof:id":1796621489,
+    "wof:lastmodified":1669734095,
+    "wof:name":"Cabiyari/Kawiyar\u00ed",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.227707,
+    -1.157115,
+    -69.966031,
+    -0.723591
+],
+  "geometry": {"coordinates":[[[-70.201964,-0.755892],[-70.183122,-0.734358],[-70.16293400000001,-0.724264],[-70.136017,-0.723591],[-70.118521,-0.723591],[-70.092173,-0.737829],[-70.06598099999999,-0.752168],[-70.05097000000001,-0.777687],[-70.018878,-0.869676],[-69.999572,-0.925323],[-69.971621,-0.992403],[-69.966031,-1.065074],[-69.96881999999999,-1.099176],[-69.98280099999999,-1.126564],[-70.018035,-1.151174],[-70.03833899999999,-1.157115],[-70.074106,-1.15265],[-70.118826,-1.140539],[-70.14864,-1.120974],[-70.20162000000001,-1.064973],[-70.227707,-0.960626],[-70.22398,-0.874912],[-70.220253,-0.833918],[-70.216526,-0.789197],[-70.201964,-0.755892]]],"type":"Polygon"}
+}

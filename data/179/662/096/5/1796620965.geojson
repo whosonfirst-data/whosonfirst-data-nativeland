@@ -1,0 +1,57 @@
+{
+  "id": 1796620965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.000231,
+    "geom:bbox":"-81.41724,26.394729,-81.400855,26.411583",
+    "geom:latitude":26.403966,
+    "geom:longitude":-81.40938,
+    "iso:country":"XY",
+    "lbl:latitude":26.404089,
+    "lbl:longitude":-81.410472,
+    "mps:latitude":26.404089,
+    "mps:longitude":-81.410472,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#E1EB37",
+    "nativeland:description":"https://native-land.ca/maps/territories/seminole-tribe-of-florida-immokalee-reservation/",
+    "nativeland:id":33894,
+    "nativeland:name":"Seminole Tribe of Florida (Immokalee Reservation)",
+    "nativeland:slug":"seminole-tribe-of-florida-immokalee-reservation",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33894
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"ffebb380639210a30192c731790327d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620965
+        }
+    ],
+    "wof:id":1796620965,
+    "wof:lastmodified":1669734068,
+    "wof:name":"Seminole Tribe of Florida (Immokalee Reservation)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.41724,
+    26.394729,
+    -81.400855,
+    26.411583
+],
+  "geometry": {"coordinates":[[[-81.41724000000001,26.411283],[-81.401901,26.411583],[-81.400935,26.411017],[-81.40086100000001,26.407491],[-81.40390600000001,26.407491],[-81.40390600000001,26.404264],[-81.40086100000001,26.404298],[-81.40085500000001,26.397024],[-81.413453,26.39668],[-81.41405,26.395877],[-81.413751,26.395074],[-81.414563,26.394729],[-81.41541700000001,26.396604],[-81.417125,26.396604],[-81.41724000000001,26.411283]]],"type":"Polygon"}
+}

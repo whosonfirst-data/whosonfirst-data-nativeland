@@ -1,0 +1,57 @@
+{
+  "id": 1796620381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.22915,
+    "geom:bbox":"-82.96875,27.391278,-81.42517,28.64721",
+    "geom:latitude":27.995347,
+    "geom:longitude":-82.286143,
+    "iso:country":"XY",
+    "lbl:latitude":27.986433,
+    "lbl:longitude":-82.378023,
+    "mps:latitude":27.986433,
+    "mps:longitude":-82.378023,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#8F6D18",
+    "nativeland:description":"https://native-land.ca/maps/territories/tocobaga/",
+    "nativeland:id":35843,
+    "nativeland:name":"Tocobaga",
+    "nativeland:slug":"tocobaga",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35843
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"d223a884b18a4413828df97134ff00f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620381
+        }
+    ],
+    "wof:id":1796620381,
+    "wof:lastmodified":1669734069,
+    "wof:name":"Tocobaga",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.96875,
+    27.391278,
+    -81.42517,
+    28.64721
+],
+  "geometry": {"coordinates":[[[-82.63366600000001,28.64721],[-82.067871,28.526622],[-81.936035,28.241488],[-81.732788,28.139815],[-81.458129,28.149503],[-81.458129,28.0235],[-81.42516999999999,27.839076],[-81.496582,27.741884],[-81.798706,27.630007],[-82.29858299999999,27.488781],[-82.677612,27.391278],[-82.96875,27.834218],[-82.82592699999999,28.386567],[-82.63366600000001,28.64721]]],"type":"Polygon"}
+}

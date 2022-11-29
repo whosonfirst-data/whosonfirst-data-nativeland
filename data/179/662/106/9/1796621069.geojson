@@ -1,0 +1,57 @@
+{
+  "id": 1796621069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":3.500761,
+    "geom:bbox":"-104.382001,45.581447,-100.30611,46.582762",
+    "geom:latitude":46.085852,
+    "geom:longitude":-102.419588,
+    "iso:country":"XY",
+    "lbl:latitude":46.085944,
+    "lbl:longitude":-102.419588,
+    "mps:latitude":46.085944,
+    "mps:longitude":-102.419588,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#CCC37F",
+    "nativeland:description":"https://native-land.ca/maps/territories/itazipco/",
+    "nativeland:id":33846,
+    "nativeland:name":"Itazipco",
+    "nativeland:slug":"itazipco",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33846
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"ed235649c574e96a44268ff1cafa00c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621069
+        }
+    ],
+    "wof:id":1796621069,
+    "wof:lastmodified":1669734081,
+    "wof:name":"Itazipco",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.382001,
+    45.581447,
+    -100.30611,
+    46.582762
+],
+  "geometry": {"coordinates":[[[-104.109976,46.554733],[-103.799216,46.545019],[-103.248324,46.554733],[-102.40079900000001,46.535303],[-101.878158,46.525585],[-101.228388,46.554733],[-100.82432,46.578077],[-100.59178,46.582762],[-100.55097000000001,46.505572],[-100.55097000000001,46.371987],[-100.566273,46.216899],[-100.612184,46.142725],[-100.545868,46.022422],[-100.479552,45.919604],[-100.341819,45.813039],[-100.30611,45.695581],[-100.397932,45.684891],[-100.709108,45.663504],[-101.152916,45.634976],[-101.479395,45.624274],[-102.203772,45.634976],[-102.85673,45.638543],[-103.703536,45.581447],[-104.035117,45.602865],[-104.152446,45.702707],[-104.320787,45.827259],[-104.382001,46.241602],[-104.32588800000001,46.477476],[-104.109976,46.554733]]],"type":"Polygon"}
+}

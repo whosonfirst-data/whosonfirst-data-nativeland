@@ -1,0 +1,57 @@
+{
+  "id": 1796620453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.459007,
+    "geom:bbox":"137.977294,-26.480407,138.949584,-25.903703",
+    "geom:latitude":-26.182695,
+    "geom:longitude":138.475443,
+    "iso:country":"XY",
+    "lbl:latitude":-26.174002,
+    "lbl:longitude":138.475443,
+    "mps:latitude":-26.174002,
+    "mps:longitude":138.475443,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#1BBF19",
+    "nativeland:description":"https://native-land.ca/maps/territories/karangura/",
+    "nativeland:id":35811,
+    "nativeland:name":"Karangura",
+    "nativeland:slug":"karangura",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35811
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"b9a0f6a9e57a41c4325729169e01f22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620453
+        }
+    ],
+    "wof:id":1796620453,
+    "wof:lastmodified":1669734083,
+    "wof:name":"Karangura",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    137.977294,
+    -26.480407,
+    138.949584,
+    -25.903703
+],
+  "geometry": {"coordinates":[[[138.131103,-25.997549],[138.19152800000001,-25.948166],[138.40026800000001,-25.928407],[138.63098099999999,-25.918526],[138.91113200000001,-25.903703],[138.92761200000001,-25.987674],[138.92761200000001,-26.101187],[138.94958399999999,-26.342652],[138.89465300000001,-26.421389],[138.718872,-26.421389],[138.53759700000001,-26.421389],[138.323364,-26.426308],[138.07617099999999,-26.480407],[138.015747,-26.342652],[137.982788,-26.170229],[137.977294,-26.032106],[138.131103,-25.997549]]],"type":"Polygon"}
+}

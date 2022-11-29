@@ -1,0 +1,57 @@
+{
+  "id": 1796618445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.712289,
+    "geom:bbox":"141.236401,-9.942062,142.877517,-9.183186",
+    "geom:latitude":-9.560879,
+    "geom:longitude":141.98153,
+    "iso:country":"XY",
+    "lbl:latitude":-9.535786,
+    "lbl:longitude":141.98153,
+    "mps:latitude":-9.535786,
+    "mps:longitude":141.98153,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/guda-maluilgal/",
+    "nativeland:id":37742,
+    "nativeland:name":"Guda Maluilgal",
+    "nativeland:slug":"guda-maluilgal",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37742
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"859e6eff2b29ccc13c169575e0b8a633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618445
+        }
+    ],
+    "wof:id":1796618445,
+    "wof:lastmodified":1669734029,
+    "wof:name":"Guda Maluilgal",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.236401,
+    -9.942062,
+    142.877517,
+    -9.183186
+],
+  "geometry": {"coordinates":[[[141.44728900000001,-9.435227],[141.67065299999999,-9.339007],[141.99364700000001,-9.294283],[142.06111300000001,-9.259522],[142.095958,-9.209353],[142.20861199999999,-9.183186],[142.29641599999999,-9.233882],[142.449735,-9.275523],[142.56759600000001,-9.354347],[142.847737,-9.286748],[142.87751700000001,-9.376116],[142.867538,-9.477093],[142.73721499999999,-9.587319],[142.434538,-9.659831],[141.97662399999999,-9.776865],[141.73315700000001,-9.935848],[141.423102,-9.942062],[141.236401,-9.882852],[141.27068,-9.602909],[141.44728900000001,-9.435227]]],"type":"Polygon"}
+}

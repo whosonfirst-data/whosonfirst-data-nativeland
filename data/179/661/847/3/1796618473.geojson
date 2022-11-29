@@ -1,0 +1,57 @@
+{
+  "id": 1796618473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.00737,
+    "geom:bbox":"142.574187,-9.809714,142.687573,-9.721899",
+    "geom:latitude":-9.766213,
+    "geom:longitude":142.629901,
+    "iso:country":"XY",
+    "lbl:latitude":-9.764694,
+    "lbl:longitude":142.630981,
+    "mps:latitude":-9.764694,
+    "mps:longitude":142.630981,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/gebaralgal/",
+    "nativeland:id":37502,
+    "nativeland:name":"Gebaralgal",
+    "nativeland:slug":"gebaralgal",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37502
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"48a2d2997aac55f3ace23150ddae47bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618473
+        }
+    ],
+    "wof:id":1796618473,
+    "wof:lastmodified":1669734048,
+    "wof:name":"Gebaralgal",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.574187,
+    -9.809714,
+    142.687573,
+    -9.721899
+],
+  "geometry": {"coordinates":[[[142.61398500000001,-9.809714],[142.59245899999999,-9.802315],[142.58094500000001,-9.787023],[142.57418699999999,-9.773209],[142.579443,-9.745088],[142.60096899999999,-9.731767],[142.62975399999999,-9.721899],[142.65853799999999,-9.728806],[142.679564,-9.744101],[142.68757299999999,-9.763343],[142.68457000000001,-9.784309],[142.66754900000001,-9.793436],[142.642269,-9.805522],[142.61398500000001,-9.809714]]],"type":"Polygon"}
+}

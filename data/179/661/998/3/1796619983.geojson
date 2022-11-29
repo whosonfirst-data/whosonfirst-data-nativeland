@@ -1,0 +1,57 @@
+{
+  "id": 1796619983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":2.13763,
+    "geom:bbox":"-122.270085,41.820455,-120.585938,44.0638",
+    "geom:latitude":42.878281,
+    "geom:longitude":-121.616291,
+    "iso:country":"XY",
+    "lbl:latitude":42.764796,
+    "lbl:longitude":-121.62905,
+    "mps:latitude":42.764796,
+    "mps:longitude":-121.62905,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#FA738D",
+    "nativeland:description":"https://native-land.ca/maps/territories/klamath/",
+    "nativeland:id":36017,
+    "nativeland:name":"Klamath",
+    "nativeland:slug":"klamath",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36017
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"b08a339521843b4002ceffcf524b16e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619983
+        }
+    ],
+    "wof:id":1796619983,
+    "wof:lastmodified":1669734022,
+    "wof:name":"Klamath",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.270085,
+    41.820455,
+    -120.585938,
+    44.0638
+],
+  "geometry": {"coordinates":[[[-121.375995,43.250969],[-121.207486,43.161017],[-120.940382,43.065099],[-120.80139699999999,43.014491],[-120.777873,42.791873],[-120.620914,42.575648],[-120.585938,42.488302],[-120.638381,42.396691],[-120.757549,42.320371],[-120.979203,42.371108],[-121.20197899999999,42.350428],[-121.33300800000001,42.277309],[-121.59668000000001,42.130821],[-121.750488,41.967659],[-121.794434,41.902277],[-122.080078,41.820455],[-122.255859,41.885921],[-122.26724900000001,42.031009],[-122.21191399999999,42.163403],[-122.26423800000001,42.443985],[-122.27008499999999,42.791562],[-122.186689,42.97481],[-122.107579,43.115641],[-122.181872,43.376933],[-122.176967,43.522359],[-121.96925,43.808334],[-121.88799899999999,43.993019],[-121.708776,44.0638],[-121.38157,43.988808],[-121.33282199999999,43.801857],[-121.386979,43.482381],[-121.375995,43.250969]]],"type":"Polygon"}
+}

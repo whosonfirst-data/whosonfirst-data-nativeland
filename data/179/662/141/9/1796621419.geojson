@@ -1,0 +1,57 @@
+{
+  "id": 1796621419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.47101,
+    "geom:bbox":"-75.72688,2.483385,-74.975133,3.327167",
+    "geom:latitude":2.894875,
+    "geom:longitude":-75.349744,
+    "iso:country":"XY",
+    "lbl:latitude":2.904741,
+    "lbl:longitude":-75.342585,
+    "mps:latitude":2.904741,
+    "mps:longitude":-75.342585,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#613DE7",
+    "nativeland:description":"https://native-land.ca/maps/territories/tama-dujo/",
+    "nativeland:id":33682,
+    "nativeland:name":"Tama Dujo",
+    "nativeland:slug":"tama-dujo",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33682
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"793ec1cc3fb550f91bb2dcf532df2a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621419
+        }
+    ],
+    "wof:id":1796621419,
+    "wof:lastmodified":1669734095,
+    "wof:name":"Tama Dujo",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.72688,
+    2.483385,
+    -74.975133,
+    3.327167
+],
+  "geometry": {"coordinates":[[[-75.42558099999999,3.280755],[-75.334638,3.30707],[-75.229969,3.327167],[-75.11259099999999,3.296514],[-75.03857499999999,3.21734],[-75.003677,3.123413],[-74.975133,2.98506],[-75.033288,2.800257],[-75.160172,2.56261],[-75.22890099999999,2.530921],[-75.43508799999999,2.483385],[-75.577832,2.49923],[-75.694142,2.578455],[-75.72687999999999,2.760194],[-75.702072,2.911242],[-75.651848,2.979781],[-75.593692,3.111765],[-75.524964,3.212061],[-75.42558099999999,3.280755]]],"type":"Polygon"}
+}

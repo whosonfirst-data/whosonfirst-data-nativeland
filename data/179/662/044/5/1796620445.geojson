@@ -1,0 +1,57 @@
+{
+  "id": 1796620445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.505201,
+    "geom:bbox":"143.014526,-35.353216,144.074707,-34.669358",
+    "geom:latitude":-34.986692,
+    "geom:longitude":143.550837,
+    "iso:country":"XY",
+    "lbl:latitude":-34.998737,
+    "lbl:longitude":143.550837,
+    "mps:latitude":-34.998737,
+    "mps:longitude":143.550837,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#4FDA58",
+    "nativeland:description":"https://native-land.ca/maps/territories/wadi-wadi/",
+    "nativeland:id":35814,
+    "nativeland:name":"Wadi Wadi",
+    "nativeland:slug":"wadi-wadi",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35814
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"54bb2e510fe2be6494162707d3b00523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796620445
+        }
+    ],
+    "wof:id":1796620445,
+    "wof:lastmodified":1669734086,
+    "wof:name":"Wadi Wadi",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.014526,
+    -35.353216,
+    144.074707,
+    -34.669358
+],
+  "geometry": {"coordinates":[[[143.01452599999999,-34.800272],[143.16833399999999,-34.723554],[143.28918400000001,-34.669358],[143.453979,-34.669358],[143.569335,-34.678393],[143.73962399999999,-34.714524],[143.87145899999999,-34.764178],[143.99230900000001,-34.818313],[144.00878900000001,-34.849875],[144.06371999999999,-34.94899],[144.07470699999999,-35.029996],[143.986816,-35.119908],[143.82202100000001,-35.2815],[143.613281,-35.308401],[143.38256799999999,-35.353216],[143.250732,-35.308401],[143.239746,-35.119908],[143.096923,-34.966998],[143.01452599999999,-34.800272]]],"type":"Polygon"}
+}

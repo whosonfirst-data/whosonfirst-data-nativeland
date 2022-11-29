@@ -1,0 +1,57 @@
+{
+  "id": 1796621375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.625905,
+    "geom:bbox":"-66.806092,-55.117224,-65.068165,-54.591077",
+    "geom:latitude":-54.852815,
+    "geom:longitude":-65.892611,
+    "iso:country":"XY",
+    "lbl:latitude":-54.834784,
+    "lbl:longitude":-65.892611,
+    "mps:latitude":-54.834784,
+    "mps:longitude":-65.892611,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#7568C7",
+    "nativeland:description":"https://native-land.ca/maps/territories/manekenk-haush/",
+    "nativeland:id":33705,
+    "nativeland:name":"M\u00e1nekenk/Haush",
+    "nativeland:slug":"manekenk-haush",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33705
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"9345608df5aa32ce1ccb5ca6916c00e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "nation_id":1796621375
+        }
+    ],
+    "wof:id":1796621375,
+    "wof:lastmodified":1669734082,
+    "wof:name":"M\u00e1nekenk/Haush",
+    "wof:parent_id":102191577,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.806092,
+    -55.117224,
+    -65.068165,
+    -54.591077
+],
+  "geometry": {"coordinates":[[[-66.80014300000001,-54.954471],[-66.70151799999999,-54.904341],[-66.61568200000001,-54.860027],[-66.490799,-54.811984],[-66.393173,-54.767848],[-66.333315,-54.726834],[-66.24897199999999,-54.692937],[-66.10595499999999,-54.639917],[-65.99960900000001,-54.608071],[-65.907931,-54.599575],[-65.786917,-54.601699],[-65.460545,-54.603823],[-65.280857,-54.591077],[-65.13784,-54.608071],[-65.06816499999999,-54.667496],[-65.09016800000001,-54.790305],[-65.174511,-54.892731],[-65.273523,-54.957002],[-65.43092900000001,-55.003813],[-65.628953,-55.033248],[-65.83797800000001,-55.06476],[-66.069005,-55.085754],[-66.384376,-55.117224],[-66.64107300000001,-55.102541],[-66.773088,-55.037451],[-66.80609200000001,-54.982777],[-66.80014300000001,-54.954471]]],"type":"Polygon"}
+}

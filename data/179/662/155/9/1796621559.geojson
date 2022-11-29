@@ -1,0 +1,57 @@
+{
+  "id": 1796621559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.222648,
+    "geom:bbox":"-98.625224,18.772926,-98.007922,19.272308",
+    "geom:latitude":19.002083,
+    "geom:longitude":-98.331581,
+    "iso:country":"XY",
+    "lbl:latitude":18.991121,
+    "lbl:longitude":-98.337461,
+    "mps:latitude":18.991121,
+    "mps:longitude":-98.337461,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#765233",
+    "nativeland:description":"https://native-land.ca/maps/territories/cholulteca/",
+    "nativeland:id":33619,
+    "nativeland:name":"Cholulteca",
+    "nativeland:slug":"cholulteca",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33619
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"c02ca88ce8a6e9680d870702e7555750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621559
+        }
+    ],
+    "wof:id":1796621559,
+    "wof:lastmodified":1669734081,
+    "wof:name":"Cholulteca",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.625224,
+    18.772926,
+    -98.007922,
+    19.272308
+],
+  "geometry": {"coordinates":[[[-98.110517,19.118749],[-98.052057,19.119505],[-98.010245,19.073409],[-98.00792199999999,18.968],[-98.04508800000001,18.844938],[-98.168199,18.787771],[-98.28841,18.772926],[-98.47191599999999,18.81031],[-98.585736,18.871865],[-98.625224,18.981728],[-98.608964,19.102495],[-98.578767,19.212205],[-98.523985,19.254766],[-98.412488,19.272308],[-98.33583400000001,19.19774],[-98.26150199999999,19.171414],[-98.18717100000001,19.127527],[-98.110517,19.118749]]],"type":"Polygon"}
+}

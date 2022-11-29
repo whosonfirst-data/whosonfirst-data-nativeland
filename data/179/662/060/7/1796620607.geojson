@@ -1,0 +1,57 @@
+{
+  "id": 1796620607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.569299,
+    "geom:bbox":"-72.817682,42.525628,-70.525373,43.450201",
+    "geom:latitude":43.022964,
+    "geom:longitude":-71.714302,
+    "iso:country":"XY",
+    "lbl:latitude":43.013077,
+    "lbl:longitude":-71.714302,
+    "mps:latitude":43.013077,
+    "mps:longitude":-71.714302,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#AB8A35",
+    "nativeland:description":"https://native-land.ca/maps/territories/pennacook-2/",
+    "nativeland:id":34060,
+    "nativeland:name":"Pennacook",
+    "nativeland:slug":"pennacook-2",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34060
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"434b1f3673255b6858484a36f5a09bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620607
+        }
+    ],
+    "wof:id":1796620607,
+    "wof:lastmodified":1669734093,
+    "wof:name":"Pennacook",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.817682,
+    42.525628,
+    -70.525373,
+    43.450201
+],
+  "geometry": {"coordinates":[[[-70.73138299999999,42.864053],[-70.96741299999999,42.804259],[-71.05324299999999,42.75071],[-71.151946,42.665567],[-71.28927299999999,42.615057],[-71.539416,42.615032],[-71.853627,42.583492],[-72.089285,42.525628],[-72.33208399999999,42.541415],[-72.48204800000001,42.599264],[-72.539177,42.699061],[-72.696282,42.814414],[-72.817682,42.924324],[-72.79625799999999,43.080998],[-72.66771799999999,43.221663],[-72.56059999999999,43.294473],[-72.417778,43.367196],[-72.103567,43.439832],[-72.010732,43.450201],[-71.65367500000001,43.424274],[-71.275194,43.408713],[-70.75389,43.393147],[-70.525373,43.367196],[-70.53965599999999,43.242475],[-70.596785,43.107071],[-70.711043,42.987041],[-70.725325,42.908634],[-70.73138299999999,42.864053]]],"type":"Polygon"}
+}

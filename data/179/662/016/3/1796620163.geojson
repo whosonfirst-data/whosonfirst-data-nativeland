@@ -1,0 +1,57 @@
+{
+  "id": 1796620163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.001781,
+    "geom:bbox":"-94.663504,36.84332,-94.618214,36.885965",
+    "geom:latitude":36.863147,
+    "geom:longitude":-94.640269,
+    "iso:country":"XY",
+    "lbl:latitude":36.863139,
+    "lbl:longitude":-94.640269,
+    "mps:latitude":36.863139,
+    "mps:longitude":-94.640269,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#38A3C4",
+    "nativeland:description":"https://native-land.ca/maps/territories/modoc-oklahoma/",
+    "nativeland:id":35941,
+    "nativeland:name":"Modoc (Oklahoma)",
+    "nativeland:slug":"modoc-oklahoma",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":35941
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"0025ae935fa7930361481c3240396e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620163
+        }
+    ],
+    "wof:id":1796620163,
+    "wof:lastmodified":1669734085,
+    "wof:name":"Modoc (Oklahoma)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.663504,
+    36.84332,
+    -94.618214,
+    36.885965
+],
+  "geometry": {"coordinates":[[[-94.618387,36.84332],[-94.663504,36.843423],[-94.663398,36.879703],[-94.61821399999999,36.885965],[-94.618387,36.84332]]],"type":"Polygon"}
+}

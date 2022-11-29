@@ -1,0 +1,57 @@
+{
+  "id": 1796620575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.276573,
+    "geom:bbox":"-76.417745,42.374308,-75.603545,42.8312",
+    "geom:latitude":42.605847,
+    "geom:longitude":-75.999764,
+    "iso:country":"XY",
+    "lbl:latitude":42.601033,
+    "lbl:longitude":-75.999764,
+    "mps:latitude":42.601033,
+    "mps:longitude":-75.999764,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#E9A0ED",
+    "nativeland:description":"https://native-land.ca/maps/territories/tuscarora-3/",
+    "nativeland:id":34080,
+    "nativeland:name":"Tuscarora",
+    "nativeland:slug":"tuscarora-3",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":34080
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"8fe73ca039582903626b11009c49b22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620575
+        }
+    ],
+    "wof:id":1796620575,
+    "wof:lastmodified":1669734091,
+    "wof:name":"Tuscarora",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.417745,
+    42.374308,
+    -75.603545,
+    42.8312
+],
+  "geometry": {"coordinates":[[[-76.01870700000001,42.386218],[-76.09529000000001,42.407054],[-76.20411900000001,42.415982],[-76.264579,42.448707],[-76.292794,42.475469],[-76.35325400000001,42.546778],[-76.373408,42.629869],[-76.417745,42.665445],[-76.381469,42.724694],[-76.32907,42.757257],[-76.292794,42.792761],[-76.224272,42.807548],[-76.13156600000001,42.8312],[-75.990492,42.819375],[-75.950185,42.813462],[-75.893755,42.783887],[-75.841356,42.77797],[-75.780895,42.77797],[-75.72446600000001,42.760217],[-75.68415899999999,42.760217],[-75.63579,42.701002],[-75.61160599999999,42.64766],[-75.603545,42.594272],[-75.619668,42.567561],[-75.64788299999999,42.517075],[-75.676097,42.481414],[-75.68415899999999,42.448707],[-75.72446600000001,42.407054],[-75.817172,42.389195],[-75.889724,42.383241],[-75.966308,42.374308],[-76.01870700000001,42.386218]]],"type":"Polygon"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1796619369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.192019,
+    "geom:bbox":"-95.315487,18.047196,-94.699386,18.548984",
+    "geom:latitude":18.256456,
+    "geom:longitude":-94.971029,
+    "iso:country":"XY",
+    "lbl:latitude":18.206036,
+    "lbl:longitude":-94.971029,
+    "mps:latitude":18.206036,
+    "mps:longitude":-94.971029,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0EFCC2",
+    "nativeland:description":"https://native-land.ca/maps/territories/popoluca-mixe-zoque/",
+    "nativeland:id":36293,
+    "nativeland:name":"Popoluca (mixe-zoque)",
+    "nativeland:slug":"popoluca-mixe-zoque",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36293
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"5c6753186b90a452c4f5c52aeefdaa88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619369
+        }
+    ],
+    "wof:id":1796619369,
+    "wof:lastmodified":1669734020,
+    "wof:name":"Popoluca (mixe-zoque)",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.315487,
+    18.047196,
+    -94.699386,
+    18.548984
+],
+  "geometry": {"coordinates":[[[-95.308393,18.237258],[-95.282044,18.268047],[-95.23125899999999,18.304545],[-95.151183,18.3163],[-95.092917,18.322179],[-95.040999,18.344584],[-95.003648,18.373085],[-94.97541099999999,18.4232],[-94.949449,18.493297],[-94.91892900000001,18.511522],[-94.86700500000001,18.547963],[-94.81880200000001,18.548984],[-94.777582,18.522837],[-94.745603,18.487384],[-94.722494,18.439268],[-94.699386,18.359049],[-94.71550999999999,18.281302],[-94.744001,18.198231],[-94.78495100000001,18.130344],[-94.824138,18.075714],[-94.875516,18.05215],[-94.917996,18.047196],[-94.970922,18.047441],[-95.056433,18.055751],[-95.120588,18.060678],[-95.22042399999999,18.070531],[-95.25993200000001,18.090235],[-95.28912,18.122871],[-95.311902,18.159379],[-95.315487,18.20593],[-95.308393,18.237258]]],"type":"Polygon"}
+}

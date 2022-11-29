@@ -1,0 +1,57 @@
+{
+  "id": 1796619881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.079704,
+    "geom:bbox":"-124.024658,40.622292,-123.673096,40.963308",
+    "geom:latitude":40.775767,
+    "geom:longitude":-123.846851,
+    "iso:country":"XY",
+    "lbl:latitude":40.771357,
+    "lbl:longitude":-123.846851,
+    "mps:latitude":40.771357,
+    "mps:longitude":-123.846851,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#59ACEB",
+    "nativeland:description":"https://native-land.ca/maps/territories/whilkut/",
+    "nativeland:id":36067,
+    "nativeland:name":"Whilkut",
+    "nativeland:slug":"whilkut",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36067
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"3c334c5c185f4e02ee2b7da3d66fa55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796619881
+        }
+    ],
+    "wof:id":1796619881,
+    "wof:lastmodified":1669734056,
+    "wof:name":"Whilkut",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.024658,
+    40.622292,
+    -123.673096,
+    40.963308
+],
+  "geometry": {"coordinates":[[[-123.837891,40.963308],[-123.739014,40.921814],[-123.75,40.871988],[-123.684082,40.780541],[-123.673096,40.730608],[-123.771973,40.622292],[-123.925781,40.63063],[-124.024658,40.747257],[-124.013672,40.830437],[-123.925781,40.880295],[-123.848877,40.955011],[-123.837891,40.963308]]],"type":"Polygon"}
+}

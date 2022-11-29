@@ -1,0 +1,57 @@
+{
+  "id": 1796621199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.191239,
+    "geom:bbox":"-123.19541,44.390651,-122.651989,44.94492",
+    "geom:latitude":44.715079,
+    "geom:longitude":-122.888818,
+    "iso:country":"XY",
+    "lbl:latitude":44.733332,
+    "lbl:longitude":-122.893993,
+    "mps:latitude":44.733332,
+    "mps:longitude":-122.893993,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#E76CCD",
+    "nativeland:description":"https://native-land.ca/maps/territories/santiam/",
+    "nativeland:id":33787,
+    "nativeland:name":"Santiam",
+    "nativeland:slug":"santiam",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33787
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"933052faeb0fc1fe2144744875629a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621199
+        }
+    ],
+    "wof:id":1796621199,
+    "wof:lastmodified":1669734077,
+    "wof:name":"Santiam",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.19541,
+    44.390651,
+    -122.651989,
+    44.94492
+],
+  "geometry": {"coordinates":[[[-123.051857,44.94492],[-122.731729,44.940752],[-122.71578100000001,44.913653],[-122.675911,44.842457],[-122.651989,44.771173],[-122.656773,44.75079],[-122.68867,44.716803],[-122.70471000000001,44.695535],[-122.71972,44.58874],[-122.70971299999999,44.499594],[-122.70971299999999,44.43711],[-122.71972,44.399588],[-122.774755,44.390651],[-122.85981,44.417459],[-122.899835,44.469253],[-122.96988,44.535268],[-123.02796499999999,44.58122],[-123.069827,44.648944],[-123.107882,44.676011],[-123.14022900000001,44.717941],[-123.147841,44.75984],[-123.090757,44.808459],[-123.109785,44.824656],[-123.178285,44.830054],[-123.19541,44.854339],[-123.15325300000001,44.868686],[-123.12985399999999,44.902949],[-123.10957500000001,44.931669],[-123.087735,44.927252],[-123.051857,44.94492]]],"type":"Polygon"}
+}

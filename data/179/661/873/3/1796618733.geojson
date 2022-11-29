@@ -1,0 +1,57 @@
+{
+  "id": 1796618733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.081803,
+    "geom:bbox":"141.539611,-15.347761,141.783195,-14.847565",
+    "geom:latitude":-15.123816,
+    "geom:longitude":141.684447,
+    "iso:country":"XY",
+    "lbl:latitude":-15.231741,
+    "lbl:longitude":141.674588,
+    "mps:latitude":-15.231741,
+    "mps:longitude":141.674588,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#30AC3B",
+    "nativeland:description":"https://native-land.ca/maps/territories/yir-yoront/",
+    "nativeland:id":36576,
+    "nativeland:name":"Yir Yoront",
+    "nativeland:slug":"yir-yoront",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36576
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"08e514a139ad9b4edc86450a8121a970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618733
+        }
+    ],
+    "wof:id":1796618733,
+    "wof:lastmodified":1669734027,
+    "wof:name":"Yir Yoront",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.539611,
+    -15.347761,
+    141.783195,
+    -14.847565
+],
+  "geometry": {"coordinates":[[[141.57633999999999,-15.185539],[141.625574,-15.127421],[141.61972399999999,-15.096795],[141.648583,-15.049657],[141.656126,-15.003281],[141.63038499999999,-14.950627],[141.58898500000001,-14.872957],[141.75122300000001,-14.847565],[141.78319500000001,-15.076812],[141.77581699999999,-15.286834],[141.74560500000001,-15.347761],[141.654968,-15.337167],[141.53961100000001,-15.32922],[141.54510400000001,-15.276236],[141.57633999999999,-15.185539]]],"type":"Polygon"}
+}

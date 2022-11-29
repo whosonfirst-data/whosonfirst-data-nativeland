@@ -1,0 +1,57 @@
+{
+  "id": 1796621195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.02518,
+    "geom:bbox":"-123.131986,44.081674,-122.91946,44.235827",
+    "geom:latitude":44.161687,
+    "geom:longitude":-123.016264,
+    "iso:country":"XY",
+    "lbl:latitude":44.161226,
+    "lbl:longitude":-123.01424,
+    "mps:latitude":44.161226,
+    "mps:longitude":-123.01424,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#98C04A",
+    "nativeland:description":"https://native-land.ca/maps/territories/chafan/",
+    "nativeland:id":33785,
+    "nativeland:name":"Chafan",
+    "nativeland:slug":"chafan",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33785
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"2ded78b397c30aa9f71465992680ffea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621195
+        }
+    ],
+    "wof:id":1796621195,
+    "wof:lastmodified":1669734077,
+    "wof:name":"Chafan",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.131986,
+    44.081674,
+    -122.91946,
+    44.235827
+],
+  "geometry": {"coordinates":[[[-122.964079,44.081674],[-122.979405,44.084404],[-123.02584,44.090048],[-123.07298900000001,44.106978],[-123.10727900000001,44.113133],[-123.110851,44.118775],[-123.12141800000001,44.143215],[-123.131986,44.168488],[-123.127289,44.180278],[-123.110851,44.197958],[-123.06858,44.22489],[-123.01222,44.234145],[-122.944118,44.235827],[-122.91946,44.194591],[-122.925331,44.129732],[-122.94529199999999,44.089265],[-122.964079,44.081674]]],"type":"Polygon"}
+}

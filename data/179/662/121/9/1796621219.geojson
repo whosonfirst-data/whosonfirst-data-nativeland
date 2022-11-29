@@ -1,0 +1,57 @@
+{
+  "id": 1796621219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.914449,
+    "geom:bbox":"-81.414015,32.249243,-79.560281,33.038918",
+    "geom:latitude":32.684016,
+    "geom:longitude":-80.551976,
+    "iso:country":"XY",
+    "lbl:latitude":32.629356,
+    "lbl:longitude":-80.569631,
+    "mps:latitude":32.629356,
+    "mps:longitude":-80.569631,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#555418",
+    "nativeland:description":"https://native-land.ca/maps/territories/kusso/",
+    "nativeland:id":33774,
+    "nativeland:name":"Kusso",
+    "nativeland:slug":"kusso",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33774
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"209d3dbc5790f7db02618df9847d2dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621219
+        }
+    ],
+    "wof:id":1796621219,
+    "wof:lastmodified":1669734077,
+    "wof:name":"Kusso",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.414015,
+    32.249243,
+    -79.560281,
+    33.038918
+],
+  "geometry": {"coordinates":[[[-79.560281,32.924659],[-79.570387,32.875346],[-79.899066,32.626349],[-80.28060000000001,32.433665],[-80.461248,32.302276],[-80.626842,32.249243],[-80.67001,32.266578],[-80.80800499999999,32.336563],[-81.169301,32.306879],[-81.280214,32.483517],[-81.39061,32.566021],[-81.41401500000001,32.672244],[-81.267887,32.826747],[-81.04959599999999,32.905274],[-80.480091,33.007167],[-80.053883,33.038918],[-79.769035,32.987985],[-79.656308,32.97721],[-79.560281,32.924659]]],"type":"Polygon"}
+}

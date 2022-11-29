@@ -1,0 +1,57 @@
+{
+  "id": 1796620935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.042767,
+    "geom:bbox":"-124.032916,44.973225,-123.690703,45.114078",
+    "geom:latitude":45.042702,
+    "geom:longitude":-123.862099,
+    "iso:country":"XY",
+    "lbl:latitude":45.041549,
+    "lbl:longitude":-123.862099,
+    "mps:latitude":45.041549,
+    "mps:longitude":-123.862099,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#AA70E2",
+    "nativeland:description":"https://native-land.ca/maps/territories/salmon-river/",
+    "nativeland:id":33906,
+    "nativeland:name":"Salmon River",
+    "nativeland:slug":"salmon-river",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33906
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"e0006d37fa7d9e1ed4f3841602506126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796620935
+        }
+    ],
+    "wof:id":1796620935,
+    "wof:lastmodified":1669734093,
+    "wof:name":"Salmon River",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.032916,
+    44.973225,
+    -123.690703,
+    45.114078
+],
+  "geometry": {"coordinates":[[[-123.986256,45.107602],[-123.960931,45.107316],[-123.85720000000001,45.107316],[-123.745803,45.108668],[-123.690703,45.114078],[-123.69166199999999,45.095817],[-123.698369,45.074842],[-123.702442,45.000865],[-123.714181,44.97494],[-123.779821,44.980022],[-123.871813,44.975282],[-123.978351,44.973225],[-124.026185,44.989559],[-124.032916,45.056282],[-124.022148,45.092401],[-124.009586,45.099369],[-123.986256,45.107602]]],"type":"Polygon"}
+}

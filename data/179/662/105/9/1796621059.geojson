@@ -1,0 +1,57 @@
+{
+  "id": 1796621059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":6.744327,
+    "geom:bbox":"-95.174667,42.435229,-91.433228,44.574681",
+    "geom:latitude":43.496348,
+    "geom:longitude":-93.233407,
+    "iso:country":"XY",
+    "lbl:latitude":43.464723,
+    "lbl:longitude":-93.233407,
+    "mps:latitude":43.464723,
+    "mps:longitude":-93.233407,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#544D51",
+    "nativeland:description":"https://native-land.ca/maps/territories/wahpeton/",
+    "nativeland:id":33850,
+    "nativeland:name":"Wahpeton",
+    "nativeland:slug":"wahpeton",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":33850
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"9646b7b8bfa336acf47845df1ee2e2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "nation_id":1796621059
+        }
+    ],
+    "wof:id":1796621059,
+    "wof:lastmodified":1669734060,
+    "wof:name":"Wahpeton",
+    "wof:parent_id":102191575,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.174667,
+    42.435229,
+    -91.433228,
+    44.574681
+],
+  "geometry": {"coordinates":[[[-95.174667,43.356562],[-95.16604100000001,43.681834],[-95.010769,43.918424],[-95.06486700000001,44.142957],[-95.099372,44.28516],[-94.98723099999999,44.500897],[-94.797455,44.513201],[-93.943459,44.377716],[-93.417259,44.39621],[-92.88243300000001,44.42702],[-92.390739,44.507049],[-92.14920499999999,44.525502],[-91.752398,44.574681],[-91.5885,44.204826],[-91.493612,43.838857],[-91.536743,43.501922],[-91.54536899999999,43.137924],[-91.433228,42.752745],[-91.54536899999999,42.435229],[-92.48562699999999,42.441595],[-93.952085,42.600539],[-94.392022,42.581487],[-94.918222,42.89194],[-95.038989,43.11274],[-95.174667,43.356562]]],"type":"Polygon"}
+}

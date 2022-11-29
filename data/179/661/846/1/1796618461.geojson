@@ -1,0 +1,57 @@
+{
+  "id": 1796618461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":0.002877,
+    "geom:bbox":"142.169492,-9.990314,142.247442,-9.93907",
+    "geom:latitude":-9.965188,
+    "geom:longitude":142.210932,
+    "iso:country":"XY",
+    "lbl:latitude":-9.96361,
+    "lbl:longitude":142.211675,
+    "mps:latitude":-9.96361,
+    "mps:longitude":142.211675,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#0e1b82",
+    "nativeland:description":"https://native-land.ca/maps/territories/mabuygilgal/",
+    "nativeland:id":37671,
+    "nativeland:name":"Mabuygilgal",
+    "nativeland:slug":"mabuygilgal",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":37671
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"c0db09349ab2dc88e4d52aa96f4df310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796618461
+        }
+    ],
+    "wof:id":1796618461,
+    "wof:lastmodified":1669734046,
+    "wof:name":"Mabuygilgal",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.169492,
+    -9.990314,
+    142.247442,
+    -9.93907
+],
+  "geometry": {"coordinates":[[[142.16949199999999,-9.969445],[142.17914099999999,-9.955469],[142.18803399999999,-9.943543],[142.20241300000001,-9.93907],[142.21622400000001,-9.940934],[142.23911699999999,-9.94876],[142.24668500000001,-9.963668],[142.24744200000001,-9.979321],[142.236279,-9.987799],[142.22246799999999,-9.990314],[142.201561,-9.9837],[142.17611400000001,-9.980812],[142.16949199999999,-9.969445]]],"type":"Polygon"}
+}

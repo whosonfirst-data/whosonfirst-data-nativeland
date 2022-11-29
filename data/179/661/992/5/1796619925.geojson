@@ -1,0 +1,57 @@
+{
+  "id": 1796619925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"",
+    "edtf:inception":"",
+    "geom:area":1.458639,
+    "geom:bbox":"134.384765,-17.790535,136.032714,-16.362309",
+    "geom:latitude":-17.117723,
+    "geom:longitude":135.245818,
+    "iso:country":"XY",
+    "lbl:latitude":-17.139788,
+    "lbl:longitude":135.261512,
+    "mps:latitude":-17.139788,
+    "mps:longitude":135.261512,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "nativeland:color":"#9B066B",
+    "nativeland:description":"https://native-land.ca/maps/territories/ngandji/",
+    "nativeland:id":36045,
+    "nativeland:name":"Ngandji",
+    "nativeland:slug":"ngandji",
+    "src:geom":"nativeland",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nativeland:id":36045
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"ba34aa4c5b5c77ccd099b3c84b2939c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "nation_id":1796619925
+        }
+    ],
+    "wof:id":1796619925,
+    "wof:lastmodified":1669734042,
+    "wof:name":"Ngandji",
+    "wof:parent_id":102191583,
+    "wof:placetype":"nation",
+    "wof:repo":"whosonfirst-data-nativeland",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.384765,
+    -17.790535,
+    136.032714,
+    -16.362309
+],
+  "geometry": {"coordinates":[[[134.38476499999999,-17.256236],[134.659423,-17.109292],[135.0,-16.709862],[135.26367099999999,-16.362309],[135.45043899999999,-16.362309],[135.67016599999999,-16.457158],[135.856933,-16.615137],[136.032714,-16.772986],[136.032714,-16.951724],[135.96679599999999,-17.161785],[135.75805600000001,-17.361124],[135.61523399999999,-17.539296],[135.47241199999999,-17.633552],[135.29662999999999,-17.727758],[135.07690400000001,-17.717293],[134.86816400000001,-17.685895],[134.659423,-17.685895],[134.41772399999999,-17.790535],[134.40673799999999,-17.685895],[134.41772399999999,-17.465952],[134.38476499999999,-17.256236]]],"type":"Polygon"}
+}
